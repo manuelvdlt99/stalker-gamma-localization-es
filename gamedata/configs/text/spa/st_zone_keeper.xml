@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<string_table>
+<string id="st_zk_tooltip_section">
+    <text>%$clr_txtInventario y talleres</text>
+</string>
+<string id="st_zk_fetch_count_have_cond">
+    <text>  %$clr_txtTienes %$clr_numberx$count %$clr_txten tu inventario (%$clr_number$max_condition %%$clr_txt)</text>
+</string>
+<string id="st_zk_fetch_count_in_workshops_cond">
+    <text>  %$clr_txtTienes %$clr_numberx$count %$clr_txten alijos de talleres (%$clr_number$max_condition %%$clr_txt)</text>
+</string>
+<string id="st_zk_fetch_count_have">
+    <text>  %$clr_txtTienes %$clr_numberx$count %$clr_txten tu inventario</text>
+</string>
+<string id="st_zk_fetch_count_in_workshops">
+    <text>  %$clr_txtTienes %$clr_numberx$count %$clr_txten alijos de talleres</text>
+</string>
+</string_table>
