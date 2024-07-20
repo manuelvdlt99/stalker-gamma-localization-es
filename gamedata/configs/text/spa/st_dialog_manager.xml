@@ -425,6 +425,186 @@
 	<string id="dm_hello_14">
 		<text>¿Qué necesitas, stalker?</text>
 	</string>
+	<string id="dm_hello_15">
+		<text>Mantén la distancia.</text>
+	</string>
+	<string id="dm_hello_16">
+		<text>Te escucho.</text>
+	</string>
+	<string id="dm_hello_17">
+		<text>¿Qué hay?</text>
+	</string>
+	<string id="dm_hello_18">
+		<text>Muy buenas.</text>
+	</string>
+	<string id="dm_hello_19">
+		<text>¿Cómo va todo?</text>
+	</string>
+	<string id="dm_hello_20">
+		<text>Hoy no estoy de humor.</text>
+	</string>
+	<string id="dm_hello_21">
+		<text>No hagas ninguna tontería.</text>
+	</string>
+	<string id="dm_hello_22">
+		<text>¿Has oído eso? ...Déjalo. ¿Qué pasa?</text>
+	</string>
+	<string id="dm_hello_23">
+		<text>Joder, dónde había dejado... Ah, hola, stalker.</text>
+	</string>
+	<string id="dm_hello_24">
+		<text>Ey.</text>
+	</string>
+	<string id="dm_hello_25">
+		<text>¿Qué tal?</text>
+	</string>
+	<string id="dm_hello_26">
+		<text>¿Qué pasa?</text>
+	</string>
+	<string id="dm_hello_27">
+		<text>Ey. ¿Estás bien?</text>
+	</string>
+	<string id="dm_hello_28">
+		<text>Paz, stalker.</text>
+	</string>
+	<string id="dm_hello_29">
+		<text>Paz, hermano.</text>
+	</string>
+	<string id="dm_hello_30">
+		<text>Paz.</text>
+	</string>
+	<string id="dm_hello_31">
+		<text>Ey, tío.</text>
+	</string>
+	<string id="dm_hello_32">
+		<text>No intentes nada.</text>
+	</string>
+	<string id="dm_hello_33">
+		<text>Joder, me estoy quedando sin pitis.</text>
+	</string>
+	<string id="dm_hello_34">
+		<text>Ey.</text>
+	</string>
+	<string id="dm_hello_35">
+		<text>¿Tú qué miras?</text>
+	</string>
+	<string id="dm_hello_36">
+		<text>Desembucha.</text>
+	</string>
+	<string id="dm_hello_37">
+		<text>¿Eh?</text>
+	</string>
+	<string id="dm_hello_38">
+		<text>¿Sí?</text>
+	</string>
+	<string id="dm_hello_39">
+		<text>Ey, tío.</text>
+	</string>
+	<string id="dm_hello_40">
+		<text>¿Necesitas algo?</text>
+	</string>
+	<string id="dm_hello_41">
+		<text>Buenas.</text>
+	</string>
+	<string id="dm_hello_42">
+		<text>¿Mmm?</text>
+	</string>
+	<string id="dm_hello_43">
+		<text>¿Ajá?</text>
+	</string>
+	<string id="dm_hello_44">
+		<text>¿Qué pasa?</text>
+	</string>
+	<string id="dm_hello_45">
+		<text>¿Cómo andamos?</text>
+	</string>
+	<string id="dm_hello_45">
+		<text>¿Sí? ¿Qué pasa?</text>
+	</string>
+	<string id="dm_hello_46">
+		<text>¿Qué?</text>
+	</string>
+	<string id="dm_hello_47">
+		<text>Hola.</text>
+	</string>
+	<string id="dm_hello_48">
+		<text>Hola, tío.</text>
+	</string>
+	<string id="dm_hello_49">
+		<text>¿Qué dices, hermano?</text>
+	</string>
+	<string id="dm_hello_50">
+		<text>¿Todo bien?</text>
+	</string>
+	<string id="dm_hello_51">
+		<text>¿Algo de lo que informar?</text>
+	</string>
+	<string id="dm_hello_52">
+		<text>¿Te presentas?</text>
+	</string>
+	<string id="dm_hello_53">
+		<text>Señor.</text>
+	</string>
+	<string id="dm_hello_54">
+		<text>Hoy el sargento está siendo más capullo de lo normal.</text>
+	</string>
+	<string id="dm_hello_55">
+		<text>¿Sí?</text>
+	</string>
+	<string id="dm_hello_56">
+		<text>Estate ojo avizor.</text>
+	</string>
+	<string id="dm_hello_57">
+		<text>Joder, estoy casi sin pitis.</text>
+	</string>
+	<string id="dm_hello_58">
+		<text>Tú también estás de patrulla, ¿eh?</text>
+	</string>
+	<string id="dm_hello_59">
+		<text>Mantente alerta.</text>
+	</string>
+	<string id="dm_hello_60">
+		<text>¿Qué sucede, soldado?</text>
+	</string>
+	<string id="dm_hello_61">
+		<text>Ahora mismo estoy un poco ocupado.</text>
+	</string>
+	<string id="dm_hello_62">
+		<text>¿Qué pasa, tío?</text>
+	</string>
+	<string id="dm_hello_63">
+		<text>Haz una foto, te durará más.</text>
+	</string>
+	<string id="dm_hello_64">
+		<text>¿Qué coño quieres?</text>
+	</string>
+	<string id="dm_hello_65">
+		<text>¿Qué cojones quieres?</text>
+	</string>
+	<string id="dm_hello_66">
+		<text>Ave, hermano.</text>
+	</string>
+	<string id="dm_hello_67">
+		<text>Sé bendecido, hermano.</text>
+	</string>
+	<string id="dm_hello_68">
+		<text>Bendito seas, hermano.</text>
+	</string>
+	<string id="dm_hello_69">
+		<text>¿Cómo estás, hermano?</text>
+	</string>
+	<string id="dm_hello_70">
+		<text>¿Has visto algún infiel últimamente, hermano?</text>
+	</string>
+	<string id="dm_hello_71">
+		<text>¡Otro día glorioso, hermano!</text>
+	</string>
+	<string id="dm_hello_72">
+		<text>Esto va cada vez peor.</text>
+	</string>
+	<string id="dm_hello_73">
+		<text>Ánimo, stalker. Las cosas no van tan mal.</text>
+	</string>
 
 	<!-- Help -->
 	<string id="dm_help_1">
@@ -477,6 +657,42 @@
 	</string>
 	<string id="dm_help_17">
 		<text>¡Tráeme un puto médico! Aj, ¿tienes un botiquín? ¡Por favor! ¡Lo necesito!</text>
+	</string>
+	<string id="dm_help_18">
+		<text>¡Por el amor de Dios, que alguien me ayude!</text>
+	</string>
+	<string id="dm_help_19">
+		<text>¡Dios santo bendito, ayudadme!</text>
+	</string>
+	<string id="dm_help_20">
+		<text>No... no puedo... abrir... Tengo que abrir los ojos...</text>
+	</string>
+	<string id="dm_help_21">
+		<text>Joder, cómo duele...</text>
+	</string>
+	<string id="dm_help_22">
+		<text>Soy hombre muerto...</text>
+	</string>
+	<string id="dm_help_23">
+		<text>¡Ah, me han dado!...</text>
+	</string>
+	<string id="dm_help_24">
+		<text>¡¡MÉDICO!!</text>
+	</string>
+	<string id="dm_help_25">
+		<text>¡Médico!</text>
+	</string>
+	<string id="dm_help_26">
+		<text>¡Necesito un médico!</text>
+	</string>
+	<string id="dm_help_27">
+		<text>¡Ah!... ¡Hombre abatido por aquí!</text>
+	</string>
+	<string id="dm_help_28">
+		<text>¡Dónde hay un médico de combate!</text>
+	</string>
+	<string id="dm_help_29">
+		<text>¡Que alguien me traiga un puto médico!</text>
 	</string>
 
 	<!-- Anomalies -->
@@ -2856,6 +3072,15 @@
 	</string>
 	<string id="dm_information_714">
 		<text>Nos vendría muy bien gente como tú. La mayoría de los stalkers con los que nos cruzamos en esta cloaca son gorilas con el cerebro justo para disparar un arma. Como seguro que sabes, lo que la Zona necesita de verdad es estudio y pensamiento inteligente. No me puedo imaginar tener que trabajar para los matones corruptos del Ejército, no son mejores que la basura callejera que se encuentra por aquí.</text>
+	</string>
+	<string id="dm_information_715">
+		<text>¿Sabes esos mutantes que parecen zombis pero van a gatas? Se llaman izloms, o fracturas. Qué puto cague dan, con esos brazos y esas piernas tan largas que parecen rotas por varios sitios. Pero esa no es la única razón por la que se llaman fracturas. Son mucho más fuertes de lo que parecen. He oído que si una te agarra bien, puede partirte los huesos como si fueran palos.</text>
+	</string>
+	<string id="dm_information_716">
+		<text>Alguien hablaba de toda una sociedad de enanos viviendo bajo la Zona, gente bajita que puede fabricar armas. Nunca he visto a alguien tan colocado en mi vida.</text>
+	</string>
+	<string id="dm_information_717">
+		<text>Un consejito: nunca te fíes de los coches en la Zona. Parece que explotan si pisas una piedrecita.</text>
 	</string>
 
 	<!-- Jobs -->

@@ -14,11 +14,32 @@
 	<string id="st_stalker_trade_dialog_reply_3">
 		<text>Eh... sí, claro.</text>
 	</string>
+	<string id="st_stalker_trade_dialog_reply_4">
+		<text>Claro, esto es lo que tengo.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_5">
+		<text>Echa un vistazo.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_6">
+		<text>Claro, comerciemos.</text>
+	</string>
 	<string id="st_stalker_trade_dialog_reply_no_1">
 		<text>La verdad es que no. Búscate a otro.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_no_2">
 		<text>Lo siento, prefiero quedarme con mis cosas.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_3">
+		<text>Preferiría no hacerlo.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_4">
+		<text>Que te zurzan.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_5">
+		<text>¿Tengo pinta de comerciante?</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_6">
+		<text>Vete de aquí, stalker.</text>
 	</string>
 	
 	<string id="st_trader_dialog_init">
@@ -33,6 +54,12 @@
 	<string id="st_trader_dialog_reply_3">
 		<text>Esto es lo que tengo.</text>
 	</string>
+	<string id="st_trader_dialog_reply_4">
+		<text>Claro, esto es lo que tengo.</text>
+	</string>
+	<string id="st_trader_dialog_reply_5">
+		<text>Avísame si algo te llama la atención.</text>
+	</string>
 	
 	<string id="st_mechanic_dialog_init">
 		<text>Mi equipo necesita algunos retoques. %c[d_orange][Reparar/Mejorar]</text>
@@ -46,6 +73,9 @@
 	<string id="st_mechanic_dialog_reply_3">
 		<text>Genial, más trabajo.</text>
 	</string>
+	<string id="st_mechanic_dialog_reply_4">
+		<text>Voy a ver si puedo darle forma a martillazos.</text>
+	</string>
 	
 	<string id="st_medic_dialog_init">
 		<text>Quiero comprar suministros médicos. %c[d_orange][Comerciar]</text>
@@ -58,6 +88,12 @@
 	</string>
 	<string id="st_medic_dialog_reply_3">
 		<text>Está bien, pero no los malgastes.</text>
+	</string>
+	<string id="st_medic_dialog_reply_4">
+		<text>No tengo mucho, pero esto es lo que te puedo dar.</text>
+	</string>
+	<string id="st_medic_dialog_reply_5">
+		<text>Espero que no seas un yonqui. Lo mismo da, supongo.</text>
 	</string>
 	
 	<string id="st_bartender_dialog_init">
