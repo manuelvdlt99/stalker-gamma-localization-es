@@ -4,7 +4,7 @@
 		<text>Modelo 1887 «T-800»</text>
 	</string>
 	<string id="st_wpn_w_1887_j_descr">
-		<text>La escopeta Winchester Modelo 1887 es una legendaria arma de palanca conocida por su robusto diseño y su rendimiento fiable. Introducida a finales del siglo XIX, esta escopeta no tardó en hacerse en hueco entre los agentes de la ley, los forajidos y los tiradores deportivos. Su distintivo mecanismo de palanca permite la carga rápida de cartuchos, lo que la convierte en una arma formidable para el combate en espacios reducidos o situaciones de caza. Con su clásico martillo expuesto y su culata de nogal, la Winchester 1887 no es solo una arma fiable, sino también un pedacito de historia de Estados Unidos, la personificación del espíritu rudo del Salvaje Oeste.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		<text>La escopeta Winchester Modelo 1887 es una legendaria arma de palanca conocida por su robusto diseño y su rendimiento fiable. Introducida a finales del siglo XIX, esta escopeta no tardó en hacerse en hueco entre los agentes de la ley, los forajidos y los tiradores deportivos. Su distintivo mecanismo de palanca permite la carga rápida de cartuchos, lo que la convierte en un arma formidable para el combate en espacios reducidos o situaciones de caza. Con su clásico martillo expuesto y su culata de nogal, la Winchester 1887 no es solo un arma fiable, sino también un pedacito de historia de Estados Unidos, la personificación del espíritu rudo del Salvaje Oeste.\n \n%c[0,255,255,255]PROPIEDADES:\n
 		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Estados Unidos\n
 		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Winchester Repeating Arms Company\n</text>
 	</string>
