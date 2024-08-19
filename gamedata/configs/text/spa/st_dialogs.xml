@@ -14,11 +14,32 @@
 	<string id="st_stalker_trade_dialog_reply_3">
 		<text>Eh... sí, claro.</text>
 	</string>
+	<string id="st_stalker_trade_dialog_reply_4">
+		<text>Claro, esto es lo que tengo.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_5">
+		<text>Echa un vistazo.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_6">
+		<text>Claro, comerciemos.</text>
+	</string>
 	<string id="st_stalker_trade_dialog_reply_no_1">
 		<text>La verdad es que no. Búscate a otro.</text>
 	</string>
 	<string id="st_stalker_trade_dialog_reply_no_2">
 		<text>Lo siento, prefiero quedarme con mis cosas.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_3">
+		<text>Preferiría no hacerlo.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_4">
+		<text>Que te zurzan.</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_5">
+		<text>¿Tengo pinta de comerciante?</text>
+	</string>
+	<string id="st_stalker_trade_dialog_reply_no_6">
+		<text>Vete de aquí, stalker.</text>
 	</string>
 	
 	<string id="st_trader_dialog_init">
@@ -33,6 +54,12 @@
 	<string id="st_trader_dialog_reply_3">
 		<text>Esto es lo que tengo.</text>
 	</string>
+	<string id="st_trader_dialog_reply_4">
+		<text>Claro, esto es lo que tengo.</text>
+	</string>
+	<string id="st_trader_dialog_reply_5">
+		<text>Avísame si algo te llama la atención.</text>
+	</string>
 	
 	<string id="st_mechanic_dialog_init">
 		<text>Mi equipo necesita algunos retoques. %c[d_orange][Reparar/Mejorar]</text>
@@ -46,6 +73,9 @@
 	<string id="st_mechanic_dialog_reply_3">
 		<text>Genial, más trabajo.</text>
 	</string>
+	<string id="st_mechanic_dialog_reply_4">
+		<text>Voy a ver si puedo darle forma a martillazos.</text>
+	</string>
 	
 	<string id="st_medic_dialog_init">
 		<text>Quiero comprar suministros médicos. %c[d_orange][Comerciar]</text>
@@ -58,6 +88,12 @@
 	</string>
 	<string id="st_medic_dialog_reply_3">
 		<text>Está bien, pero no los malgastes.</text>
+	</string>
+	<string id="st_medic_dialog_reply_4">
+		<text>No tengo mucho, pero esto es lo que te puedo dar.</text>
+	</string>
+	<string id="st_medic_dialog_reply_5">
+		<text>Espero que no seas un yonqui. Lo mismo da, supongo.</text>
 	</string>
 	
 	<string id="st_bartender_dialog_init">
@@ -1269,7 +1305,7 @@
 		<text>A Loki, sin dudarlo. Es nuestro líder aquí en Yanov. Aunque no sepa qué hacer con la información, lo importante es que el Deber no la consiga. ¿Te imaginas la de propaganda que generarían? Me duele la cabeza solo de pensarlo.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_22">
-		<text>Sí, ¿has oído la historia del helicóptero en el campo de minas? Básicamente, los milicos se estrellaron en el helipuerto de reserva que sus compañeros milicos habían minado hace seis años. Algunos dicen que lo hicieron por estupidez, pero yo creo que hay algo más. Míralo de esta manera: nadie va a ir allí, así que una vez que los chicos del Ejército terminen su misión, pueden volver al helicóptero, arreglarlo un poco e irse. Me encantaría saber cuál es su misión...</text>
+		<text>Sí, ¿has oído la historia del helicóptero en el campo de minas? Básicamente, los guripas se estrellaron en el helipuerto de reserva que sus compañeros guripas habían minado hace seis años. Algunos dicen que lo hicieron por estupidez, pero yo creo que hay algo más. Míralo de esta manera: nadie va a ir allí, así que una vez que los chicos del Ejército terminen su misión, pueden volver al helicóptero, arreglarlo un poco e irse. Me encantaría saber cuál es su misión...</text>
 	</string>
 	<string id="about_quests_dialog_freedom_23">
 		<text>No soy de aquí, amigo, no sé una mierda. Pásate por Yanov, nuestros chicos te contarán todo lo que quieras saber y también lo que no por si acaso.</text>
@@ -1287,16 +1323,16 @@
 		<text>A Piloto cien por cien, tío. Es el principal stalker libre guía por aquí. Si quieres hablar de mapas, búscalo.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_31">
-		<text>Relájate, tío. No hay polis, no hay milicos y tampoco hay milicias por aquí. Estás tan seguro como se puede estar en la Zona.</text>
+		<text>Relájate, tío. No hay polis, no hay guripas y tampoco hay milicias por aquí. Estás tan seguro como se puede estar en la Zona.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_35">
-		<text>No, pero unos tipos me dijeron que vieron una unidad del Ejército arrastrándose por el campo de minas junto a los helipuertos. Pensaron en ayudarlos, pero decidieron no hacerlo. Los milicos son una raza impredecible, nunca se sabe cuándo se les van a cruzar los cables y dispararte por la espalda.</text>
+		<text>No, pero unos tipos me dijeron que vieron una unidad del Ejército arrastrándose por el campo de minas junto a los helipuertos. Pensaron en ayudarlos, pero decidieron no hacerlo. Los guripas son una raza impredecible, nunca se sabe cuándo se les van a cruzar los cables y dispararte por la espalda.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_36">
-		<text>Yo no he visto ninguno, pero se rumorea que hay un milico en el búnker de los científicos. Ozerski, el biólogo, dijo que es de ese helicóptero que se estrelló en la fábrica... El chiste que está de moda es que los empollones tienen un soldado como mascota.</text>
+		<text>Yo no he visto ninguno, pero se rumorea que hay un guripa en el búnker de los científicos. Ozerski, el biólogo, dijo que es de ese helicóptero que se estrelló en la fábrica... El chiste que está de moda es que los empollones tienen un soldado como mascota.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_37">
-		<text>No en persona, pero he oído cosas de los stalkers libres. Dijeron que avistaron un milico por el complejo Vóljov AA. Debe de ser un fantasma o un zombi que ha despertado... ¿Tú qué crees?</text>
+		<text>No en persona, pero he oído cosas de los stalkers libres. Dijeron que avistaron un guripa por el complejo Vóljov AA. Debe de ser un fantasma o un zombi que ha despertado... ¿Tú qué crees?</text>
 	</string>
 	<string id="about_quests_dialog_freedom_38">
 		<text>Nah. Un tipo estaba diciendo que vio a siete soldados siguiendo a un stalker libre más allá de la central de radio hacia Prípiat. Llevamos un tiempo sin maría en la Zona, así que me imagino que debe ser una ida de olla, simple y llanamente.</text>
@@ -1320,7 +1356,7 @@
 		<text>Verás, no tengo ni pajolera idea. No encuentro tiempo para ir allí... Yo le preguntaría a Piloto en el campamento. Es un stalker libre y se conoce la zona mejor que nadie.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_44">
-		<text>Hermano, si lo supiera, habría ido allí hace mucho tiempo. Alejarme del Deber, de los milicos y del combate valdría la pena...</text>
+		<text>Hermano, si lo supiera, habría ido allí hace mucho tiempo. Alejarme del Deber, de los guripas y del combate valdría la pena...</text>
 	</string>
 	<string id="about_quests_dialog_freedom_5">
 		<text>¿Puedes proponerme a alguien que no esté demasiado maniatado y que esté dispuesto a ir a Prípiat?</text>
@@ -1329,7 +1365,7 @@
 		<text>Lo siento, amigo, no conozco a nadie en Zatón... Sigue mi consejo y pregunta a nuestros chicos en Yanov.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_52">
-		<text>¿Sabes el búnker de los científicos? Vale, tienen algo entre manos allí. Primero Garry, el stalker, decidió ir a Prípiat y ahora el milico que está allí ha tenido la misma idea. Garry es un solitario y está orgulloso de ello, pero ese milico es justo a quien buscas.</text>
+		<text>¿Sabes el búnker de los científicos? Vale, tienen algo entre manos allí. Primero Garry, el stalker, decidió ir a Prípiat y ahora el guripa que está allí ha tenido la misma idea. Garry es un solitario y está orgulloso de ello, pero ese guripa es justo a quien buscas.</text>
 	</string>
 	<string id="about_quests_dialog_freedom_53">
 		<text>Vano, en Yanov, es muy bueno. Es una persona decente y podría haberse unido a Libertad si él hubiera querido. Deduzco que no le entusiasma nuestra lucha contra el Deber... o cualquier tipo de lucha, para el caso. ¡Ese es su parecer y lo respetamos!</text>
@@ -1508,7 +1544,7 @@
 		<text>Yo vi uno... No parecía que se había estrellado, pero tampoco volaba bien. Se balanceaba de lado a lado hasta que aterrizó en una meseta al sur de Zatón... Sería interesante ver si alguien sobrevivió... Si tan solo tuviéramos una forma de subir ahí. En verdad, he oído que Noé, el psicópata de la barcaza, podría saberlo...</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_22">
-		<text>Oí que unos helicópteros militares se estrellaron no muy lejos de aquí... La gente dice muchas cosas, pero recuerdo una claramente. Dijeron que aterrizó en el helipuerto de reserva que los propios milicos minaron en aquellos tiempos. ¿Te crees la ironía de esa mierda? Mi viejo solía decir: «No caves un agujero para otro, porque serás tú el que caiga en él». Cierto, ¿no?</text>
+		<text>Oí que unos helicópteros militares se estrellaron no muy lejos de aquí... La gente dice muchas cosas, pero recuerdo una claramente. Dijeron que aterrizó en el helipuerto de reserva que los propios guripas minaron en aquellos tiempos. ¿Te crees la ironía de esa mierda? Mi viejo solía decir: «No caves un agujero para otro, porque serás tú el que caiga en él». Cierto, ¿no?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_23">
 		<text>Un amigo mío me contó esta historia... Fue al Bosque de Hierro para conseguir algunos artefactos y, en cuanto llegó, escuchó algo estrellarse detrás de él. Se giró para ver qué era y vio como un helicóptero se dirigía hacia él a toda velocidad, derribando torres de alta tensión y demás por el camino. Salió disparado de allí... Me sorprende que lograra salir sin terminar en una anomalía. No tendrás muchos problemas para encontrar el Bosque de Hierro, puedes verlo a kilómetros de distancia. También está lleno de putos poltergeists, así que mantente alerta.</text>
@@ -1538,22 +1574,22 @@
 		<text>Yo no he visto ninguno, pero he oído una historia sobre unos soldados que bajaron de la meseta sur por el lado de las obras de alcantarillado. Por lo visto, al principio lo intentaron por todos los medios, con cables y demás. Pero luego se rindieron y bajaron de culo, ¡ja! El trineo de la Zona, me flipa!</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_32">
-		<text>Oí una conversación en el Skadovsk sobre unos cinco milicos a los que vieron saliendo de un túnel de drenaje junto al pantano. Decían que los soldados estaban sucios de cojones, y que a uno de ellos no se le podía distinguir de un chupasangre del pantano, cubierto de baba de los pies a la cabeza.</text>
+		<text>Oí una conversación en el Skadovsk sobre unos cinco guripas a los que vieron saliendo de un túnel de drenaje junto al pantano. Decían que los soldados estaban sucios de cojones, y que a uno de ellos no se le podía distinguir de un chupasangre del pantano, cubierto de baba de los pies a la cabeza.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_33">
-		<text>No en persona, pero un amigo mío vio a una unidad militar enfrentarse a un grupo de mercenarios cerca de la estación de procesamiento. Pero cuando encontró un buen sitio para disfrutar del espectáculo, todo había terminado porque los milicos se habían retirado. Ninguno de los bandos sufrió bajas... lo típico, ¿no?</text>
+		<text>No en persona, pero un amigo mío vio a una unidad militar enfrentarse a un grupo de mercenarios cerca de la estación de procesamiento. Pero cuando encontró un buen sitio para disfrutar del espectáculo, todo había terminado porque los guripas se habían retirado. Ninguno de los bandos sufrió bajas... lo típico, ¿no?</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_34">
-		<text>Al parecer, diez o más milicos fueron vistos merodeando la barcaza de Noé. Ahora bien, dado que el psicópata estaba vivo en ese momento, probablemente llegó a algún tipo de acuerdo con ellos... lo cual es propio de él. Obviamente, nadie quería preguntarle a Noé sobre lo que pasó; nunca se sabe qué esperar de ese loco hijo de puta.</text>
+		<text>Al parecer, diez o más guripas fueron vistos merodeando la barcaza de Noé. Ahora bien, dado que el psicópata estaba vivo en ese momento, probablemente llegó a algún tipo de acuerdo con ellos... lo cual es propio de él. Obviamente, nadie quería preguntarle a Noé sobre lo que pasó; nunca se sabe qué esperar de ese loco hijo de puta.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_35">
-		<text>Oí explotar algo por la noche y luego alguien en Yanov me dijo que habían visto un milico muerto en el antiguo campo de minas y un helicóptero del Ejército abandonado detrás de él. Parece que no sabían dónde aterrizaron en la oscuridad y se comieron las minas. Nadie sabe cuántos de ellos lograron salir de ahí, pero dudo que volara ese helicóptero él solo.</text>
+		<text>Oí explotar algo por la noche y luego alguien en Yanov me dijo que habían visto un guripa muerto en el antiguo campo de minas y un helicóptero del Ejército abandonado detrás de él. Parece que no sabían dónde aterrizaron en la oscuridad y se comieron las minas. Nadie sabe cuántos de ellos lograron salir de ahí, pero dudo que volara ese helicóptero él solo.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_36">
-		<text>En verdad no he visto a ningún militar... pero he oído rumores de que un milico anda por ahí con los científicos. Cuentan que Garry, un stalker, lo encontró cuando entró en el complejo de misiles en busca de sus compañeros. El complejo está plagado de zombis que no son precisamente cordiales con los humanos, así que Garry lo salvó de una muerte segura.</text>
+		<text>En verdad no he visto a ningún militar... pero he oído rumores de que un guripa anda por ahí con los científicos. Cuentan que Garry, un stalker, lo encontró cuando entró en el complejo de misiles en busca de sus compañeros. El complejo está plagado de zombis que no son precisamente cordiales con los humanos, así que Garry lo salvó de una muerte segura.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_37">
-		<text>No, pero he oído que avistaron a un milico por el complejo Vóljov AA. Podrían estar mintiendo o tal vez simplemente no pueden distinguir un zombi de un soldado.</text>
+		<text>No, pero he oído que avistaron a un guripa por el complejo Vóljov AA. Podrían estar mintiendo o tal vez simplemente no pueden distinguir un zombi de un soldado.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_38">
 		<text>¿Militares? Bueno, oí a la gente decir que «toda una unidad militar liderada por un stalker» estaba pasando por delante de la fábrica de Júpiter, pero no presté mucha atención a esos cotilleos.</text>
@@ -1592,7 +1628,7 @@
 		<text>No creo que haya nadie así por aquí. Todos los que querían estar más cerca del centro de la Zona se fueron a Júpiter. Ahí es donde yo preguntaría si fuera tú.</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_52">
-		<text>¿Has oído hablar del milico que está con los científicos ahora mismo? Creo que no tiene mucho que perder yendo contigo. Los científicos no se irán pronto, él no puede llegar al Cordón por su cuenta, ¡así que podría ser lo bastante gilipollas como para ir a Prípiat contigo!</text>
+		<text>¿Has oído hablar del guripa que está con los científicos ahora mismo? Creo que no tiene mucho que perder yendo contigo. Los científicos no se irán pronto, él no puede llegar al Cordón por su cuenta, ¡así que podría ser lo bastante gilipollas como para ir a Prípiat contigo!</text>
 	</string>
 	<string id="about_quests_dialog_stalkers_53">
 		<text>¿Conoces a Vano, de la estación de Yanov? Es un tipo honesto, un buen stalker y crédulo de cojones. Es un tipo que está mejor rodeado de anomalías que de personas; mientras esté aquí, siempre habrá alguien que se aproveche de él.</text>
