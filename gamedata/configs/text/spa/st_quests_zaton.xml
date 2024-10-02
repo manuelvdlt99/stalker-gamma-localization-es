@@ -192,7 +192,7 @@
 	<!-- Beard (Loner Trader) Clear Mutants from SkadovskTask -->
 
 	<string id="zat_a2_stalker_barmen_task_1_name">
-		<text>Despejar la zona de mutantes</text>
+		<text>Despeja la zona de mutantes</text>
 	</string>
 	<string id="zat_a2_stalker_barmen_task_1_text">
 		<text>Hay mutantes. Cázalos y despeja la zona.</text>
