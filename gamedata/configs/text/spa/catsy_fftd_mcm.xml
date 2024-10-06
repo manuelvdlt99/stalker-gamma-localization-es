@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="Windows-1252"?><string_table>
 	<string id="ui_mcm_menu_fftd">
-		<text>Viaje rápido justo</text>
+		<text>Fair Fast Travel</text>
 	</string>
 
 	<string id="st_fftd_mapspot_estdur">
@@ -376,6 +376,357 @@
 
 	<string id="ui_mcm_fftd_gen_minimum_satiety_desc">
 		<text>Si normalmente el jugador no puede viajar si está irradiado o sangrando, tampoco podrá viajar si su nivel de «saciedad» (hambre/sed) está por debajo de este porcentaje. Fijarlo en cero desactiva esta función.</text>
+	</string>
+	
+	<!-- Added in 2.4 -->
+
+	<string id="ui_mcm_fftd_ftcfg_enabled">
+		<text>Permitir el uso del viaje rápido normal</text>
+	</string>
+
+<!-- Added in 2.5 -->
+
+	<string id="ui_mcm_fftd_gtcfg_npc_guides_too">
+		<text>Algunos ajustes también afectan a los PNJ guías</text>
+	</string>
+
+<!-- Added in 2.6 -->
+
+	<string id="st_fftd_farepaid_npcguide">
+		<text>Has pagado a un guía %s para llevarte a tu destino.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_progressive_cost">
+		<text>Los precios son exponenciales al rango del jugador</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_progressive_cost_desc">
+		<text>Si se activa, todos los costes de viaje rápido aumentarán siguiendo una curva exponencial al rango del jugador. El aumento del coste es lento al principio, y llega al máximo con el multiplicador siguiente.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_coef_max">
+		<text>Multiplicador de coste en el rango máximo</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_coef_max_desc">
+		<text>Cuando el jugador alcance el rango máximo definido abajo, todos los costes de viaje rápido se incrementarán en este multiplicador. Por debajo de ese rango, el multiplicador se escalará a lo largo de una curva ascendente desde cero hasta este ajuste. [Función de la curva: 1 - cos((x * pi) / 2)]</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_rank_cap">
+		<text>Límite de rango progresivo</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_prog_rank_cap_desc">
+		<text>Si el ajuste de coste progresivo está activado, este es el valor de rango en el que los costes dejan de aumentar.</text>
+	</string>
+	
+	<string id="ui_mcm_fftd_gtcfg_npc_cost_coef">
+		<text>Coste para contratar PNJ en diálogo</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gtcfg_npc_cost_coef_desc">
+		<text>Al contratar un PNJ guía cara a cara desde un diálogo, se utiliza este coste por metro en lugar del valor habitual.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_force_vanilla_fares">
+		<text>Forzar las tarifas estándar de PNJ guías</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_force_vanilla_fares_desc">
+		<text>Si se activa, se utilizarán las tarifas estándar en lugar de los cálculos de FFT al contratar PNJ guías en persona.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_nice_round_numbers">
+		<text>Las tarifas generadas se redondean a las centenas</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_nice_round_numbers_desc">
+		<text>Si se activa, las tarifas generadas por FFT se redondearán a la centena inferior para que se parezcan más a los precios estándar.</text>
+	</string>
+
+<!-- Added in 2.7 -->
+
+	<string id="st_fftd_mapspot_kilometers">
+		<text>km</text>
+	</string>
+
+	<string id="st_fft_travel_psyblocked">
+		<text>Un poderoso campo psíquico impide viajar a esta ubicación</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_northgate">
+		<text>El Cauterizador Cerebral bloquea el viaje</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_northgate_desc">
+		<text>Si se activa, el campo psíquico del Cauterizador Cerebral bloqueará todo el viaje rápido entre el norte y el sur del mapa hasta que se desactive, incluidos los viajes de los guías. Este ajuste no surte efecto si el modo Historia no está activado.</text>
+	</string>
+
+	<string id="ui_mcm_header_gameplay">
+		<text>Ajustes de jugabilidad y equilibrio</text>
+	</string>
+
+	<string id="ui_mcm_header_ui">
+		<text>Ajustes de interfaz y aspecto</text>
+	</string>
+
+	<string id="ui_mcm_header_debug">
+		<text>Solución de problemas y compatibilidad</text>
+	</string>	
+
+	<string id="ui_mcm_fftd_gen_show_distdur">
+		<text>Mostrar distancia y duración en menú contextual</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_show_distdur_desc">
+		<text>Si se activa, todas las opciones de viaje rápido mostrarán la distancia y la duración en el menú contextual del mapa de la PDA. Desactivar esta opción eliminará esta información útil, haciendo que los menús parezcan más los del juego base.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_verbose_enabled">
+		<text>Registros de depuración verbosos</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_verbose_enabled_desc">
+		<text>«Verboso» es la forma que tienen los programadores de decir «mucho spam». Esto pone la máxima cantidad de información en el registro, y debes activarlo si vas a informar de un problema.</text>
+	</string>
+
+	<string id="pol_smart_terrain_1_1">
+		<text>Encrucijada del Prado</text>
+	</string>
+
+	<string id="pol_smart_terrain_1_3">
+		<text>Campamento de bandidos del Prado</text>
+	</string>
+
+<!-- Added in 2.8 -->
+
+	<string id="st_fft_travel_zoneblocked_1">
+		<text>Solo puedes iniciar %s desde bases que pertenezcan a una facción amiga</text>
+	</string>
+
+	<string id="st_fft_travel_zoneblocked_2">
+		<text>Solo puedes iniciar %s desde las bases de tu propia facción</text>
+	</string>
+
+	<string id="ui_mcm_fft_zone_mode">
+		<text>Solo permitir viajar desde bases de facciones</text>
+	</string>
+
+	<string id="ui_mcm_fft_zone_mode_desc">
+		<text>Opcionalmente, restringe desde dónde puede iniciar el viaje el jugador:\n
+			Desactivado: el viaje se puede iniciar desde cualquier parte, como en el juego base.\n
+			Amigos: el viaje solo puede iniciarse si el jugador se encuentra dentro de los límites de una base de una facción amiga. Recomendado para la mayoría de los jugadores.\n
+			Propia facción: el viaje solo puede iniciarse si el jugador se encuentra dentro de los límites de las bases de su propia facción. Esto afectará más a unas facciones que a otras.
+		</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_zonetravel_any">
+		<text>Desactivado</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_zonetravel_friend">
+		<text>Amigos</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_zonetravel_ally">
+		<text>Propia facción</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_zones_use_disguises">
+		<text>Puede usar bases de facciones enemigas estando disfrazado</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_zones_use_disguises_desc">
+		<text>Si está activada la opción de «solo viajar desde bases de facciones», activar también esta opción permitirá a un jugador con un disfraz apropiado realizar un viaje rápido desde las bases de facciones hostiles. Sin esta opción, llevar un disfraz no afectará al permiso de viaje rápido.</text>
+	</string>
+
+<!-- Added in 2.9 -->
+
+    <string id="st_fft_costfree">
+        <text>Gratis</text>
+    </string>
+
+	<string id="ui_mcm_fftd_gen_show_zone_status_icon">
+		<text>Mostrar icono de estado cuando se está en una zona de viaje</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_show_zone_status_icon_desc">
+		<text>Cuando esté activado, aparecerá un icono único en el área habitual del indicador de estado cuando el jugador se encuentre dentro de una zona de viaje rápido válida para él. Este ajuste no tiene sentido si no estás restringiendo el inicio del viaje a bases de facciones u hogueras.\n
+		Puede elegir entre tres estilos: uno del juego base y dos que se adaptan al estilo del juego de Alternative Icons. (blanco y negro y a color).</text>
+	</string>
+
+	<string id="ui_mcm_fft_campfire_base">
+		<text>Las hogueras cuentan como bases de facciones</text>
+	</string>
+
+	<string id="ui_mcm_fft_campfire_base_desc">
+		<text>Si se activa, estar a 5 metros de una hoguera encendida contará como estar dentro de la base de una facción a efectos de viaje rápido.</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_disabled">
+		<text>Desactivado</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_vanilla">
+		<text>Juego base</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_altbw">
+		<text>Alticons BW</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_travelicon_altcolor">
+		<text>Alticons Color</text>
+	</string>
+
+	<string id="ui_mcm_fft_camp_mode">
+		<text>Las hogueras son destinos de viaje rápido</text>
+	</string>
+
+	<string id="ui_mcm_fft_camp_mode_desc">
+		<text>Si se activa, permite usar las hogueras como destinos de viaje rápido:\n
+			Cualquiera: cualquier hoguera conocida es un destino válido de viaje rápido.\n
+			Encendida: una hoguera debe estar encendida para usarse como destino de viaje rápido.\n
+			Las hogueras no se muestran en el mapa en el juego base, así que usarlas como destinos de viaje rápido precisa un complemento como Display Campfires on Map, de Haruka (incluido en GAMMA):\n
+			https://www.moddb.com/mods/stalker-anomaly/addons/displaycampfiresonmap
+		</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_campmode_dis">
+		<text>Desactivado</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_campmode_any">
+		<text>Cualquiera</text>
+	</string>
+
+	<string id="ui_mcm_lst_fft_campmode_lit">
+		<text>Encendida</text>
+	</string>
+
+	<string id="st_fft_campfire">
+		<text>una hoguera</text>
+	</string>
+
+<!-- Added in 2.10 -->
+
+	<string id="ui_mcm_fftd_gen_squad_local_travel">
+		<text>Teletransportar compañeros en viaje local</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_squad_local_travel_desc">
+		<text>El Anomaly base deja atrás a los compañeros del jugador al viajar dentro de la misma región. Si se activa esta opción, Fair Fast Travel intentará teletransportar a todos los compañeros para que viajen con el jugador. Nótese que, debido a limitaciones del motor con el teletransporte de PNJ, esto no siempre funciona de forma fiable. No es un problema del complemento.</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_squad_tp_bind">
+		<text>Teletransportar escuadrón a posición del jugador</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_squad_tp_bind_desc">
+		<text>Fair Fast Travel intentará llevar a tus compañeros a tu ubicación actual. Lo hace automáticamente siempre que viajes rápido localmente si dicha opción está activada, pero puedes forzarlos manualmente a teletransportarse hacia ti. Los rehenes no rescatados y los compañeros a los que se les haya dicho que esperen no serán teletransportados.</text>
+	</string>
+
+<!-- Added in 2.14 -->
+
+	<string id="ui_mcm_fftd_gen_psyblock_mapspots">
+		<text>Los destinos bloqueados usan iconos distintos</text>
+	</string>
+
+	<string id="ui_mcm_fftd_gen_psyblock_mapspots_desc">
+		<text>Si el viaje rápido a un destino específico está bloqueado debido a que el Cauterizador Cerebral sigue activo (o por cualquier otra razón), el icono utilizado por el punto de viaje rápido cambiará para reflejarlo.</text>
+	</string>
+
+<!-- Added in 2.15 -->
+
+	<string id="encyclopedia_addons">
+		<text>Complementos</text>
+	</string>
+
+	<string id="encyclopedia_addons_fair_fast_travel">
+		<text>Fair Fast Travel</text>
+	</string>
+
+	<string id="encyclopedia_addons_fair_fast_travel_text">
+		<text>
+			%c[pda_white]Resumen: %c[255,0,200,220]https://www.youtube.com/watch?v=lzywMbXErVo\n
+			%c[ui_gray_1]
+			\n%c[pda_yellow]Fair Fast Travel%c[ui_gray_1] es una revisión completa de los sistemas de viaje rápido y a mochila de Anomaly. Te da el control total sobre cómo se comporta el viaje en tu juego, permitiéndote hacerlo tan restrictivo o permisivo como quieras.\n 
+
+			\nPuedes personalizar todas las características a tu gusto en los menús del MCM. ¿No quieres que ningún tipo de viaje tenga coste? Ajusta el coste por metro a cero. ¿Quieres realizar viajes rápidos solo hacia y desde hogueras encendidas? Puedes hacerlo. %c[pda_white]¡Si no te gusta cómo funciona algo, mira primero en el MCM!\n
+
+			\n%c[pda_white]Desde %c[pda_yellow]MCM > Fair Fast Travel%c[pda_white]:\n
+			%c[pda_yellow]General%c[pda_white]: Ajustes que afectan a la interfaz o que se aplican a todos los tipos de viaje\n
+			%c[pda_yellow]Viaje rápido%c[pda_white]: Ajustes de viaje rápido, solo para opciones que usan las palabras exactas «viaje rápido»\n
+			%c[pda_yellow]Viaje a mochila%c[pda_white]: Ajustes de viaje rápido, solo se aplican al viajar a alijos de mochila\n
+			%c[pda_yellow]Viaje guiado%c[pda_white]: Ajustes de viaje rápido, solo se aplican a viajes iniciados con PNJ guías, ya sea desde la PDA o (con la opción Guide Travel Overhaul instalada) en persona.\n \n
+
+			%c[pda_red]¿Sigues teniendo dificultades? Baja hacia abajo para obtener información sobre la solución de problemas.\n
+			%c[ui_gray_1]
+			\n%c[pda_green]LISTA DE CARACTERÍSTICAS\n
+			%c[pda_yellow]• Mejores duraciones de viajes%c[ui_gray_1]
+			\nPor defecto, viajar en la misma región lleva 10 minutos por cada 100 m de distancia (configurable en el MCM) y, a diferencia del Anomaly base, no tiene ningún factor de azar. Esto equivale aproximadamente al tiempo que se tardaría en recorrer la misma distancia a la velocidad normal del personaje en el juego, suponiendo que no está esprintando ni sufriendo retrasos indebidos. El viaje a otras regiones utiliza la misma fórmula, pero se puede personalizar por separado.\n \n
+
+			%c[pda_yellow]• Mejor menú contextual%c[ui_gray_1]
+			\nAl hacer clic derecho en un icono del mapa, la opción de viaje rápido ahora te dirá lo lejos que está, cuánto se tardará aproximadamente en llegar allí y (si procede) cuánto costará.\n \n
+
+			%c[pda_yellow]• Viaje guiado desde el mapa de la PDA%c[ui_gray_1]
+			\nLa Zona está llena de guías veteranos de todas las facciones dispuestos a llevar tu botín o acudir en tu ayuda... por un precio. Ahora puedes contratarlos haciendo clic derecho en el mapa para ir a cualquier punto válido de viaje rápido. Se supone que los guías contratados llevan provisiones para el viaje, y tus estadísticas de supervivencia se pausan durante el viaje. Además, los viajes guiados ignorarán las reglas de «herido» y «sobrepeso», si están activadas en la configuración del juego base de Anomaly.\n \n
+
+			%c[pda_yellow]• Revisión del viaje guiado de PNJ%c[ui_gray_1]
+			\nSi has instalado esta opción, los PNJ guías han sido completamente revisados para equipararlos al resto del sistema de viaje rápido; detalles como la duración y el coste son totalmente gestionados por Fair Fast Travel. Viajar con un PNJ guía contratado lleva ahora el mismo tiempo que cualquier otro viaje rápido y obedece a todos los ajustes del viaje guiado, incluyendo la pausa de tus estadísticas de supervivencia.\n \n
+
+			%c[pda_yellow]• Pérdida opcional de estado del equipo%c[ui_gray_1]
+			\nYa sea por haber recibido una bala perdida o por haber tenido que disparar una, la mayoría de los viajes en la Zona dejan huella en tu equipo en forma de desgaste normal. Si lo deseas, FFT te permite simular esto aplicando una cantidad configurable de pérdida de estado a tus objetos equipados, con valores independientes para cada tipo de viaje. Si lo pones a cero, la función se desactivará y, como todo lo demás, es configurable en el MCM.\n \n
+
+			%c[pda_yellow]• Retardos configurables%c[ui_gray_1]
+			\nCada uno de los tres tipos de viaje rápido puede configurarse con un retardo de hasta dos horas antes de que ese tipo de viaje pueda volver a usarse. La duración restante siempre se mostrará en la opción del menú contextual. Cada tipo de viaje puede tener su propio retardo, o puedes vincularlos todos para que, cuando se active un retardo, se activen todos. Por supuesto, todos los retardos son opcionales y están desactivados por defecto.\n \n
+
+			%c[pda_yellow]• Restringir el viaje solo a bases amigas%c[ui_gray_1]
+			\nEsta característica opcional puede restringir independientemente cada tipo de viaje para que el jugador solo pueda iniciar viajes si está en una base amiga. Esto preserva la calidad de vida de los viajes rápidos al tiempo que evita que el jugador haga la chapuza de teletransportarse para zafarse de campos anómalos u otros peligros. Todo es configurable, incluso si un disfraz de facción apropiado «engañará» a esta característica.\n \n
+
+			%c[pda_yellow]• Opciones de viaje a hogueras, indicador de viaje%c[ui_gray_1]
+			\nLas hogueras pueden usarse opcionalmente como destinos de viaje rápido. Por defecto, esto está activado solo para el viaje guiado, a fin de representar el valor añadido del conocimiento de las rutas locales por parte de un guía. Si estás usando la opción que restringe el viaje rápido solo a las bases, ahora puedes elegir opcionalmente que las hogueras encendidas cuenten también como bases amigas a efectos de viaje. Si se instala, la característica también tiene un indicador de estado opcional que mostrará cuando estás actualmente en una zona de viaje válida.\n \n
+
+			%c[pda_yellow]• Limitar los viajes al norte al progreso de la historia%c[ui_gray_1]
+			\nSi juegas como la mayoría de las facciones en el modo Historia y el Cauterizador Cerebral aún no se ha desactivado, ciertas rutas de viajes rápidos y guiados no estarán disponibles hasta que desactives los juguetitos científicos del Monolito. Por supuesto, como cualquier otra cosa, puedes desactivar esto en el MCM.\n \n
+
+			%c[pda_yellow]• Filtrar los puntos del mapa de depuración%c[ui_gray_1]
+			\nMuchos de nosotros jugamos a Anomaly en modo de depuración para solucionar problemas, pero jugar en ese modo permite el viaje rápido sin restricciones a cualquier icono visible del mapa, incluso a cosas como transiciones de nivel o comerciantes que se supone que no son destinos, lo que a menudo provoca accidentes como teletransportarse detrás del Tabernero o al icono equivocado. Por defecto, FFT filtra todos estos puntos inválidos mientras el modo de depuración está activado, pero si de verdad los quieres, hay una opción en el MCM para volver a activarlos.\n \n
+
+			%c[pda_yellow]• Mejor detección de combate%c[ui_gray_1]
+			\nA la hora de decidir si estás en combate, FFT utiliza la lista de PNJ en combate de Anomaly, pero filtra los que están a más de 100 metros de distancia o los que no te han visto en los últimos diez segundos.\n \n
+
+			%c[pda_yellow]• Integración de sistema de habilidades%c[ui_gray_1]
+			\nSi tienes %c[pda_white]Skill System%c[ui_gray_1] de Haruka o uno de los complementos de expansión basados en él, puedes elegir opcionalmente que Fair Fast Travel ajuste todos los tiempos de viaje en función del modificador de tu habilidad de Resistencia.\n \n
+
+			%c[pda_yellow]• Viaje a pines de Personal Adjustable Waypoint%c[ui_gray_1]
+			\nSi tienes mi complemento %c[pda_white]Personal Adjustable Waypoint%c[ui_gray_1], puedes permitir opcionalmente el viaje rápido a los pines rápidos que hayas colocado en el mundo, ¡lo que te permite establecer puntos de viaje rápido personalizados prácticamente en cualquier lugar al que puedas llegar!\n \n
+
+			%c[pda_yellow]• Soporte para Western Goods%c[ui_gray_1]
+			\nLa última versión del complemento %c[pda_white]Western Goods%c[ui_gray_1] incluye una función de guías dinámicos que añade varios guías nuevos y permite añadir otros fácilmente. Fair Fast Travel es compatible con esta función desde el primer momento, sin necesidad de ajustes ni opciones de instalación. Los guías de Western Goods calcularán y mostrarán la distancia y el tiempo de viaje como cualquier otro guía.\n \n
+
+			%c[pda_yellow]• Corrección de bugs con disfraces%c[ui_gray_1]
+			\nFFT arregla un bug del Anomaly base que hace que se desvele tu disfraz si realizas un viaje rápido delante de un PNJ con la opción «considerar el tiempo pasado cerca del PNJ» activada.\n \n
+			
+			--------------------------------------------------------------------------------\n \n
+			
+			%c[pda_red]P: %c[pda_white]¿Por qué me sale algo de un «poderoso campo psíquico» cuando intento hacer clic derecho en algunos destinos?\n
+			%c[pda_green]R: %c[pda_white]Estás jugando al modo Historia y el Cauterizador Cerebral sigue activo. Puedes desactivar esta opción en el MCM: %c[pda_yellow]Fair Fast Travel > General > El Cauterizador Cerebral bloquea el viaje\n \n
+
+			%c[pda_red]P: %c[pda_white]¿Por qué no puedo hacer un viaje rápido a un pin que he colocado usando Personal Adjustable Waypoint?\n
+			%c[pda_green]R: %c[pda_white]Solo los pines rápidos pueden usarse como destinos, ya que solo pueden colocarse en puntos accesibles al jugador. Si se trata de un pin rápido, entonces no está activado el viaje a pines en el MCM para este tipo de viaje.\n \n
+
+			%c[pda_red]••• IMPORTANTE: Para informar de cualquier bug, debes hacer lo siguiente: •••\n \n
+			%c[pda_white]1. Ve a %c[pda_yellow]MCM > Fair Fast Travel > General\n
+			%c[pda_white]2. Activa los %c[pda_yellow]registros de depuración%c[pda_white] y los %c[pda_yellow]registros verbosos\n
+			%c[pda_white]3. Sal y reinicia el juego\n
+			%c[pda_white]4. Reproduce el problema de la forma más sencilla posible\n
+			%c[pda_white]5. Coge el registro de %c[pda_yellow](tu carpeta de Anomaly)\appdata\logs%c[pda_white] y súbelo a alguna parte\n \n
+			
+			%c[ui_gray_1]Si no lo haces, es poco probable que tu registro contenga la información que necesito.\n
+
+			\nNo me llegan notificaciones de los comentarios en ModDB, así que generalmente obtendrás la respuesta más rápida en el Discord de GAMMA, en el canal de discusión de Fair Fast Travel. Los MD no solicitados serán ignorados.\n
+		</text>
 	</string>
 
 </string_table>

@@ -65,7 +65,7 @@
 		<text>Héroe popular</text>
 	</string>
 	<string id="encyclopedia_achievements_patriarch_text">
-		<text>%c[pda_white]Héroe popular%c[ui_gray_1] requiere que alcances el mayor rango posible.\n \n%c[pda_green]Información%c[ui_gray_1] \nSe gana rango con casi cualquier acción que puedes realizar en la Zona.\nEn la categoría Características encontrarás un artículo en el que se explican los rangos y su funcionamiento.\n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nPodrás reclutar 2 compañeros adicionales por encima del límite normal.</text>
+		<text>%c[pda_white]Héroe popular%c[ui_gray_1] requiere que alcances el mayor rango posible.\n \n%c[pda_green]Información%c[ui_gray_1] \nSe gana rango con casi cualquier acción que puedes realizar en la Zona.\nEn la categoría Funciones encontrarás un artículo en el que se explican los rangos y su funcionamiento.\n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nPodrás reclutar 2 compañeros adicionales por encima del límite normal.</text>
 	</string>
 	
 	<string id="encyclopedia_achievements_radiotherapy">
@@ -121,7 +121,7 @@
 		<text>Reciclador avizor</text>
 	</string>
 	<string id="encyclopedia_achievements_recycler_text">
-		<text>%c[pda_white]Reciclador avizor%c[ui_gray_1] requiere que desmontes 200 objetos. \n \n%c[pda_green]Información%c[ui_gray_1] \nLa mayoría de los objetos se pueden desmontar en sus componentes básicos. Se usan herramientas específicas como la navaja suiza o la herramienta multiusos para ello. \nEn la categoría Características encontrarás un artículo sobre este tema. \n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nTendrás un 33 % de posibilidades de obtener una pieza extra desmontando.</text>
+		<text>%c[pda_white]Reciclador avizor%c[ui_gray_1] requiere que desmontes 200 objetos. \n \n%c[pda_green]Información%c[ui_gray_1] \nLa mayoría de los objetos se pueden desmontar en sus componentes básicos. Se usan herramientas específicas como la navaja suiza o la herramienta multiusos para ello. \nEn la categoría Funciones encontrarás un artículo sobre este tema. \n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nTendrás un 33 % de posibilidades de obtener una pieza extra desmontando.</text>
 	</string>
 	
 	<string id="encyclopedia_achievements_artificer_eagerness">
@@ -135,7 +135,7 @@
 		<text>Invitado imprevisto</text>
 	</string>
 	<string id="encyclopedia_achievements_unforeseen_guest_text">
-		<text>%c[pda_white]Invitado imprevisto%c[ui_gray_1] requiere que acumules un total de 5 horas disfrazado mientras te vigilan. \n \n%c[pda_green]Información%c[ui_gray_1] \nPuedes disfrazarte llevando trajes de otras facciones. En la categoría Características encontrarás un artículo sobre este tema. \n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nTus actos mientras estés disfrazado atraerán menos sospechas.</text>
+		<text>%c[pda_white]Invitado imprevisto%c[ui_gray_1] requiere que acumules un total de 5 horas disfrazado mientras te vigilan. \n \n%c[pda_green]Información%c[ui_gray_1] \nPuedes disfrazarte llevando trajes de otras facciones. En la categoría Funciones encontrarás un artículo sobre este tema. \n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nTus actos mientras estés disfrazado atraerán menos sospechas.</text>
 	</string>
 	
 	<string id="encyclopedia_achievements_absolver">
