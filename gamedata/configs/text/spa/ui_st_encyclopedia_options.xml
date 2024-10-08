@@ -60,7 +60,7 @@
 	</string>
 	<string id="encyclopedia_options_hardcore_ai_aim_text">
 		<text>
-			La %c[d_cyan]puntería cañera de la IA%c[ui_gray_2] aumenta la predictabilidad de la puntería de la IA y reduce el tiempo de reacción.\n \n%c[d_green]Información%c[ui_gray_2]\n \nSi esta función está activada, te será más difícil evitar que te alcancen mientras disparas ráfagas y esprintas, y el uso de la cobertura será mucho más esencial para la supervivencia a largo plazo.\n \nEsta función se puede alternar en las opciones del juego y está desactivada por defecto.
+			La %c[d_cyan]puntería cañera de la IA%c[ui_gray_2] aumenta la previsibilidad de la puntería de la IA y reduce el tiempo de reacción.\n \n%c[d_green]Información%c[ui_gray_2]\n \nSi esta función está activada, te será más difícil evitar que te alcancen mientras disparas ráfagas y esprintas, y el uso de la cobertura será mucho más esencial para la supervivencia a largo plazo.\n \nEsta función se puede alternar en las opciones del juego y está desactivada por defecto.
 		</text>
 	</string>
 	
@@ -79,7 +79,7 @@
 	<string id="encyclopedia_options_localisation_text">
 		<text>
 			La %c[pda_white]localización%c[ui_gray_1] te permite configurar el idioma en el que se juega.\n	\n%c[pda_green]Información%c[ui_gray_1]
-			\nAl cambiar la localización, la mayoría de los textos se actualizarán automáticamente, pero para algunos habrá que reiniciar el juego.\n	\nEsta función se puede ajustar en las opciones del juego y está actualmente fijada en «eng».\n	\n%c[pda_green]Idiomas compatibles%c[ui_gray_1]
+			\nAl cambiar la localización, la mayoría de los textos se actualizarán automáticamente, pero para algunos habrá que reiniciar el juego.\n	\nEsta función se puede ajustar en las opciones del juego y está actualmente fijada en «spa».\n	\n%c[pda_green]Idiomas compatibles%c[ui_gray_1]
 			\n• Inglés: eng\n• Ruso: rus\n• Español: spa
 		</text>
 	</string>

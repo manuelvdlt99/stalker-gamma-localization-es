@@ -93,7 +93,7 @@
 		<text>Turista</text>
 	</string>
 	<string id="encyclopedia_achievements_tourist_text">
-		<text>%c[pda_white]Turista%c[ui_gray_1] requiere que visitas todos los 33 niveles de la Zona.\n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nRecibirás las coordenadas de 3 alijos especiales.</text>
+		<text>%c[pda_white]Turista%c[ui_gray_1] requiere que visites todos los 33 niveles de la Zona.\n \n%c[pda_blue]Recompensa%c[ui_gray_1] \nRecibirás las coordenadas de 3 alijos especiales.</text>
 	</string>
 	
 	<string id="encyclopedia_achievements_well_dressed">

@@ -92,7 +92,7 @@
 	</string>
 	<string id="encyclopedia_features_options_hardcore_ai_aim_text">
 		<text>
-			La %c[d_cyan]puntería cañera de la IA%c[ui_gray_2] aumenta la predictabilidad de la puntería de la IA y reduce el tiempo de reacción.\n \n%c[d_green]Información%c[ui_gray_2]\n \nSi esta función está activada, te será más difícil evitar que te alcancen mientras disparas ráfagas y esprintas, y el uso de la cobertura será mucho más esencial para la supervivencia a largo plazo.\n \nEsta función se puede alternar en las opciones del juego y está desactivada por defecto.
+			La %c[d_cyan]puntería cañera de la IA%c[ui_gray_2] aumenta la previsibilidad de la puntería de la IA y reduce el tiempo de reacción.\n \n%c[d_green]Información%c[ui_gray_2]\n \nSi esta función está activada, te será más difícil evitar que te alcancen mientras disparas ráfagas y esprintas, y el uso de la cobertura será mucho más esencial para la supervivencia a largo plazo.\n \nEsta función se puede alternar en las opciones del juego y está desactivada por defecto.
 		</text>
 	</string>
 	

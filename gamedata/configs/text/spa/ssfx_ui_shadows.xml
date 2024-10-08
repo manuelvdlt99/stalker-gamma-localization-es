@@ -92,6 +92,14 @@
 	<string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm">
 		<text>Intensidad volumétrica</text>
 	</string>
+	
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm">
+		<text>Resolución volumétrica</text>
+	</string>
+
+	<string id="ui_mcm_ssfx_module_shadows_volumetric_resolution_mcm_desc">
+		<text>Resolución de renderizado volumétrico. Porcentaje de la resolución actual. [mín: 14 % ~ máx: 100 %]</text>
+	</string>
 
 	<string id="ui_mcm_ssfx_module_shadows_volumetric_int_mcm_desc">
 		<text>Establece la intensidad del efecto volumétrico.</text>

@@ -21,7 +21,7 @@
 	</string><!-- Added in 1.2 --><string id="st_paw_missing_waypoint_error">
 		<text>Faltaba el punto de referencia colocado en el guardado actual, por lo que se ha cancelado la tarea para evitar cuelgues. Se trata de una medida de seguridad y no debería volver a ocurrir tras el siguiente guardado.</text>
 	</string><!-- Added in 1.3 --><string id="ui_mcm_menu_pawsys">
-		<text>Punto de referencia ajustable</text>
+		<text>Personal Adjustable Waypoint</text>
 	</string>
 
 	<string id="ui_mcm_menu_pawgen">

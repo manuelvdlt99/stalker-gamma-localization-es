@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="ui_mcm_menu_grok_casings_sounds">
+		<text>Sonidos de casquillos</text>
+	</string>
+	<string id="ui_mcm_title_grok_casings_sounds">
+		<text>Sonidos de caída de casquillos</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_enabled">
+		<text>Activar</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_volume">
+		<text>Volumen</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_ice_patch">
+		<text>Parche de hielo para Screen Space Shaders</text>
+	</string>
+	<string id="ui_mcm_grok_casings_sounds_ice_patch_desc">
+		<text>Arregla los sonidos de caída de casquillos al disparar sobre hielo</text>
+	</string>
+</string_table>
