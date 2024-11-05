@@ -107,7 +107,8 @@
 	</string>
 
 	<string id="st_kovalev_pda_descr">
-		<text>Este portátil contiene datos del estudio de campo más reciente de Kovaliov de las zonas anómalas alrededor del Instituto de investigación de Agroprom. Entre los archivos se incluye un mapa con las localizaciones exactas de las anomalías que tengo que investigar.</text>
+		<text>Este portátil contiene datos del estudio de campo más reciente de Kovaliov de las zonas anómalas alrededor del Instituto de investigación de Agroprom. Entre los archivos se incluye un mapa con las localizaciones exactas de las anomalías que tengo que investigar.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>	
 	
 	<string id="st_pirogov_pda_name">
@@ -115,7 +116,8 @@
 	</string>
 
 	<string id="st_pirogov_pda_descr">
-		<text>La PDA de un stalker fallecido que ayudó al candidato Pirogov a colocar prototipos en las anomalías alrededor del Vertedero. Contiene las ubicaciones restantes que tengo que escanear.</text>
+		<text>La PDA de un stalker fallecido que ayudó al candidato Pirogov a colocar prototipos en las anomalías alrededor del Vertedero. Contiene las ubicaciones restantes que tengo que escanear.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>		
 	
 	<string id="st_strelok_pda_name">
@@ -123,7 +125,8 @@
 	</string>
 
 	<string id="st_strelok_pda_descr">
-		<text>La PDA del stalker fallecido que consiguió mapear las anomalías del Bosque Rojo, pero fue emboscado por el Monolito mientras volvía con los científicos. Tiene sangre reseca en toda la pantalla y algunos de los botones no parecen funcionar.</text>
+		<text>La PDA del stalker fallecido que consiguió mapear las anomalías del Bosque Rojo, pero fue emboscado por el Monolito mientras volvía con los científicos. Tiene sangre reseca en toda la pantalla y algunos de los botones no parecen funcionar.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>		
 
 	<string id="st_chernov_pda_name">
@@ -131,7 +134,8 @@
 	</string>
 
 	<string id="st_chernov_pda_descr">
-		<text>Un montón de documentos del laboratorio X-19. La mayoría de las páginas están húmedas y solo la portada es legible. Sin embargo, han sobrevivido algunas imágenes y diagramas que muestran que los artefactos «crecieron» de algún modo en los árboles del bosque situado al sur del complejo X-19.</text>
+		<text>Un montón de documentos del laboratorio X-19. La mayoría de las páginas están húmedas y solo la portada es legible. Sin embargo, han sobrevivido algunas imágenes y diagramas que muestran que los artefactos «crecieron» de algún modo en los árboles del bosque situado al sur del complejo X-19.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>		
 		
 	<string id="st_vorobushkin_pda_name">
@@ -139,7 +143,8 @@
 	</string>
 
 	<string id="st_vorobushkin_pda_descr">
-		<text>Un módulo de memoria antiguo pero de construcción robusta recuperado del complejo de antenas Krug en ruinas. Restaurado y reparado por el profesor Vorobushkin, contiene un espectrograma de las emisiones anómalas en torno a la estación con un mapa detallado de sus fuentes.</text>
+		<text>Un módulo de memoria antiguo pero de construcción robusta recuperado del complejo de antenas Krug en ruinas. Restaurado y reparado por el profesor Vorobushkin, contiene un espectrograma de las emisiones anómalas en torno a la estación con un mapa detallado de sus fuentes.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>	
 	
 	<string id="ah_gramota_info">
@@ -147,6 +152,7 @@
 	</string>
 
 	<string id="ah_gramota_desc">
-		<text>Carta de agradecimiento personalizada en la que se reconocen mis servicios a la comunidad científica, firmada personalmente por el profesor Skabinski. También incluye una recomendación para emplear al titular de este documento como investigador de campo ejecutivo superior en el Instituto Científico para la Investigación de la Zona Anómala de Chernóbil.</text>
+		<text>Carta de agradecimiento personalizada en la que se reconocen mis servicios a la comunidad científica, firmada personalmente por el profesor Skabinski. También incluye una recomendación para emplear al titular de este documento como investigador de campo ejecutivo superior en el Instituto Científico para la Investigación de la Zona Anómala de Chernóbil.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>	
 </string_table>

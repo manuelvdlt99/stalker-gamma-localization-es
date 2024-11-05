@@ -6,14 +6,18 @@
 		<text>Psicocasco científico (calibrado)</text>
 	</string>
 	<string id="st_psy_helmet_desc">
-		<text>Un psicocasco diseñado para caber debajo de un casco normal. Desarrollado bajo la dirección de Sájarov en la estación de investigación cercana a Yantar. La disposición única del casco consiste en artefactos eléctricos que, junto con las antenas montadas en el dispositivo, funcionan según el principio del escudo. Cuando se activa, el casco proyecta una cúpula invisible cerca del portador que reacciona a las partículas energizadas liberadas por el artefacto Concha, gracias a lo cual se extingue la mayor parte de la radiación; luego, los restos son reflejados por el sistema de protección incorporado directamente en el cuerpo del casco. La singularidad de este psicocasco reside en su capacidad para resistir las inusuales frecuencias psíquicas alteradoras de la mente de los diversos emisores Duga de la zona de exclusión de Chernóbil.</text>
+		<text>Un psicocasco diseñado para caber debajo de un casco normal. Desarrollado bajo la dirección de Sájarov en la estación de investigación cercana a Yantar. La disposición única del casco consiste en artefactos eléctricos que, junto con las antenas montadas en el dispositivo, funcionan según el principio del escudo. Cuando se activa, el casco proyecta una cúpula invisible cerca del portador que reacciona a las partículas energizadas liberadas por el artefacto Concha, gracias a lo cual se extingue la mayor parte de la radiación; luego, los restos son reflejados por el sistema de protección incorporado directamente en el cuerpo del casco. La singularidad de este psicocasco reside en su capacidad para resistir las inusuales frecuencias psíquicas alteradoras de la mente de los diversos emisores Duga de la zona de exclusión de Chernóbil.\n \n
+		%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>
 	
 	<string id="st_bad_psy_helmet_name">
 		<text>Psicocasco científico (sin calibrar)</text>
 	</string>
 	<string id="st_bad_psy_helmet_desc">
-		<text>Un psicocasco sin calibrar diseñado para caber debajo de un casco normal. Desarrollado bajo la dirección de Sájarov en la estación de investigación cercana a Yantar. La disposición única del casco consiste en artefactos eléctricos que, junto con las antenas montadas en el dispositivo, funcionan según el principio del escudo. Cuando se activa, el casco proyecta una cúpula invisible cerca del portador que reacciona a las partículas energizadas liberadas por el artefacto Concha, gracias a lo cual se extingue la mayor parte de la radiación; luego, los restos son reflejados por el sistema de protección incorporado directamente en el cuerpo del casco. La singularidad de este psicocasco reside en su capacidad para resistir las inusuales frecuencias psíquicas alteradoras de la mente de los diversos emisores Duga de la zona de exclusión de Chernóbil.</text>
+		<text>Un psicocasco sin calibrar diseñado para caber debajo de un casco normal. Desarrollado bajo la dirección de Sájarov en la estación de investigación cercana a Yantar. La disposición única del casco consiste en artefactos eléctricos que, junto con las antenas montadas en el dispositivo, funcionan según el principio del escudo. Cuando se activa, el casco proyecta una cúpula invisible cerca del portador que reacciona a las partículas energizadas liberadas por el artefacto Concha, gracias a lo cual se extingue la mayor parte de la radiación; luego, los restos son reflejados por el sistema de protección incorporado directamente en el cuerpo del casco. La singularidad de este psicocasco reside en su capacidad para resistir las inusuales frecuencias psíquicas alteradoras de la mente de los diversos emisores Duga de la zona de exclusión de Chernóbil.\n \n
+		%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
 	</string>
 	
 

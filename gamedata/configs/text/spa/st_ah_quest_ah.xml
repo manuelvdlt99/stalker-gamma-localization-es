@@ -666,52 +666,61 @@
         <text>Descodificador</text>
     </string>
     <string id="cs_deshefrator_desc">
-        <text>Dispositivo utilizado por los Apestados del Monolito para escuchar las conversaciones de los fanáticos.</text>
+        <text>Dispositivo utilizado por los Apestados del Monolito para escuchar las conversaciones de los fanáticos.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="st_wpn_bm16_ohotnik">
         <text>Escopeta BM-16 de Hunter</text>
     </string>
     <string id="st_wpn_bm16_ohotnik_descr">
-        <text>Una escopeta vieja con un par de marcas.</text>
+        <text>Una escopeta vieja con un par de marcas que pertenece a Hunter.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="pda_dragun_name">
         <text>PDA de Scar</text>
     </string>
     <string id="pda_dragun_desc">
-        <text>De todas las entradas, hay una muy interesante: «Strider ha formado un nuevo grupo para combatir al Monolito. Se rumorea que entre sus hombres hay exmiembros del equipo de asalto de Lébedev».</text>
+        <text>De todas las entradas, hay una muy interesante: «Strider ha formado un nuevo grupo para combatir al Monolito. Se rumorea que entre sus hombres hay exmiembros del equipo de asalto de Lébedev».\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="bar_case_name">
         <text>Maletín pesado</text>
     </string>
     <string id="bar_case_desc">
-        <text>Un maletín especial con botín para el Tabernero.</text>
+        <text>Un maletín especial con botín para el Tabernero.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="cs_anom_pribor_desc">
-        <text>Dispositivo especial para estudiar campos anómalos que pertenece al grupo Cielo Despejado.</text>
+        <text>Dispositivo especial para estudiar campos anómalos que pertenece al grupo Cielo Despejado.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="cs_informer_pda_name">
         <text>PDA de Crutch</text>
     </string>
     <string id="cs_informer_pda_desc">
-        <text>Información encriptada relativa a la facción Cielo Despejado se almacena en esta PDA.</text>
+        <text>Información encriptada relativa a la facción Cielo Despejado se almacena en esta PDA.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="crazy_stalker_flash_name">
         <text>Pendrive del lunático</text>
     </string>
     <string id="crazy_stalker_flash_desc">
-        <text>La información está encriptada.</text>
+        <text>La información está encriptada.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="escape_docs_name">
         <text>Documentos de la barricada</text>
     </string>
     <string id="escape_docs_desc">
-        <text>Informe de expedición militar en el norte de la Zona.</text>
+        <text>Informe de expedición militar en el norte de la Zona.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
     <string id="st_voen_scaner">
         <text>Escáner compacto para medir actividad anómala</text>
     </string>
     <string id="st_voen_scaner_desc">
-        <text>El modelo más nuevo y oportuno para las mediciones, creado especialmente para stalkers militares y grupos científicos; por desgracia, para los comerciantes no tiene ningún valor especial, porque cada escáner es individual y solo funciona cuando se introduce el código.</text>
+        <text>El modelo más nuevo y oportuno para las mediciones, creado especialmente para stalkers militares y grupos científicos; por desgracia, para los comerciantes no tiene ningún valor especial, porque cada escáner es individual y solo funciona cuando se introduce el código.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[0,255,140,0] • %c[ui_gray_2] Objeto de misión\n</text>
     </string>
 
 <string id="prin_case_traders">
