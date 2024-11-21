@@ -11,7 +11,9 @@
 	</string>
 
 	<string id="st_wpn_sr25_descr">
-		<text>El SR-25 fue desarrollado por Reed Knight, dueño de Knight’s Armament Co., y Eugene Stoner. El SR-25 es un fusil AR-15 agrandado para que dispare el 7,62 x 51 mm OTAN o el .308 Winchester. El 60 % de sus piezas son intercambiables con componentes del AR-15. Este fusil vendió bien entre los tiradores civiles que necesitaban un fusil semiautomático preciso en 7,61 x 51 mm OTAN o .308 para la caza o el tiro deportivo. Este fusil también se hizo un hueco en las Fuerzas Armadas estadounidenses. Todos los fusiles basados en la plataforma SR-25 comparten el mismo funcionamiento básico, el sistema del AR-15/M16. Debido al amortiguador de retroceso al estilo AR-15, que se extiende hacia atrás desde el cajón de mecanismos, el SR-25 no puede estar dotado de una culata plegable; en su lugar, viene con una culata retráctil.\n \n %c[ui_gray_2]ACCESORIOS: \n %c[d_purple] • %c[ui_gray_2] Silenciadores: Silenciador especial de SR-25\n %c[d_purple] • %c[ui_gray_2] Miras: Miras réflex y visores ópticos de la OTAN\n \n</text>
+		<text>El SR-25 fue desarrollado por Reed Knight, dueño de Knight’s Armament Co., y Eugene Stoner. El SR-25 es un fusil AR-15 agrandado para que dispare el 7,62 x 51 mm OTAN o el .308 Winchester. El 60 % de sus piezas son intercambiables con componentes del AR-15. Este fusil vendió bien entre los tiradores civiles que necesitaban un fusil semiautomático preciso en 7,61 x 51 mm OTAN o .308 para la caza o el tiro deportivo. Este fusil también se hizo un hueco en las Fuerzas Armadas estadounidenses. Todos los fusiles basados en la plataforma SR-25 comparten el mismo funcionamiento básico, el sistema del AR-15/M16. Debido al amortiguador de retroceso al estilo AR-15, que se extiende hacia atrás desde el cajón de mecanismos, el SR-25 no puede estar dotado de una culata plegable; en su lugar, viene con una culata retráctil.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Estados Unidos\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Knight's Armament Corporation\n</text>
 	</string>
 	
 	<string id="st_wpn_bm16_full_alt_23">

@@ -51,7 +51,7 @@
 		<text>Kit de munición</text>
 	</string>
 	<string id="encyclopedia_items_itm_ammokit_text">
-		<text>Se pueden usar las %c[pda_white]herramientas de armero%c[ui_gray_1] para reciclar munición dañada y crear mejores variantes. \n \n%c[pda_green]Información%c[ui_gray_1] \nUn juego decente de viejas herramientas y accesorios de armero. \nContiene un juego de punzones, un martillo, una herramienta de prensa y un kit de medición de pólvora. \N \nLas %c[pda_white]guías de seguridad sobre munición%c[ui_gray_1] aportan información sobre los diversos tipos de munición, además de una descripción a fondo de los componentes básicos de los cartuchos. Con suficientes conocimientos, un stalker ahorrador puede sacarle un gran uso a este kit. \nEs buena idea tener munición dañada de sobra. Al fin y al cabo, los objetos no caen de los árboles.</text>
+		<text>Se pueden usar las %c[pda_white]herramientas de armero%c[ui_gray_1] para reciclar munición dañada y crear mejores variantes. \n \n%c[pda_green]Información%c[ui_gray_1] \nUn juego decente de viejas herramientas y accesorios de armero. \nContiene un juego de punzones, un martillo, una herramienta de prensa y un kit de medición de pólvora. \n \nLas %c[pda_white]guías de seguridad sobre munición%c[ui_gray_1] aportan información sobre los diversos tipos de munición, además de una descripción a fondo de los componentes básicos de los cartuchos. Con suficientes conocimientos, un stalker ahorrador puede sacarle un gran uso a este kit. \nEs buena idea tener munición dañada de sobra. Al fin y al cabo, los objetos no caen de los árboles.</text>
 	</string>
 	
 	<string id="encyclopedia_items_kit_hunt">

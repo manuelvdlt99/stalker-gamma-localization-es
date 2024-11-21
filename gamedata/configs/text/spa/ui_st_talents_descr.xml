@@ -485,4 +485,185 @@
 		<text>Cada 2 días después de despertarte, aparecerán dos fuertes pseudoperros para protegerte (solo aparecerán si no hay pseudoperros vivos). Son inmunes a las anomalías, ignorarán a tus aliados y atacarán a tus enemigos (excepto a otros perros). \n \nMientras al menos uno de estos pseudoperros esté vivo, ningún otro perro os atacará a ti o a tus compañeros.</text>
 	</string>
 
+	<string id="firearm_enthusiast_descr">
+		<text>Todas las armas: \n• Daño + %s %</text>
+	</string>
+	<string id="combat_engineer_descr">
+		<text>Explosivos: \n• Daño + %s % \n• Velocidad de lanzamiento de granada + %s %</text>
+	</string>
+	<string id="overdrive_descr">
+		<text>Durante %s segundos después de usar stimpacks o cocaína \n \nTodas las armas: \n• Daño + %s % \n• Críticos + %s %</text>
+	</string>
+
+	<string id="head_hunter_descr">
+		<text>Por cada miembro de la facción que mates por primera vez \n \nContra stalkers: \n• Daño + %s % \n(Bonificación actual: + %s %) \n \nFacciones restantes: \n%s</text>
+	</string>
+	<string id="arrogance_descr">
+		<text>Por cada rango del objetivo inferior al tuyo \n \nContra stalkers: \n• Daño + %s % por rango</text>
+	</string>
+
+	<string id="aim_torso_descr">
+		<text>En el torso \n \nContra stalkers: \n• Daño + %s %</text>
+	</string>
+	<string id="aim_limbs_descr">
+		<text>En extremidades y cabeza \n \nContra stalkers: \n• Críticos + %s %</text>
+	</string>
+
+	<string id="modified_bullets_descr">
+		<text>Durante %s sec después de alcanzar el torso de un stalker, este perderá un %s % de salud cada segundo</text>
+	</string>
+	<string id="bullseye_descr">
+		<text>Durante %s sec después de matar a un stalker con un disparo a la cabeza \n \nTodas las armas: \n• Críticos + %s %</text>
+	</string>
+	<string id="searcher_descr">
+		<text>Los stalkers que tú hayas matado llevarán más dinero encima</text>
+	</string>
+
+	<string id="assault_rifles_expert_descr">
+		<text>Fusil de asalto: \n• Daño + %s % \n• Críticos + %s % \n• Recarga + %s %</text>
+	</string>
+	<string id="light_guns_expert_descr">
+		<text>Pistola / Metralleta: \n• Daño + %s % \n• Críticos + %s % \n• Recarga + %s %</text>
+	</string>
+	<string id="sniper_rifles_expert_descr">
+		<text>Fusil de francotirador: \n• Daño + %s % \n• Críticos + %s %</text>
+	</string>
+
+	<string id="liquidator_descr">
+		<text>1 % de matar a cualquier stalker al instante y \n \nTodas las armas: \n• Daño crítico + %s %</text>
+	</string>
+	
+	<string id="mercenary_vest_descr">
+		<text>Blindaje medio: \n• Balística + %s % \n• Explosiva + %s %</text>
+	</string>
+	<string id="insensitive_descr">
+		<text>Blindaje medio: \n• Quemaduras + %s % \n• Química + %s % \n• Eléctrica + %s %</text>
+	</string>
+	<string id="chem_reliant_descr">
+		<text>Durante %s segundos después de usar stimpacks o morfina \n \nBlindaje medio: \n• Balística + %s % \n• Explosiva + %s %</text>
+	</string>
+
+	<string id="grenadier_descr">
+		<text>Durante %s segundos después de lanzar una granada \n \nBlindaje medio: \n• Balística + %s % \n• Explosiva + %s %</text>
+	</string>
+
+	<string id="confusion_descr">
+		<text>Si llevas un traje de la facción del objetivo (o de una facción aliada) \n \nBlindaje medio: \n• Balística + %s % \n• Explosiva + %s %</text>
+	</string>
+	<string id="addictive_descr">
+		<text>Suma al potenciador de «Quimiodependiente» \n \nBlindaje medio: \n• Quemaduras + %s % \n• Química + %s % \n• Eléctrica + %s %</text>
+	</string>
+
+	<string id="direct_descr">
+		<text>El blindaje pesado recibe el %s % de todas las bonificaciones de resistencia</text>
+	</string>
+	<string id="disguise_master_descr">
+		<text>Aumenta la efectividad del disfraz del blindaje medio en un %s %</text>
+	</string>
+
+	<string id="flurry_descr">
+		<text>Durante %s segundos después de disparar \n \nBlindaje medio: \n• Balística + %s % \n• Explosiva + %s %</text>
+	</string>
+	<string id="loose_fit_descr">
+		<text>Blindaje medio: \n• Balística + %s % \n• Explosiva + %s % \n• Rasguños + %s % \n• Golpes + %s %</text>
+	</string>
+
+	<string id="reposition_descr">
+		<text>Después de moverte 2 segundos en combate, durante los siguientes %s segundos recibirás \n \nBlindaje medio: \n• Balística + %s % \n• Explosiva + %s %</text>
+	</string>
+
+	<string id="smg_novice_descr">
+		<text>Metralleta: \n• Daño + %s % \n• Críticos + %s %</text>
+	</string>
+	<string id="handgun_novice_descr">
+		<text>Pistola: \n• Daño + %s % \n• Críticos + %s %</text>
+	</string>
+	<string id="knifeman_descr">
+		<text>Cuerpo a cuerpo: \n• Daño + %s % \n• Críticos + %s % \n• Velocidad de ataque + %s %</text>
+	</string>
+
+	<string id="spot_weakness_descr">
+		<text>Si el enemigo se encuentra en un radio de 20 metros y no está en combate contigo, recibe 1 acumulación de «Detectar debilidad» cada segundo (máximo 10 acumulaciones). Por cada acumulación en el siguiente ataque \n \nMetralleta / Pistola / Cuerpo a cuerpo: \n• Críticos + %s % \n</text>
+	</string>
+
+	<string id="undercover_descr">
+		<text>Si llevas un traje de la facción del objetivo (o de una facción aliada) \n \nMetralleta / Pistola: \n• Daño + %s %</text>
+	</string>
+	<string id="tactical_descr">
+		<text>Si el arma tiene silenciador \n \nMetralleta / Pistola: \n• Críticos + %s %</text>
+	</string>
+	<string id="backstab_descr">
+		<text>Golpes por detrás \n \nCuerpo a cuerpo: \n• Críticos + %s % \n• Daño crítico + %s %</text>
+	</string>
+
+	<string id="saboteur_descr">
+		<text>Metralleta / Pistola: \n• Daño + %s % \n \nPor cada metro desde el objetivo, el daño disminuye un -0,1 % (bonificación mínima del 0 %)</text>
+	</string>
+	<string id="surprise_attack_descr">
+		<text>Si el objetivo no está en estado de combate o peligro \n \nMetralleta / Pistola: \n• Críticos + %s % \n• Daño crítico + %s %</text>
+	</string>
+	<string id="assassination_descr">
+		<text>Golpes por detrás si el objetivo no está en estado de combate o peligro \n \nCuerpo a cuerpo: \n• Daño crítico + %s %</text>
+	</string>
+
+	<string id="vile_descr">
+		<text>Golpes por detrás \n \nMetralleta: \n• Daño + %s %</text>
+	</string>
+	<string id="pragmatic_descr">
+		<text>Si la pistola está en la ranura de arma principal y la otra ranura principal está vacía \n \nPistola: \n• Críticos + %s % \n• Daño crítico + %s %</text>
+	</string>
+
+	<string id="assassin_observant_descr">
+		<text>El talento «Detectar debilidad» consigue al instante la cantidad máxima de acumulaciones</text>
+	</string>
+
+	<string id="ordinary_descr">
+		<text>Al andar \n \nTodos los blindajes: \n• Disfraz + %s %</text>
+	</string>
+	<string id="acrobatic_descr">
+		<text>Altura de salto \n \nBlindaje medio / científico / ligero: \n• + 30 %</text>
+	</string>
+	<string id="quiet_descr">
+		<text>Si no hay objetos activos en las manos \n \nTodos los blindajes: \n• Sigilo + %s %</text>
+	</string>
+
+	<string id="evanescent_descr">
+		<text>La bonificación de «Corriente» persiste en cualquier estado de movimiento \n \nTodos los blindajes: \n• Disfraz + %s %</text>
+	</string>
+	<string id="lurking_descr">
+		<text>De noche (18:00-06:00) \n \nTodos los blindajes: \n• Disfraz + %s % \n• Sigilo + %s %</text>
+	</string>
+	<string id="subtle_descr">
+		<text>La bonificación de «Silencioso» persiste con cualquier objeto en las manos y \n \nTodos los blindajes: \n• Sigilo + %s %</text>
+	</string>
+
+	<string id="covert_descr">
+		<text>Todas las bonificaciones de talento de disfraz x1,5 para blindaje medio/científico y \n \nBlindaje medio / científico: \n• Balística + %s % \n• Explosiva + %s % \n• Rasguños + %s % \n• Golpes + %s %
+		</text>
+	</string>
+	<string id="cunning_descr">
+		<text>Todas las bonificaciones de talento de sigilo x1.5 para blindaje ligero y \n \nBlindaje ligero: \n• Evasión + %s % \n• Daño de caída - 40 %</text>
+	</string>
+
+	<string id="deception_descr">
+		<text>Contra enemigos en un radio de 50 metros \n \nTodos los blindajes: \n• Disfraz + %s %</text>
+	</string>
+	<string id="vague_descr">
+		<text>Bonificación por lluvia (con la máxima densidad de lluvia) \n \nTodos los blindajes: \n• Disfraz + %s % \n• Sigilo + %s %</text>
+	</string>
+	<string id="sneaky_descr">
+		<text>Todos los blindajes: \n• Sigilo + %s % \n \nBonificación de x2 al agacharse</text>
+	</string>
+
+	<string id="incognito_descr">
+		<text>Blindaje medio / científico: \n• Disfraz + %s % \n• Balística + %s % \n• Explosiva + %s % \n• Rasguños + %s % \n• Golpes + %s %</text>
+	</string>
+	<string id="ghost_descr">
+		<text>Blindaje ligero: \n• Sigilo + %s % \n• Evasión + %s % \n• Quemaduras + %s % \n• Química + %s % \n• Eléctrica + %s %</text>
+	</string>
+
+	<string id="elusive_descr">
+		<text>Blindaje medio / científico / ligero: \n• Disfraz + %s % \n• Sigilo + %s % \n• Velocidad + 15 % en combate</text>
+	</string>
+
 </string_table>

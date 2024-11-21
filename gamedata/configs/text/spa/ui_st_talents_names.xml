@@ -434,5 +434,165 @@
 	<string id="kindred_name">
 		<text>Parentesco</text>
 	</string>
+	
+	<string id="firearm_enthusiast_name">
+		<text>Amante de las armas</text>
+	</string>
+	<string id="combat_engineer_name">
+		<text>Ingeniero de combate</text>
+	</string>
+	<string id="overdrive_name">
+		<text>A toda mecha</text>
+	</string>
+	<string id="head_hunter_name">
+		<text>Cazatalentos</text>
+	</string>
+	<string id="arrogance_name">
+		<text>Arrogancia</text>
+	</string>
+	<string id="aim_torso_name">
+		<text>Puntería al torso</text>
+	</string>
+	<string id="aim_limbs_name">
+		<text>Puntería a las extremidades</text>
+	</string>
+	<string id="modified_bullets_name">
+		<text>Balas modificadas</text>
+	</string>
+	<string id="bullseye_name">
+		<text>Diana</text>
+	</string>
+	<string id="searcher_name">
+		<text>Dinero ensangrentado</text>
+	</string>
+	<string id="assault_rifles_expert_name">
+		<text>Experto en fusiles de asalto</text>
+	</string>
+	<string id="light_guns_expert_name">
+		<text>Experto en armas ligeras</text>
+	</string>
+	<string id="sniper_rifles_expert_name">
+		<text>Experto en fusiles de francotirador</text>
+	</string>
+	<string id="liquidator_name">
+		<text>Liquidador</text>
+	</string>
+
+	<string id="mercenary_vest_name">
+		<text>Chaleco de mercenario</text>
+	</string>
+	<string id="insensitive_name">
+		<text>Insensible</text>
+	</string>
+	<string id="chem_reliant_name">
+		<text>Quimiodependiente</text>
+	</string>
+	<string id="grenadier_name">
+		<text>Granadero</text>
+	</string>
+	<string id="confusion_name">
+		<text>Confusión</text>
+	</string>
+	<string id="addictive_name">
+		<text>Adictivo</text>
+	</string>
+	<string id="direct_name">
+		<text>Directo</text>
+	</string>
+	<string id="disguise_master_name">
+		<text>Maestro del disfraz</text>
+	</string>
+	<string id="flurry_name">
+		<text>Ráfaga</text>
+	</string>
+	<string id="loose_fit_name">
+		<text>Holgado</text>
+	</string>
+	<string id="reposition_name">
+		<text>Reposicionar</text>
+	</string>
+
+	<string id="smg_novice_name">
+		<text>Metralletas</text>
+	</string>
+	<string id="handgun_novice_name">
+		<text>Pistolas</text>
+	</string>
+	<string id="knifeman_name">
+		<text>Navajero</text>
+	</string>
+	<string id="spot_weakness_name">
+		<text>Detectar debilidad</text>
+	</string>
+	<string id="undercover_name">
+		<text>Infiltrado</text>
+	</string>
+	<string id="tactical_name">
+		<text>Táctico</text>
+	</string>
+	<string id="backstab_name">
+		<text>Puñalada trapera</text>
+	</string>
+	<string id="saboteur_name">
+		<text>Saboteador</text>
+	</string>
+	<string id="surprise_attack_name">
+		<text>Ataque sorpresa</text>
+	</string>
+	<string id="assassination_name">
+		<text>Asesinato</text>
+	</string>
+	<string id="vile_name">
+		<text>Vil</text>
+	</string>
+	<string id="pragmatic_name">
+		<text>Pragmático</text>
+	</string>
+	<string id="assassin_observant_name">
+		<text>Observador</text>
+	</string>
+
+	<string id="ordinary_name">
+		<text>Corriente</text>
+	</string>
+	<string id="acrobatic_name">
+		<text>Acrobacias</text>
+	</string>
+	<string id="quiet_name">
+		<text>Silencioso</text>
+	</string>
+	<string id="evanescent_name">
+		<text>Evanescente</text>
+	</string>
+	<string id="lurking_name">
+		<text>Merodeante</text>
+	</string>
+	<string id="subtle_name">
+		<text>Sutil</text>
+	</string>
+	<string id="covert_name">
+		<text>Encubierto</text>
+	</string>
+	<string id="cunning_name">
+		<text>Astuto</text>
+	</string>
+	<string id="deception_name">
+		<text>Engaño</text>
+	</string>
+	<string id="vague_name">
+		<text>Difuso</text>
+	</string>
+	<string id="sneaky_name">
+		<text>Furtivo</text>
+	</string>
+	<string id="incognito_name">
+		<text>Incógnito</text>
+	</string>
+	<string id="ghost_name">
+		<text>Fantasma</text>
+	</string>
+	<string id="elusive_name">
+		<text>Esquivo</text>
+	</string>
 
 </string_table>

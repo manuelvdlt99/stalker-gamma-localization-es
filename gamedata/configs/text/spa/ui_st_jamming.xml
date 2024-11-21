@@ -321,4 +321,17 @@
 	<string id="st_name_issues">
 		<text>ESTADO:</text>
 	</string>
+	
+	<string id="st_jam">
+		<text>Probabilidad de encasquillamiento</text>
+	</string>
+	<string id="st_partskit">
+		<text>Kit de reparación de piezas</text>
+	</string>
+	<string id="st_partskit_descr">
+		<text>Juego de herramientas muy avanzado que incluye microlimas, epoxi metálico para soldadura en frío, un equipo de baño electrolítico y toneladas de lubricantes, destilados de gasolina y otros disolventes. Sin embargo, este kit es extremadamente difícil de montar, por lo que los técnicos de la Zona lo venden en cantidades muy reducidas.\n \n%c[pda_white]PROPIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_1] Kit de herramientas\n
+		%c[d_orange] • %c[ui_gray_1] Capaz de reparar piezas de armas en un estado superior al 10 % pero inferior al 60 %\n
+		</text>
+	</string>
 </string_table>

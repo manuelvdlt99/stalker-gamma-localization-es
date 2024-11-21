@@ -29,6 +29,20 @@
 	<string id="pick_class_monster_hunter_descr">
 		<text>Un especialista en la eliminación de mutantes. Tiene habilidades medias en el uso de cualquier tipo de arma, excepto explosivos. Es capaz de llevar cualquier blindaje, pero tiene pequeñas bonificaciones adicionales con blindajes medios. Alta protección contra rasguños, impactos y daños psíquicos, media contra anomalías. Una excelente elección para cazar mutantes, pero no destaca mucho en combate contra humanos. \n \n• Velocidad - 5 % \n• Peso + 5 kg</text>
 	</string>
+	
+	<string id="pick_class_merc_title">
+		<text>Cazarrecompensas</text>
+	</string>
+	<string id="pick_class_merc_descr">
+		<text>Un soldado de fortuna que se maneja bien con casi cualquier tipo de arma. Debido a la cantidad de tiroteos por los que tiene que pasar, prefiere los blindajes medios o pesados. Protección balística y contra explosiones elevada, media contra anomalías. Un amplio abanico de habilidades para completar contratos, desde daño letal y explosivos, hasta disfraz y bajas por sorpresa. Una gran elección para cazar stalkers, pero no especialmente buena contra mutantes. \n \n• Velocidad - 5 % \n• Peso + 5 kg</text>
+	</string>
+
+	<string id="pick_class_assassin_title">
+		<text>Asesino</text>
+	</string>
+	<string id="pick_class_assassin_descr">
+		<text>Un hábil maestro del disfraz, el sigilo y las bajas silenciosas. Sus habilidades especiales precisan un enfoque sutil y armas apropiadas, por lo que prefiere las armas ligeras: metralletas, pistolas y armas cuerpo a cuerpo. Puede usar blindajes medios o científicos si quiere disfrazarse del enemigo, o ligeros si necesita colarse desapercibido. Se centra en ataques silenciosos y por sorpresa y en puñaladas mortales por la espalda. No apto para enfrentamientos directos a cualquier distancia. \n \n• Velocidad + 10 % \n• Peso - 10 kg \n• Capaz de ganar experiencia de «Defensiva» de sigilo/disfraz</text>
+	</string>
 
 
 	<string id="pick_class_pick_text">
@@ -118,6 +132,15 @@
 	</string>
 	<string id="stat_psi">
 		<text>Psíquica</text>
+	</string>
+	<string id="stat_disguise">
+		<text>Disfraz</text>
+	</string>
+	<string id="stat_stealth">
+		<text>Sigilo</text>
+	</string>
+	<string id="stat_evade">
+		<text>Evasión</text>
 	</string>
 
 	<string id="stat_special">

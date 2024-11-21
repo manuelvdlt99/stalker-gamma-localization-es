@@ -3,17 +3,17 @@
 <string_table>
 
 	<string id="encyclopedia_gamma">
-		<text>Manual GAMMA [0.9.1]</text>
+		<text>Manual GAMMA [0.9.3]</text>
 	</string>
 	<string id="encyclopedia_gamma_text">
-		<text>%c[pda_blue]Manual GAMMA [0.9.1].%c[ui_gray_1]</text>
+		<text>%c[pda_blue]Manual GAMMA [0.9.3].%c[ui_gray_1]</text>
 	</string>
 
 	<string id="article_gamma_aaintro">
 		<text>--- Bienvenido a GAMMA ---</text>
 	</string>
 	<string id="article_gamma_aaintro_text">
-		<text>%c[pda_white]Bienvenido a GAMMA\n \n %c[ui_gray_1] \n%c[pda_blue]GAMMA significa Gigantic Automated Modular Modpack for Anomaly.%c[ui_gray_1] \n \n \n%c[pda_green]Este paquete de mods también incluye su propio juego modular de complementos, como:%c[ui_gray_1] \n - Una nueva interfaz \n - Una experiencia de supervivencia reequilibrada centrada en la fabricación, la reparación y la cocina. \n - Una sensación de progresión durante la partida gracias a pequeños cambios globales en la mayoría de los sistemas y circuitos de juego. \n - Sistemas de daño reequilibrados para el jugador y los PNJ. \n - Balística de las armas y daño de los sistemas cuerpo a cuerpo reequilibrados. \n - Efectos de radiación y zonas de radiación dinámicas revisados. \n - Muchas correcciones para algunos de los principales mods, como el paquete de armas Boomsticks and Sharpsticks. \n - Una nueva economía en la que los comerciantes solo te venden suministros y la munición buena solo estará disponible para los stalkers de fiar. \n - Nuevos equipamientos iniciales centrados en proporcionar pistolas, metralletas o armas de la Segunda Guerra Mundial para tener un comienzo más suave con calibres para los que puedes comprar munición. También te dan las herramientas básicas para deambular por la Zona, lo cual está muy bien para partidas Ironman. \n - ¡Y muchísimo más!</text>
+		<text>%c[pda_white]Te damos la bienvenida a GAMMA\n \n %c[ui_gray_1] \n%c[pda_blue]GAMMA significa Gigantic Automated Modular Modpack for Anomaly.%c[ui_gray_1] \n \n \n%c[pda_green]Este paquete de mods también incluye su propio juego modular de complementos, como:%c[ui_gray_1] \n - Una nueva interfaz \n - Una experiencia de supervivencia reequilibrada centrada en la fabricación, la reparación y la cocina. \n - Una sensación de progresión durante la partida gracias a pequeños cambios globales en la mayoría de los sistemas y circuitos de juego. \n - Sistemas de daño reequilibrados para el jugador y los PNJ. \n - Balística de las armas y daño de los sistemas cuerpo a cuerpo reequilibrados. \n - Efectos de radiación y zonas de radiación dinámicas revisados. \n - Muchas correcciones para algunos de los principales mods, como el paquete de armas Boomsticks and Sharpsticks. \n - Una nueva economía en la que los comerciantes solo te venden suministros y la munición buena solo estará disponible para los stalkers de fiar. \n - Nuevos equipamientos iniciales centrados en proporcionar pistolas, metralletas o armas de la Segunda Guerra Mundial para tener un comienzo más suave con calibres para los que puedes comprar munición. También te dan las herramientas básicas para deambular por la Zona, lo cual está muy bien para partidas Ironman. \n - ¡Y muchísimo más!</text>
 	</string>
 
 	<string id="article_gamma_progress">
@@ -55,7 +55,7 @@
 	</string>
 
 	<string id="article_gamma_radiation_text">
-		<text>%c[pda_white]Radiación\n \n %c[ui_gray_1] \n - GAMMA incluye radiación dinámica y un sistema rediseñado de daño por radiación. \n - Se generan nuevos focos de radiación aleatorios al empezar una nueva partida. \n - La radiación reducirá lentamente tu salud (mucho más lento que el juego base) y tu resistencia máxima. \n - Cuanto más irradiado estés, más probable será que tus órganos críticos resulten dañados. Esto hace que el jugador tosa y pierda bastante salud. \n - El medidor de radiación se encuentra en la esquina inferior izquierda de la pantalla. Si empieza a llenarse, te has metido en un foco de radiación. Intenta recular para no cruzarlo. Los artefactos que no estén metidos en un contenedor también pueden emitir radiación. \n - Usa medicamentos antirradiación, cigarrillos, tabaco, agua o alcohol para curar la radiación. Usar medicamentos antirradiación es también una buena forma de evitar la radiación. \N - Cuanto más al norte vayas, más peligrosa será la radiación. Procura llevar una buena máscara antigás antes de adentrarte en las zonas septentrionales. Entrar en los Almacenes Militares o las zonas al norte sin una máscara antigás o medicación antirradiación en condiciones te puede matar si te topas con un solo foco de radiación. Ten en cuenta que meterte de lleno en una zona con radiación muy potente te impedirá moverte y te atrapará.</text>
+		<text>%c[pda_white]Radiación\n \n %c[ui_gray_1] \n - GAMMA incluye radiación dinámica y un sistema rediseñado de daño por radiación. \n - Se generan nuevos focos de radiación aleatorios al empezar una nueva partida. \n - La radiación reducirá lentamente tu salud (mucho más lento que el juego base) y tu resistencia máxima. \n - Cuanto más irradiado estés, más probable será que tus órganos críticos resulten dañados. Esto hace que el jugador tosa y pierda bastante salud. \n - El medidor de radiación se encuentra en la esquina inferior izquierda de la pantalla. Si empieza a llenarse, te has metido en un foco de radiación. Intenta recular para no cruzarlo. Los artefactos que no estén metidos en un contenedor también pueden emitir radiación. \n - Usa medicamentos antirradiación, cigarrillos, tabaco, agua o alcohol para curar la radiación. Usar medicamentos antirradiación es también una buena forma de evitar la radiación. \n - Cuanto más al norte vayas, más peligrosa será la radiación. Procura llevar una buena máscara antigás antes de adentrarte en las zonas septentrionales. Entrar en los Almacenes Militares o las zonas al norte sin una máscara antigás o medicación antirradiación en condiciones te puede matar si te topas con un solo foco de radiación. Ten en cuenta que meterte de lleno en una zona con radiación muy potente te impedirá moverte y te atrapará.</text>
 	</string>
 
 
@@ -69,7 +69,7 @@
 	</string>
 
 	<string id="article_gamma_stashes_text">
-		<text>%c[pda_white]Alijos\n \n %c[ui_gray_1] \n - Los alijos son la fuente principal de kits de herramientas, que son los objetos más esenciales que necesitarás para progresar. \n - Los alijos sin marcar casi siempre están vacíos. \n - Los alijos deben estar marcados para que contengan algo de valor, sobre todo kits de herramientas. \N - El contenido de los alijos está ligado al lugar en el que aparecen.\n - Cuanto más al norte esté un alijo en la Zona, mejor será el botín. \n - Los kits de herramientas de experto solo pueden encontrarse en el Bosque Rojo o más al norte. \n - Es seguro guardar cosas en alijos, los PNJ no los saquearán. \n - Aunque el alijo se marque en algún momento, el contenido aparecerá en el alijo encima de lo que hayas almacenado previamente.</text>
+		<text>%c[pda_white]Alijos\n \n %c[ui_gray_1] \n - Los alijos son la fuente principal de kits de herramientas, que son los objetos más esenciales que necesitarás para progresar. \n - Los alijos sin marcar casi siempre están vacíos. \n - Los alijos deben estar marcados para que contengan algo de valor, sobre todo kits de herramientas. \n - El contenido de los alijos está ligado al lugar en el que aparecen.\n - Cuanto más al norte esté un alijo en la Zona, mejor será el botín. \n - Los kits de herramientas de experto solo pueden encontrarse en el Bosque Rojo o más al norte. \n - Es seguro guardar cosas en alijos, los PNJ no los saquearán. \n - Aunque el alijo se marque en algún momento, el contenido aparecerá en el alijo encima de lo que hayas almacenado previamente.</text>
 	</string>
 
 

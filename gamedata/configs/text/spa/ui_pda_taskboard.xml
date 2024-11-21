@@ -10,7 +10,7 @@
 		<text>Siguiente tarea</text>
 	</string>
 	<string id="pda_btn_taskboard">
-		<text>Panel de tareas</text>
+		<text>Tareas</text>
 	</string>
 	
 	<string id="st_pda_caption_setup_bounty_task">
@@ -39,6 +39,9 @@
 	</string>
 	<string id="st_pda_caption_script">
 		<text>Tareas programadas</text>
+	</string>
+	<string id="st_pda_caption_recover_mutant_data_location">
+		<text>Recuperar datos de mutantes</text>
 	</string>
 	<string id="st_pda_caption_rest">
 		<text>Otras tareas</text>

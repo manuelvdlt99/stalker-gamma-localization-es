@@ -126,20 +126,19 @@
 		<text>No está mal.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_5">
-		<text>Ahora la segunda herramienta, un contenedor de plomo. ¿Te acuerdas de que los artefactos tenían cualidades positivas y negativas? Prácticamente todos los artefactos que vale la pena llevar son radiactivos.  El contenedor de plomo puede aislar el artefacto en su interior, manteniéndote a salvo de su radiación, pero también te impide usar sus otros efectos hasta que te lo quites. Sin él, te empezaría a brillar el culo y morirías en menos de unas horas tras transportar siquiera un solo artefacto. Es bastante pesado, pero más vale prevenir que curar. Si realmente quieres usar un artefacto en ti mismo, es mejor hacerlo con un contenedor más avanzado (los científicos los llaman «Módulos de Aplicación de Artefactos») que te proteja de la radiación sin bloquear sus otras cualidades. Sidórovich vende todo esto de vez en cuando, pero suele reservar los MAA para stalkers más experimentados.</text>
+		<text>Los artefactos se suelen encontrar en las zonas radiactivas, por lo que se recomienda tomar medicamentos radioprotectores antes de entrar en dichas zonas. Toma unos pocos. Ayudarán a que tu cuerpo no acumule radiación, ahorrándote el tener que usar medicamentos antirradiación después de haberte intoxicado. Asegúrate de usar los medicamentos adecuados antes y después de entrar en campos anómalos. Algunos de ellos también emiten partículas específicas, ya sean partículas tóxicas químicas, partículas eléctricas, ondas psíquicas, ondas gravitacionales, calor o fuego. Asegúrate de protegerte debidamente antes de entrar de lleno en un campo anómalo... No me gustaría encontrarme otro bratan achicharrado.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_6">
-		<text>Bueno es saberlo. Este contenedor sí que pesa. ¿Y ahora?</text>
+		<text>Bueno es saberlo. ¿Y ahora?</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_7">
-		<text>Ahora, esta botella de Nemiroff. Como te he dicho, casi todos los artefactos son radiactivos, y aunque te llevases un contenedor de plomo, el campo anómalo como tal te va a irradiar un poco igualmente. Esta botella te ayudará a... eh... «desechar» parte de esa radiación.</text>
+		<text>Ahora, esta botella de Nemiroff. Como te he dicho, casi todos los artefactos son radiactivos hoy en día. Esta botella te ayudará a... eh... «desechar» parte de esa radiación. Los cigarrillos también sirven, hasta cierto punto.</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_8">
 		<text>Genial, ¿algo más?</text>
 	</string>
 	<string id="fanat_training_anomaly_reached_9">
-		<text>Ah, sí, pernos. Nunca te olvides de ellos antes de entrar en un campo anómalo. Tíralos para abrirte paso por las anomalías circundantes.
-		\nEso es todo. Vámonos. Te cubriré de aquí en adelante.</text>
+		<text>Ah, sí, pernos. Nunca te olvides de ellos antes de entrar en un campo anómalo. Tíralos para abrirte paso por las anomalías circundantes.\nY que no te engañen, he oído que hay un artefacto de pan anómalo que tiende a acumularse por aquí a raíz de las comidas de los novatos. No estamos aquí por eso, céntrate en sacar una Medusa del campo anómalo.\nEso es todo. Vámonos. Te cubriré de aquí en adelante.</text>
 	</string>
 
 	<string id="fanat_training_artefact_taken_1">
@@ -160,7 +159,7 @@
 		<text>Estoy listo. ¿Cuál es ese reto?</text>
 	</string>
 	<string id="fanat_training_stash_search_1">
-		<text>Dime, ¿qué stalker que se precie jamás ha encontrado los secretos de otro? La Zona es igual para todos. Los que se las arreglan, comen. A veces, encontrar un alijo no es solo un logro, sino una necesidad. He escondido un pequeño «nido de huevos» en algún lugar del pueblo; intenta encontrarlo.</text>
+		<text>Dime, ¿qué stalker que se precie jamás ha encontrado los secretos de otro? La Zona es igual para todos. Los que se las arreglan, comen. A veces, encontrar un alijo no es solo un logro, sino una necesidad. He escondido un pequeño «nido de huevos» en algún lugar del pueblo; intenta encontrarlo. Debería estar en una mochila o en una caja debajo de un tejado destrozado por aquí cerca.</text>
 	</string>
 
 	<string id="fanat_training_stash_found_0">

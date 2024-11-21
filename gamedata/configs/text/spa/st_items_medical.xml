@@ -150,7 +150,7 @@
 	</string>
 	<string id="st_jgut_descr">
 		<text>Un torniquete hemostático de goma que permite al usuario detener hemorragias.\n \n%c[0,255,255,255]PROPIEDADES:\n
-		%c[d_green] • %c[pda_white] Primeros auxilios: %c[d_orange]Brazos y piernas al 100 %\n</text>
+		%c[d_green] • %c[pda_white] Primeros auxilios: %c[pda_white]Torso%c[d_orange]••••• %c[pda_white]Brazos%c[d_orange]••••• %c[pda_white]Piernas%c[d_orange]•••••\n</text>
 	</string>
 	
 	<string id="st_yadylin">

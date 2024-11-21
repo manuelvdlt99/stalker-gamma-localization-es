@@ -204,7 +204,7 @@
 	</string>
 	<string id="ammo-5.7x28-ss190_descr">
 		<text>El cartucho FN 5,7 x 28 mm es un cartucho de alta velocidad diseñado y producido por FN Herstal. Es un cartucho de percusión central y cuello de botella algo similar al .22 Hornet o el .22 K-Hornet. El 5,7 x 28 mm se desarrolló en conjunto con el arma de defensa personal FN P90 y la pistola FN Five-seveN, en respuesta a las solicitudes de la OTAN de un sustituto para el cartucho 9 x 19 mm Parabellum.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR4 (38)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR4 (40)\n
 		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]23</text>
 	</string>
 	<string id="ammo-5.7x28-ss190_s">
@@ -234,7 +234,7 @@
 	</string>
 	<string id="ammo-5.7x28-ss195_descr">
 		<text>El cartucho SS195 de calibre FN 5,7 x 28 mm es un cartucho expansivo diseñado y producido por FN Herstal. Es un cartucho de percusión central y cuello de botella algo similar al .22 Hornet o el .22 K-Hornet. \n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR2 (21)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR2 (25)\n
 		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]23</text>
 	</string>
 	<string id="ammo-5.7x28-ss195_s">
@@ -289,7 +289,7 @@
 	<string id="ammo-7.62x39_ap_descr">
 		<text>El 7,62 x 39 mm Tipo 56 es un cartucho perforante producido en China, por lo que se suele conocer como el «7,62 x 39 CN». Este cartucho tiene un núcleo de acero dulce que mejora su capacidad de penetración. La importación de este proyectil chino (así como del resto de cartuchos al estilo M43 soviético) está actualmente prohibida en EE. UU. porque las leyes federales estadounidenses lo clasifican como un proyectil perforante para armas cortas. Esta clasificación se basa en los materiales y el diseño del proyectil y no en su capacidad empírica de perforar el blindaje.\n \n
 		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR5 (55)\n
-		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]40</text>
+		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]45</text>
 	</string>
 	<string id="ammo-7.62x39_ap_s">
 		<text>7,62 x 39 perf.</text>
@@ -301,7 +301,7 @@
 	<string id="ammo-7.62x39_fmj_descr">
 		<text>El 7,62 x 39 mm es uno de los calibres más utilizados del mundo, sobre todo en África y Oriente Medio. Algunos lo apodan «la bala de la revolución» debido a su uso predilecto por parte de organizaciones terroristas y criminales. Debido a su potencia, la mayoría de las organizaciones militares han recurrido al uso de placas de acero adicionales para contrarrestar el 7,62 x 39, ya que es muy probable encontrárselo en situaciones de combate.\n \n
 		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR3 (30)\n
-		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]40</text>
+		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]45</text>
 	</string>
 	<string id="ammo-7.62x39_fmj_s">
 		<text>7,62 x 39</text>
@@ -371,7 +371,7 @@
 		<text>Cartuchos de 7,62 x 54 mm PP</text>
 	</string>
 	<string id="ammo-7.62x54-r_descr">
-		<text>El 7,62 x 54 mm PP es un calibre anticuado de fusil introducido en el Imperio ruso a finales del siglo XIX y que siguió usando la URSS después de la Segunda Guerra Mundial. Se diseñó originalmente para el fusil de infantería reglamentario Mosin-Nagant y es bastante común en la Zona debido a la popularidad de dicho fusil. Es un cartucho relativamente barato, pero con una capacidad de penetración sorprendentemente buena, aun en comparación con tipos de munición más modernos. También se puede usar como una solución más barata en la ametralladora PKM.\n \n
+		<text>Tipo especial de cartuchos de 7,62 x 54 R diseñado expresamente para ajustarse a las limitaciones de ametralladoras como la PKP o la PKM, lo que permite un mayor control del retroceso en modo automático y un precio más barato por munición gracias a las cantidades reducidas de pólvora (granos). Las puntas de acero endurecido tienden a penetrar mejor los objetos duros en comparación con otros proyectiles de 7,62 x 54 R, pero a costa de una penetración excesiva en los blancos descubiertos. Los granos reducidos también tienden a tener un menor impacto y, por lo tanto, a reducir los daños internos en comparación con las variantes de francotirador estándar de la munición 7,62 x 54 R.\n \n
 		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR3 (37)\n
 		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]62</text>
 	</string>

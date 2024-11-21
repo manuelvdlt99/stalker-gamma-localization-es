@@ -168,7 +168,8 @@
 	<string id="st_hide_flesh_descr">
 		<text>Piel arrancada de una raza de cerdos mutados comúnmente denominados carnes. Su gran peso (su mayor inconveniente) se debe a una gruesa capa de grasa bajo la piel, relativamente blanda y poco profunda. Ofrece escasa protección física, pero, en cambio, reduce considerablemente los efectos nocivos de las anomalías químicas, térmicas y eléctricas. Solo puede utilizarse para reparaciones menores, ya que la capa de grasa es inútil para el mantenimiento del blindaje y debe quitarse, dejando solo un trocito de tejido cutáneo superficial.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_boar_name">
@@ -177,7 +178,8 @@
 	<string id="st_hide_boar_descr">
 		<text>Una piel cubierta casi del todo por una gruesa capa de pelaje, extraída de uno de los jabalíes que se encuentran habitualmente en la Zona. Los mutantes como tales son bastante resistentes al daño y pueden soportar castigos considerables, y esto se debe a una sencilla razón: gran masa muscular y huesos casi irrompibles. La piel, por otro lado, es bastante fina (muy probablemente para ofrecerle a la criatura un medio eficaz de regular su temperatura), lo que la convierte en una opción bastante mediocre para mejorar el blindaje. A su vez, el pelaje hace de la piel un aislante térmico relativamente potente. También puede utilizarse para reparaciones ligeras. Por desgracia, llevar la piel encima del blindaje hace que el portador sea menos resistente a los daños radiactivos y tóxicos, ya que las partículas pesadas suelen acumularse en el pelo.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Piel de mutante ligera \n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_bloodsucker_name">
@@ -186,7 +188,8 @@
 	<string id="st_hide_bloodsucker_descr">
 		<text>Los chupasangres son una especie derivada de los seres humanos, y esta afinidad aún puede apreciarse en la textura de su piel. Lo más característico es que la piel es muy suave y agradable al tacto, casi como la piel de un niño. No obstante, esto solo se aplica a la capa exterior: por debajo, los chupasangres cuentan con músculos bien desarrollados que pueden utilizarse para formar una especie de abrigo con un considerable potencial reductor del daño, especialmente en lo que respecta a los ataques cuerpo a cuerpo. Esto hace que la piel de los chupasangres sea una elección popular entre los cazadores experimentados, que también la llevan como muestra de su pericia. La propiedad más exclusiva y, al mismo tiempo, el mayor inconveniente de la piel es su intensísima reacción a los cambios de temperatura: aunque el tejido en sí solo prende fuego a temperaturas muy altas, puede calentarse mucho y dañar cada vez más al usuario y el equipo que lleve debajo.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_psysucker_name">
@@ -195,7 +198,8 @@
 	<string id="st_hide_psysucker_descr">
 		<text>Los psicovampiros son una especie derivada de los chupasangres, y esta afinidad aún puede apreciarse en la textura de su piel. Lo más característico es que la piel es muy suave y agradable al tacto, casi como la piel de un niño. No obstante, esto solo se aplica a la capa exterior: por debajo, los psicovampiros cuentan con músculos bien desarrollados que pueden utilizarse para formar una especie de abrigo con un considerable potencial reductor del daño, especialmente en lo que respecta a los ataques cuerpo a cuerpo. Esto hace que la piel de los psicovampiros sea una elección popular entre los cazadores experimentados, que también la llevan como muestra de su pericia. La propiedad más exclusiva y, al mismo tiempo, el mayor inconveniente de la piel es su intensísima reacción a los cambios de temperatura: aunque el tejido en sí solo prende fuego a temperaturas muy altas, puede calentarse mucho y dañar cada vez más al usuario y el equipo que lleve debajo. Los informes indican que, aunque la piel ofrece una protección física relativamente baja, puede utilizarse para absorber y dispersar cantidades considerables de ondas psíquicas cuando se lleva en la cabeza.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_lurker_name">
@@ -204,7 +208,8 @@
 	<string id="st_hide_lurker_descr">
 		<text>Una piel cubierta casi del todo por una capa de pelaje, extraída de un merodeador. Los mutantes como tales son bastante resistentes al daño y pueden soportar castigos considerables, y esto se debe a una sencilla razón: gran masa muscular y huesos casi irrompibles. La piel de los merodeadores es conocida por ser gruesa y resistente, lo que la convierte en una buena opción para mejorar el blindaje. A su vez, el pelaje hace de la piel un aislante térmico relativamente potente. También puede utilizarse para reparaciones ligeras.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_burer_name">
@@ -213,7 +218,8 @@
 	<string id="st_hide_burer_descr">
 		<text>Despellejar a un sepulturero es como despellejar a un enano retorcido. Añádele un hedor casi insoportable a huevos podridos y te harás una idea de por qué los stalkers lo consideran toda una hazaña. Los informes indican que, aunque la piel ofrece una protección física relativamente baja, puede utilizarse para absorber y dispersar cantidades considerables de ondas psíquicas cuando se lleva en la cabeza. La piel del sepulturero tiene una baja resistencia eléctrica, por lo que su portador es más susceptible a los daños eléctricos. Además, debido al hecho de que los sepultureros son relativamente raros en la Zona, la piel tiene un importante potencial de investigación, lo que la convierte en un valioso objeto de comercio para los científicos.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_chimera_name">
@@ -222,7 +228,8 @@
 	<string id="st_hide_chimera_descr">
 		<text>La quimera, al ser uno de los mutantes más peligrosos de la Zona, no solo es una amenaza significativa, sino que también se puede considerar una fuente viable de riquezas. Todas las partes que se pueden sacar de una quimera se pueden vender por mucho dinero, pero la piel es uno de los especímenes científicos más valorados, así como una de las mejores mejoras de blindaje disponibles en la zona de exclusión. Ofrece muy buenas propiedades de protección y, lo que es más importante, es relativamente ligero, gracias a lo cual no limita la movilidad. Sin embargo, su característica más singular es que las fibras orgánicas de la piel actúan como conductores eléctricos muy eficaces. Este hecho confirma en gran medida los informes de las unidades de reconocimiento (especialmente las que exploran los alrededores del Complejo Industrial AMK) sobre avistamientos de quimeras rodeadas de lo que parecía una anomalía eléctrica, que producían descargas al contacto con cualquier ser vivo hostil. Por desgracia, ninguna unidad pudo regresar, por lo que no hay pruebas que corroboren la existencia de tal criatura.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_pseudogiant_name">
@@ -231,7 +238,8 @@
 	<string id="st_hide_pseudogiant_descr">
 		<text>La piel de un pseudogigante se parece en muchos aspectos a la de un elefante. Es gruesa y dura al tacto, su textura es muy irregular y está llena de pliegues que hacen de mecanismo de refrigeración de la criatura. El grosor medio de la piel del pseudogigante es de unos 2 cm, lo que la hace muy duradera y capaz de soportar daños importantes. Sin embargo, esto se consigue a costa de un mayor peso. Como se sabe que los pseudogigantes suelen vivir en zonas de alta toxicidad y radiactividad, la piel se adapta de forma natural a dichas condiciones, lo que aumenta aún más su utilidad. También se puede utilizar para remendar los trajes más pesados, pero este proceso requiere las herramientas más duraderas y caras disponibles. Se valora no solo por sus cualidades prácticas, sino que también puede servir como prestigioso trofeo de caza y espécimen raro para los científicos de la Zona.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
-		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n</text>
+		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
 	</string>
 	
 	<string id="st_hide_controller_name">

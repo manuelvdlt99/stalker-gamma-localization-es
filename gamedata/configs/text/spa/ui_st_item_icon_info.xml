@@ -206,7 +206,33 @@
 	</string>
 	<string id="ui_mcm_item_icon_info_wpn_info_show_melee">
 		<text>Mostrar nombre en armas cuerpo a cuerpo</text>
-	</string><!--
+	</string>
+	<string id="ui_mcm_menu_wpn_scaling">
+		<text>Escalado de armas</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_not_installed">
+		<text>El escalado de armas no está instalado</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_title">
+		<text>Escalado y alineamiento de armas</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_enable_equip_hor_scale">
+		<text>Escalar y alinear armas equipadas horizontalmente</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_enable_equip_vert_scale">
+		<text>Escalar y alinear armas equipadas verticalmente</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_equip_vert_padding">
+		<text>Relleno en armas verticales a escala</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_equip_hor_padding">
+		<text>Relleno en armas horizontales a escala</text>
+	</string>
+	<string id="ui_mcm_item_icon_info_wpn_scaling_enable_inv_scaling">
+		<text>Escalar y alinear iconos de armas silenciadas en la bolsa de inventario</text>
+	</string>
+	
+	<!--
 		Mods
 	--><string id="ui_utjan_recipe_read">
 		<text>leído</text>
