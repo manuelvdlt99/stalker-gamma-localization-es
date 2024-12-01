@@ -362,6 +362,23 @@
 		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
 	</string>
 	
+	<string id="st_placeable_poster6">
+		<text>Póster 6</text>
+	</string>
+	<string id="st_placeable_poster6_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Mueble\n</text>
+	</string>
+	
+    <string id="st_placeable_poster7">
+		<text>Póster 7</text>
+	</string>
+	<string id="st_placeable_poster7_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Mueble\n</text>
+	</string>
     <string id="st_placeable_sink">
 		<text>Fregadero</text>
 	</string>
@@ -408,7 +425,7 @@
 	</string>
 	
     <string id="st_placeable_trophie1">
-		<text>Trofeo de jabalí</text>
+		<text>Trofeo de jabalí A</text>
 	</string>
 	<string id="st_placeable_trophie1_descr">
 		<text>%c[ui_gray_1]PROPIEDADES:\n
@@ -444,9 +461,45 @@
 	</string>
 	
     <string id="st_placeable_trophie5">
-		<text>Trofeo de chupasangre</text>
+		<text>Trofeo de chupasangre A</text>
 	</string>
 	<string id="st_placeable_trophie5_descr">
+		<text>%c[ui_gray_1]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
+	</string>
+	
+	<string id="st_placeable_trophie6">
+		<text>Trofeo de chupasangre B</text>
+	</string>
+	<string id="st_placeable_trophie6_descr">
+		<text>%c[ui_gray_1]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie7">
+		<text>Trofeo de perro ciego</text>
+	</string>
+	<string id="st_placeable_trophie7_descr">
+		<text>%c[ui_gray_1]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie8">
+		<text>Trofeo de carne</text>
+	</string>
+	<string id="st_placeable_trophie8_descr">
+		<text>%c[ui_gray_1]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie9">
+		<text>Trofeo de jabalí B</text>
+	</string>
+	<string id="st_placeable_trophie9_descr">
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
 		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
@@ -569,15 +622,165 @@
 		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
 	</string>
 	
+	<string id="st_placeable_wall_divider">
+		<text>Biombo 2 x 2</text>
+	</string>
+	<string id="st_placeable_wall_divider_descr">
+		<text>%c[ui_gray_1]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_green] • %c[ui_gray_2] Mueble\n</text>
+	</string>	
+	
+   <string id="st_placeable_storage01">
+		<text>Contenedor de metal</text>
+	</string>
+	<string id="st_placeable_storage01_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 300 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage02">
+		<text>Contenedor de metal grande</text>
+	</string>
+	<string id="st_placeable_storage02_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 700 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage03">
+		<text>Caja metálica verde</text>
+	</string>
+	<string id="st_placeable_storage03_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 70 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage04">
+		<text>Caja fuerte pequeña</text>
+	</string>
+	<string id="st_placeable_storage04_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 35 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage05">
+		<text>Caja de herramientas vacía</text>
+	</string>
+	<string id="st_placeable_storage05_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 60 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage06">
+		<text>Cofre vacío</text>
+	</string>
+	<string id="st_placeable_storage06_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 170 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage07">
+		<text>Taquilla</text>
+	</string>
+	<string id="st_placeable_storage07_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 120 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_storage08">
+		<text>Caja fuerte grande</text>
+	</string>
+	<string id="st_placeable_storage08_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_blue] • %c[ui_gray_2] Almacenamiento\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_purple] • %c[ui_gray_3] Capacidad:%c[ui_gray_2] 70 kg\n</text>
+	</string>
+	
+   <string id="st_placeable_wooden_board">
+		<text>Panel de madera</text>
+	</string>
+	<string id="st_placeable_wooden_board_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Usado para bloquear ventanas y entradas\n</text>
+	</string>
+	
+   <string id="st_placeable_wooden_plank">
+		<text>Tablón de madera</text>
+	</string>
+	<string id="st_placeable_wooden_plank_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Usado para bloquear ventanas y entradas\n</text>
+	</string>
+	
+   <string id="st_placeable_metal_plate">
+		<text>Chapa de metal</text>
+	</string>
+	<string id="st_placeable_metal_plate_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Usado para bloquear ventanas y entradas\n</text>
+	</string>
+	
+   <string id="st_placeable_shield">
+		<text>Escudo</text>
+	</string>
+	<string id="st_placeable_shield_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n</text>
+	</string>
+	
+   <string id="st_placeable_toilet">
+		<text>Retrete</text>
+	</string>
+	<string id="st_placeable_toilet_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Mueble\n</text>
+	</string>
+	
+   <string id="st_placeable_shower">
+		<text>Ducha</text>
+	</string>
+	<string id="st_placeable_shower_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Mueble\n</text>
+	</string>
+	
+   <string id="st_placeable_tv_box">
+		<text>Televisor de tubo </text>
+	</string>
+	<string id="st_placeable_tv_box_descr">
+		<text>%c[ui_gray_3]PROPIEDADES:\n
+		%c[d_orange] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n</text>
+	</string>
+	
    <string id="st_placeable_light1">
 		<text>Aplique</text>
 	</string>
 	<string id="st_placeable_light1_descr">
 		<text>%c[ui_gray_1]PROPIEDADES:\n
-		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] TEMP: 2700 K\n</text>
 	</string>
 	
@@ -588,8 +791,8 @@
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] TEMP: 6500 K\n</text>
 	</string>
 	
@@ -600,8 +803,8 @@
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] TEMP: 3000 K\n</text>
 	</string>
 	
@@ -612,8 +815,8 @@
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] TEMP: 4000 K\n</text>
 	</string>
 	
@@ -624,8 +827,8 @@
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] TEMP: 4000 K\n</text>
 	</string>
 	
@@ -636,8 +839,8 @@
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] TEMP: 5000 K\n</text>
 	</string>
 	
@@ -648,8 +851,8 @@
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] HUE: 2000 K\n</text>
 	</string>
 	
@@ -660,8 +863,8 @@
 		<text>%c[ui_gray_1]PROPIEDADES:\n
 		%c[d_blue] • %c[ui_gray_2] Objeto tecnológico\n
 		%c[d_blue] • %c[ui_gray_2] Objeto colocable\n
-		%c[d_blue] • %c[ui_gray_2] Combustible: pilas\n	
-		%c[d_green] • %c[ui_gray_2] Consumo energético muy bajo\n
+		%c[d_blue] • %c[ui_gray_3] Combustible: %c[ui_gray_2]pilas\n	
+		%c[d_green] • %c[ui_gray_3] Duración de la energía: %c[ui_gray_2]2 semanas\n
 		%c[d_purple] • %c[ui_gray_2] TEMP: 4000 K\n</text>
 	</string>
 </string_table>

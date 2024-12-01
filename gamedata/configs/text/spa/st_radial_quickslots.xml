@@ -58,6 +58,26 @@
         <text>Accesos rápidos radiales</text>
     </string>
 
+	<string id="ui_mcm_radial_quickslots_general_title">
+        <text>GENERAL</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion">
+        <text>Activar cámara lenta</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_desc">
+        <text>Activar esta opción ralentiza el tiempo cuando se abre el menú radial.</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_factor">
+        <text>Factor de cámara lenta</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_factor_desc">
+        <text>Si la opción «Activar cámara lenta» está activada, esta opción determina el factor de tiempo que usar cuando se abre el menú radial.</text>
+    </string>
+	
     <string id="ui_mcm_radial_quickslots_keybindings_title">
         <text>TECLAS ASIGNADAS</text>
     </string>

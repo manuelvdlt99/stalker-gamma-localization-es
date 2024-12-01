@@ -6,7 +6,7 @@
 		<text>Solitarios</text>
 	</string>
 	<string id="st_faction_stalker_desc">
-		<text>%c[0,150,150,150]Los solitarios, o stalkers libres, prefieren permanecer al margen de todas las facciones que operan en la Zona.\n \nLa inmensa mayoría de los habitantes de la Zona pertenecen a esta hermandad tácita y prefieren vivir sus vidas sin dejarse embaucar por los ideales de los demás.\n \n%c[0,255,255,255]Recomendado para: nuevos jugadores</text>
+		<text>%c[0,150,150,150]Los solitarios, o stalkers libres, prefieren permanecer al margen de todas las facciones que operan en la Zona.\n \nLa inmensa mayoría de los habitantes de la Zona pertenecen a esta hermandad tácita y prefieren vivir sus vidas sin dejarse embaucar por los ideales de los demás.\n \n%c[0,255,255,255]RECOMENDADO PARA: nuevos jugadores</text>
 	</string>
 	<string id="st_faction_bandit">
 		<text>Bandidos</text>
@@ -18,67 +18,67 @@
 		<text>Deber</text>
 	</string>
 	<string id="st_faction_dolg_desc">
-		<text>%c[0,150,150,150]Deber es una facción paramilitar que libra una guerra contra la propia Zona, considerándola una incubadora de horrores inefables que amenazarían al mundo entero si se les da rienda suelta.\n \nLlevan mucho tiempo enfrentados con Libertad debido a sus ideales opuestos.</text>
+		<text>%c[0,150,150,150]Deber es un grupo paramilitar cuyos miembros se rigen por unos claros estatutos militares. La ideología de la facción es proteger a la humanidad de los peligros de la Zona y, en última instancia, luchar por su destrucción. Deber suele encargarse de los problemas internos de la Zona, incluidos mutantes, anarquistas y bandidos. Se dice que están financiados por el Gobierno, ya que tanto ellos como los militares tienen objetivos comunes: contener, explorar y destruir la Zona.</text>
 	</string>
 	<string id="st_faction_freedom">
 		<text>Libertad</text>
 	</string>
 	<string id="st_faction_freedom_desc">
-		<text>%c[0,150,150,150]Libertad son anarquistas y temerarios que luchan por un acceso no regulado a la Zona, la cual consideran un milagro que hay que compartir. Por ende, se encuentran en constante conflicto con Deber.</text>
+		<text>%c[0,150,150,150]Un grupo anarquista formado principalmente por stalkers libres. El objetivo de la facción es preservar la Zona como un territorio libre y oponerse al monopolio de las autoridades. Aunque el grupo se autodeclara anarquista, los libertarios creen que la Zona no puede ser derrotada y que la gente debería coexistir con ella, viéndola como una gran oportunidad para la investigación y el estudio. También creen que la Zona no debería ocultarse del resto del mundo. Los emblemas que llevan en sus trajes dicen «Volia», que significa «Libertad» en ucraniano y ruso.</text>
 	</string>
 	<string id="st_faction_army">
 		<text>Militares</text>
 	</string>
 	<string id="st_faction_army_desc">
-		<text>%c[0,150,150,150]Los militares son las tropas internas del Gobierno ucraniano, los destacamentos Spetsnaz y los stalkers contratados.\n \nAdoptan una postura intransigente para asegurar la frontera entre la Zona y el mundo exterior y se les conoce por disparar a todo el personal no autorizado en el acto.</text>
+		<text>%c[0,150,150,150]Los militares son las tropas internas del Gobierno ucraniano, los destacamentos Spetsnaz y los stalkers a sueldo.\n \nProtegen la Zona de la infiltración de personas no autorizadas, adoptando una postura intransigente para asegurar la frontera entre la Zona y el mundo exterior. Son conocidos por disparar a todo el personal no autorizado en el acto. Los soldados tienen derecho a disparar sin previo aviso porque todas las personas no oficiales de la Zona se consideran «ilegales» y legalmente pueden ser eliminadas. No tienen ideología como tal y pueden ser muy corruptos. Asimismo, se encargan de proporcionar alimentos y protección a los científicos.</text>
 	</string>
 	<string id="st_faction_ecolog">
 		<text>Ecologistas</text>
 	</string>
 	<string id="st_faction_ecolog_desc">
-		<text>%c[0,150,150,150]Patrocinados por el Gobierno ucraniano, los ecologistas son un organismo oficial de científicos y asistentes de campo contratados que investigan la Zona con la esperanza de aprovechar su potencial para el bien de la humanidad.\n \n%c[0,255,255,255]Recomendado para: jugadores pacifistas</text>
+		<text>%c[0,150,150,150]Patrocinados por el Gobierno ucraniano, los ecologistas son un organismo oficial de científicos y asistentes de campo contratados que investigan la Zona con la esperanza de aprovechar su potencial para el bien de la humanidad. De todas las facciones de la Zona, los ecologistas son, por norma general, los más neutrales, ya que su única misión real es la búsqueda de conocimiento y ciencia.\n \n%c[0,255,255,255]RECOMENDADO PARA: jugadores pacifistas</text>
 	</string>
 	<string id="st_faction_killer">
 		<text>Mercenarios</text>
 	</string>
 	<string id="st_faction_killer_desc">
-		<text>%c[0,150,150,150]Los mercenarios en la Zona suelen pertenecer a una compañía semilibre de combatientes profesionales.\n \nEstos irregulares tienen todo tipo de nacionalidades y trasfondos y venden sus servicios como soldados veteranos a cualquiera que esté dispuesto a pagar.\n \nSe desconoce quién los contrató para entrar en la Zona o qué les interesa de ella.</text>
+		<text>%c[0,150,150,150]Los mercenarios en la Zona suelen pertenecer a una compañía semilibre de combatientes profesionales. Estos irregulares tienen todo tipo de nacionalidades y trasfondos, venden sus servicios como soldados veteranos a cualquiera que esté dispuesto a pagar y son conocidos por matar a cualquiera que se interponga en su camino. Suelen llevar a cabo asesinatos y robos por encargo. La mayoría de los stalkers intentan no cruzarse con ellos a menos que sea necesario o estén desesperados.</text>
 	</string>
 	<string id="st_faction_monolith">
 		<text>Monolito</text>
 	</string>
 	<string id="st_faction_monolith_desc">
-		<text>%c[0,150,150,150]El Monolito es una secta fanática hostil a todos menos a los suyos.\n \nA pesar de la destrucción de la Conciencia C, últimamente sus filas han estado creciendo de manera preocupante. Desde entonces, han retomado muchos de sus antiguos territorios.\n \n%c[0,255,255,255]Recomendado para: solo jugadores avanzados</text>
+		<text>%c[0,150,150,150]Pertenecientes a una secta fanática hostil a todos menos a los suyos, los monolitos creen en el poder del Genio, que se rumorea que es un artefacto alienígena oculto en el corazón de la Zona. Los miembros de esta facción dedican sus vidas a proteger el secreto del Gran Cristal, asegurándose de que nadie llegue nunca al centro de la Zona.\n \n%c[0,255,255,255]RECOMENDADO PARA: jugadores avanzados</text>
 	</string>
 	<string id="st_faction_csky">
 		<text>Cielo Despejado</text>
 	</string>
 	<string id="st_faction_csky_desc">
-		<text>%c[0,150,150,150]Cielo Despejado es una organización paramilitar y científica independiente cuyo fin es aumentar el conocimiento general de la Zona, salvaguardando al mismo tiempo sus secretos más letales.\n \nAunque el grupo se desmoronó tras una expedición fallida a la central nuclear de Chernóbil hace siete años, los pocos supervivientes que quedaron terminaron restaurando a la facción a su antigua talla.\n \n%c[0,255,255,255]Recomendado para: nuevos jugadores</text>
+		<text>%c[0,150,150,150]Cielo Despejado es una organización paramilitar y científica independiente cuyo fin es aumentar el conocimiento general de la Zona, salvaguardando al mismo tiempo sus secretos más letales.\n \nAunque el grupo se desmoronó tras una expedición fallida a la central nuclear de Chernóbil hace siete años, los pocos supervivientes que quedaron terminaron restaurando a la facción a su antigua talla.\n \n%c[0,255,255,255]RECOMENDADO PARA: nuevos jugadores</text>
 	</string>
 	<string id="st_faction_renegade">
 		<text>Renegados</text>
 	</string>
 	<string id="st_faction_renegade_desc">
-		<text>%c[0,150,150,150]Los Renegados son los stalkers más despreciables de toda la Zona.\n \nTodos sus miembros han cometido delitos tan graves que ningún grupo los acepta; ni siquiera los bandidos los toleran.\n \n%c[0,255,255,255]Recomendado para: solo jugadores avanzados</text>
+		<text>%c[0,150,150,150]La facción está formada principalmente por bandidos no organizados bajo el liderazgo de Yoga y stalkers que se escindieron de otras facciones. Los Renegados no parecen tener un liderazgo formal y en su lugar actúan como bandas y pandillas. La mayoría de los Renegados han cometido delitos tan graves que ningún grupo los acepta, e incluso los bandidos apenas los toleran.\n \n%c[0,255,255,255]RECOMENDADO PARA: jugadores avanzados</text>
 	</string>
 	<string id="st_faction_greh">
 		<text>Pecado</text>
 	</string>
 	<string id="st_faction_greh_desc">
-		<text>%c[0,150,150,150]El Pecado es una secta extremadamente hostil de stalkers mutantes que creen en la esencia divina de la Zona.\n \nLos «stalkers oscuros» de la ominosa facción Pecado, también descritos como zombificados, mutados o poseídos, pretenden expandir la Zona por todo el mundo, y no se detendrán ante nada para alcanzar su ambicioso objetivo.\n \n%c[0,255,255,255]Recomendado para: solo jugadores avanzados</text>
+		<text>%c[0,150,150,150]El Pecado es una secta extremadamente hostil de stalkers mutantes que creen en la esencia divina de la Zona.\n \nLos «stalkers oscuros» de la ominosa facción Pecado, también descritos como zombificados, mutados o poseídos, pretenden expandir la Zona por todo el mundo, y no se detendrán ante nada para alcanzar su ambicioso objetivo.\n \n%c[0,255,255,255]RECOMENDADO PARA: solo jugadores avanzados</text>
 	</string>
 	<string id="st_faction_isg">
 		<text>UNISG</text>
 	</string>
 	<string id="st_faction_isg_desc">
-		<text>%c[0,150,150,150]El Grupo Científico Internacional de las Naciones Unidas (UNISG) es una unidad de fuerzas especiales muy interesada en la Zona.\n \nSea cual sea su objetivo, sus agentes son de todo menos indefensos, y la mayoría prefiere disparar primero que arriesgarse a que se filtre información sobre sus movimientos.\n \n%c[0,255,255,255]Recomendado para: solo jugadores avanzados</text>
+		<text>%c[0,150,150,150]El Grupo Científico Internacional de las Naciones Unidas (UNISG) es una unidad de fuerzas especiales muy interesada en la Zona.\n \nSea cual sea su objetivo, sus agentes son de todo menos indefensos, y la mayoría prefiere disparar primero que arriesgarse a que se filtre información sobre sus movimientos.\n \n%c[0,255,255,255]RECOMENDADO PARA: solo jugadores avanzados</text>
 	</string>
 	<string id="st_faction_zombied">
 		<text>Zombificados</text>
 	</string>
 	<string id="st_faction_zombied_desc">
-		<text>%c[0,150,150,150]¡¡¡Cereeebroosss!!!\n \nLos stalkers zombificados son cascarones descerebrados de su antiguo ser reducidos a sus instintos animales más primarios, y atacarán a casi cualquier cosa que se les acerque demasiado.\n \n%c[0,255,255,255]Recomendado para: solo jugadores avanzados</text>
+		<text>%c[0,150,150,150]¡¡¡Cereeebroosss!!!\n \nLos stalkers zombificados son cascarones descerebrados de su antiguo ser reducidos a sus instintos animales más primarios, y atacarán a casi cualquier cosa que se les acerque demasiado.\n \n%c[0,255,255,255]RECOMENDADO PARA: solo jugadores avanzados</text>
 	</string>
 	
 	<!-- Hint -->
@@ -148,8 +148,7 @@
 		</text>
 	</string>
 	<string id="st_mm_ck_campfire_desc">
-		<text>
-			%c[0,150,150,150](NO MARCAR, ya está el mod Better Campfire Saves para eso)\n \nEn el modo de guardado Hoguera, no podrás guardar si no estás al lado de una hoguera. Hay hogueras en todas partes y son lugares de reunión para los stalkers de toda la Zona.\n \n%c[200,50,200,50]• %c[0,150,150,150]Todos los modos de guardado extremo son compatibles entre sí
+		<text>%c[0,255,255,255](%c[d_red]NO MARCAR, el mod «Better Campfire Saves» se encarga de esto%c[0,255,255,255])\n
 		</text>
 	</string>
 	<string id="st_mm_ck_conditions_desc">
@@ -183,22 +182,22 @@
 		<text>Personaje</text>
 	</string>
 	<string id="st_mm_new_game_faction">
-		<text>Elegir facción</text>
+		<text>Elige una facción</text>
 	</string>
 	<string id="st_mm_new_game_icon">
-		<text>Elegir retrato</text>
+		<text>Elige un retrato</text>
 	</string>
 	<string id="st_mm_new_game_options">
 		<text>Opciones</text>
 	</string>
 	<string id="st_mm_new_game_inventory">
-		<text>Inventario</text>
+		<text>INVENTARIO</text>
 	</string>
 	<string id="st_mm_new_game_loadout">
-		<text>Armamento</text>
+		<text>ARMAMENTO</text>
 	</string>
 	<string id="st_mm_new_game_name">
-		<text>Nombre:</text>
+		<text>NOMBRE:</text>
 	</string>
 	<string id="st_mm_new_game_faction_2">
 		<text>Facción:</text>
@@ -207,22 +206,22 @@
 		<text>Dinero:</text>
 	</string>
 	<string id="st_mm_new_game_points_left">
-		<text>Puntos:</text>
+		<text>PUNTOS:</text>
 	</string>
 	<string id="st_mm_new_game_points_used">
-		<text>Puntos usados:</text>
+		<text>PUNTOS USADOS:</text>
 	</string>
 	<string id="ui_st_random_location">
-		<text>-Ubicación aleatoria-</text>
+		<text>Ubicación aleatoria</text>
 	</string>
 	
 
 	<!-- Description elements -->
 	<string id="st_mm_new_game_relations">
-		<text>Relaciones</text>
+		<text>RELACIONES:</text>
 	</string>
 	<string id="st_mm_new_game_description">
-		<text>Breve historia</text>
+		<text>BREVE HISTORIA:</text>
 	</string>
 	<string id="st_mm_new_game_points">
 		<text>Puntos</text>
@@ -244,7 +243,7 @@
 		<text>Misiones DoctorX</text>
 	</string>
 	<string id="st_cap_check_campfire">
-		<text>Modo Hoguera (NO TOCAR)</text>
+		<text>(NO TOCAR)</text>
 	</string>
 	<string id="st_cap_check_conditions">
 		<text>Modo Agonía</text>
@@ -334,19 +333,19 @@
 	
 	<!-- Buttons -->
 	<string id="st_mm_btn_new_game_faction">
-		<text>Facción</text>
+		<text>FACCIÓN</text>
 	</string>
 	<string id="st_mm_btn_new_game_icon">
-		<text>Retrato</text>
+		<text>RETRATO</text>
 	</string>
 	<string id="st_mm_btn_new_game_back">
-		<text>Atrás</text>
+		<text>VOLVER</text>
 	</string>
 	<string id="st_mm_btn_new_game_submit">
-		<text>Empezar</text>
+		<text>EMPEZAR</text>
 	</string>
 	<string id="st_mm_btn_new_game_rand">
-		<text>Al azar</text>
+		<text>AL AZAR</text>
 	</string>
 	
 	<!-- Discord -->

@@ -1499,8 +1499,7 @@
 		<text>RPD</text>
 	</string>
 	<string id="st_wpn_rpd_descr">
-		<text>La RPD es una ametralladora ligera desarrollada en la Unión Soviética por Vasili Degtiariov para el cartucho intermedio de 7,62 x 39 mm M43 y se creó como reemplazo para la ametralladora DP. Dispara mediante un percutor y tiene un mecanismo de disparo limitado al fuego automático. La ametralladora recibe los cartuchos por el lado izquierdo desde una cinta metálica segmentada con eslabones abiertos.
-		%c[0,255,255,255]PROPIEDADES:\n
+		<text>La RPD es una ametralladora ligera desarrollada en la Unión Soviética por Vasili Degtiariov para el cartucho intermedio de 7,62 x 39 mm M43 y se creó como reemplazo para la ametralladora DP. Dispara mediante un percutor y tiene un mecanismo de disparo limitado al fuego automático. La ametralladora recibe los cartuchos por el lado izquierdo desde una cinta metálica segmentada con eslabones abiertos.\n \n%c[0,255,255,255]PROPIEDADES:\n
 		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Unión Soviética\n
 		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Planta Degtiariov\n</text>
 	</string>

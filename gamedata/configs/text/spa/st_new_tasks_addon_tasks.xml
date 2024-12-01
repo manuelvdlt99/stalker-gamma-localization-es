@@ -11,7 +11,7 @@
 		<text>Nuestros muchachos han informado de que algunos solitarios han desaparecido recientemente mientras se dirigían desde el aserradero de Darkscape hasta nuestro campamento. El camino siempre ha sido relativamente seguro, así que la gente solía viajar de noche para evitar a bandidos y soldados. Los que se alojaban en el aserradero escucharon sus gritos en la oscuridad, pero nadie fue lo bastante valiente como para arriesgar su vida intentando ayudarlos. Aún no se han encontrado los cuerpos de los stalkers desaparecidos desde que amaneció. Los stalkers de los alrededores han reunido un dinerillo para quien esté dispuesto a investigar lo sucedido.</text>
 	</string>
 	<string id="esc_m_trader_task_new_tasks_addon_dead_night_finish">
-		<text>What a horrible fate... thank you for putting the dead to their final rest and making sure no more lads will join their forces. Here - you've earned it.</text>
+		<text>Qué destino tan horrible... gracias por dar el último descanso a los muertos y asegurarte de que ningún otro se una a sus fuerzas. Toma, te lo has ganado.</text>
 	</string>
     <string id="dead_night_details">
         <text>Investiga el lugar por la noche</text>
@@ -328,6 +328,45 @@
 	<string id="jup_a6_stalker_barmen_task_the_keepsake_finish">
 		<text>Hoy has hecho un buen acto, stalker. Nuestro amigo ya ha dejado la Zona, pero me aseguraré de que le llegue este paquete.</text>
 	</string>
+	
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_name">
+		<text>Documentos de inteligencia de Libertad</text>
+	</string>
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_text">
+		<text>Loki me ha pedido que recupere los documentos de inteligencia escondidos por una de sus partidas de exploración.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_about">
+		<text>Como ya sabrás, somos el puesto de avanzada de Libertad más al norte de la Zona. Esto conlleva el gran inconveniente de enfrentamientos recurrentes con el Monolito y el Pecado. Tenemos varias partidas de exploración ahí fuera para facilitarnos la vida recopilando información sobre los movimientos enemigos y emboscando a los escuadrones más pequeños.\n \nHace poco desapareció una de esas partidas, pero tenían un alijo donde guardaban su botín. Dicho alijo también debería contener los datos que debían entregar. El trabajo es sencillo: necesito esos documentos. Puedes quedarte todo lo demás que haya en ese alijo.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_task_freedom_intel_documents_finish">
+		<text>Buen chico. Toma tu recompensa.</text>
+	</string>
+
+	<string id="guid_zan_stalker_locman_task_pilots_pda_name">
+		<text>La PDA de Piloto</text>
+	</string>
+	<string id="guid_zan_stalker_locman_task_pilots_pda_text">
+		<text>Piloto ha perdido su PDA al caer en una emboscada cuando guiaba a otro stalker hacia el norte. Me ha pedido que la recupere.</text>
+	</string>
+	<string id="guid_zan_stalker_locman_task_pilots_pda_about">
+		<text>¿Estás listo para una aventura mortal, stalker? Tengo una misión trivial pero muy peligrosa al mismo tiempo.\n \nNo entraré en demasiados detalles, pero mi cliente y yo sufrimos una emboscada del Monolito hace algún tiempo, cuando intentaba guiarlo hacia el norte. Salimos con vida, pero perdí mi PDA en el fragor de la batalla. Guarda bastantes secretos, quiero recuperarla. Siempre tengo el GPS encendido y Barbas me ha ayudado a localizar su última posición antes de que se quedara sin batería.\n \nBuenas noticias: la PDA no se movió durante mucho tiempo, así que estoy seguro de que la escondieron en algún sitio. Malas noticias: está en algún lugar del Sarcófago. Entonces... ¿qué me dices?</text>
+	</string>
+	<string id="guid_zan_stalker_locman_task_pilots_pda_finish">
+		<text>Menuda hazaña. ¿No has pensado hacerte guía? Parece que sabes cómo salir del peligro.</text>
+	</string>
+
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_name">
+		<text>Planes del Monolito</text>
+	</string>
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_text">
+		<text>Los hombres de Grifo han sacado información sobre un alijo perteneciente a un alto mando del Monolito que supuestamente contiene algunos planos de asalto. Necesito devolvérselos.</text>
+	</string>
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_about">
+		<text>Sí, tengo algo para ti. Hace poco nos enfrentamos a una partida de exploración del Monolito y conseguimos capturar a uno de ellos con vida. Resulta que han estado inspeccionando la zona para terminar de preparar sus planes de asalto. El superviviente conocía la ubicación del alijo de su líder que contiene esos planes. Necesito que me traigas esos planes. Puedes quedarte con cualquier otra cosa que encuentres.</text>
+	</string>
+	<string id="merc_pri_grifon_mlr_task_monolith_plans_finish">
+		<text>Buen trabajo. Esos fanáticos no se desharán de nosotros tan fácilmente.</text>
+	</string>
 
 	<!-- The Living Fire -->
 	<string id="bar_informator_mlr_task_the_living_fire_name">
@@ -451,8 +490,124 @@
 	</string>
 	
 	<!-- The Living Fire end -->
+	<!-- Mystery of the Swamps -->
+	<string id="task_mystery_of_the_swamps_name">
+		<text>El misterio de los pantanos</text>
+	</string>
+	<string id="task_mystery_of_the_swamps_text">
+		<text>Sájarov me ha pedido que lo ayude a investigar anormalidades recientes en las regiones pantanosas de la Zona.</text>
+	</string>
 
+	<string id="mystery_of_the_swamps_barman_msg_1">
+		<text>¡Hola, amigo! Ven para acá, tenemos que hablar.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_1">
+		<text>Nos estamos acercando. Estad alerta.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_2">
+		<text>Creo que ese era el último. Sájarov tenía razón... la cantidad de karliks era muy anormal. Pero bueno, haced vuestras cosas de científicos. No quiero quedarme aquí mucho tiempo.</text>
+	</string>
+	<string id="mystery_of_the_swamps_ecolog_msg_1">
+		<text>¡Vamos!</text>
+	</string>
+	<string id="mystery_of_the_swamps_ecolog_msg_2">
+		<text>Tengo todos los datos. Volvamos al búnker.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_fail_1">
+		<text>Me has decepcionado, stalker... Contratarte como guardaespaldas fue un error.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_1">
+		<text>Creo que no deberíamos separarnos, colega. No sabemos qué mató a ese científico.</text>
+	</string>
+	<string id="mystery_of_the_swamps_data_collected_1">
+		<text>Datos reunidos.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_2">
+		<text>¡MIERDA! ¡Cuidado!</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_3">
+		<text>¿Qué demonios ha sido eso?</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_3">
+		<text>Parecía un... fantasma... Esto me da mala espina...</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_4">
+		<text>¿Un fantasma? ¿Otra vez? Esto me da mala espina...</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_1">
+		<text>¡Stalker! ¿Me recibes? ¡Cambio de planes! Dirígete a la granja abandonada en el Valle Oscuro. ¡Uno de nuestros científicos necesita atención médica urgente! Te envío las coordenadas. No menciones el dinero, ya nos ocuparemos de eso más tarde.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_5">
+		<text>Es demasiado tarde, profesor. Su hombre está muerto. Pero no veo ninguna herida en su cuerpo... ¿Qué pasa aquí?</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_2">
+		<text>Otra tragedia más...\n \nEnviamos a ese hombre con dos guardaespaldas para tomar lecturas del pantano en Darkscape. Dijo que fueron atacados por algún tipo de bestia y que apenas logró salir con vida. Pocos minutos después dijo que estaba perdiendo el sentido y que sentía un dolor insoportable por todo el cuerpo. Perdimos la conexión con él, pero logramos capturar sus últimas coordenadas. Entonces nos pusimos en contacto contigo.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_6">
+		<text>Bueno, este hombre probablemente estaba muerto mucho antes de que yo llegara aquí. Ya no puedo hacer nada al respecto. Pronto estaré de vuelta en su búnker.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_3">
+		<text>Espera, muchacho. Ya que estás allí, ¿estarías dispuesto a encargarte de ese mutante antes de volver? Por un precio, claro está.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_7">
+		<text>Probablemente sea la misma cosa que mató a su otro hombre. Puedo hacerlo.</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_4">
+		<text>¡Espere un momento! ¡Yo no me apunté a toda esta mierda! ¡Aquí está pasando algo descabellado y no quiero tener nada que ver con ello! ¡Me largo!</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_4_1">
+		<text>No te preocupes. He contactado con otro equipo que estaba llevando a cabo la investigación alrededor del pantano del Valle Oscuro. Dos de sus guardaespaldas han accedido a ayudarte. Van de camino hacia tu posición.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_4_2">
+		<text>He contactado con otro equipo que estaba llevando a cabo la investigación alrededor del pantano del Valle Oscuro. Dos de sus guardaespaldas han accedido a ayudarte. Van de camino hacia tu posición.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_8">
+		<text>Nos estamos acercando. Tomad posiciones defensivas y asegurad la zona. Yo buscaré los cuerpos y al mutante que mató a los científicos.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_fail_2">
+		<text>Aborta la misión, stalker. Parece que no eres el idóneo para ello...</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_9">
+		<text>Con eso debería estar. Preparaos para salir. Estaré allí en un minuto.</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_10">
+		<text>¿Estáis listos? En marcha...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_5">
+		<text>¡Esperad! Mi radio está captando algo.</text>
+	</string>
+	<string id="mystery_of_the_swamps_sakharov_msg_5">
+		<text>¡Ab...tad la m...ión! ... rep..., ab...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_6">
+		<text>Es Sájarov. Deberíamos salir de este maldito cañón para captar la señ...</text>
+	</string>
+	<string id="mystery_of_the_swamps_stalker_msg_7">
+		<text>¿Qué cojones ha sido eso?</text>
+	</string>
+	<string id="mystery_of_the_swamps_actor_msg_11">
+		<text>¡Corred!</text>
+	</string>
+
+	<string id="st_af_tlf_lost_soul">
+		<text>Alma Perdida</text>
+	</string>
+	<string id="st_af_tlf_lost_soul_descr">
+		<text>Aunque este artefacto se parece a un artefacto Alma común, posee propiedades extraordinarias. Proporciona una mayor protección telepática y no tiene efectos negativos.</text>
+	</string>
+	<!-- Mystery of the Swamps end -->
 	<string id="nta_intercept_item">
 		<text>Intercepta un objeto:</text>
+	</string>
+	
+	<string id="nta_search_the_stash">
+		<text>Registra el alijo</text>
+	</string>
+
+	<string id="nta_quest_documents_name">
+		<text>Documentos encriptados</text>
+	</string>
+	<string id="nta_quest_documents_desc">
+		<text>Documentos muy encriptados imposibles de descifrar sin el cifrado adecuado.</text>
 	</string>
 </string_table>

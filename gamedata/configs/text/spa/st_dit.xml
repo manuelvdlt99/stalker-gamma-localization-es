@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<string_table>
+	<string id="dit_no_consume_ctrl">
+		<text>%sPara prevenir el uso accidental de las herramientas,\nel procedimiento solo puede llevarse a cabo manteniendo la tecla Mayús. izquierdo%s</text>
+	</string>
+</string_table>
