@@ -171,17 +171,39 @@
 	<string id="ui_mcm_magazines_gameplay_retain_round_desc">
 		<text>Si se activa, las armas conservarán un proyectil en la recámara cuando se expulse el cargador.</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_fast_loading">
-		<text>Activar carga instantánea en los alijos</text>
+	<string id="ui_mcm_magazines_gameplay_loadstash_behavior">
+		<text>Comportamiento de carga de cargadores en alijos</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_fast_loading_desc">
-		<text>Si se activa, insertar y quitar cartuchos en los alijos será instantáneo, como en Escape from Tarkov.</text>
+	<string id="ui_mcm_magazines_gameplay_loadstash_behavior_desc">
+		<text>Selecciona el estilo de comportamiento al insertar cartuchos en cargadores en la ventana de alijo. Ten en cuenta que seleccionar opciones más rápidas impedirá algunas características implícitas como el escalonamiento de diferentes tipos de munición.</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_quick_loading">
-		<text>Activar carga rápida de cargadores</text>
+	<string id="ui_mcm_magazines_gameplay_tacload">
+		<text>Desactivar carga de cargadores interrumpible</text>
 	</string>
-	<string id="ui_mcm_magazines_gameplay_quick_loading_desc">
-		<text>Si se activa, la carga de cartuchos en el inventario será más rápida, haciéndolo caja a caja.</text>
+	<string id="ui_mcm_magazines_gameplay_tacload_desc">
+		<text>Facilita la recarga de armas al impedir que la manipulación del movimiento/inventario cancele las recargas. Facilita el juego, pero puede dar lugar a casos en los que las recargas se produzcan instantáneamente cuando se interrumpa la animación.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_load_behavior">
+		<text>Comportamiento de carga de cargadores</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_load_behavior_desc">
+		<text>Selecciona el estilo de comportamiento al insertar cartuchos en cargadores en la ventana del inventario o de saqueo.\n \nApuntes:\n - Ten en cuenta que seleccionar opciones más rápidas impedirá algunas características implícitas como el escalonamiento de diferentes tipos de munición.\n - Las cajas de munición son la cantidad contenida en un objeto de «munición»; puede oscilar entre 10 cartuchos para perdigones y 14-16 cartuchos para pistolas.</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_unload_behavior">
+		<text>Comportamiento de descarga de cargadores</text>
+	</string>
+	<string id="ui_mcm_magazines_gameplay_unload_behavior_desc">
+		<text>Selecciona el estilo de comportamiento al quitar cartuchos de cargadores. Ten en cuenta que, por comodidad, los cargadores se descargan siempre al instante desde un alijo.</text>
+	</string>
+
+	<string id="ui_mcm_lst_ind">
+		<text>Cartucho a cartucho</text>
+	</string>
+	<string id="ui_mcm_lst_box">
+		<text>Caja a caja</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Instantáneo</text>
 	</string>
 	<string id="ui_mcm_magazines_gameplay_ejection">
 		<text>Comportamiento de cargadores vacíos</text>

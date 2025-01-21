@@ -39,7 +39,7 @@
 		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]69</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_s">
-		<text>.45 ACP HS</text>
+		<text>.45 ACP punta hueca</text>
 	</string>
 	
 	<string id="ammo-12.7x55-fmj">

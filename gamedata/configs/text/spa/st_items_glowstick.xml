@@ -70,4 +70,20 @@
     <string id="ui_mcm_glowsticks_throw_key_desc">
         <text>La tecla que hay que mantener pulsada para lanzar barras luminosas.</text>
     </string>
+	
+	<string id="ui_mcm_glowsticks_equip_next">
+        <text>Equipar siguiente barra después de lanzar</text>
+    </string>
+	<string id="ui_mcm_glowsticks_sort_worst">
+        <text>Usar barras gastadas primero</text>
+    </string>
+    <string id="ui_mcm_glowsticks_sort_worst_desc">
+        <text>Si se activa, el jugador usará primero las barras luminosas en peor estado y dejará las barras luminosas sin usar para después.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_keybind">
+        <text>Tecla para lanzar</text>
+    </string>
+	<string id="ui_mcm_glowsticks_keybind_desc">
+        <text>Tecla para lanzar barras luminosas.</text>
+    </string>
 </string_table>

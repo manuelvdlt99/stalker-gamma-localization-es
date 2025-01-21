@@ -70,7 +70,7 @@ Pistols and MP's
 		<text>Cargador estándar de .357 de Desert Eagle</text>
 	</string>
 	<string id="st_mag_desert_eagle_357_hp_descr">
-		<text>Cargador estándar de .357 de Desert Eagle que contiene 7 cartuchos. Hasta el cargador es enorme.</text>
+		<text>Cargador estándar de .357 de Desert Eagle que contiene 9 cartuchos. Hasta el cargador es enorme.</text>
 	</string>
 
 	<string id="st_mag_fn57_5.7x28_ss190">
@@ -98,7 +98,7 @@ Pistols and MP's
 		<text>Cargador estándar de 9 x 18 mm de Fort-17</text>
 	</string>
 	<string id="st_mag_fort_9x18_fmj_descr">
-		<text>Cargador reglamentario de 17 cartuchos para la pistola Fort-12. Se suele ver en la Zona como el arma de mano de las tropas de retaguardia ucranianas o los stalkers con un trasfondo policial.</text>
+		<text>Cargador reglamentario de 17 cartuchos para la pistola Fort-17. Se suele ver en la Zona como el arma de mano de las tropas de retaguardia ucranianas o los stalkers con un trasfondo policial.</text>
 	</string>
 
 	<string id="st_mag_fort_9x19_fmj">
@@ -260,7 +260,7 @@ Pistols and MP's
 		<text>Cargador modificado de 9 x 19 mm de PP-19</text>
 	</string>
 	<string id="st_mag_bizon_9x19_fmj_descr">
-		<text>Cargador de PP-19 modificado para aceptar el cartucho de 9 x 19 mm Parabellum. Claramente obra de un mago, dada la complejidad del cargador helicoidal de la Bizon.</text>
+		<text>Cargador de PP-19 modificado para aceptar el cartucho de 9 x 19 mm Tókarev. Claramente obra de un mago, dada la complejidad del cargador helicoidal de la Bizon.</text>
 	</string>
 
 	<string id="st_mag_bizon_7.62x25_p">

@@ -34,14 +34,14 @@ Pistols and MP's
 		<text>Cargador estándar de .45 de SIG P220</text>
 	</string>
 	<string id="st_mag_sigp220_11.43x23_fmj_descr">
-		<text>Cargador estándar de .45 de SIG P220 con capacidad para 12 cartuchos.</text>
+		<text>Cargador estándar de .45 de SIG P220 con capacidad para 7 cartuchos.</text>
 	</string>
 	
 	<string id="st_mag_sigp220_11.43x23_fmjext">
 		<text>Cargador ampliado de .45 de SIG P220</text>
 	</string>
 	<string id="st_mag_sigp220_11.43x23_fmjext_descr">
-		<text>Cargador ampliado de .45 de SIG P220 con capacidad para 20 cartuchos.</text>
+		<text>Cargador ampliado de .45 de SIG P220 con capacidad para 12 cartuchos.</text>
 	</string>
 	
 	<string id="st_mag_sig226_9x19_fmj">
@@ -83,7 +83,7 @@ Pistols and MP's
 		<text>Cargador ampliado de 9 x 19 mm de Walther P99</text>
 	</string>
 	<string id="st_mag_wp99_9x19_fmjext_descr">
-		<text>Cargador ampliado de 9 x 19 mm de Walther P99 con capacidad para 16 cartuchos.</text>
+		<text>Cargador ampliado de 9 x 19 mm de Walther P99 con capacidad para 24 cartuchos.</text>
 	</string>
 
 	<string id="st_mag_p220_9x19_u2p2bas">
@@ -91,6 +91,72 @@ Pistols and MP's
 	</string>
 	<string id="st_mag_p220_9x19_u2p2bas_descr">
 		<text>Cargador estándar de 9 x 19 mm de P220 Custom Nine con capacidad para 19 cartuchos.</text>
+	</string>
+	
+	<string id="st_mag_baskiparis_9x18_20">
+		<text>Cargador pequeño de 9 x 18 mm de Kiparis</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_20_descr">
+		<text>Cargador pequeño de 9 x 18 mm de Kiparis con capacidad para 20 cartuchos.</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_20">
+		<text>Cargador pequeño de 9 x 19 mm de Kiparis</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_20_descr">
+		<text>Cargador pequeño de 9 x 19 mm de Kiparis con capacidad para 20 cartuchos.</text>
+	</string>
+
+	<string id="st_mag_baskiparis_9x18_40">
+		<text>Cargador estándar de 9 x 18 mm de Kiparis</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_40_descr">
+		<text>Cargador estándar de 9 x 18 mm de Kiparis con capacidad para 40 cartuchos.</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_40">
+		<text>Cargador estándar de 9 x 19 mm de Kiparis</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_40_descr">
+		<text>Cargador estándar de 9 x 19 mm de Kiparis con capacidad para 40 cartuchos.</text>
+	</string>
+
+	<string id="st_mag_baskiparis_9x18_81">
+		<text>Cargador ampliado de 9 x 18 mm de Kiparis</text>
+	</string>
+	<string id="st_mag_baskiparis_9x18_81_descr">
+		<text>Cargador ampliado de 9 x 18 mm de Kiparis con capacidad para 81 cartuchos.</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_81">
+		<text>Cargador ampliado de 9 x 19 mm de Kiparis</text>
+	</string>
+	<string id="st_mag_baskiparis_9x19_81_descr">
+		<text>Cargador ampliado de 9 x 19 mm de Kiparis con capacidad para 81 cartuchos.</text>
+	</string>
+
+
+	<string id="st_mag_basvz61_9x18_30">
+		<text>Cargador estándar de 9 x 18 mm de Vz. 61</text>
+	</string>
+	<string id="st_mag_basvz61_9x18_30_descr">
+		<text>Cargador estándar de 9 x 18 mm de Vz. 61 con capacidad para 30 cartuchos.</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_30">
+		<text>Cargador estándar de 9 x 19 mm de Vz. 61</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_30_descr">
+		<text>Cargador estándar de 9 x 19 mm de Vz. 61 con capacidad para 30 cartuchos.</text>
+	</string>
+
+	<string id="st_mag_basvz61_9x18_60">
+		<text>Cargador ampliado de 9 x 18 mm de Vz. 61</text>
+	</string>
+	<string id="st_mag_basvz61_9x18_60_descr">
+		<text>Cargador ampliado de 9 x 18 mm de Vz. 61 con capacidad para 60 cartuchos.</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_60">
+		<text>Cargador ampliado de 9 x 19 mm de Vz. 61</text>
+	</string>
+	<string id="st_mag_basvz61_9x19_60_descr">
+		<text>Cargador ampliado de 9 x 19 mm de Vz. 61 con capacidad para 60 cartuchos.</text>
 	</string>
 
 </string_table>

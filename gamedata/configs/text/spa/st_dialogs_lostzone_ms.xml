@@ -722,7 +722,7 @@
 		<text>¿Y qué hicisteis?</text>
 	</string>
 	<string id="stalker_stitch_mortal_sin_5">
-		<text>Pues bien, fuimos a echar un vistazo en condiciones y fue entonces cuando se armó la gorda. Resultó que había una banda de fanáticos allí... ¡pero no eran del Monolito! Los cabrones nos echaron y estuvieron persiguiendo durante días. Al final tuvimos que separarnos para perderlos. Yo me fui aquí, Rogue se fue al oeste, y creo que Strelok regresó.</text>
+		<text>Pues bien, fuimos a echar un vistazo en condiciones y fue entonces cuando se armó la gorda. Resultó que había una banda de fanáticos allí... ¡pero no eran del Monolito! Los cabrones nos echaron y nos estuvieron persiguiendo durante días. Al final tuvimos que separarnos para perderlos. Yo me fui aquí, Rogue se fue al oeste, y creo que Strelok regresó.</text>
 	</string>
 	<string id="stalker_stitch_mortal_sin_6">
 		<text>¿Y esos mismos fanáticos te persiguieron hasta el Bosque Rojo? Da miedo esa determinación.</text>
@@ -940,7 +940,7 @@
 		<text>Vaya pérdida de tiempo. Dudo que seamos capaces de capturar a más. Tendremos que resolverlo por nuestra cuenta, entonces.</text>
 	</string>
 	<string id="stalker_rogue_mortal_sin_interrogation_2">
-		<text>¿Y ahora qué?</text>
+		<text>Y ¿ahora qué?</text>
 	</string>
 	<string id="stalker_rogue_mortal_sin_interrogation_3">
 		<text>Envié un equipo de reconocimiento poco después de que te fueras para eliminar a los castigadores. Se suponía que debían aprovechar la oportunidad para observar las maniobras enemigas en las profundidades de la ciudad. Lo estaban haciendo bien hasta que cayeron en una emboscada y perdí el contacto con ellos. Ve a ver si hay supervivientes y si puedes salvar su misión.</text>
@@ -1295,13 +1295,13 @@
 		<text>¿Las máquinas con las que querías controlar la emisión? Están rotas. No puedes forzar a la Zona a expandirse ahora.</text>
 	</string>
 	<string id="gen_greh_sabaoth_mortal_sin_generators_4">
-		<text>Años de preparación... desaparecidos. Mis hijos, muertos. No puedo permitir que su sacrificio sea en vano. No dejaré... que condenes al mundo. No me rendiré. La alternativa... es inaceptable.</text>
+		<text>Años de preparación... perdidos. Mis hijos, muertos. No puedo permitir que su sacrificio sea en vano. No dejaré... que condenes al mundo. No me rendiré. La alternativa... es inaceptable.</text>
 	</string>
 	<string id="gen_greh_sabaoth_mortal_sin_generators_5">
 		<text>Ya basta. Has fracasado. Prepárate para decir adiós.</text>
 	</string>
 	<string id="gen_greh_sabaoth_mortal_sin_generators_6">
-		<text>No puedo fracasar. Aún queda una opción. Lo consultaré con el Genio. Tendrá mi vida y el mundo tendrá paz... Vyrai hecho manifiesto, tal como los Maestros querían. Adiós.</text>
+		<text>No puedo fracasar. Aún queda una opción. Lo consultaré con el Genio. Tendrá mi vida y el mundo tendrá paz... Vyrai puesto de manifiesto, tal como los Maestros querían. Adiós.</text>
 	</string>
 	<string id="gen_greh_sabaoth_mortal_sin_generators_7">
 		<text>No puedes forzar la paz, Chernobog. Te veré pronto.</text>

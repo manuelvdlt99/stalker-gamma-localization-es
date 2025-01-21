@@ -197,7 +197,7 @@
 		<text>ARMAMENTO</text>
 	</string>
 	<string id="st_mm_new_game_name">
-		<text>NOMBRE:</text>
+		<text>Nombre:</text>
 	</string>
 	<string id="st_mm_new_game_faction_2">
 		<text>Facción:</text>
@@ -209,7 +209,7 @@
 		<text>PUNTOS:</text>
 	</string>
 	<string id="st_mm_new_game_points_used">
-		<text>PUNTOS USADOS:</text>
+		<text>PTOS. USADOS:</text>
 	</string>
 	<string id="ui_st_random_location">
 		<text>Ubicación aleatoria</text>
@@ -232,7 +232,7 @@
 	
 	<!-- Hint -->
 	<string id="st_mm_itm_desc_unknown">
-		<text>No available info</text>
+		<text>No hay información disponible</text>
 	</string>
 	
 	<!-- Options -->
@@ -368,7 +368,7 @@
 		<text>Menú de pausa</text>
 	</string>
 	<string id="st_cap_check_freeplay">
-		<text>Modo Freeplay</text>
+		<text>Modo Juego libre</text>
 	</string>
 	<string id="st_azazel_lives_possessed">
 		<text>Vidas poseídas</text>

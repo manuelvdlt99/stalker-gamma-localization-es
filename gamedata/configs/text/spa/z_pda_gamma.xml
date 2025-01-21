@@ -3,10 +3,10 @@
 <string_table>
 
 	<string id="encyclopedia_gamma">
-		<text>Manual GAMMA [0.9.3]</text>
+		<text>Manual GAMMA [0.9.3.1]</text>
 	</string>
 	<string id="encyclopedia_gamma_text">
-		<text>%c[pda_blue]Manual GAMMA [0.9.3].%c[ui_gray_1]</text>
+		<text>%c[pda_blue]Manual GAMMA [0.9.3.1].%c[ui_gray_1]</text>
 	</string>
 
 	<string id="article_gamma_aaintro">
@@ -29,7 +29,7 @@
 		<text>Curación y medicina</text>
 	</string>
 	<string id="article_gamma_healing_text">
-		<text>%c[pda_white]Curación y medicina \n \n %c[ui_gray_1] \n - Usa objetos básicos de curación, como botiquines o vendas, para curar tu salud principal. Esto cura tus extremidades temporalmente (PS amarillos). \n - Para convertir los PS temporales (amarillos) en permanentes (blancos) para las extremidades, usa objetos postcuración como ibuprofeno, fentanilo, antídotos o Yadulin. \n - Cualquier medicamento con puntos blancos en su descripción curará los PS temporales para esa extremidad o zona. Estos objetos de curación tienen un icono de un corazón blanco. \n - La postcuración te dará efectos secundarios, como hambre extrema o mareos. Los mareos pueden curarse usando medicinas potenciadoras de la resistencia o agua. \n - Ten en cuenta que los inyectores de resistencia a daños funcionan (indicados por un icono de un escudo). \n - No necesitas todos y cada uno de los objetos médicos para curarte. Marca los más importantes como favoritos para acceder a ellos fácilmente.</text>
+		<text>%c[pda_white]Curación y medicina \n \n %c[ui_gray_1] \n - Usa objetos básicos de curación, como botiquines o vendas, para curar tu salud principal. Esto cura tus extremidades temporalmente (PS amarillos). \n - Para convertir los PS temporales (amarillos) en permanentes (blancos) para las extremidades, usa objetos de poscuración como ibuprofeno, fentanilo, antídotos o Yadulin. \n - Cualquier medicamento con puntos blancos en su descripción curará los PS temporales para esa extremidad o zona. Estos objetos de curación tienen un icono de un corazón blanco. \n - La poscuración te dará efectos secundarios, como hambre extrema o mareos. Los mareos pueden curarse usando medicinas potenciadoras de la resistencia o agua. \n - Ten en cuenta que los inyectores de resistencia a daños funcionan (indicados por un icono de un escudo). \n - No necesitas todos y cada uno de los objetos médicos para curarte. Marca los más importantes como favoritos para acceder a ellos fácilmente.</text>
 	</string>
 
 	<string id="article_gamma_crafting">

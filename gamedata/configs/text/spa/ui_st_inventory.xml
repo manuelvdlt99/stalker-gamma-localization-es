@@ -498,32 +498,38 @@
 	</string>
 	
 	<string id="ui_inv_satiety">
-		<text>Nivel de saciedad</text>
+		<text>%c[0,255,255,255]Saciedad:</text>
+	</string>
+	<string id="ui_inv_sleep">
+		<text>%c[0,255,255,255]Sueño:</text>
+	</string>
+	<string id="ui_inv_thirst">
+		<text>%c[0,255,255,255]Sed:</text>
 	</string>
 	<string id="ui_inv_outfit_power_restore">
-		<text>Recuperación de resist.</text>
+		<text>%c[0,255,255,255]Recuperación de resist.:</text>
 	</string>
 	<string id="ui_inv_weight">
-		<text>Conv. carga de peso</text>
+		<text>%c[0,255,255,255]Conv. carga de peso:</text>
 	</string>
 	<string id="ui_inv_af_condition">
-		<text>Eficacia</text>
+		<text>%c[0,255,255,255]Eficacia:</text>
 	</string>
 	<string id="ui_total_weight">
 		<text>Peso:</text>
 	</string>
 	<string id="st_ui_health_sensor">
-		<text>Salud</text>
+		<text>Salud:</text>
 	</string>
 	<string id="ui_ammo_types">
-		<text>Munición</text>
+		<text>Munición:</text>
 	</string>
 	<string id="ui_inv_effect_time">
-		<text>Duración</text>
+		<text>%c[0,255,255,255]Duración:</text>
 	</string>
 	
 	<string id="st_itm_desc_properties">
-		<text>PROPIEDADES</text>
+		<text>\n%c[0,255,255,255]PROPIEDADES</text>
 	</string>
 	<string id="st_itm_desc_details">
 		<text>DETALLES</text>
@@ -533,10 +539,10 @@
 	</string>
 	
 	<string id="st_itm_desc_state_possible">
-		<text>posible</text>
+		<text>%c[ui_green]SÍ</text>
 	</string>
 	<string id="st_itm_desc_state_not_possible">
-		<text>imposible</text>
+		<text>%c[ui_red]NO\n</text>
 	</string>
 	<string id="st_itm_desc_state_avail">
 		<text>incluido</text>
@@ -589,7 +595,7 @@
 		<text>%s %s de la sed</text>
 	</string>
 	<string id="st_itm_desc_eat_radiation">
-		<text>Irradiación aguda</text>
+		<text>%c[0,255,255,255]Contaminación radiactiva</text>
 	</string>
 	<string id="st_itm_desc_eat_health">
 		<text>Nocivo</text>
@@ -599,7 +605,7 @@
 		<text>Mejorable</text>
 	</string>
 	<string id="st_itm_desc_outfit_heardgear">
-		<text>Casco</text>
+		<text>%c[0,255,255,255]Casco</text>
 	</string>
 	<string id="st_itm_desc_outfit_num_of_slots">
 		<text>Accesorios para ranuras extra</text>
@@ -608,30 +614,30 @@
 		<text>Incremento del peso transportable</text>
 	</string>
 	<string id="st_itm_desc_outfit_run">
-		<text>Esprintar es</text>
+		<text>%c[0,255,255,255]¿Esprintar?:</text>
 	</string>
 	<string id="st_itm_desc_outfit_patch_torn">
-		<text>El %s de este atuendo ha sido arrancado</text>
+		<text>%s arrancado</text>
 	</string>
 	<string id="st_itm_desc_outfit_faction">
-		<text>Facción</text>
+		<text>%c[0,255,255,255]Facción</text>
 	</string>
 	
 	<string id="st_itm_desc_outfit_repair_bonus">
-		<text>Bonificación de reparación</text>
+		<text>%c[0,255,255,255]Bonificación de reparación</text>
 	</string>
 	<string id="st_itm_desc_outfit_required_tool">
-		<text>Herramienta requerida</text>
+		<text>%c[0,255,255,255]Herramienta requerida</text>
 	</string>
 	
 	<string id="st_itm_desc_workshop_tool">
 		<text>Utilizable en el taller del mecánico para cambiar y mejorar piezas</text>
 	</string>
 	<string id="st_itm_desc_repair_min_con">
-		<text>No es utilizable por debajo del nivel de estado</text>
+		<text>%c[0,255,255,255]No es utilizable por debajo del nivel de estado</text>
 	</string>
 	<string id="st_itm_desc_repair_base_con">
-		<text>Ganancia de estado de base</text>
+		<text>%c[0,255,255,255]Ganancia de estado de base</text>
 	</string>
 	<string id="st_itm_desc_repair_match">
 		<text>Puede reparar materiales usando sus equivalentes</text>
@@ -725,13 +731,13 @@
 		<text>Equipamiento 3 (F3)</text>
 	</string>
 	<string id="ui_inv_radiation">
-		<text>Radiación</text>
+		<text>%c[0,255,255,255]Radiación:</text>
 	</string>
 	<string id="ui_inv_rank_restr">
 		<text>Restricción de rango</text>
 	</string>
 	<string id="ui_inv_rate_of_fire">
-		<text>Cadencia de tiro</text>
+		<text>%c[0,255,255,255]Cadencia de tiro:</text>
 	</string>
 	<string id="ui_inv_reset_items(C)">
 		<text>Limpiar (C)</text>
@@ -929,13 +935,13 @@
 		<text>Materiales utilizables</text>
 	</string>
 	<string id="st_ui_power">
-		<text>Energía</text>
+		<text>%c[0,255,255,255]Energía:</text>
 	</string>
 	<string id="st_ui_amount">
 		<text>Cantidad</text>
 	</string>
 	<string id="st_ui_power_consumption">
-		<text>Consumo de energía</text>
+		<text>%c[0,255,255,255]Consumo de energía:</text>
 	</string>
 	<string id="st_ui_info">
 		<text>Información</text>

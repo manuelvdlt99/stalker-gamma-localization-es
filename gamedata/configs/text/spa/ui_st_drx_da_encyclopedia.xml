@@ -52,7 +52,7 @@
 		<text>Oscuridad</text>
 	</string>
 	<string id="encyclopedia_anomalies_darkness_text">
-		<text>• Nombre: %c[d_cyan]Oscuridad%c[ui_gray_1] \n• Tipo: %c[d_orange]Psiónico\n \n%c[pda_green]Información%c[ui_gray_1] \nUna aterradora y letal formación anómala de origen desconocido que afecta a la mente de cualquier ser sintiente en sus inmediaciones. Se asemeja a un grupo de sombras en movimiento. Se rumorea que la anomalía también hace de refugio para los poltergeists. Una de las anomalías más peligorsas jamás registradas en la Zona.</text>
+		<text>• Nombre: %c[d_cyan]Oscuridad%c[ui_gray_1] \n• Tipo: %c[d_orange]Psiónico\n \n%c[pda_green]Información%c[ui_gray_1] \nUna aterradora y letal formación anómala de origen desconocido que afecta a la mente de cualquier ser sintiente en sus inmediaciones. Se asemeja a un grupo de sombras en movimiento. Se rumorea que la anomalía también hace de refugio para los poltergeists. Una de las anomalías más peligrosas jamás registradas en la Zona.</text>
 	</string>
 
 	<string id="encyclopedia_anomalies_flash">

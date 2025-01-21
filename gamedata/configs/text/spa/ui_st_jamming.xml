@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <string_table>
 	<string id="kb_unjam">
-		<text>Recargar, desencasquillar arma, quitar PDA</text>
+		<text>Desencasquillar arma</text>
 	</string>
 	<string id="ui_st_misfire">
 		<text>¡Fallo del arma!</text>
@@ -25,7 +25,7 @@
 		<text>Estás usando Anomaly Magazines. No desencasquilles el arma. Recarga el arma.</text>
 	</string>
 	<string id="ui_st_unjam_fail">
-		<text>No ha parecido funcionar, no tiene ganas de salir...</text>
+		<text>No se ha podido desencasquillar el arma.</text>
 	</string>
 	<string id="ui_st_parts_damage">
 		<text>El arma ha sufrido daños a sus componentes internos.</text>
@@ -52,7 +52,7 @@
 		<text>%c[d_red]El arma ya tiene una pieza en mejor estado.</text>
 	</string>
 	<string id="st_news_parts_incompatible">
-		<text>%c[d_red]La pieza no es compatible con el arma.</text>
+		<text>%c[d_red]Pieza no compatible con el arma.</text>
 	</string>
 	<string id="st_news_parts_barrel">
 		<text>%c[d_red]No se pueden cambiar los cañones sobre el terreno.</text>
@@ -64,10 +64,10 @@
 		<text>%c[d_red]Se necesita una herramienta de desmontaje adecuada.</text>
 	</string>
 	<string id="st_news_fieldstrip">
-		<text>Piezas quitadas:</text>
+		<text>Piezas quitadas: </text>
 	</string>
 	<string id="st_news_cleaned">
-		<text>Pieza limpiada:</text>
+		<text>Pieza limpiada: </text>
 	</string>
 	<string id="ui_mcm_menu_wpo">
 		<text>WPO</text>
@@ -85,7 +85,7 @@
 		<text>Desactivar spam de palabrotas</text>
 	</string>
 	<string id="ui_mcm_wpo_profanity_timeout_desc">
-		<text>Añade un descanso al bloqueador de palabrotas si está activado. Úsalo si odias que la gente se lo pase bien.</text>
+		<text>Añade un descanso a las palabrotas en encasquillamiento si está activado.</text>
 	</string>
 	<string id="ui_mcm_wpo_profanity_language">
 		<text>Idioma de palabrotas</text>
@@ -94,13 +94,13 @@
 		<text>Coeficiente de probabilidad de encasquillamiento</text>
 	</string>
 	<string id="ui_mcm_wpo_jamchance_desc">
-		<text>La posibilidad de que tus armas se encasquillen de la nueva forma.</text>
+		<text>La posibilidad de que tus armas se encasquillen.</text>
 	</string>
 	<string id="ui_mcm_wpo_superjam">
 		<text>Activar superencasquillamientos</text>
 	</string>
 	<string id="ui_mcm_wpo_superjam_desc">
-		<text>Activa (o desactiva) esos superencasquillamientos tan porculeros. Los superencasquillamientos son encasquillamientos que te obligan a quitar la munición insertada para arreglarlos.</text>
+		<text>Activa (o desactiva) esos superencasquillamientos tan porculeros. Los superencasquillamientos son encasquillamientos que te obligan a quitar la munición insertada para limpiar/resolver el problema.</text>
 	</string>
 	<string id="ui_mcm_wpo_simplejam">
 		<text>Soltar cargados en superencasquillamiento</text>
@@ -112,7 +112,7 @@
 		<text>Umbral de estado para daño de piezas</text>
 	</string>
 	<string id="ui_mcm_wpo_threshold_desc">
-		<text>Estado del arma en el que el uso tiene una probabilidad de dañar las piezas. Cuanto menor sea, menos piezas resultarán dañadas.</text>
+		<text>Estado del arma en el que el uso tiene una probabilidad de dañar las piezas. A menor valor, menos piezas resultarán dañadas.</text>
 	</string>
 	<string id="ui_mcm_wpo_cleancoef">
 		<text>Multiplicador de limpieza de armas por técnicos</text>
@@ -172,7 +172,7 @@
 		<text>Modo puta</text>
 	</string>
 	<string id="ui_mcm_wpo_babymode_desc">
-		<text>Desactiva los encasquillamientos por pieza en su totalidad. ¿Para qué instalar este mod si vas a marcar esta casilla?</text>
+		<text>Desactiva los encasquillamientos por pieza. ¿Para qué instalar este mod si vas a marcar esta casilla?</text>
 	</string>
 	<string id="ui_mcm_wpo_newdrops">
 		<text>Activar tirada de dados alternativa para piezas</text>
@@ -202,49 +202,42 @@
 		<text>Mantenimiento de armas</text>
 	</string>
 	<string id="article_wpo_text">
-		<text>%c[pda_green]PP. FF.%c[ui_gray_1]\n \n
-		1. ¿Por qué mi arma se encasquilla en el 100 %? \n
-		R. Tus piezas están dañadas. Revisa su estado. \n
-		2. ¿Cómo se desencasquilla? \n
-		R. Pulsa la tecla de usar dos veces o haz clic derecho en el arma en el inventario y haz clic en la opción de desencasquillar.\n
-		3. ¿Por qué pierdo estado al cambiar piezas? \n
-		R. Tienes que volver a lubricar el arma. Esto no sucede por debajo del 60 %. Usa la Leatherman para reducir la cantidad o un banco de trabajo para eliminarlo por completo.\n
-		4. ¿Por qué los técnicos no arreglan mis piezas? \n
-		R. Las piezas hay que rapiñarlas. Puedes comprar piezas en el técnico o usar un kit de reparación de armas. Esta es la longevidad clave de WPO.\n \n
-		Weapon Parts Overhaul cambia drásticamente cómo funciona el mantenimiento de armas en Anomaly. Lee esta guía con atención para entenderlo todo.\n \n
-		%c[pda_green]I. Partes y mantenimiento%c[ui_gray_1]\n \n
-		• Ahora es más fácil mantener el estado general del arma (la barra de estado a la que estarás acostumbrado). El mecánico lo restaurará al 60 % por un coste menor. Todos los objetos de reparación de armas son mucho más potentes. \n
-		• Hay que mantener las piezas de las armas. Puedes ver el estado de las piezas de las armas a primera vista pasando el ratón por encima. \n
-		• El color del texto denota el estado.\n
-		%c[d_red] • Falta \n
-		%c[d_orange] • Dañado y no puede limpiarse \n
-		%c[pda_yellow] • Sucio y puede limpiarse%c[ui_gray_1] \n
-		• Las piezas de las armas pueden quitarse desmontando el arma. Esto quita todos los componentes que no sean el cañón. 
-		\n• También se pueden reemplazar las piezas ad hoc arrastrando y soltando. %c[d_red]TEN EN CUENTA QUE ESTO AGOTA EL ESTADO DEL ARMA SI SUPERA EL 60 %. Ten una Leatherman a mano para reducir este impacto.%c[ui_gray_1]
-		\n• Las piezas de las armas también pueden reemplazarse gratis en un banco de trabajo si dispones del kit de reparación correcto. %c[pda_yellow]Esta es una de dos formas de cambiar el cañón.\n \n
-		%c[pda_green]II. Encasquillamientos y daño de piezas%c[ui_gray_1]\n \n
-		• Las piezas tienen cinco niveles de daño: %c[d_red]roto%c[ui_gray_1], %c[d_red]dañado%c[ui_gray_1], %c[d_orange]desgastado%c[ui_gray_1], %c[0,250,250,0]sucio%c[ui_gray_1], %c[d_green]funcional%c[ui_gray_1]. \n
-		• Cuanto más dañadas estén las piezas, más probabilidades tendrás de sufrir un fallo. \n
-		• Hay tres tipos de fallos: fallo de disparo, encasquillamiento y encasquillamiento grave. \n
-		• El fallo de disparo y el encasquillamiento pueden solucionarse desencasquillando el arma. \n
-		• El encasquillamiento grave precisa quitar el cargador antes de arreglar el encasquillamiento. \n
-		• Los cañones no contribuyen a la probabilidad de encasquillamiento. Sin embargo, los cañones sucios y peor reducen el daño del arma hasta un 50 %. \n
-		• Disparar un arma con un estado menor del 85 % (por defecto, esto se puede cambiar en el %c[pda_yellow]MCM: Umbral de estado para daño de piezas%c[ui_gray_1]) tiene una probabilidad de infligir daño a las piezas de esta. \n
-		• Disparar un arma bajo una lluvia torrencial desgastará el arma más rápido. \n
-		• Disparar un arma demasiado tiempo provoca sobrecalentamiento, lo que da lugar a más encasquillamientos y una degradación más rápida.\n \n
-		%c[pda_green]III. Cambios a la economía%c[ui_gray_1]\n \n
-		• Tener un kit de limpieza te permitirá limpiar las piezas de las armas sucias (estado por encima del 60 %). Esto también restaura un 10 % de su estado. \n
-		• Tener un kit de reparación te permitirá cambiar piezas con un menú del clic derecho. Esto usa una carga y restaura un 10 % de estado.%c[pda_yellow]Esta es la otra forma de cambiar el cañón.%c[ui_gray_1] \n
-		• Los técnicos venderán al azar piezas de armas con un gran sobreprecio. \n
-		• Las piezas de las armas por encima del 60 % pueden repararse con limas, baquetas o herramientas multiusos. \n
-		• Las piezas de las armas por encima del 10 % pueden repararse con un kit de herramientas muy caro disponible en los comerciantes. \n \n
-		Para cualquier otro problema, avisa a arti#3278 en Discord. Me da demasiada pereza leer los comentarios de ModDB.</text>
-	</string>
-	<string id="st_partskit">
-		<text>Kit de reparación de piezas</text>
-	</string>
-	<string id="st_partskit_descr">
-		<text>Un juego de herramientas muy avanzadas, como microlimas, epoxi para metal soldado en frío, preparación de baños electrolíticos y toneladas de lubricantes, destilados de gasolina y otros disolventes. Estas herramientas pueden convertir el motor de un Lada en el de un Ferrari, por no hablar de lo que puede hacer con los componentes de una máquina. Solo los trozos de chatarra más destrozados no podrán restaurarse con este kit. Sin embargo, es sumamente complicado preparar este kit y, por ende, solo lo venden en muy pequeñas cantidades los técnicos de la Zona.\n \n</text>
+		<text>%c[pda_green]PREGUNTAS FRECUENTES\n
+		%c[pda_white]Pregunta: ¿Por qué mi arma se encasquilla en el 100 %? \n
+		%c[pda_white]Respuesta: %c[ui_gray_1]Tus piezas están dañadas. Revisa su estado. \n
+		%c[pda_white]Pregunta: ¿Cómo se desencasquilla? \n
+		%c[pda_white]Respuesta: %c[ui_gray_1]Pulsa la tecla de usar dos veces o haz clic derecho en el arma en el inventario y haz clic en la opción de desencasquillar.\n
+		%c[pda_white]Pregunta: ¿Por qué pierdo estado al cambiar piezas? \n
+		%c[pda_white]Respuesta: %c[ui_gray_1]Tienes que lubricar el arma. Esto no sucede con un estado inferior al 60 %. Usa un kit de herramientas para reducir la pérdida de estado o un banco de trabajo para eliminarlo por completo.\n
+		%c[pda_white]Pregunta: ¿Por qué los técnicos no arreglan mis piezas? \n
+		%c[pda_white]Respuesta: %c[ui_gray_1]Las piezas hay que rapiñarlas. Puedes comprar piezas en el técnico o usar un kit de reparación de armas. Esta es la longevidad clave de Weapon Parts Overhaul. Weapon Parts Overhaul cambia drásticamente cómo funciona el mantenimiento de armas en Anomaly. Lee esta guía con atención para entenderlo todo.\n \n
+		%c[pda_green]Partes y mantenimiento\n
+		%c[pda_white]• %c[ui_gray_1]Ahora es más fácil mantener el estado general del arma (la barra de estado). El mecánico lo restaurará al 60 % por un coste menor y todos los objetos de reparación de armas son mucho más potentes\n \n
+		%c[pda_white]• %c[ui_gray_1]Hay que mantener las piezas de las armas. Puedes ver el estado de las piezas de las armas a primera vista pasando el ratón por encima. El color del texto denota su estado: %c[d_red]falta,  %c[d_orange]dañado, %c[pda_yellow]sucio%c[ui_gray_1].\n \n
+		%c[pda_white]• %c[ui_gray_1]Las piezas de las armas pueden quitarse desmontando el arma. Así, podrás quitar todos los componentes que no sean el cañón. Para quitar un cañón, tienes que usar un banco de trabajo con el kit de reparación adecuado.\n \n
+		%c[d_red]ATENCIÓN\n
+		%c[pda_white]• %c[ui_gray_1]Desmontar un arma con un kit de reparación o un banco de trabajo agotará el estado del arma si supera el 60 %.\n \n
+		%c[pda_green]Encasquillamientos y daño de piezas%c[ui_gray_1]\n
+		%c[pda_white]Las piezas tienen cinco niveles de daño:\n
+		%c[pda_white]• %c[d_red]Roto\n
+		%c[pda_white]• %c[d_red]Dañado\n
+		%c[pda_white]• %c[d_orange]Desgastado\n
+		%c[pda_white]• %c[0,250,250,0]Sucio\n
+		%c[pda_white]• %c[d_green]Funcional\n
+		%c[ui_gray_1]Cuanto más dañadas estén las piezas, más probabilidades tendrás de sufrir un fallo. \n
+		%c[pda_white]• Fallo de disparo/Encasquillamiento: %c[ui_gray_1]pueden solucionarse desencasquillando el arma. \n
+		%c[pda_white]• Encasquillamiento grave: %c[ui_gray_1]precisa quitar el cargador antes de arreglar el encasquillamiento. \n
+		%c[ui_gray_1]Los cañones no contribuyen a la probabilidad de encasquillamiento. Sin embargo, los cañones sucios reducen el daño del arma hasta un 50 %. \n
+		%c[ui_gray_1]Disparar un arma con un estado menor del 85 % tiene una probabilidad de infligir daño a las piezas de esta.\n
+		%c[ui_gray_1]Disparar un arma bajo una lluvia torrencial desgastará el arma más rápido. \n
+		%c[ui_gray_1]Disparar un arma demasiado tiempo provoca sobrecalentamiento, lo que da lugar a más encasquillamientos y una degradación más rápida.\n \n
+		%c[pda_green]Cambios a la economía%c[ui_gray_1]\n \n
+		%c[pda_white]• %c[ui_gray_1]Tener un kit de limpieza te permitirá limpiar las piezas de las armas «sucias» (estado por encima del 60 %). Esto también restaura un 10 % de su estado. \n
+		%c[pda_white]• %c[ui_gray_1]Tener un kit de reparación te permitirá cambiar piezas con un menú contextual. Esto usa una carga y restaura un 10 % de estado.\n
+		%c[pda_white]• %c[ui_gray_1]Los técnicos venderán al azar piezas de armas con un gran sobreprecio. \n
+		%c[ui_gray_1]Las piezas de las armas por encima del 60 % pueden repararse con limas, baquetas o herramientas multiusos. \n
+		%c[ui_gray_1]Las piezas de las armas por encima del 10 % pero por debajo del 60 % pueden repararse con un kit de herramientas muy caro disponible en los comerciantes.
+		</text>
 	</string>
 	<string id="st_dot">
 		<text>•</text>
@@ -323,7 +316,7 @@
 	</string>
 	
 	<string id="st_jam">
-		<text>Probabilidad de encasquillamiento</text>
+		<text>Probabilidad de encasquillamiento:</text>
 	</string>
 	<string id="st_partskit">
 		<text>Kit de reparación de piezas</text>

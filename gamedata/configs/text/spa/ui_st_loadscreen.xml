@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <string_table>
 	<string id="ls_header">
-		<text>S.T.A.L.K.E.R. GAMMA 0.9.3</text>
+		<text>S.T.A.L.K.E.R. GAMMA 0.9.3.1</text>
 	</string>
 	<string id="ls_tip_number">
 		<text>Manual, lore e historias n.º </text>
@@ -13,19 +13,19 @@
 		<text>El estado de un arma no tiene que ver con el estado de sus piezas. El estado de un arma representa lo limpia que está y tendrá un impacto en lo rápido que se desgastarán sus piezas. El estado del cañón afecta al daño y la penetración de la munición. El estado de otras partes afecta a la frecuencia con la que se encasquilla el arma. Se pueden cambiar las piezas sobre el terreno arrastrando y soltando.</text>
 	</string>
 	<string id="ls_tip_3">
-		<text>Reúne piezas de armas con un estado superior al 60 % y repáralas con la herramienta apropiada hasta que estén al 100 % (comprueba los detalles de la pieza). Meter y sacar piezas del arma la ensuciará.</text>
+		<text>Reúne piezas de armas con un estado superior al 60 por ciento y repáralas con la herramienta apropiada hasta que estén al 100 por ciento (comprueba los detalles de la pieza). Meter y sacar piezas del arma la ensuciará.</text>
 	</string>
 	<string id="ls_tip_4">
 		<text>«¿Limitar el tráfico de armas? ¡Eso díselo a los políticos cuando tengas a una horda de monolitos delante de ti! ¿Por qué creen que el Monolito ha vuelto después de todos estos años? ¡Puta UE y puta ONU!» - Ílich Popov, solitario veterano</text>
 	</string>
 	<string id="ls_tip_5">
-		<text>Los blindajes y los cascos pueden repararse reuniendo y reparando piezas por encima del 50 % de estado y cambiándolas en el menú del banco (haz clic derecho en cualquier kit de herramientas para abrir el banco). Necesitas el kit de reparaciones apropiado.</text>
+		<text>Los blindajes y los cascos pueden repararse reuniendo y reparando piezas por encima del 50 por ciento de estado y cambiándolas en el menú del banco (haz clic derecho en cualquier kit de herramientas para abrir el banco). Necesitas el kit de reparaciones apropiado.</text>
 	</string>
 	<string id="ls_tip_6">
 		<text>Para progresar rápidamente, realiza tareas, mata mutantes, recoge sus partes, guarda estas partes para cumplir tareas de stalker, reúne coordenadas de alijos, visita esos alijos, consigue botines abundantes, consigue cajas de herramientas, repara el botín abundante, haz tareas, consigue buena voluntad, duerme, visita a los comerciantes, compra nueva munición para tu jugoso botín.</text>
 	</string>
 	<string id="ls_tip_7">
-		<text>Usa objetos básicos de curación, como botiquines o vendas, para curar tu salud principal. También curarán tus extremidades temporalmente (PS amarillos). Para convertir los PS temporales en PS permanentes para las extremidades (de amarillo a blanco), usa objetos de postcuración (como el ibuprofeno, con puntos blancos en su descripción).</text>
+		<text>Usa objetos básicos de curación, como botiquines o vendas, para curar tu salud principal. También curarán tus extremidades temporalmente (PS amarillos). Para convertir los PS temporales en PS permanentes para las extremidades (de amarillo a blanco), usa objetos de poscuración (como el ibuprofeno, con puntos blancos en su descripción).</text>
 	</string>
 	<string id="ls_tip_8">
 		<text>Fabricar es esencial para sobrevivir. Haz clic derecho en cualquier kit de herramientas para «abrir banco». Desde ahí, puedes acceder al menú de fabricación, donde la mayoría de las recetas ya están desbloqueadas. Asegúrate de desmontar los blindajes y las armas que no necesites, así como los objetos de chatarra, que tienen un pequeño engranaje en su icono, para reunir objetos de fabricación.</text>
@@ -247,25 +247,25 @@
 		<text>Arrastra y suelta piezas reparadas sobre un arma para cambiarlas. Esto reducirá la probabilidad de que el arma se encasquille, pero se meterá un poco de tierra y polvo en ella. Recuerda limpiar el arma después de cambiar piezas.</text>
 	</string>
 	<string id="ls_tip_81">
-		<text>El estado del cañón afecta al daño y la penetración de las balas. No uses armas rotas. Al hacer clic derecho en un arma y «mantener piezas», puedes limpiar el cañón de un arma si su estado es superior al 60 % con el kit de limpieza apropiado. Si no, usa un kit de reparación para cambiar directamente el cañón.</text>
+		<text>El estado del cañón afecta al daño y la penetración de las balas. No uses armas rotas. Al hacer clic derecho en un arma y «mantener piezas», puedes limpiar el cañón de un arma si su estado es superior al 60 por ciento con el kit de limpieza apropiado. Si no, usa un kit de reparación para cambiar directamente el cañón.</text>
 	</string>
 	<string id="ls_tip_82">
 		<text>El estado de un arma no tiene que ver con el estado de sus piezas. El estado de un arma representa lo limpia que está y tendrá un impacto en lo rápido que se desgastarán sus piezas. El estado del cañón afecta al daño y la penetración de la munición. El estado de otras partes afecta a la frecuencia con la que se encasquilla el arma. Se pueden cambiar las piezas sobre el terreno arrastrando y soltando.</text>
 	</string>
 	<string id="ls_tip_83">
-		<text>Reúne piezas de armas con un estado superior al 60 % y repáralas con la herramienta apropiada hasta que estén al 100 % (comprueba los detalles de la pieza). Meter y sacar piezas del arma la ensuciará.</text>
+		<text>Reúne piezas de armas con un estado superior al 60 por ciento y repáralas con la herramienta apropiada hasta que estén al 100 por ciento (comprueba los detalles de la pieza). Meter y sacar piezas del arma la ensuciará.</text>
 	</string>
 	<string id="ls_tip_84">
 		<text>«¿Limitar el tráfico de armas? ¡Eso díselo a los políticos cuando tengas a una horda de monolitos delante de ti! ¿Por qué creen que el Monolito ha vuelto después de todos estos años? ¡Puta UE y puta ONU!» - Ílich Popov, solitario veterano</text>
 	</string>
 	<string id="ls_tip_85">
-		<text>Los blindajes y los cascos pueden repararse reuniendo y reparando piezas por encima del 50 % de estado y cambiándolas en el menú del banco (haz clic derecho en cualquier kit de herramientas para abrir el banco). Necesitas el kit de reparaciones apropiado.</text>
+		<text>Los blindajes y los cascos pueden repararse reuniendo y reparando piezas por encima del 50 por ciento de estado y cambiándolas en el menú del banco (haz clic derecho en cualquier kit de herramientas para abrir el banco). Necesitas el kit de reparaciones apropiado.</text>
 	</string>
 	<string id="ls_tip_86">
 		<text>El Pecado es un peligroso grupo de cultistas que conspiraron en los oscuros rincones de la Zona durante mucho tiempo. Dominaban aspectos específicos de la Zona y la noosfera, lo que les hacía mucho más resistentes que un ser humano normal.</text>
 	</string>
 	<string id="ls_tip_87">
-		<text>Usa objetos básicos de curación, como botiquines o vendas, para curar tu salud principal. También curarán tus extremidades temporalmente (PS amarillos). Para convertir estos PS temporales en PS permanentes para las extremidades (de amarillo a blanco), usa objetos de postcuración (como el ibuprofeno, con puntos blancos en su descripción).</text>
+		<text>Usa objetos básicos de curación, como botiquines o vendas, para curar tu salud principal. También curarán tus extremidades temporalmente (PS amarillos). Para convertir estos PS temporales en PS permanentes para las extremidades (de amarillo a blanco), usa objetos de poscuración (como el ibuprofeno, con puntos blancos en su descripción).</text>
 	</string>
 	<string id="ls_tip_88">
 		<text>Fabricar es esencial para sobrevivir. Haz clic derecho en cualquier kit de herramientas para «abrir banco». Desde ahí, puedes acceder al menú de fabricación, donde la mayoría de las recetas ya están desbloqueadas. Asegúrate de desmontar los blindajes y las armas que no necesites, así como los objetos de chatarra, que tienen un pequeño engranaje en su icono, para reunir objetos de fabricación.</text>

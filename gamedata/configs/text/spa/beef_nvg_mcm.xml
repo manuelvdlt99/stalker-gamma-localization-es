@@ -161,7 +161,15 @@
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
-		<text>Básicamente, debido a la magia de los shaders, si tienes Shader Based 2d Scopes, tienes que marcar esta casilla. Si no, no la marques.</text>
+		<text>Básicamente, debido a la magia de los sombreadores, si tienes Shader Based 2d Scopes, tienes que marcar esta casilla. Si no, no la marques.</text>
 	</string>
+	
+	<string id="ui_mcm_menu_nvm_keys">
+        <text>Miras de visión nocturna</text>
+    </string>
+
+    <string id="ui_mcm_nvm_keys_ui_keybind">
+        <text>Alternar miras de visión nocturna</text>
+    </string>
 	
 </string_table>
