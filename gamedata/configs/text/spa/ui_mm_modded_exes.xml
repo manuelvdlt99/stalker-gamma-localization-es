@@ -120,53 +120,53 @@
 		<text>Usar texto en inglés si falta traducción (ui_mm_modded_exes_use_english_text_for_missing_translations)</text>
 	</string>
 	<string id="ui_mm_modded_exes_mouse_wheel_change_weapon">
-		<text>Change weapons with mouse wheel (mouse_wheel_change_weapon)</text>
+		<text>Cambiar armas con rueda del ratón (mouse_wheel_change_weapon)</text>
 	</string>
 	<string id="ui_mm_modded_exes_mouse_wheel_invert_zoom">
-		<text>Invert mouse wheel (mouse_wheel_invert_zoom)</text>
+		<text>Invertir rueda del ratón (mouse_wheel_invert_zoom)</text>
 	</string>
 	<string id="ui_mm_modded_exes_string_table_error_msg">
-		<text>Log missing translation strings (string_table_error_msg)</text>
+		<text>Registrar cadenas de traducción ausentes (string_table_error_msg)</text>
 	</string>
 	<string id="ui_mm_modded_exes_monster_stuck_fix">
-		<text>Monster stuck fix (BAD FOR FPS) (monster_stuck_fix)</text>
+		<text>Fix para monstruos atascados (MALO PARA FPS) (monster_stuck_fix)</text>
 	</string>
 	<string id="ui_mm_modded_exes_log_timestamps">
-		<text>Timestamps in logs (log_timestamps)</text>
+		<text>Fecha en registros (log_timestamps)</text>
 	</string>
 	<string id="ui_mm_modded_exes_print_bone_warnings">
-		<text>Print invalid bone warnings (print_bone_warnings)</text>
+		<text>Imprimir avisos de hueso no válido (print_bone_warnings)</text>
 	</string>
 	<string id="ui_mm_modded_exes_freelook_cam_limit">
-		<text>Freelook angle limit (freelook_cam_limit)</text>
+		<text>Límite de ángulo de vista libre (freelook_cam_limit)</text>
 	</string>
 	<string id="ui_mm_modded_exes_telekinetic_objects_include_corpses">
-		<text>Poltergeists and Burers throw Corpses (telekinetic_objects_include_corpses)</text>
+		<text>Poltergeists y sepultureros lanzan cuerpos (telekinetic_objects_include_corpses)</text>
 	</string>
 	<string id="ui_mm_modded_exes_lua_gcstep">
-		<text>Lua Garbage Collection Step (lua_gcstep)</text>
+		<text>Paso de recogida de basura de Lua (lua_gcstep)</text>
 	</string>
 	<string id="ui_mm_modded_exes_mouse_buffer_size">
-		<text>Mouse Input Buffer Size (mouse_buffer_size)</text>
+		<text>Tamaño de búfer de entrada del ratón (mouse_buffer_size)</text>
 	</string>
 	<string id="ui_mm_modded_exes_keyboard_buffer_size">
-		<text>Keyboard Input Buffer Size (keyboard_buffer_size)</text>
+		<text>Tamaño de búfer de entrada del teclado (keyboard_buffer_size)</text>
 	</string>
 
 	<string id="ui_mm_modded_exes_allow_outfit_control_inertion_factor">
-		<text>Enable outfits affecting mouse sensitivity (allow_outfit_control_inertion_factor)</text>
+		<text>Permitir que los trajes afecten a la sensibilidad del ratón (allow_outfit_control_inertion_factor)</text>
 	</string>
 	<string id="ui_mm_modded_exes_allow_weapon_control_inertion_factor">
-		<text>Enable weapons affecting mouse sensitivity (allow_weapon_control_inertion_factor)</text>
+		<text>Permitir que las armas afecten a la sensibilidad del ratón (allow_weapon_control_inertion_factor)</text>
 	</string>
 	<string id="ui_mm_modded_exes_fix_avelocity_spread">
-		<text>Fix moving the camera not affecting accuracy (fix_avelocity_spread)</text>
+		<text>Arreglar que mover la cámara no afecte a la precisión (fix_avelocity_spread)</text>
 	</string>
 	<string id="ui_mm_modded_exes_apply_pdm_to_ads">
-		<text>Apply PDM (handling) values when ADS (apply_pdm_to_ads)</text>
+		<text>Aplicar valores PDM (manejo) al apuntar (apply_pdm_to_ads)</text>
 	</string>
 	<string id="ui_mm_modded_exes_smooth_ads_transition">
-		<text>Smoothly apply the ADS accuracy bonus (smooth_ads_transition)</text>
+		<text>Aplicar suavemente la bonificación de precisión al apuntar (smooth_ads_transition)</text>
 	</string>
 
 	<!-- HDR10 -->

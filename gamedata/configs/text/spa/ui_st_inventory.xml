@@ -432,69 +432,69 @@
 	</string>
 
 	<string id="st_ui_armor_static">
-		<text>Estado del blindaje</text>
+		<text>%c[0,255,255,255]Estado del blindaje:</text>
 	</string>
 	<string id="st_weight">
-		<text>Peso</text>
+		<text>%c[0,255,255,255]Peso:</text>
 	</string>
 	<string id="st_weight_full">
-		<text>Peso</text>
+		<text>%c[0,255,255,255]Peso:</text>
 	</string>
 	<string id="ui_ammo_count">
-		<text>Tamaño del cargador</text>
+		<text>%c[0,255,255,255]Tamaño del cargador:</text>
 	</string>
 	<string id="ui_inv_accuracy">
-		<text>Precisión</text>
+		<text>%c[0,255,255,255]Precisión:</text>
 	</string>
 	<string id="ui_inv_damage">
-		<text>Daño</text>
+		<text>%c[0,255,255,255]Daño:</text>
 	</string>
 	<string id="ui_inv_handling">
-		<text>Manejo</text>
+		<text>%c[0,255,255,255]Manejo:</text>
 	</string>
 	
 	<string id="ui_inv_health">
-		<text>Restauración de salud</text>
+		<text>%c[0,255,255,255]Restauración de salud:</text>
 	</string>
 	<string id="ui_inv_power">
-		<text>Recuperación de resist.</text>
+		<text>%c[0,255,255,255]Recuperac. de resist.:</text>
 	</string>
 	
 	<string id="ui_inv_outfit_additional_weight">
-		<text>Peso transportable</text>
+		<text>%c[0,255,255,255]Peso transportable:</text>
 	</string>
 	<string id="ui_inv_outfit_artefact_count">
-		<text>Ranuras del cinturón</text>
+		<text>%c[0,255,255,255]Ranuras del cinturón:</text>
 	</string>
 	<string id="ui_inv_outfit_burn_protection">
-		<text>Resist. a quemaduras</text>
+		<text>%c[0,255,255,255]Resist. a quemaduras:</text>
 	</string>
 	<string id="ui_inv_outfit_chemical_burn_protection">
-		<text>Resist. química</text>
+		<text>%c[0,255,255,255]Resist. química:</text>
 	</string>
 	<string id="ui_inv_outfit_fire_wound_protection">
-		<text>Resist. balística</text>
+		<text>%c[0,255,255,255]Resist. balística:</text>
 	</string>
 	<string id="ui_inv_outfit_radiation_protection">
-		<text>Resist. a radiación</text>
+		<text>%c[0,255,255,255]Resist. a radiación:</text>
 	</string>
 	<string id="ui_inv_outfit_shock_protection">
-		<text>Resist. eléctrica</text>
+		<text>%c[0,255,255,255]Resist. eléctrica:</text>
 	</string>
 	<string id="ui_inv_outfit_telepatic_protection">
-		<text>Resist. psíquica</text>
+		<text>%c[0,255,255,255]Resist. psíquica:</text>
 	</string>
 	<string id="ui_inv_outfit_wound_protection">
-		<text>Resist. a rasguños</text>
+		<text>%c[0,255,255,255]Resist. a rasguños:</text>
 	</string>
 	<string id="ui_inv_outfit_explosion_protection">
-		<text>Resist. explosiva</text>
+		<text>%c[0,255,255,255]Resist. explosiva:</text>
 	</string>
 	<string id="ui_inv_outfit_strike_protection">
-		<text>Resist. a impactos</text>
+		<text>%c[0,255,255,255]Resist. a impactos:</text>
 	</string>
 	<string id="ui_inv_outfit_hit_fraction_actor">
-		<text>Fuerza</text>
+		<text>%c[0,255,255,255]Fuerza:</text>
 	</string>
 	
 	<string id="ui_inv_satiety">
@@ -935,13 +935,13 @@
 		<text>Materiales utilizables</text>
 	</string>
 	<string id="st_ui_power">
-		<text>%c[0,255,255,255]Energía:</text>
+		<text>Energía</text>
 	</string>
 	<string id="st_ui_amount">
 		<text>Cantidad</text>
 	</string>
 	<string id="st_ui_power_consumption">
-		<text>%c[0,255,255,255]Consumo de energía:</text>
+		<text>Consumo de energía</text>
 	</string>
 	<string id="st_ui_info">
 		<text>Información</text>

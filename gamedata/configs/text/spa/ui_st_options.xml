@@ -5,7 +5,7 @@
 		<text>Ajustes</text>
 	</string>
 	<string id="ui_mm_btn_apply_all">
-		<text>Aplicar a todos</text>
+		<text>A todos</text>
 	</string><!-- Options menu --><string id="ui_mm_menu_video">
 		<text>Visuales</text>
 	</string>
@@ -1314,7 +1314,7 @@
 		<text>Si se activa, las relaciones entre las facciones pueden cambiar debido a las batallas que se libran en la Zona, para bien o para mal. \nLa muerte de un enemigo común puede tener un impacto positivo en las relaciones, y viceversa. \nLa magnitud del cambio de las relaciones está determinado por la importancia de la víctima.</text>
 	</string>
 	<string id="ui_mm_alife_general_war_goodwill_reset">
-		<text>Reiniciar buena voluntad con las facciones hostiles</text>
+		<text>Restablecer buena voluntad con las facciones hostiles</text>
 	</string>
 	<string id="ui_mm_alife_general_war_goodwill_reset_desc">
 		<text>Cuando una facción se convierte en enemiga de la facción del jugador, este perderá toda la buena voluntad ganada con ella anteriormente.</text>
