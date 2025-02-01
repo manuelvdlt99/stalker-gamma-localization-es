@@ -14,11 +14,228 @@
 	<string id="ui_mm_lst_OFF">
 		<text>OFF</text>
 	</string>
+	
+	<string id="ui_mm_menu_misc">
+		<text>Otros</text>
+	</string>
 
-	<string id="ui_mm_modded_exes_mouse_sens_vertical">
+	<string id="ui_mm_modded_exes_misc_mouse_sens_vertical">
 		<text>Factor de sensibilidad vertical del ratón (mouse_sens_vertical)</text>
 	</string>
 
+	<string id="ui_mm_particles_modded_exes">
+		<text>Partículas</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_particle_update_mod">
+		<text>Tasa de actualización de partículas (1: 30 Hz, 0.5: 60 Hz, etc.) (particle_update_mod)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_render_short_tracers">
+		<text>Capar y renderizar trazadoras a su longitud mínima (render_short_tracers)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_allow_silencer_hide_tracer">
+		<text>Permitir que los silenciadores oculten las trazadoras (allow_silencer_hide_tracer)</text>
+	</string>
+	
+	<!-- PDA -->
+	<string id="ui_mm_pda_modded_exes">
+		<text>PDA</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_pda_map_zoom_in_to_mouse">
+		<text>Ampliación del mapa de la PDA en relación al ratón (pda_map_zoom_in_to_mouse)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_pda_map_zoom_out_to_mouse">
+		<text>Reducción del mapa de la PDA en relación al ratón (pda_map_zoom_out_to_mouse)</text>
+	</string>
+	
+	<!-- Debug -->
+	<string id="ui_mm_debug_modded_exes">
+		<text>Depuración</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_string_table_error_msg">
+		<text>Registrar cadenas de traducción ausentes (string_table_error_msg)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_log_timestamps">
+		<text>Fecha en registros (log_timestamps)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_print_bone_warnings">
+		<text>Imprimir avisos de hueso no válido (print_bone_warnings)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_lua_gcstep">
+		<text>Paso de recogida de basura de Lua (lua_gcstep)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_mouse_buffer_size">
+		<text>Tamaño de búfer de entrada del ratón (mouse_buffer_size)</text>
+	</string>
+	<string id="ui_mm_modded_exes_misc_keyboard_buffer_size">
+		<text>Tamaño de búfer de entrada del teclado (keyboard_buffer_size)</text>
+	</string>
+
+
+	<!-- Shader Scopes -->
+	<string id="ui_mm_menu_shader_scopes">
+		<text>Shader Scopes</text>
+	</string>
+	<string id="ui_mm_3d_scopes_modded_exes">
+		<text>Shader Scopes</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_r__3Dfakescope">
+		<text>Activar 3D Shader Scopes (r__3Dfakescope)</text>
+	</string>
+	<string id="ui_mm_2d_scopes_modded_exes">
+		<text>2D Shader Scopes</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_shader_scopes_sds_enable">
+		<text>Activar 2D Shader Scopes (sds_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_sds_speed_enable">
+		<text>Cambiar sensibilidad del ratón al hacer zoom (sds_speed_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_sds_zoom_enable">
+		<text>Factor de corrección de zoom (sds_zoom_enable)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_shader_scopes_new_zoom_enable">
+		<text>Cambio de zoom suave (new_zoom_enable)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_new_zoom_delta_algorithm">
+		<text>Nuevo algoritmo Zoom Delta (new_zoom_delta_algorithm)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_new_zoom_delta_algorithm_desc">
+		<text>Cambia los niveles de zoom de una mira para tener el mismo cambio de zoom visual entre los niveles.</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_zoom_step_count">
+		<text>Recuento de pasos de zoom suave (zoom_step_count)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_shader_scopes_scope_blur_inner">
+		<text>Desenfoque dentro de la mira (scope_blur_inner)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_blur_outer">
+		<text>Desenfoque fuera de la mira (scope_blur_outer)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_shader_scopes_scope_brightness">
+		<text>Brillo exterior (scope_brightness)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_ca">
+		<text>Aberración cromática (scope_ca)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_fog_radius">
+		<text>Radio de niebla (scope_fog_radius)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_fog_interp">
+		<text>Velocidad de niebla (scope_fog_interp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_fog_sharp">
+		<text>Nitidez de niebla (scope_fog_sharp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_fog_swayAim">
+		<text>Balanceo de niebla con ratón (scope_fog_swayAim)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_fog_swayMove">
+		<text>Balanceo de niebla con movimiento (scope_fog_swayMove)</text>
+	</string>
+	<string id="ui_mm_modded_exes_shader_scopes_scope_fog_travel">
+		<text>Distancia máxima de niebla (scope_fog_travel)</text>
+	</string>
+
+	
+	<!-- QoL -->
+	<string id="ui_mm_menu_qol">
+		<text>Calidad de vida</text>
+	</string>
+	<string id="ui_mm_qol_modded_exes">
+		<text>Calidad de vida</text>
+	</string>
+	<string id="ui_mm_modded_exes_qol_freelook_cam_limit">
+		<text>Límite de ángulo de vista libre (freelook_cam_limit)</text>
+	</string>
+	<string id="ui_mm_modded_exes_qol_monster_stuck_fix">
+		<text>Fix para monstruos atascados (MALO PARA FPS) (monster_stuck_fix)</text>
+	</string>
+	<string id="ui_mm_modded_exes_qol_mouse_wheel_change_weapon">
+		<text>Cambiar armas con rueda del ratón (mouse_wheel_change_weapon)</text>
+	</string>
+	<string id="ui_mm_modded_exes_qol_mouse_wheel_invert_zoom">
+		<text>Invertir rueda del ratón (mouse_wheel_invert_zoom)</text>
+	</string>
+	<string id="ui_mm_modded_exes_qol_use_english_text_for_missing_translations">
+		<text>Usar texto en inglés si falta traducción (use_english_text_for_missing_translations)</text>
+	</string>	
+	<string id="ui_mm_modded_exes_qol_crash_save">
+		<text>Activar guardados al colgarse (crash_save)</text>
+	</string>
+	<string id="ui_mm_modded_exes_qol_crash_save_count">
+		<text>Recuento de guardados al colgarse (crash_save_count)</text>
+	</string>
+	
+	
+	<!-- Sounds -->
+	<string id="ui_mm_menu_sounds">
+		<text>Sonidos</text>
+	</string>
+	<string id="ui_mm_sounds_modded_exes">
+		<text>Sonidos</text>
+	</string>
+	<string id="ui_mm_modded_exes_sounds_snd_doppler_power">
+		<text>Intensidad de efecto Doppler (snd_doppler_power)</text>
+	</string>
+	<string id="ui_mm_modded_exes_sounds_snd_doppler_smoothing">
+		<text>Suavizado de efecto Doppler (snd_doppler_smoothing)</text>
+	</string>
+
+	
+	<!-- Gameplay -->
+	<string id="ui_mm_menu_gameplay">
+		<text>Jugabilidad</text>
+	</string>
+	<string id="ui_mm_gameplay_modded_exes">
+		<text>Jugabilidad</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_first_person_death">
+		<text>Cámara de muerte en primera persona (first_person_death)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_first_person_death_position_smoothing">
+		<text>Suavizado de cambio de posición de cámara de muerte en primera persona (first_person_death_position_smoothing)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_first_person_death_direction_smoothing">
+		<text>Suavizado de cambio de dirección de cámara de muerte en primera persona (first_person_death_direction_smoothing)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_heat_vision_zombie_cold">
+		<text>Zombis fríos en visión térmica (heat_vision_zombie_cold)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_pseudogiant_can_damage_objects_on_stomp">
+		<text>El pseudogigante daña los objetos al pisarlos (pseudogiant_can_damage_objects_on_stomp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_telekinetic_objects_include_corpses">
+		<text>Poltergeists y sepultureros lanzan cuerpos (telekinetic_objects_include_corpses)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_allow_outfit_control_inertion_factor">
+		<text>Permitir que los trajes afecten a la sensibilidad del ratón (allow_outfit_control_inertion_factor)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_allow_weapon_control_inertion_factor">
+		<text>Permitir que las armas afecten a la sensibilidad del ratón (allow_weapon_control_inertion_factor)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_fix_avelocity_spread">
+		<text>Arreglar que mover la cámara no afecte a la precisión (fix_avelocity_spread)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_apply_pdm_to_ads">
+		<text>Aplicar valores PDM (manejo) al apuntar (apply_pdm_to_ads)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_smooth_ads_transition">
+		<text>Aplicar suavemente la bonificación de precisión al apuntar (smooth_ads_transition)</text>
+	</string>
+
+
+	<!-- HDR10 -->
+	<string id="ui_mm_menu_hdr10">
+		<text>HDR 10</text>
+	</string>
+	<string id="ui_mm_hdr10_modded_exes">
+		<text>HDR 10</text>
+	</string>
+	
 	<string id="ui_mm_modded_exes_r__3Dfakescope">
 		<text>Activar 3D Shader Scopes (r__3Dfakescope)</text>
 	</string>
@@ -177,25 +394,25 @@
 		<text>HDR10 es incompatible con el MSAA, activar el HDR desactivará el MSAA</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_whitepoint_nits">
-		<text>Punto blanco de HDR10 (nits) (r4_hdr10_whitepoint_nits)</text>
+		<text>Punto blanco (nits) (r4_hdr10_whitepoint_nits)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_whitepoint_nits_desc">
 		<text>La luminosidad máxima de tu monitor. PantallaHDR 400 = 400 nits, HDR Pico 1000 = 1000 nits</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_ui_nits">
-		<text>Brillo de interfaz de HDR10 (nits) (r4_hdr10_ui_nits)</text>
+		<text>Brillo de interfaz (nits) (r4_hdr10_ui_nits)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_ui_nits_desc">
 		<text>La luminosidad máxima de la interfaz. Utiliza un valor igual o inferior al pico del monitor que te resulte cómodo.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_pda_intensity">
-		<text>Intensidad de PDA de HDR10 (r4_hdr10_pda_intensity)</text>
+		<text>Intensidad de PDA (r4_hdr10_pda_intensity)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_pda_intensity_desc">
 		<text>Intensidad (1 = 100 %, 0 = 0 %) de la pantalla de la PDA. Ajústalo si la pantalla de la PDA es demasiado brillante.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_colorspace">
-		<text>Espacio de color de HDR10 (r4_hdr10_colorspace)</text>
+		<text>Espacio de color (r4_hdr10_colorspace)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_colorspace_desc">
 		<text>El espacio de color de destino para renderizar. Si tu monitor tiene una buena cobertura de un espacio de color mayor (DCI-P3 o Rec.2020), utiliza uno de ellos en lugar de sRGB.</text>
@@ -210,7 +427,7 @@
 		<text>Rec.2020</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_tonemapper">
-		<text>Mapeador de tonos de HDR10 (r4_hdr10_tonemapper)</text>
+		<text>Mapeador de tonos (r4_hdr10_tonemapper)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_tonemapper_desc">
 		<text>El operador de mapeado tonal a utilizar. El mapeador de tonos determina el aspecto y el contraste de la imagen.</text>
@@ -243,7 +460,7 @@
 		<text>Reinhard (Lw = 3.0)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_tonemap_mode">
-		<text>Modo de mapeado de tonos de HDR10 (r4_hdr10_tonemap_mode)</text>
+		<text>Modo de mapeado de tonos (r4_hdr10_tonemap_mode)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_tonemap_mode_desc">
 		<text>Si el mapa de tonos funciona en color o luminosidad. El modo luminosidad evita los cambios de tono, pero puede parecer plano en comparación con el modo color.</text>
@@ -255,169 +472,169 @@
 		<text>Color</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_brightness">
-		<text>Brillo de HDR10 (r4_hdr10_brightness)</text>
+		<text>Brillo (r4_hdr10_brightness)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_brightness_desc">
 		<text>Ajusta la elevación de la imagen. Afecta principalmente a las sombras. Ajústalo si la imagen es demasiado brillante u oscura.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_gamma">
-		<text>Gamma de HDR10 (r4_hdr10_gamma)</text>
+		<text>Gamma (r4_hdr10_gamma)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_gamma_desc">
 		<text>Ajusta la gamma de la imagen. Afecta principalmente a los tonos medios. Ajústalo si la imagen es demasiado brillante u oscura.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_exposure">
-		<text>Exposición de HDR10 (r4_hdr10_exposure)</text>
+		<text>Exposición (r4_hdr10_exposure)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_exposure_desc">
 		<text>Ajusta la ganancia de la imagen. Afecta principalmente a las luces altas. Ajústalo si la imagen es demasiado brillante u oscura.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_contrast">
-		<text>Contraste de HDR10 (r4_hdr10_contrast)</text>
+		<text>Contraste (r4_hdr10_contrast)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_contrast_desc">
 		<text>Ajusta el contraste de la imagen.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_contrast_middle_gray">
-		<text>Contraste de gris medio de HDR10 (r4_hdr10_contrast_middle_gray)</text>
+		<text>Contraste de gris medio (r4_hdr10_contrast_middle_gray)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_contrast_middle_gray_desc">
 		<text>El punto fijo para los ajustes de contraste. Los valores más bajos hacen que el ajuste del contraste afecte menos a las regiones oscuras y más a las brillantes, los valores más altos hacen lo contrario.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_saturation">
-		<text>Saturación de HDR10 (r4_hdr10_saturation)</text>
+		<text>Saturación (r4_hdr10_saturation)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_saturation_desc">
 		<text>Ajusta la saturación de la imagen.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_ui_saturation">
-		<text>Saturación de interfaz de HDR10 (r4_hdr10_ui_saturation)</text>
+		<text>Saturación de interfaz (r4_hdr10_ui_saturation)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_ui_saturation_desc">
 		<text>Ajusta la saturación de la interfaz ponderada por la transparencia. Se trata de un factor corrector proporcional a la transparencia del elemento.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_on">
-		<text>Luminiscencia de HDR10 (r4_hdr10_bloom_on)</text>
+		<text>Luminiscencia (r4_hdr10_bloom_on)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_on_desc">
 		<text>Activa o desactiva la luminiscencia de HDR. Desactiva la luminiscencia antigua con «r2_ls_bloom_threshold 1». Puede afectar al rendimiento.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_blur_passes">
-		<text>Pasadas de desenfoque de luminiscencia de HDR10 (r4_hdr10_bloom_blur_passes)</text>
+		<text>Pasadas de desenfoque de luminiscencia (r4_hdr10_bloom_blur_passes)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_blur_passes_desc">
 		<text>Determina el tamaño de la luminiscencia. Los valores más grandes aumentan el tamaño del efecto de luminiscencia. Puede afectar al rendimiento.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_blur_scale">
-		<text>Escala de desenfoque de luminiscencia de HDR10 (r4_hdr10_bloom_blur_scale)</text>
+		<text>Escala de desenfoque de luminiscencia (r4_hdr10_bloom_blur_scale)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_blur_scale_desc">
 		<text>Ajuste preciso del radio de luminiscencia.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_intensity">
-		<text>Intensidad de luminiscencia de HDR10 (r4_hdr10_bloom_intensity)</text>
+		<text>Intensidad de luminiscencia (r4_hdr10_bloom_intensity)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_bloom_intensity_desc">
 		<text>Ajusta la intensidad de la luminiscencia. Los valores más altos son más brumosos.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_on">
-		<text>Destello de lente de HDR10 (r4_hdr10_flare_on)</text>
+		<text>Destello de lente (r4_hdr10_flare_on)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_on_desc">
 		<text>Activa o desactiva el destello de lente de HDR. Puede afectar al rendimiento.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_threshold">
-		<text>Umbral de destello de lente de HDR10 (r4_hdr10_flare_threshold)</text>
+		<text>Umbral de destello de lente (r4_hdr10_flare_threshold)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_threshold_desc">
 		<text>Establece el brillo mínimo que debe tener algo para crear un destello de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_power">
-		<text>Intensidad de destello de lente de HDR10 (r4_hdr10_flare_power)</text>
+		<text>Intensidad de destello de lente (r4_hdr10_flare_power)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_power_desc">
 		<text>Ajusta la intensidad general del efecto de destello de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghosts">
-		<text>Fantasmas de destello de lente de HDR10 (r4_hdr10_flare_ghosts)</text>
+		<text>Fantasmas de destello de lente (r4_hdr10_flare_ghosts)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghosts_desc">
 		<text>Ajusta el número de fantasmas de lente creados por el efecto de destello de lente. Puede afectar al rendimiento.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghost_dispersal">
-		<text>Dispersión de fantasmas de destello de lente de HDR10 (r4_hdr10_flare_ghost_dispersal)</text>
+		<text>Dispersión de fantasmas de destello de lente (r4_hdr10_flare_ghost_dispersal)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghost_dispersal_desc">
 		<text>Ajusta la escala y el espaciado de los fantasmas de lente creados por el efecto de destello de lente..</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_center_falloff">
-		<text>Centro de desvanecimiento de destello de lente de HDR10 (r4_hdr10_flare_center_falloff)</text>
+		<text>Centro de desvanecimiento de destello de lente (r4_hdr10_flare_center_falloff)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_center_falloff_desc">
 		<text>Ajusta el radio de desvanecimiento (desde el centro de la pantalla) de la contribución de la imagen a los destellos de lente. Los valores más pequeños hacen que una mayor parte de la imagen cree destellos intensos.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_halo_scale">
-		<text>Escala de halo de destello de lente de HDR10 (r4_hdr10_flare_halo_scale)</text>
+		<text>Escala de halo de destello de lente (r4_hdr10_flare_halo_scale)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_halo_scale_desc">
 		<text>Ajusta la escala de los reflejos del halo de la lente. Los valores más grandes pueden situar el halo fuera de los límites de la pantalla.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_halo_ca">
-		<text>Aberración cromática de halos de destello de lente de HDR10 (r4_hdr10_flare_halo_ca)</text>
+		<text>Aberración cromática de halos de destello de lente (r4_hdr10_flare_halo_ca)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_halo_ca_desc">
 		<text>Ajusta la cantidad de aberración cromática en los halos de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghost_ca">
-		<text>Aberración cromática de fantasmas de destello de lente de HDR10 (r4_hdr10_flare_ghost_ca)</text>
+		<text>Aberración cromática de fantasmas de destello de lente (r4_hdr10_flare_ghost_ca)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghost_ca_desc">
 		<text>Ajusta la cantidad de aberración cromática en los fantasmas de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_blur_passes">
-		<text>Pasadas de desenfoque de destello de lente de HDR10 (r4_hdr10_flare_blur_passes)</text>
+		<text>Pasadas de desenfoque de destello de lente (r4_hdr10_flare_blur_passes)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_blur_passes_desc">
 		<text>Ajusta la cantidad de desenfoque aplicada a los destellos de lente. Puede afectar al rendimiento.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_blur_scale">
-		<text>Escala de desenfoque de destello de lente de HDR10 (r4_hdr10_flare_blur_scale)</text>
+		<text>Escala de desenfoque de destello de lente (r4_hdr10_flare_blur_scale)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_blur_scale_desc">
 		<text>Ajuste preciso del radio de desenfoque de los destellos de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghost_intensity">
-		<text>Intensidad de fantasmas de destello de lente de HDR10 (r4_hdr10_flare_ghost_intensity)</text>
+		<text>Intensidad de fantasmas de destello de lente (r4_hdr10_flare_ghost_intensity)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_ghost_intensity_desc">
 		<text>Ajusta la intensidad de los fantasmas de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_halo_intensity">
-		<text>Intensidad de halos de destello de lente de HDR10 (r4_hdr10_flare_halo_intensity)</text>
+		<text>Intensidad de halos de destello de lente (r4_hdr10_flare_halo_intensity)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_flare_halo_intensity_desc">
 		<text>Ajusta la intensidad de los halos de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_on">
-		<text>Sol de HDR10 (r4_hdr10_sun_on)</text>
+		<text>Sol (r4_hdr10_sun_on)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_on_desc">
 		<text>Activa o desactiva el renderizado del sol HDR, que aprovecha mejor la luminiscencia y los destellos de lente.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_intensity">
-		<text>Intensidad del sol de HDR10 (r4_hdr10_sun_intensity)</text>
+		<text>Intensidad del sol (r4_hdr10_sun_intensity)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_intensity_desc">
 		<text>Ajusta el brillo del sol HDR.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_inner_radius">
-		<text>Radio interior del sol de HDR10 (r4_hdr10_sun_inner_radius)</text>
+		<text>Radio interior del sol (r4_hdr10_sun_inner_radius)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_inner_radius_desc">
 		<text>Ajusta el radio interior del renderizado del sol HDR. El radio interior es la región de intensidad máxima.</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_outer_radius">
-		<text>Radio exterior del sol de HDR10 (r4_hdr10_sun_outer_radius)</text>
+		<text>Radio exterior del sol (r4_hdr10_sun_outer_radius)</text>
 	</string>
 	<string id="ui_mm_modded_exes_hdr10_sun_outer_radius_desc">
 		<text>Ajusta el radio exterior del renderizado del sol HDR. El radio exterior se desvanece entre la intensidad máxima y 0.</text>
