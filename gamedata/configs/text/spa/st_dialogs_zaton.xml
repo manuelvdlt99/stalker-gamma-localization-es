@@ -501,7 +501,7 @@
 		<text>Una TOZ-34 [45 000 RU].</text>
 	</string>
 	<string id="option_cqc_2_4">
-		<text>Una MP5 [40 000 RU].</text>
+		<text>Una MP5 [65 000 RU].</text>
 	</string>
 	<string id="option_rifle_2_1">
 		<text>Un G36 [45 000 RU].</text>
@@ -510,7 +510,7 @@
 		<text>Una Groza [45 000 RU].</text>
 	</string>
 	<string id="option_rifle_2_3">
-		<text>Una PKM [45 000 RU].</text>
+		<text>Una PKM [100 000 RU].</text>
 	</string>
 	<string id="option_sniper_2_1">
 		<text>Un DVL-10 Urbana [45 000 RU].</text>
