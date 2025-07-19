@@ -46,22 +46,34 @@
 			<text>Cuatro cargadores de 9 x 18.</text>
 		</string>
 		<string id="barter_povar_army_3">
-			<text>Dos cargadores de 5,45.</text>
+			<text>Dos cargadores de 5,45 x 39.</text>
 		</string>
 		<string id="barter_povar_army_3_2">
-			<text>Dos cargadores de 5,56.</text>
+			<text>Dos cargadores de 5,56 x 45.</text>
 		</string>
 		<string id="barter_povar_army_3_3">
 			<text>Dos cargadores de 9 x 39.</text>
 		</string>
+		<string id="barter_povar_army_3_4">
+			<text>Dos cargadores de 7,62 x 39.</text>
+		</string>
+		<string id="barter_povar_army_3_5">
+			<text>Un cargador de 12,7 x 55.</text>
+		</string>
 		<string id="barter_povar_army_4">
-			<text>Cuatro cargadores de 5,45.</text>
+			<text>Cuatro cargadores de 5,45 x 39.</text>
 		 </string>
 		<string id="barter_povar_army_4_2">
-			<text>Cuatro cargadores de 5,56.</text>
+			<text>Cuatro cargadores de 5,56 x 45.</text>
 		</string>
 		<string id="barter_povar_army_4_3">
 			<text>Cuatro cargadores de 9 x 39.</text>
+		</string>
+		<string id="barter_povar_army_4_4">
+			<text>Cuatro cargadores de 7,62 x 39.</text>
+		</string>
+		<string id="barter_povar_army_4_5">
+			<text>Dos cargadores de 12,7 x 55.</text>
 		</string>
 		<string id="barter_povar_army_5">
 			<text>Tres cajetillas de perdigones.</text>

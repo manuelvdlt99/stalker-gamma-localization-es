@@ -35,8 +35,8 @@
 	</string>
 	<string id="ammo-11.43x23-hydro_descr">
 		<text>Este inusual cartucho de calibre .45 ACP consiste en una bala de punta blanda encamisada con un núcleo de acero hueco, lo cual presenta tanto ventajas como inconvenientes.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR1 (10)\n
-		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]69</text>
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]0 (10)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]60</text>
 	</string>
 	<string id="ammo-11.43x23-hydro_s">
 		<text>.45 ACP punta hueca</text>
@@ -144,8 +144,8 @@
 	</string>
 	<string id="ammo-5.45x39-ep_descr">
 		<text>El cartucho militar 7N10 de calibre 5,45 x 39 mm es un cartucho de penetración mejorada para los fusiles automáticos de los países del Pacto de Varsovia. Emplea un núcleo de acero más duro y liso para mejorar la penetración.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR1 (15)\n
-		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]53</text>
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]0 (10)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]58</text>
 	</string>
 	<string id="ammo-5.45x39-ep_s">
 		<text>5,45 x 39 penet. mej.</text>
@@ -180,8 +180,8 @@
 	</string>
 	<string id="ammo-5.56x45-ss190_descr">
 		<text>Cartucho reglamentario de la OTAN de calibre 5,56 x 45 mm con núcleo de acero. El nuevo diseño mejoró la penetración a costa de un daño tisular menos fiable. Muy conocido por su designación M855.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR1 (15)\n
-		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]46</text>
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]0 (13)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]52</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
 		<text>5,56 x 45 penet. mej.</text>
@@ -192,7 +192,7 @@
 	</string>
 	<string id="ammo-5.56x45-fmj_descr">
 		<text>Cartucho reglamentario M193 de calibre 5,56 x 45mm OTAN diseñado expresamente para el fuego automático preciso. Ofrece buenas características balísticas, ya que se diseñó a partir de un proyectil de caza. Muy conocido por su uso en la guerra de Vietnam y por tener un gran rendimiento contra los tejidos, pero una penetración limitada.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR2 (27)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR3 (29)\n
 		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]35</text>
 	</string>
 	<string id="ammo-5.56x45-fmj_s">

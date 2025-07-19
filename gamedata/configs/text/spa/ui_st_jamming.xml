@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <string_table>
 	<string id="kb_unjam">
-		<text>Desencasquillar arma</text>
+		<text>Recargar arma/Desencasquillar arma/Guardar PDA</text>
 	</string>
 	<string id="ui_st_misfire">
 		<text>¡Fallo del arma!</text>

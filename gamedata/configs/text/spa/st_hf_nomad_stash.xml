@@ -1,54 +1,50 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <string_table>
 	<string id="st_placeable_case">
-		<text>Gun Case</text>
+		<text>Maletín de armas</text>
 	</string>
 	<string id="st_placeable_case_descr">
-		<text>An empty gun case void of any weaponry. It provides more space than conventional backpacks at the cost of weight.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] moderate capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Un maletín de armas vacío desprovisto de armas. Ofrece más espacio que una mochila convencional, a costa del peso.\n \n %c[ui_gray_1]PROPIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos\n
+		%c[d_cyan] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_cyan] • %c[ui_gray_2] Capacidad moderada\n
+		%c[0,100,255,150] • %c[ui_gray_2] Utilizable como alijo\n</text>
 	</string>
 
 	<string id="st_placeable_blue_box">
-		<text>Metal Box</text>
+		<text>Caja de metal</text>
 	</string>
 	<string id="st_placeable_blue_box_descr">
-		<text>A spacious metal box dedicated for storing items. It provides the most space compared to alternatives, but its bulky container makes it harder to transport.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] high capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Una espaciosa caja de metal destinada a guardar objetos. Ofrece el mayor espacio en comparación con las alternativas, pero el voluminoso contenedor hace que sea más difícil de transportar.\n \n %c[ui_gray_1]PROPIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos\n
+		%c[d_cyan] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_cyan] • %c[ui_gray_2] Capacidad alta\n
+		%c[0,100,255,150] • %c[ui_gray_2] Utilizable como alijo\n</text>
 	</string>
 
 	<string id="st_placeable_exo_kit">
-		<text>Empty Exoskeleton Repair Kit</text>
+		<text>Kit de reparación de exoesqueletos vacío</text>
 	</string>
 	<string id="st_placeable_exo_kit_descr">
-		<text>An empty case stripped of any useful items. Many stalkers simply discard these repair kits after tending to their high tech suits, though the capacity and size of this one is useful when reused as storage.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] moderate capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Un maletín vacío desprovisto de objetos útiles. Muchos stalkers simplemente se deshacen de estos kits de reparación después de ocuparse de sus trajes de tecnología punta, aunque la capacidad y el tamaño de este son útiles cuando se reutiliza como almacenamiento.\n \n %c[ui_gray_1]PROPIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos\n
+		%c[d_cyan] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_cyan] • %c[ui_gray_2] Capacidad moderada\n
+		%c[0,100,255,150] • %c[ui_gray_2] Utilizable como alijo\n</text>
 	</string>
 
 	<string id="st_placeable_sumka6">
-		<text>Small Backpack</text>
+		<text>Mochila pequeña</text>
 	</string>
 	<string id="st_placeable_sumka6_descr">
-		<text>Small cloth sheets sewn together to form a simple sack. While not particularly useful in permanent bases, this one finds its niche in creating a small stash when in a pinch.\n \n
-			%c[ui_gray_1]PROPERTIES:\n
-			%c[d_blue] • %c[ui_gray_2] item storage\n
-			%c[d_blue] • %c[ui_gray_2] placeable item\n
-			%c[d_blue] • %c[ui_gray_2] low capacity\n
-			%c[0,100,255,150] • %c[ui_gray_2] usable as stash\n</text>
+		<text>Pequeñas sábanas de tela cosidas entre sí para formar un simple saco. Aunque no es especialmente útil en bases permanentes, encuentra su nicho a la hora de crear un pequeño alijo en apuros.\n \n %c[ui_gray_1]PROPIEDADES:\n
+		%c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos\n
+		%c[d_cyan] • %c[ui_gray_2] Objeto colocable\n
+		%c[d_cyan] • %c[ui_gray_2] Capacidad baja\n
+		%c[0,100,255,150] • %c[ui_gray_2] Utilizable como alijo\n</text>
 	</string>
 
     <string id="st_place_furniture">
-		<text>Place Item</text>
+		<text>Colocar objeto</text>
 	</string>
 </string_table>

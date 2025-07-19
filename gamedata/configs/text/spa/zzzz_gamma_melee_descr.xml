@@ -117,8 +117,8 @@
 	<string id="st_tactical_knife_descr">
 		<text>Se rumorea que estos aceros son producidos en muy pocos ejemplares por maestros de un grupo del Monolito. Composición de aleación no conocida; dicen que extraerlo es posible solo en el corazón del Sarcófago.\n \n%c[0,255,255,255]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo\n
-		%c[d_cyan] • %c[ui_gray_2] Potencia de ataque ligero: %c[ui_red]60\n
-		%c[d_cyan] • %c[ui_gray_2] Potencia de ataque pesado: %c[ui_red]107\n
+		%c[d_cyan] • %c[ui_gray_2] Potencia de ataque ligero: %c[ui_red]65\n
+		%c[d_cyan] • %c[ui_gray_2] Potencia de ataque pesado: %c[ui_red]117\n
 		%c[d_cyan] • %c[ui_gray_2] Penetración de blindajes: %c[ui_red]35\n
 		%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_green]SÍ\n
 		%c[d_green] • %c[ui_gray_2] Calidad de pieles mutantes: %c[ui_green]75 % - 98 %\n

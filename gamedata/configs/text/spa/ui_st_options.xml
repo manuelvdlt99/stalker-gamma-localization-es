@@ -39,6 +39,21 @@
 		<string id="ui_mm_menu_radio">
 			<text>Radio</text>
 		</string>
+	<string id="ui_mm_menu_sound_delay">
+		<text>Distance Delay</text>
+	</string>
+	<string id="ui_mm_sound_delay_modded_exes">
+		<text>Distance Delay</text>
+	</string>
+	<string id="ui_mm_modded_exes_sound_sound_delay_snd_distance_based_delay_power">
+		<text>Distance Based Delay Strength (snd_distance_based_delay_power)</text>
+	</string>
+	<string id="ui_mm_modded_exes_sound_sound_delay_snd_distance_based_delay_min_distance">
+		<text>Minimum Distance To Trigger Delay (snd_distance_based_delay_min_distance)</text>
+	</string>
+	<string id="ui_mm_modded_exes_sound_sound_delay_snd_pitch_variation_power">
+		<text>Pitch Variation Strength (snd_pitch_variation_power)</text>
+	</string>
 	<string id="ui_mm_menu_control">
 		<text>Controles</text>
 	</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <string_table>
 	<string id="ls_header">
-		<text>S.T.A.L.K.E.R. GAMMA 0.9.3.1</text>
+		<text>S.T.A.L.K.E.R. GAMMA 0.9.4</text>
 	</string>
 	<string id="ls_tip_number">
 		<text>Manual, lore e historias n.º </text>
@@ -40,7 +40,7 @@
 		<text>La munición puede pesar de lo lindo, pero las piezas de munición desmanteladas son muy ligeras: guarda estas piezas y fabrica munición sobre la marcha con el kit de herramientas de armero. Asegúrate de desmontar toda la munición innecesaria.</text>
 	</string>
 	<string id="ls_tip_12">
-		<text>Puedes hacer clic derecho y marcar algunos objetos como «favorito» y otros como «chatarra». Esto te dará un fácil acceso a los elementos importantes que siempre estarán en la parte superior de todos los contenedores de inventario. Es lo contrario a la chatarra, que siempre estará en el fondo de los inventarios.</text>
+		<text>Puedes hacer clic derecho y marcar algunos objetos como «favorito» y otros como «chatarra». Esto te dará fácil acceso a los elementos importantes que siempre estarán en la parte superior de todos los contenedores de inventario. Es lo contrario a la chatarra, que siempre estará en el fondo de los inventarios.</text>
 	</string>
 	<string id="ls_tip_13">
 		<text>No necesitas todos y cada uno de los objetos médicos para curarte. Marca los más importantes como favoritos para acceder a ellos fácilmente.</text>
@@ -280,7 +280,7 @@
 		<text>La munición puede pesar de lo lindo, pero las piezas de munición desmanteladas son muy ligeras: guarda estas piezas y fabrica munición sobre la marcha con el kit de herramientas de armero. Asegúrate de desmontar toda la munición innecesaria.</text>
 	</string>
 	<string id="ls_tip_92">
-		<text>Puedes hacer clic derecho y marcar algunos objetos como «favorito» y otros como «chatarra». Esto te dará un fácil acceso a los elementos importantes que siempre estarán en la parte superior de todos los contenedores de inventario. Es lo contrario a la chatarra, que siempre estará en el fondo de los inventarios.</text>
+		<text>Puedes hacer clic derecho y marcar algunos objetos como «favorito» y otros como «chatarra». Esto te dará fácil acceso a los elementos importantes que siempre estarán en la parte superior de todos los contenedores de inventario. Es lo contrario a la chatarra, que siempre estará en el fondo de los inventarios.</text>
 	</string>
 	<string id="ls_tip_93">
 		<text>No necesitas todos y cada uno de los objetos médicos para curarte. Marca los más importantes como favoritos para acceder a ellos fácilmente.</text>

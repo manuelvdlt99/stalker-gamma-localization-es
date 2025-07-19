@@ -407,7 +407,7 @@
 	</string>
 	
     <string id="st_placeable_shelves">
-		<text>Estantes de metal</text>
+		<text>Estantería de metal</text>
 	</string>
 	<string id="st_placeable_shelves_descr">
 		<text>%c[ui_gray_1]PROPIEDADES:\n

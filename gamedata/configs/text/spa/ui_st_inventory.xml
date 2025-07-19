@@ -375,23 +375,23 @@
 	</string>
 	
 	<string id="st_cap_upgr_1">
-		<text>(Básico)</text>
+		<text>(básico)</text>
 	</string>
 	<string id="st_cap_upgr_2">
-		<text>(Avanzado)</text>
+		<text>(avanzado)</text>
 	</string>
 	<string id="st_cap_upgr_3">
-		<text>(Refinar)</text>
+		<text>(refinar)</text>
 	</string>
 	
 	<string id="st_cap_meal_1">
-		<text>(Producido en la Zona)</text>
+		<text>(producido en la Zona)</text>
 	</string>
 	<string id="st_cap_meal_2">
-		<text>(Guisado)</text>
+		<text>(guisado)</text>
 	</string>
 	<string id="st_cap_meal_3">
-		<text>(Purificado)</text>
+		<text>(purificado)</text>
 	</string>
 	
 	<string id="st_cap_con_25_o">
