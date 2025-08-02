@@ -9,6 +9,9 @@
 	<string id="st_pda_next_task">
 		<text>Siguiente tarea</text>
 	</string>
+	<string id="st_pda_previous_task">
+		<text>Tarea anterior</text>
+	</string>
 	<string id="pda_btn_taskboard">
 		<text>Tareas</text>
 	</string>

@@ -1376,7 +1376,7 @@
 	<string id="st_wpn_pm_actor_descr">
 		<text>Este legado soviético es la pistola más común en la Zona y una de las mejores pistolas compactas de autodefensa disponibles. Es pequeña, muy fiable, fácil de usar y fácil de mantener en condiciones operativas. También tiene varios inconvenientes, como su corto alcance, su baja precisión y su escaso poder de parada, además de perder frente a las pistolas modernas de su clase en cuanto a peso y capacidad del cargador. En 1951, se eligió la pistola Makárov por su sencillez, facilidad de fabricación, precisión y poder de parada razonable. La «Ceremonial» fue concedida a Alexander Degtiariov como recompensa «por la ejecución satisfactoria de órdenes estatales altamente peligrosas, así como por el valor y el coraje demostrados en el cumplimiento del deber». Aparte del añadido de miras de tritio, las diferencias de la pistola son poco notables.\n \n%c[0,255,255,255]PROPIEDADES:\n
 		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Unión Soviética\n
-		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Izhmej\n.</text>
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Izhmej\n</text>
 	</string>
 	<string id="st_wpn_pm_custom">
 		<text>PM</text>

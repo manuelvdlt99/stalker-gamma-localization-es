@@ -37,6 +37,14 @@
 	<string id="ui_mcm_ssfx_module_inter_grass_enable_player_mcm_desc">
 		<text>Activar/Desactivar interacción del jugador con el césped.</text>
 	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_mutants_mcm">
+		<text>Onda expansiva de mutantes</text>
+	</string>
+	
+	<string id="ui_mcm_ssfx_module_inter_grass_enable_mutants_mcm_desc">
+		<text>Activa/desactiva los efectos de onda expansiva de los pseudogigantes y sepultureros.</text>
+	</string>
 
 	<string id="ui_mcm_ssfx_module_inter_grass_radius_mcm">
 		<text>Radio de curvatura</text>

@@ -25,7 +25,7 @@
 	</string>
 
 	<string id="ui_mcm_lst_shadows_768_V">
-		<text>768 (base)</text>
+		<text>768 (juego base)</text>
 	</string>
 
 	<string id="ui_mcm_lst_shadows_1536">
@@ -33,7 +33,7 @@
 	</string>
 
 	<string id="ui_mcm_lst_shadows_1536_V">
-		<text>1536 (base)</text>
+		<text>1536 (juego base)</text>
 	</string>
 
 	<string id="ui_mcm_lst_shadows_2048">
@@ -82,7 +82,7 @@
 	</string>
 
 	<string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm">
-		<text>Forzar sombras volumétricas (recarga de mapa obligatoria)</text>
+		<text>Forzar sombras volumétricas (requiere recarga de mapa)</text>
 	</string>
 
 	<string id="ui_mcm_ssfx_module_shadows_volumetric_force_mcm_desc">

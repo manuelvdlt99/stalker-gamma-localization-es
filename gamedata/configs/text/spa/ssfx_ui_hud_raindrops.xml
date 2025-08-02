@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 
 <string_table><!-- Raindrops Title --><string id="ui_mcm_ssfx_module_hud_raindrops_title">
-		<text>Opciones de las gotas en el HUD</text>
+		<text>Opciones de gotas en el HUD</text>
 	</string><!-- Raindrops Settings --><string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_hud_raindrops_density_mcm">
 		<text>Densidad de las gotas</text>
 	</string>

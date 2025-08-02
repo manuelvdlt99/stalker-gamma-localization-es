@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 
 <string_table><!-- Rain Footsteps Title --><string id="ui_mcm_ssfx_module_rain_footsteps_title">
-		<text>Ajustes de los pasos</text>
+		<text>Ajustes de pasos</text>
 	</string><!-- Rain Footsteps Settings --><string id="ui_mcm_ssfx_module_ssfx_rain_module_ssfx_rain_footsteps_main_vol_mcm">
 		<text>Volumen principal</text>
 	</string>
