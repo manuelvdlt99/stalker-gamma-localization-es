@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="st_wpn_rsh12">
+		<text>RSH-12</text>
+	</string>
+	<string id="st_wpn_rsh12_descr">
+		<text>El RSh-12 es un revólver ruso de gran potencia diseñado para el combate en espacios cerrados que destaca por su enorme tamaño y su potencia de fuego. Con un calibre de 12,7 x 55 mm, dispara potentes cartuchos subsónicos que suelen utilizarse en fusiles especializados, lo que le confiere un poder de parada extremo. El revólver cuenta con un mecanismo de disparo único en la parte inferior del tambor para reducir la elevación del cañón y mejorar el control, y está dotado de un riel Picatinny montado en la parte superior para visores o accesorios. Aunque no se ha distribuido de forma generalizada, el RSh-12 destaca como una de las pistolas más formidables jamás desarrolladas.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Rusia\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP\n</text>
+	</string>
+</string_table>

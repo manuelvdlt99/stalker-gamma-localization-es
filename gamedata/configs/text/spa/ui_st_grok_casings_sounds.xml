@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <string_table>
 	<string id="ui_mcm_menu_grok_casings_sounds">
-		<text>Sonidos de casquillos</text>
+		<text>Sonidos de armas GAMMA</text>
 	</string>
+	
+	<string id="ui_mcm_grok_casings_sounds_volume_gunfire">
+		<text>Volumen de disparos del jugador</text>
+	</string>
+	<string id="ui_mcm_grok_sounds_weapons_volume_gunfire_desc">
+		<text>También afecta a algunas armas con silenciadores integrados.</text>
+	</string>
+	<string id="ui_mcm_grok_sounds_weapons_volume_gunfire_sil">
+		<text>Volumen de disparos del jugador (silenciados)</text>
+	</string>
+	<string id="ui_mcm_grok_sounds_weapons_volume_gunfire_npc">
+		<text>Volumen de disparos de PNJ</text>
+	</string>
+	<string id="ui_mcm_grok_sounds_weapons_volume_gunfire_npc_desc">
+		<text>También afecta a algunas armas con silenciadores integrados.</text>
+	</string>
+	<string id="ui_mcm_grok_sounds_weapons_volume_gunfire_sil_npc">
+		<text>Volumen de disparos de PNJ (silenciados)</text>
+	</string>
+	
 	<string id="ui_mcm_title_grok_casings_sounds">
 		<text>Sonidos de caída de casquillos</text>
 	</string>

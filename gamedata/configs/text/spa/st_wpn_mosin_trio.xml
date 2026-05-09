@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_obrez">
+		<text>Mosin-Nagant «Obrez»</text>
+	</string>
+
+	<string id="st_wpn_obrez_descr">
+		<text>El Mosin-Nagant Obrez es una versión recortada del fusil de cerrojo Mosin-Nagant. Se recortaron el cañón y la culata para crear un arma mucho más corta y ocultable.\nEsta modificación la usaron históricamente stalkers que necesitaban un arma potente en un formato compacto, aunque a costa de la precisión, el control y la seguridad.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Imperio ruso\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Tula\n</text>
+	</string>
+	
+	<string id="st_wpn_shiv">
+		<text>«Shiv»</text>
+	</string>
+
+	<string id="st_wpn_shiv_descr">
+		<text>Una versión aún más rudimentaria del Mosin Obrez, «Shiv» recibió su nombre de un stalker desconocido, un ávido cazador y superviviente.\nSe rumorea que este hombre vagaba por Darkscape, sobreviviendo con lo que encontraba a su alrededor, como pieles de mutantes, carne y pelajes.\nAl parecer, dejó su preciado fusil en el vagón descarrilado de Darkscape donde residía. Nadie sabe si Shiv fue abandonado allí con la intención de que regresara a su lugar de caza favorito o si simplemente cayó en combate.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Imperio ruso\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Tula\n</text>
+	</string>
+
+	<string id="st_wpn_mosin_carbine">
+		<text>Mosin M38</text>
+	</string>
+	<string id="st_wpn_mosin_carbine_descr">
+		<text>La carabina Mosin-Nagant M38 es una versión más corta y manejable del clásico fusil que ofrece una considerable potencia de fuego con mayor movilidad.\nEn la Zona, es la preferida de los cazadores experimentados que necesitan una potencia de fuego fiable y contundente sin la corpulencia de su versión de tamaño completo.\nIdeal para moverse por espacios reducidos, como los laboratorios subterráneos, lo cual puede suponer una ligera ventaja en momentos cruciales.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Unión Soviética\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Tula\n</text>
+	</string>
+	
+	<string id="st_wpn_mosin_k">
+		<text>Mosin-Nagant</text>
+	</string>
+
+	<string id="st_wpn_mosin_k_descr">
+		<text>El Mosin-Nagant es un fusil de cerrojo robusto conocido por su puntería a largas distancias y su potente cartucho de 7,62 x 54 mmR.\nHa sido de siempre una reliquia de fiar preferida por tiradores, cazadores y stalkers chapados a la antigua que prefieren la simpleza, la durabilidad y el poder bruto de parada a los lujos modernos.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Unión Soviética\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Tula\n</text>
+	</string>
+	
+</string_table>

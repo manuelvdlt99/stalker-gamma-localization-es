@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+	<string id="ui_mcm_menu_spatial_audio">
+		<text>Spatial Audio Rework</text>
+	</string>
+	<string id="ui_mcm_menu_sar_main">
+		<text>Principal</text>
+	</string>
+	<string id="ui_mcm_menu_sar_editor">
+		<text>Editor de efectos</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_enable">
+		<text>Activar</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_enable_npc">
+		<text>Activar detección de rayos específica de PNJ</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_enable_npc_desc">
+		<text>Esto detectará si un PNJ se encuentra en un espacio interior cuando dispare su arma y esté lo suficientemente cerca del jugador (100 unidades); si el valor es lo suficientemente alto, se reproducirá un sonido de interior personalizado. Si se desactiva, se utilizará la detección de actores en su lugar. Desactívalo si quieres mejorar el rendimiento.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_enable_editor">
+		<text>Activar</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_ray_per_frame_mult">
+		<text>Multiplicador de rayos por fotograma</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_ray_per_frame_mult_desc">
+		<text>Un multiplicador que indica cuántos rayos se deben lanzar por fotograma; no afecta mucho al rendimiento; se recomienda 2.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_npc_tick_interval">
+		<text>Intervalo de ticks de PNJ (en ms)</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_interpolation_interval">
+		<text>Intervalo de interpolación</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_size_interpolation_interval">
+		<text>Tamaño de intervalo de interpolación</text>
+	</string>
+		<string id="ui_mcm_spatial_audio_sar_main_interpolation_interval_desc">
+		<text>Tiempo de interpolación entre dos valores de tamaño de habitación. Un tiempo menor provocará un cambio más brusco en el valor; esto se hace para evitar que el efecto oscile demasiado.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_volume">
+		<text>Volumen</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_ray_bounce_count">
+		<text>Número de rebotes de rayos</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_ray_bounce_count_desc">
+		<text>Número de rebotes de los rayos, es lo que más afecta al rendimiento.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_npc_ray_bounce_count">
+		<text>Número de rebotes de rayos de PNJ</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_ray_length_mult">
+		<text>Longitud de rayos</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_dbug">
+		<text>Modo de depuración</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_ray_dbug">
+		<text>Modo de depuración de rayos</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_show_replaced_sound">
+		<text>Mostrar sonido reemplazado</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_upper_threshold">
+		<text>Umbral superior</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_upper_threshold_desc">
+		<text>Si la puntuación interior (la cantidad de rayos recibidos) supera este umbral, el efecto será de un valor completo.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_lower_threshold">
+		<text>Umbral inferior</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_lower_threshold_desc">
+		<text>Si la puntuación interior (la cantidad de rayos recibidos) supera este umbral, el efecto de reverberación comenzará a influir en el sonido.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_cus_snd_threshold">
+		<text>Umbral de disparo personalizado</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_cus_snd_desc">
+		<text>Si la puntuación interior (la cantidad de rayos recibidos) supera este umbral, se reproducirá un sonido personalizado para interiores.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_very_small_preset">
+		<text>Ajuste predefinido para habitación muy pequeña</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_very_small_preset_desc">
+		<text>Ajuste predefinido de reverberación para habitaciones muy pequeñas.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_very_small_strength">
+		<text>Fuerza de ajuste predefinido muy pequeño</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_very_small_strength_desc">
+		<text>Básicamente, indica la intensidad del efecto de reverberación: 0 significa que no hay reverberación y 1 significa que el efecto estará al máximo.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_very_small_size">
+		<text>Distancia para ajuste predefinido muy pequeño</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_very_small_size_desc">
+		<text>Si la distancia entre el punto de impacto del rayo y el jugador es menor que esta, se reproducirá el ajuste predefinido muy pequeño.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_small_preset">
+		<text>Ajuste predefinido para habitación pequeña</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_small_preset_desc">
+		<text>Ajuste predefinido de reverberación para habitaciones pequeñas.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_small_strength">
+		<text>Fuerza de ajuste predefinido pequeño</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_small_strength_desc">
+		<text>Básicamente, indica la intensidad del efecto de reverberación: 0 significa que no hay reverberación y 1 significa que el efecto estará al máximo.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_small_size">
+		<text>Distancia para ajuste predefinido pequeño</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_small_size_desc">
+		<text>Si la distancia entre el punto de impacto del rayo y el jugador es menor que esta, se reproducirá el ajuste predefinido pequeño.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_mid_preset">
+		<text>Ajuste predefinido para habitación mediana</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_mid_preset_desc">
+		<text>Ajuste predefinido de reverberación para habitaciones medianas.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_mid_strength">
+		<text>Fuerza de ajuste predefinido mediano</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_mid_strength_desc">
+		<text>Básicamente, indica la intensidad del efecto de reverberación: 0 significa que no hay reverberación y 1 significa que el efecto estará al máximo.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_mid_size">
+		<text>Distancia para ajuste predefinido mediano</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_mid_size_desc">
+		<text>Si la distancia entre el punto de impacto del rayo y el jugador es igual a este valor, se reproducirá el ajuste predefinido mediano en su totalidad.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_large_preset">
+		<text>Ajuste predefinido para habitación grande</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_large_preset_desc">
+		<text>Ajuste predefinido de reverberación para habitaciones grandes.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_large_strength">
+		<text>Fuerza de ajuste predefinido grande</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_large_strength_desc">
+		<text>Básicamente, indica la intensidad del efecto de reverberación: 0 significa que no hay reverberación y 1 significa que el efecto estará al máximo.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_large_size">
+		<text>Distancia para ajuste predefinido grande</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_large_size_desc">
+		<text>Si la distancia entre el punto de impacto del rayo y el jugador es igual o mayor que este valor, se reproducirá el ajuste predefinido mediano en su totalidad.</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_sar_main_outdoor_preset">
+		<text>Ajuste predefinido para exteriores</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_main_outdoor_preset_desc">
+		<text>Ajuste predefinido de reverberación para exteriores (normalmente sin reverberación alguna).</text>
+	</string>
+
+	<string id="ui_mcm_spatial_audio_desc_npc">
+		<text>Ajustes de PNJ</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_ray">
+		<text>Ajustes de rayos</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_threshold">
+		<text>Ajustes de umbral: cómo de sensible es la detección</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_preset">
+		<text>Configuración de ajustes predefinidos: ajustes relacionados con el efecto de reverberación. Puedes encontrar los ajustes predefinidos predeterminados en el archivo script/sar_reverb_preset.script o crear un ajuste personalizado en la pestaña «Editor de ajustes predefinidos».</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_dbug">
+		<text>Mierdas de desarrollador</text>
+	</string>
+
+
+	<string id="ui_mcm_spatial_audio_desc_editor1">
+		<text>Bienvenido al Editor de ajustes predefinidos; desplázate hacia abajo para ver cómo se utiliza.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_editor2">
+		<text>1. Activa el editor y carga tu ajuste predefinido personalizado (o cualquier ajuste predefinido como base). </text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_editor3">
+		<text>2. Empieza a editar, modifica el valor y sal de la ventana para ver el efecto en acción. </text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_editor4">
+		<text>3. Cuando hayas terminado, desplázate hacia abajo, escribe el nombre del ajuste preestablecido personalizado (puedes sobrescribir uno ya existente) y pulsa «Exportar». </text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_editor5">
+		<text>4. ¡Listo! Ya puedes establecer el ajuste predefinido como configuración principal en el MCM. </text>
+	</string>
+	<string id="ui_mcm_spatial_audio_desc_editor6">
+		<text>La documentación de todos los efectos se encuentra en la carpeta mod/SAR-DOC/Effect Extension Guide.pdf. Una vez exportado el ajuste predefinido, encontrarás el archivo correspondiente en mo2/overwrite/gamedata/script/zzz_[nombre_de_tu_ajuste]_preset_inject.script; puedes compartir este archivo para compartir tu ajuste predefinido.</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_load_reverb_name">
+		<text>Cargar nombre de reverberación</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_load_reverb_name">
+		<text>Cargar nombre de reverberación</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_load_reverb">
+		<text>Cargar</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_edit">
+		<text>Activar modo de edición</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_reverb_name">
+		<text>Exportar como nombre de reverberación</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_export">
+		<text>Exportar</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_density">
+		<text>Densidad</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_diffusion">
+		<text>Difusión</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_gain">
+		<text>Ganancia</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_gain_hf">
+		<text>HF de ganancia</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_gain_lf">
+		<text>LF de ganancia</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_decay_time">
+		<text>Tiempo de desintegración</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_decay_hf_ratio">
+		<text>Proporción de desintegración HF</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_decay_lf_ratio">
+		<text>Proporción de desintegración LF</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_reflections_gain">
+		<text>Ganancia de reflejos</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_reflections_delay">
+		<text>Desintegración de reflejos</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_late_reverb_gain">
+		<text>Ganancia de reverberación tardía</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_late_reverb_delay">
+		<text>Desintegración de reverberación tardía</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_echo_time">
+		<text>Tiempo de eco</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_echo_depth">
+		<text>Profundidad de eco</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_modulation_time">
+		<text>Tiempo de modulación</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_modulation_depth">
+		<text>Profundidad de modulación</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_air_absorption_gain_hf">
+		<text>Ganancia de absorción de aire HF</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_hf_reference">
+		<text>Referencia HF</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_lf_reference">
+		<text>Referencia LF</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_room_rolloff_factor">
+		<text>Factor de roll-off de habitación</text>
+	</string>
+	<string id="ui_mcm_spatial_audio_sar_editor_decay_hf_limit">
+		<text>Límite de desintegración HF</text>
+	</string>
+</string_table>

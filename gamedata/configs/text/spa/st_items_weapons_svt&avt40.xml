@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+	Weapons
+-->
+
+<string_table>
+
+	<string id="st_wpn_avt40">
+		<text>AVT-40</text>
+	</string>
+	<string id="st_wpn_avt40_descr">
+		<text>El AVT-40 es una variante automática del SVT-40. Se creó para compensar la escasez de metralletas del Ejército Rojo. Aunque no fue precisamente un éxito, cumplía su función en cierta medida, siempre y cuando se disparara en ráfagas de 3 o 4 disparos y no en modo automático, ya que así el retroceso resultaba algo controlable. Para diferenciarlo de los demás SVT, el AVT-40 tiene una letra «A» estampada en la culata, así como el emblema de la planta de armas de Tula.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Unión Soviética\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Arsenal de Tula\n</text>
+	</string>
+</string_table>

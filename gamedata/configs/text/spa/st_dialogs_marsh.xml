@@ -115,13 +115,13 @@
 		<text>Al patio de máquinas. %c[d_orange][800 RU]</text>
 	</string>
 	<string id="travel_guid_marsh_csky_6">
-		<text>Al campamento de novatos en el Cordón. %c[d_orange][1500 RU]</text>
+		<text>Al campamento de novatos en el Cordón. %c[d_orange][1000 RU]</text>
 	</string>
 	<string id="travel_guid_marsh_csky_7">
-		<text>A Agroprom. %c[d_orange][2000 RU]</text>
+		<text>A Yantar. %c[d_orange][1500 RU]</text>
 	</string>
 	<string id="travel_guid_marsh_csky_8">
-		<text>Al bar. %c[d_orange][4000 RU]</text>
+		<text>A Júpiter, al búnker de los científicos. %c[d_orange][8000 RU]</text>
 	</string>
 	<string id="travel_guid_marsh_csky_9">
 		<text>He cambiado de idea.</text>

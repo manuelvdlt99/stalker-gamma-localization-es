@@ -408,8 +408,8 @@
 	</string>
 	<string id="ammo-9x18-ap_descr">
 		<text>El RG028 es un cartucho empleado por su capacidad de perforación. El objetivo del RG028 era contrarrestar el blindaje corporal; por esta razón, está cargado con un núcleo de acero endurecido. Por desgracia, el cartucho en sí no supone una gran mejora respecto al estándar, simplemente tiene un mayor impacto que el típico cartucho de 9 x 18 mm.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR3 (27)\n
-		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]18</text>
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR3 (26)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]23</text>
 	</string>
 	<string id="ammo-9x18-ap_s">
 		<text>9 x 18 perf.</text>
@@ -432,8 +432,8 @@
 	</string>
 	<string id="ammo-9x18-pmm_descr">
 		<text>Este cartucho contiene una bala con un mayor poder de parada, mientras que su designación europea +P denota «munición de sobrepresión» con un aumento del 30 % en la velocidad de salida. Ineficaz contra blindajes corporales.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]0 (10)\n
-		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]33</text>
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]0 (8)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]42</text>
 	</string>
 	<string id="ammo-9x18-pmm_s">
 		<text>9 x 18 penet. mej.</text>
@@ -444,7 +444,7 @@
 	</string>
 	<string id="ammo-9x19-ap_descr">
 		<text>Cartucho ruso de calibre 9 x 19 mm Parabellum que incluye un núcleo de acero duro y mayor presión. Diseñado para mejorar la capacidad de perforación de las armas ligeras y las metralletas.\n \n
-		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR3 (34)\n
+		%c[ui_gray_2] • %c[ui_gray_2] Perforación de blindajes (AP): %c[ui_gray_1]BR3 (35)\n
 		%c[ui_gray_2] • %c[ui_gray_2] Poder de parada nominal (DMG): %c[ui_gray_1]21</text>
 	</string>
 	<string id="ammo-9x19-ap_s">

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="st_grenade_m67">
+		<text>Granada M67</text>
+	</string>
+	<string id="st_grenade_m67_s">
+		<text>M67</text>
+	</string>
+	<string id="st_grenade_m67_descr">
+		<text>La granada de fragmentación M67 es una granada de mano muy utilizada por las fuerzas militares de todo el mundo. Se trata de un artefacto explosivo compacto y portátil que consta de un cuerpo esférico de acero relleno de un explosivo de alta potencia. La granada presenta una textura estriada característica que mejora el agarre y la estabilidad. Dotada de una palanca de seguridad y un sistema de detonación por extracción del pasador, la M67 está diseñada para garantizar un manejo seguro hasta su activación. Cuando se activa, produce una potente explosión que hace que la carcasa exterior se fragmente en metralla letal que sale disparada en todas direcciones. El eficaz radio de explosión y la fragmentación letal de la M67 la convierten en un arma formidable en situaciones de combate, lo que permite a las tropas neutralizar al personal enemigo y desarticular las posiciones enemigas con un efecto devastador.\n \n
+		%c[d_purple] • %c[ui_gray_2] Potencia de explosión: %c[ui_gray_1]media\n
+		%c[d_purple] • %c[ui_gray_2] Radio de explosión: %c[ui_gray_1]10 m\n
+		%c[d_purple] • %c[ui_gray_2] Fragmentos de media: %c[ui_gray_1]200 (metralla pequeña)\n
+		%c[d_purple] • %c[ui_gray_2] Retardo de explosión: %c[ui_gray_1]3,5 segundos</text>
+	</string>
+</string_table>

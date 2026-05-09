@@ -8,6 +8,12 @@
 	<string id="st_ac_oitc">
         <text>1 en la recámara</text>
     </string>
+	<string id="st_ac_empty_mag_oitc">
+        <text>Cargador vacío + 1 en la recámara</text>
+    </string>
+    <string id="st_ac_no_mag_oitc">
+        <text>Sin cargador + 1 en la recámara</text>
+    </string>
     <string id="st_ac_just_one">
         <text>Solo 1</text>
     </string>
@@ -41,11 +47,17 @@
 	<string id="st_ac_grenade">
         <text>Granada insertada</text>
     </string>
+	<string id="st_ac_loaded">
+        <text>Cargado</text>
+    </string>
     <string id="st_ac_noAmmo">
         <text>¡Esto no admite munición!</text>
     </string>
     <string id="st_ac_ammoLeft">
         <text>restantes</text>
+    </string>
+	<string id="st_ac_magsredux_update">
+        <text>Estás usando una versión antigua de MagsRedux. Actualiza a la versión de GitHub para tener la mejor experiencia.</text>
     </string>
 
 	
@@ -67,6 +79,24 @@
 	<string id="ui_mcm_rax_ammo_check_hideicon">
 		<text>Ocultar icono de munición</text>
 	</string>
+	<string id="ui_mcm_rax_ammo_check_title_display">
+        <text>Ajustes de visualización</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_title_hud">
+        <text>Ajustes del HUD</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_title_behavior">
+        <text>Ajustes de comportamiento</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_title_anim">
+        <text>Ajustes de animación</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_title_keys">
+        <text>Ajustes de teclas</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_title_debug">
+        <text>Ajustes de depuración</text>
+    </string>
 
 
 	<string id="ui_mcm_rax_ammo_check_busy_hands_fix">
@@ -88,6 +118,216 @@
 		<text>Actualiza el MCM para cambiar la tecla aquí. La tecla por defecto es la T.</text>
 	</string>
 
-	
+	<!-- Display Settings -->
+    <string id="ui_mcm_rax_ammo_check_usecolor">
+        <text>Mensajes de colores</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_usecolor_desc">
+        <text>Habilita mensajes codificados por colores según el nivel de munición (rojo = bajo, blanco = lleno).</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_color_intensity">
+        <text>Intensidad de colores</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_color_intensity_desc">
+        <text>Ajusta el brillo de los mensajes de colores. Los valores bajos producen colores más tenues.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_display_mode">
+        <text>Modo de visualización</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_display_mode_desc">
+        <text>Elige cómo se muestra el contador de munición: descripción textual, recuento numérico o ambos.</text>
+    </string>
+    <!-- Display Mode List Options (no ui_mcm_ prefix for list values) -->
+    <string id="rax_ammo_check_display_mode_lst_dm_text">
+        <text>Solo texto</text>
+    </string>
+    <string id="rax_ammo_check_display_mode_lst_dm_numeric">
+        <text>Solo número</text>
+    </string>
+    <string id="rax_ammo_check_display_mode_lst_dm_both">
+        <text>Texto + número</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_show_ammo_type">
+        <text>Mostrar tipo de munición</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_show_ammo_type_desc">
+        <text>Muestra el nombre del tipo de munición en el mensaje (p. ej. «9 x 19 BP», «5,45 x 39 PS»).</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_show_ammo_tag">
+        <text>Mostrar etiqueta de munición</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_show_ammo_tag_desc">
+        <text>Añade una etiqueta de clasificación de munición al mensaje (p. ej. (perf.), (punta hueca), (camisa metálica), (SL), (BK)).</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_highlight_ammo_mode">
+        <text>Resaltar tipo de munición</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_highlight_ammo_mode_desc">
+        <text>Colorea el mensaje según el tipo de munición. Nada: usa el color del nivel de munición. Mensaje completo: colorea toda la línea según el tipo de munición. Líneas separadas: muestra la etiqueta de munición en la segunda línea con su color.</text>
+    </string>
+    <!-- Highlight Ammo Mode List Options (no ui_mcm_ prefix for list values) -->
+    <string id="rax_ammo_check_highlight_ammo_mode_lst_ham_none">
+        <text>Nada</text>
+    </string>
+    <string id="rax_ammo_check_highlight_ammo_mode_lst_ham_whole">
+        <text>Mensaje completo</text>
+    </string>
+    <string id="rax_ammo_check_highlight_ammo_mode_lst_ham_separate">
+        <text>Líneas separadas</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_msg_duration">
+        <text>Duración del mensaje</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_msg_duration_desc">
+        <text>Cuánto tiempo se muestra en pantalla el mensaje de estado de la munición (en segundos).</text>
+    </string>
 
+    <!-- HUD Settings -->
+    <string id="ui_mcm_rax_ammo_check_hidecounter">
+        <text>Ocultar contador de munición</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_hidecounter_desc">
+        <text>Oculta el contador de munición predeterminado del HUD para una experiencia más inmersiva.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_hideicon">
+        <text>Ocultar icono de munición</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_hideicon_desc">
+        <text>Oculta el icono del tipo de munición del HUD.</text>
+    </string>
+
+    <!-- Behavior Settings -->
+    <string id="ui_mcm_rax_ammo_check_check_grenade_mode">
+        <text>Comprobar en modo lanzagranadas</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_check_grenade_mode_desc">
+        <text>Permite comprobar la munición mientras el arma está en modo lanzagranadas.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_auto_check_reload">
+        <text>Comprobar automáticamente tras recargar</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_auto_check_reload_desc">
+        <text>Muestra automáticamente el estado de la munición después de completar una recarga.</text>
+    </string>
+
+    <!-- Animation Settings -->
+    <string id="ui_mcm_rax_ammo_check_enable_animations">
+        <text>Activar animaciones</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_enable_animations_desc">
+        <text>Conmutador principal para todas las animaciones. Cuando está DESACTIVADO, solo se mostrará el mensaje de texto (sin animaciones de armas).</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_anim_mode">
+        <text>Animación alternativa de inspección de cargador</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_anim_mode_desc">
+        <text>Animación para armas SIN animación de inspección de cargador adecuada. Predeterminado: ocultar/mostrar arma. Bajar arma: bajar el arma brevemente. Recarga falsa: reproducir animación de recarga para armas con cargador, animaciones especiales para armas con cargador interno.</text>
+    </string>
+    <!-- Animation Mode List Options -->
+    <string id="rax_ammo_check_anim_mode_lst_anim_mode_default">
+        <text>Predeterminado (ocultar/mostrar)</text>
+    </string>
+    <string id="rax_ammo_check_anim_mode_lst_anim_mode_lower">
+        <text>Bajar arma</text>
+    </string>
+    <string id="rax_ammo_check_anim_mode_lst_anim_mode_fake_reload">
+        <text>Recarga falsa</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_no_magazine_fallback">
+        <text>Alternativa sin cargador</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_no_magazine_fallback_desc">
+        <text>Animación al usar el modo Recarga falsa y SIN cargador insertado (solo armas con cargador extraíble de MagsRedux). Ocultar/mostrar: cambiar de arma. Bajar: bajar el arma. Nada: solo mostrar mensaje.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_fallback">
+        <text>Alternativa para cargadores internos</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_fallback_desc">
+        <text>Animación alternativa para armas con cargador interno (escopetas, revólveres, etc.) que no se encuentran en listas especiales al usar el modo Recarga falsa.</text>
+    </string>
+    <string id="rax_ammo_check_no_magazine_fallback_lst_fallback_hide_show">
+        <text>Ocultar/mostrar arma</text>
+    </string>
+    <string id="rax_ammo_check_no_magazine_fallback_lst_fallback_lower">
+        <text>Bajar arma</text>
+    </string>
+    <string id="rax_ammo_check_no_magazine_fallback_lst_fallback_none">
+        <text>Nada (solo mensaje)</text>
+    </string>
+    <string id="rax_ammo_check_fake_reload_fallback_lst_fallback_hide_show">
+        <text>Hide/Show Weapon</text>
+    </string>
+    <string id="rax_ammo_check_fake_reload_fallback_lst_fallback_lower">
+        <text>Bajar arma</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_empty_mag_fallback">
+        <text>Alternativa para cargador vacío</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_empty_mag_fallback_desc">
+        <text>Animación que se reproduce al comprobar la munición con un cargador vacío insertado. «Animación de recarga» reproduce la animación completa de recarga sin cargar munición. «Animar» intenta ejecutar anm_bore/anm_idle. «Bajar arma» simplemente baja el arma brevemente.</text>
+    </string>
+    <string id="rax_ammo_check_empty_mag_fallback_lst_empty_mag_reload_anim">
+        <text>Animación de recarga</text>
+    </string>
+    <string id="rax_ammo_check_empty_mag_fallback_lst_empty_mag_animate">
+        <text>Animar (anm_bore/idle)</text>
+    </string>
+    <string id="rax_ammo_check_empty_mag_fallback_lst_empty_mag_lower">
+        <text>Bajar arma</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_bolt_cycle">
+        <text>Cerrojo: accionar cerrojo</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_bolt_cycle_desc">
+        <text>Para fusiles de cerrojo (Kar 98, Springfield, etc.), reproduce la animación de apertura/cierre del cerrojo en lugar de la alternativa.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_bolt_eject">
+        <text>Cerrojo: expulsar cartucho</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_bolt_eject_desc">
+        <text>Igual que en la vida real. Al accionar el cerrojo, se expulsa una bala del cargador (se añade al inventario). Requiere que la opción «Accionar cerrojo» esté activada. No todos los fusiles de cerrojo son compatibles.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_pump_rack">
+        <text>Corredera: accionar corredera</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_pump_rack_desc">
+        <text>Para escopetas de corredera (KS-23, Remington 870, etc.), reproduce la animación de apertura/cierre de la corredera en lugar de la alternativa.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_pump_eject">
+        <text>Corredera: expulsar cartucho</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_pump_eject_desc">
+        <text>Igual que en la vida real. Al accionar la corredera, expulsa un cartucho del cargador (se añade al inventario). Requiere que la opción «Accionar corredera» esté activada. No todas las escopetas de corredera son compatibles.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_ignore_list">
+        <text>Recarga falsa ignora alguna armas</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_fake_reload_ignore_list_desc">
+        <text>Utiliza la lista negra para omitir las animaciones de recarga falsas para armas con animaciones poco inmersivas o defectuosas. Las armas afectadas usarán la animación alternativa en su lugar. Edita ammo_check_weapons.script para personalizar la lista.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_busy_hands_delay">
+        <text>Retardo de mensaje</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_busy_hands_delay_desc">
+        <text>Retardo antes de mostrar el mensaje (en segundos).</text>
+    </string>
+
+    <!-- Keybind Settings -->
+    <string id="ui_mcm_rax_ammo_check_keybind">
+        <text>Tecla para comprobar munición</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_keybind_desc">
+        <text>Tecla a pulsar para comprobar la munición. Se puede combinar con teclas modificadoras.</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_update_mcm">
+        <text>Actualiza el MCM para cambiar la tecla asignada aquí. La tecla predeterminada es T.</text>
+    </string>
+
+    <!-- Debug Settings -->
+    <string id="ui_mcm_rax_ammo_check_debug_mode">
+        <text>Modo de depuración</text>
+    </string>
+    <string id="ui_mcm_rax_ammo_check_debug_mode_desc">
+        <text>Habilita el modo de depuración para probar animaciones. Cuando está activado, las teclas numéricas del 0-9 prueban los estados del arma, la tecla * del teclado numérico muestra las animaciones del arma. Úsalo para descubrir qué estado activa el accionamiento del cerrojo.</text>
+    </string>
 </string_table>

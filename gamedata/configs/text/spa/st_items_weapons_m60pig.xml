@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="st_wpn_m60_pig">
+		<text>M60</text>
+	</string>
+	<string id="st_wpn_m60_pig_descr">
+		<text>La M60 es una ametralladora ligera accionada por gas, refrigerada por aire y alimentada mediante cintas introducida por los Estados Unidos en los años cincuenta. Dispara el calibre 7,62 x 51 mm OTAN y es conocida por su distintivo diseño y versatilidad en roles de apoyo a infantería. Con una cadencia de tiro y alcance eficaz relativamente elevados, la M60 se convirtió en un pilar de las fuerzas estadounidenses durante la guerra de Vietnam y permaneció décadas en servicio.\n \nAunque se granjeó una reputación de ser pesada y, en ocasiones, poco fiable en condiciones adversas, se ganó el sobrenombre de «la Cerda» por su gran potencia de fuego y, desde entonces, ha sido sustituida por sistemas más modernos, aunque todavía se utiliza de forma limitada en algunas funciones.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Estados Unidos\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]General Dynamics\n</text>
+	</string>	
+
+	<string id="st_mag_m60_pig">
+		<text>Caja de munición de M60</text>
+	</string>
+	<string id="st_mag_m60_pig_descr">
+		<text>Caja de munición para la ametralladora ligera M60, con capacidad para 100 cartuchos de calibre .308 OTAN (7,62 x 51 mm).\n \n</text>
+	</string>	
+
+</string_table>

@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <string_table>
 	<string id="ui_mm_desc_vis_distance">
-		<text>La distancia de renderizado del mundo también afecta al sonido. Bajar la barra deslizante a menos del 20 % hará inaudibles los disparos lejanos.</text>
+		<text>La distancia de renderizado del mundo también afecta al sonido. Bajar la barra deslizante a menos del 50 % hará inaudibles los disparos lejanos.</text>
 	</string>
 	<string id="ui_mm_desc_master_volume">
-		<text>El ajuste de volumen SFX actúa como modificador del atributo de volumen base del sonido, lo que significa que los sonidos con un volumen base máximo (como los disparos) no se verán afectados por valores superiores a 0,5.</text>
+		<text>El ajuste de volumen SFX no afecta a todos los sonidos por igual. Se recomienda dejarlo en 0,5 o por debajo.</text>
+	</string>
+	<string id="ui_mm_hint_gunfire_volume">
+		<text>Ajustes de volumen de disparos disponibles en Menú de configuración de mods/Sonidos/Armas</text>
 	</string>
 	<string id="ui_mm_desc_zcp_settings_hint">
 		<text>Ajustes de población de stalkers y mutantes disponibles en el menú de configuración de mods/ZCP.</text>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+
+	<string id="ui_mcm_char_transfer_title">
+		<text>Traspaso de personaje</text>
+	</string>
+	<string id="ui_mcm_menu_character_transfer">
+		<text>Traspaso de personaje</text>
+	</string>
+
+	<string id="ui_mcm_char_transfer_desc">
+		<text>Exporta tu personaje en una partida guardada, luego inicia una nueva partida e importa el personaje. Útil cuando las partidas guardadas se corrompen debido a actualizaciones de mods.</text>
+	</string>
+
+	<!-- Guide -->
+	<string id="ui_mcm_char_transfer_guide_header">
+		<text>== CÓMO USAR ==</text>
+	</string>
+	<string id="ui_mcm_char_transfer_guide_step1">
+		<text>1. EXPORTAR: Configura las opciones más abajo y pulsa «Exportar personaje»</text>
+	</string>
+	<string id="ui_mcm_char_transfer_guide_step2">
+		<text>2. Activa «Permitir importación» y recuerda la tecla asignada (por defecto: K)</text>
+	</string>
+	<string id="ui_mcm_char_transfer_guide_step3">
+		<text>3. Inicia una NUEVA PARTIDA o carga otra partida</text>
+	</string>
+	<string id="ui_mcm_char_transfer_guide_step4">
+		<text>4. IMPORTAR: Pulsa la tecla de importación (por defecto: K) cuando puedas moverte</text>
+	</string>
+	<string id="ui_mcm_char_transfer_guide_step5">
+		<text>5. Desactiva «Permitir importación» tras una importación satisfactoria</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_export">
+		<text>Exportar personaje</text>
+	</string>
+	<string id="ui_mcm_character_transfer_export_desc">
+		<text>Guarda los datos de tu personaje en un archivo de configuración. Configura las opciones a continuación antes de exportar.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_allow_import">
+		<text>Permitir importación</text>
+	</string>
+	<string id="ui_mcm_character_transfer_allow_import_desc">
+		<text>Activa esta opción para permitir la importación de datos de personajes. Desactívala después de la importación para evitar reimportaciones accidentales.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_import_key">
+		<text>Tecla para importar</text>
+	</string>
+	<string id="ui_mcm_character_transfer_import_key_desc">
+		<text>Presiona esta tecla en el juego para importar el personaje que hayas exportado. Por defecto: K</text>
+	</string>
+
+	<string id="ui_mcm_char_transfer_options">
+		<text>Opciones de exportación</text>
+	</string>
+
+	<!-- Character -->
+	<string id="ui_mcm_character_transfer_rank">
+		<text>Rango</text>
+	</string>
+	<string id="ui_mcm_character_transfer_rank_desc">
+		<text>Traspasa el rango de tu personaje (novato, curtido, profesional, etc.)</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_reputation">
+		<text>Reputación</text>
+	</string>
+	<string id="ui_mcm_character_transfer_reputation_desc">
+		<text>Traspasa tu nivel de reputación (afecta a cómo te perciben los PNJ)</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_money">
+		<text>Dinero</text>
+	</string>
+	<string id="ui_mcm_character_transfer_money_desc">
+		<text>Traspasa tus rublos</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_money_mult">
+		<text>Multiplicador de dinero</text>
+	</string>
+	<string id="ui_mcm_character_transfer_money_mult_desc">
+		<text>Ajusta el dinero traspasado (0,5 = 50 %, 1,0 = 100 %). Úsalo para equilibrar si empiezas desde cero.</text>
+	</string>
+
+	<!-- Inventory -->
+	<string id="ui_mcm_character_transfer_gear">
+		<text>Equipo</text>
+	</string>
+	<string id="ui_mcm_character_transfer_gear_desc">
+		<text>Traspasa todos los objetos del inventario, inclusive el equipo equipado, los objetos del cinturón, las armas y sus mejoras/accesorios.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_gear_condition">
+		<text>Incluir estados de objetos</text>
+	</string>
+	<string id="ui_mcm_character_transfer_gear_condition_desc">
+		<text>Conserva el desgaste/daño de los objetos. Si se desactiva, todos los objetos aparecerán con un estado del 100 %.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_condition_mult">
+		<text>Multiplicador de estado</text>
+	</string>
+	<string id="ui_mcm_character_transfer_condition_mult_desc">
+		<text>Ajusta el estado de los objetos (0,5 = objetos con la mitad de durabilidad, 1,0 = estado original). Úsalo para un desafío adicional.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_upgraded_pda">
+		<text>PDA mejorada (nivel 2/3)</text>
+	</string>
+	<string id="ui_mcm_character_transfer_upgraded_pda_desc">
+		<text>Traspasa los dispositivos PDA actualizados. Si se desactiva, conservarás la PDA predeterminada de nivel 1 de la nueva partida.</text>
+	</string>
+
+	<!-- Progression -->
+	<string id="ui_mcm_character_transfer_stats">
+		<text>Estadísticas</text>
+	</string>
+	<string id="ui_mcm_character_transfer_stats_desc">
+		<text>Traspasa las estadísticas de la PDA: bajas, disparos a la cabeza, distancia recorrida, objetos encontrados, etc.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_achievements">
+		<text>Logros</text>
+	</string>
+	<string id="ui_mcm_character_transfer_achievements_desc">
+		<text>Traspasa los logros desbloqueados.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_visited">
+		<text>Lugares visitados</text>
+	</string>
+	<string id="ui_mcm_character_transfer_visited_desc">
+		<text>Traspasa las regiones descubiertas y los terrenos inteligentes para el seguimiento de estadísticas.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_technician_tools">
+		<text>Progreso de herramientas de técnico</text>
+	</string>
+	<string id="ui_mcm_character_transfer_technician_tools_desc">
+		<text>Traspasa los desbloqueos del banco de trabajo del mecánico. Mantiene el progreso de entrega de herramientas de nivel 1/2/3 con cada técnico.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_encyclopedia_articles">
+		<text>Artículos de enciclopedia</text>
+	</string>
+	<string id="ui_mcm_character_transfer_encyclopedia_articles_desc">
+		<text>Traspasa los artículos de la enciclopedia/guía de la PDA desbloqueados.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_encyclopedia_notes">
+		<text>Notas de enciclopedia (recetas)</text>
+	</string>
+	<string id="ui_mcm_character_transfer_encyclopedia_notes_desc">
+		<text>Traspasa los documentos leídos y las recetas de fabricación. Necesario para mantener tus opciones de fabricación desbloqueadas.</text>
+	</string>
+
+	<!-- Relations -->
+	<string id="ui_mcm_character_transfer_actor_goodwill">
+		<text>Buena voluntad del jugador</text>
+	</string>
+	<string id="ui_mcm_character_transfer_actor_goodwill_desc">
+		<text>Traspasa tu reputación personal con cada facción (afecta al comportamiento de los PNJ contigo).</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_factions_goodwill">
+		<text>Relaciones con facciones</text>
+	</string>
+	<string id="ui_mcm_character_transfer_factions_goodwill_desc">
+		<text>Traspasa las relaciones entre las facciones (quién está aliado/neutral/enemistado con quién).</text>
+	</string>
+
+	<!-- World -->
+	<string id="ui_mcm_character_transfer_info_portions">
+		<text>Descubrimientos del mapa</text>
+	</string>
+	<string id="ui_mcm_character_transfer_info_portions_desc">
+		<text>Traspasa los marcadores de mapas descubiertos (círculos blancos), los puntos de referencia y demás descubrimientos del mundo.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_routes">
+		<text>Rutas de viaje</text>
+	</string>
+	<string id="ui_mcm_character_transfer_routes_desc">
+		<text>Traspasa las rutas de viaje rápido desbloqueadas entre ubicaciones.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_stashes">
+		<text>Alijos conocidos</text>
+	</string>
+	<string id="ui_mcm_character_transfer_stashes_desc">
+		<text>Traspasa los alijos conocidos marcados en tu mapa.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_contacts">
+		<text>Contactos de la PDA</text>
+	</string>
+	<string id="ui_mcm_character_transfer_contacts_desc">
+		<text>Traspasa tu lista de contactos guardados de la PDA.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_difficulty">
+		<text>Ajustes de dificultad</text>
+	</string>
+	<string id="ui_mcm_character_transfer_difficulty_desc">
+		<text>Traspasa tu configuración actual de dificultad.</text>
+	</string>
+
+	<!-- Optional -->
+	<string id="ui_mcm_character_transfer_companions">
+		<text>Compañeros (experimental)</text>
+	</string>
+	<string id="ui_mcm_character_transfer_companions_desc">
+		<text>Traspasa los PNJ acompañantes con sus armas y trajes. Esto puede causar problemas, ¡guarda la partida antes de importar!</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_smart">
+		<text>Teletransportar hasta posición (experimental)</text>
+	</string>
+	<string id="ui_mcm_character_transfer_smart_desc">
+		<text>Te teletransporta a tu ubicación anterior después de importar. Solo funciona si estás en la misma región.</text>
+	</string>
+
+	<!-- Nearby Stashes -->
+	<string id="ui_mcm_char_transfer_stash_export">
+		<text>Exportar alijos cercanos</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_nearby_stashes">
+		<text>Exportar contenido de alijos cercanos</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_nearby_stashes_radius">
+		<text>Radio de búsqueda de alijos (metros)</text>
+	</string>
+	<string id="ui_mcm_character_transfer_nearby_stashes_radius_desc">
+		<text>Hasta dónde buscar alijos creados por el jugador y mochilas con alijos anómalos.</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_prepare_stash_export">
+		<text>Mover objetos de alijos al inventario</text>
+	</string>
+	<string id="ui_mcm_character_transfer_prepare_stash_export_desc">
+		<text>Mueve todos los objetos de los alijos cercanos a tu inventario. Cierra el menú y espera antes de exportar (para compatibilidad con Weapon Parts Overhaul).</text>
+	</string>
+
+	<string id="ui_mcm_character_transfer_compensate_distant_stashes">
+		<text>Compensar alijos anómalos lejanos</text>
+	</string>
+	<string id="ui_mcm_character_transfer_compensate_distant_stashes_desc">
+		<text>Añade dinero para las mochilas de alijos anómalos a las que no puedes acceder. Fórmula: (total de alijos - 1) x precio de la mochila.</text>
+	</string>
+
+</string_table>

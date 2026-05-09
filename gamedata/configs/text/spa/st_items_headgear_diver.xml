@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+	Headgear
+-->
+
+<string_table>
+
+	<string id="st_helm_diver">
+		<text>Nautilus</text>
+	</string>
+
+	<string id="st_helm_diver_descr">
+		<text>El casco Nautilus, una pieza distintiva de equipo de protección, preferida por los miembros de la enigmática facción Pecado, es tanto un símbolo como una protección dentro de la Zona. Reconocible por su diseño sellado industrial y su ominosa silueat, el casco ofrece una gran protección contra peligros medioambientales, metralla y amenazas a corta distancia, lo que permite a sus portadores atravesar anomalías tóxicas y pasos subterráneos olvidados con una seguridad desconcertante. Los sistemas de filtración integrados y el blindaje reforzado lo hacen ideal para expediciones prolongadas en áreas contaminadas donde los stalkers comunes dudarían en aventurarse. Entre los rumores que circulan alrededor de las hogueras, muchos creen que los cascos fueron rescatados de trajes experimentales de exploración profunda abandonados después de que proyectos de investigación clasificados de la Zona se desvanecieran sin dejar rastro, lo que añade otra capa de misterio a la ya de por sí temida presencia de los operativos del Pecado.\n \n</text>
+	</string>
+	
+</string_table>

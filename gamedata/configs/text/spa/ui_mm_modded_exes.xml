@@ -7,6 +7,16 @@
 	<string id="ui_mm_menu_modded_exes">
 		<text>Ejecutables modificados</text>
 	</string>
+	<string id="ui_mm_video_basic_monitor">
+		<text>Monitor</text>
+	</string>
+
+	<string id="ui_mm_video_weather_persistent_weather">
+		<text>Clima persistente</text>
+	</string>
+	<string id="ui_mm_video_weather_persistent_weather_desc">
+		<text>Guarda las condiciones meteorológicas actuales para que se recreen exactamente al cargar.</text>
+	</string>
 
 	<string id="ui_mm_lst_ON">
 		<text>ON</text>
@@ -31,6 +41,92 @@
 	<!-- Visual -->
 	<string id="ui_mm_menu_visual">
 		<text>Visual</text>
+	</string>
+	
+	<!-- Graphics -->
+	<string id="ui_mm_menu_graphics">
+		<text>Gráficos</text>
+	</string>
+	<string id="ui_mm_graphics_modded_exes">
+		<text>Gráficos</text>
+	</string>
+	<string id="ui_mm_ssfx_grass_shadows_x">
+		<text>Cascadas de sombras de hierba</text>
+	</string>
+	<string id="ui_mm_ssfx_grass_shadows_y">
+		<text>Distancia de desdibujado de sombras de hierba</text>
+	</string>
+	<string id="ui_mm_ssfx_grass_shadows_z">
+		<text>Distancia de renderizado de sombras de hierba</text>
+	</string>
+	<string id="ui_mm_ssfx_grass_shadows_w">
+		<text>Sin usar</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_visual_graphics_g_wallmark_range_static">
+		<text>Distancia de marcas de pared estáticas (g_wallmark_range_static)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_g_wallmark_range_skeleton">
+		<text>Distancia de marcas de pared esqueléticas (g_wallmark_range_skeleton)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r_wallmarks_ssa_k">
+		<text>Wallmarks screen area limit (r_wallmarks_ssa_k)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r_wallmarks_ssa_k_desc">
+		<text>Un valor MAYOR implica una distancia de dibujado MENOR</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r_wallmarks_static">
+		<text>Marcas en objetos estáticos (r_wallmarks_static)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r_wallmarks_dynamic">
+		<text>Marcas en objetos dinámicos (r_wallmarks_dynamic)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__blood_decals_on_objects">
+		<text>Marcas de sangre adicionales en objetos vivientes (r__blood_decals_on_objects)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_visual_graphics_r__rain_exp">
+		<text>Acumulación de lluvia (r__rain_exp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__rain_exp_desc">
+		<text>Cómo de rápido aumentará la densidad de las gotas de lluvia según la densidad de lluvia del tiempo. Un valor MAYOR implica una acumulación MENOR.</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__rain_k">
+		<text>Modificador de densidad de lluvia (r__rain_k)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_visual_graphics_r__ssa_discard">
+		<text>Límite del área de pantalla de objetos (r__ssa_discard)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__ssa_discard_desc">
+		<text>Un valor MAYOR implica una distancia de dibujado MENOR de los objetos</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__ssa_discard_exp">
+		<text>Exponente del límite del área de pantalla de objetos (r__ssa_discard_exp)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__ssa_discard_exp_desc">
+		<text>Ajusta el límite de la distancia de renderizado; un valor más bajo aumentará la densidad de los objetos más cercanos, mientras que un valor más alto la reducirá. NO afecta a la distancia de renderizado general.</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__ssa_discard_fade_k">
+		<text>Coeficiente de desdibujado del límite del área de pantalla de objetos (r__ssa_discard_fade_k)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_r__ssa_discard_fade_k_desc">
+		<text>Ajusta el límite de la distancia de renderizado; un valor más alto aumentará el «desvanecimiento» de los objetos, lo que hará que los objetos más grandes dejen de renderizarse antes. SÍ afecta a la distancia de renderizado general.</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_visual_graphics_r__actor_shadow_in_demo_record">
+		<text>Habilitar sombra de personaje en grabación de demostraciones (r__actor_shadow_in_demo_record)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_visual_graphics_g_use_non_linear_inertia">
+		<text>Inercia de animación no lineal en movimiento (g_use_non_linear_inertia)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_visual_graphics_pfx_volumetric_mode">
+		<text>Luces volumétricas .PEAK (pfx_volumetric_mode)</text>
+	</string>
+	<string id="ui_mm_modded_exes_visual_graphics_pfx_volumetric_mode_desc">
+		<text>Requiere el sombreador .peak, enlace: https://www.moddb.com/mods/stalker-anomaly/addons/peak-volumetrics-1-1</text>
 	</string>
 
 	<!-- UI/HUD -->
@@ -200,7 +296,7 @@
 		<text>Frecuencia de actualización de partículas (1 - 30 Hz, 0,5 - 60 Hz, etc.) (particle_update_mod)</text>
 	</string>
 	<string id="ui_mm_modded_exes_visual_particles_render_short_tracers">
-		<text>Limitar y reducir trazadoras a su longitud mínima (render_short_tracers)</text>
+		<text>Renderizar siempre trazadoras cortas (render_short_tracers)</text>
 	</string>
 	<string id="ui_mm_modded_exes_visual_particles_allow_silencer_hide_tracer">
 		<text>Permitir que los silenciadores oculten las trazadoras (allow_silencer_hide_tracer)</text>
@@ -504,7 +600,7 @@
 	<string id="ui_mm_modded_exes_sound_doppler_snd_doppler_smoothing">
 		<text>Suavizado de efecto Doppler (snd_doppler_smoothing)</text>
 	</string>
-
+	
 	<string id="ui_mm_menu_sound_delay">
 		<text>Retardo por distancia</text>
 	</string>
@@ -519,6 +615,9 @@
 	</string>
 	<string id="ui_mm_modded_exes_sound_sound_delay_snd_pitch_variation_power">
 		<text>Fuerza de variación de tono (snd_pitch_variation_power)</text>
+	</string>
+	<string id="ui_mm_modded_exes_sound_sound_delay_snd_efx_environment_change_time">
+		<text>Tiempo de transición entre entornos sonoros (snd_efx_environment_change_time)</text>
 	</string>
 
 	<!-- Control -->
@@ -596,6 +695,51 @@
 	<string id="ui_mm_gameplay_modded_exes">
 		<text>Jugabilidad</text>
 	</string>
+	
+	<string id="ui_mm_menu_gameplay_general">
+		<text>General</text>
+	</string>
+	<string id="ui_mm_gameplay_general_modded_exes">
+		<text>General</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_progressive_stamina_cost">
+		<text>Coste de resistencia progresivo (g_progressive_stamina_cost)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_progressive_stamina_cost_desc">
+		<text>La resistencia se reducirá de forma lineal en función del peso actual, en lugar de llegar a un punto de corte.</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_first_person_death">
+		<text>Cámara de muerte en primera persona (FPD) (first_person_death)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_first_person_death_position_smoothing">
+		<text>Suavizado del cambio de posición de la cámara FPD (first_person_death_position_smoothing)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_first_person_death_direction_smoothing">
+		<text>Suavizado del cambio de dirección de la cámara FPD (first_person_death_direction_smoothing)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_legs">
+		<text>Piernas en primera persona (g_legs)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_legs_in_demo_record">
+		<text>Mostrar cuando demo_record esté activado (g_legs_in_demo_record)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_legs_in_low_crouch">
+		<text>Mostrar al agacharse (g_legs_in_low_crouch)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_legs_render_attachments_shadow">
+		<text>Renderizar sombras de objetos fijados (g_legs_render_attachments_shadow)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_legs_fwd_offset">
+		<text>Ajuste de posición delantera (g_legs_fwd_offset)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_g_legs_spine_offset_y">
+		<text>Ajuste de posición vertical de la columna vertebral (g_legs_spine_offset_y)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_gameplay_general_disable_actor_body_rotation_delay">
+		<text>Desactivar el retardo en la rotación del cuerpo del personaje (disable_actor_body_rotation_delay)</text>
+	</string>
 
 	<!-- Aim -->
 	<string id="ui_mm_menu_aim">
@@ -622,6 +766,18 @@
 	</string>
 	<string id="ui_mm_modded_exes_gameplay_aim_smooth_ads_transition">
 		<text>Aplicar suavemente la bonificación de precisión al apuntar (smooth_ads_transition)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_aim_binoculars_dynamic_zoom_check">
+		<text>El zoom de los prismáticos se puede desactivar en las configs (binoculars_dynamic_zoom_check)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_aim_binoculars_dynamic_zoom_check_desc">
+		<text>El juego comprobará el parámetro LTX «scope_dynamic_zoom» para los prismáticos.</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_aim_g_interrupt_fire_on_aim_toggle">
+		<text>Interrumpir disparos al apuntar (g_interrupt_fire_on_aim_toggle)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_aim_g_interrupt_fire_on_aim_toggle_desc">
+		<text>El arma cancelará el disparo cuando se empiece a apuntar, por lo que tendrás que volver a pulsar el botón de disparo para reanudarlo. Esto no afecta a las armas que tienen animaciones de transición entre el inicio y el final del apuntado, ya que en ese caso el disparo siempre se cancelará.</text>
 	</string>
 
 	<!-- 3D Ballistics -->
@@ -665,6 +821,50 @@
 	</string>
 	<string id="ui_mm_lst_nearwall_item">
 		<text>Objeto</text>
+	</string>
+	
+	<!-- Weapons -->
+	<string id="ui_mm_menu_weapons">
+		<text>Armas</text>
+	</string>
+	<string id="ui_mm_weapons_modded_exes">
+		<text>Armas</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_gameplay_weapons_g_auto_reload">
+		<text>Recargar automáticamente cuando se agote la munición (g_auto_reload)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_weapons_g_decouple_horz_recoil">
+		<text>El retroceso horizontal es independiente del vertical (g_decouple_horz_recoil)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_weapons_g_fire_reloads_ubgl">
+		<text>Recargar lanzadores acoplados con tecla de disparar (g_fire_reloads_ubgl)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_weapons_g_launcher_dynamic_range">
+		<text>Aplicar asistencia de lanzador sin apuntar (g_launcher_dynamic_range)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_weapons_g_launcher_dynamic_range_zoom">
+		<text>Aplicar asistencia de lanzador al apuntar (g_launcher_dynamic_range_zoom)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_weapons_g_launcher_dynamic_range_mode">
+		<text>Apuntar a objetos dinámicos con asistencia de lanzador (g_launcher_dynamic_range_mode)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_weapons_g_launcher_dynamic_range_max">
+		<text>Distancia máxima de asistencia de lanzador (g_launcher_dynamic_range_max)</text>
+	</string>
+	
+	<!-- Stalkers -->
+	<string id="ui_mm_menu_stalkers">
+		<text>Stalkers</text>
+	</string>
+	<string id="ui_mm_stalkers_modded_exes">
+		<text>Stalkers</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_stalkers_g_npcs_look_at_actor">
+		<text>Los stalkers miran al jugador de cerca (g_npcs_look_at_actor)</text>
+	</string>
+	<string id="ui_mm_modded_exes_gameplay_stalkers_g_npcs_look_at_actor_min_distance">
+		<text>Distancia mínima para empezar a mirar (g_npcs_look_at_actor_min_distance)</text>
 	</string>
 
 	<!-- First Person Death -->
@@ -770,6 +970,12 @@
 	<string id="ui_mm_modded_exes_debug_errors_hanging_lamp_ignore_match_configuration">
 		<text>No bloquear cuando «no renderer type set for hanging-lamp» (hanging_lamp_ignore_match_configuration)</text>
 	</string>
+	<string id="ui_mm_modded_exes_debug_errors_lua_busy_hands_debug">
+		<text>Depurar «Busy Hands» de Lua (lua_busy_hands_debug)</text>
+	</string>
+	<string id="ui_mm_modded_exes_debug_errors_duplicate_story_id_crash">
+		<text>Colgar juego cuando error «Specified story object is already in the Story registry!» (duplicate_story_id_crash)</text>
+	</string>
 
 	<!-- Optimizations -->
 	<string id="ui_mm_menu_optimizations">
@@ -777,6 +983,47 @@
 	</string>
 	<string id="ui_mm_optimizations_modded_exes">
 		<text>Optimizaciones</text>
+	</string>
+	
+	<string id="ui_mm_modded_exes_optimizations_g_enemy_manager_useful_cache_time">
+		<text>CEnemyManager::useful cache time(g_enemy_manager_useful_cache_time)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_g_enemy_manager_useful_cache_time_desc">
+		<text>Guarda el resultado de la llamada a CEnemyManager::useful durante un breve periodo de tiempo (en milisegundos) para evitar llamadas lentas a Lua en cada fotograma y aumentar considerablemente los FPS en los tiroteos. Establece el valor en -1 para desactivarlo.</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_optimizations_r2_mt">
+		<text>Pruebas de visibilidad multihilo y renderizado de hierba (r2_mt)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_mt_bullets">
+		<text>Cálculos de balas multihilo (mt_bullets)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_mt_particles">
+		<text>Partículas multihilo (mt_particles)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_mt_scheduler">
+		<text>Programador multihilo (mt_scheduler)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_scheduler_batch_size">
+		<text>Tamaño del lote del programador (scheduler_batch_size)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_mt_calc_bones">
+		<text>Cálculos de huesos multihilo (mt_calc_bones)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_mt_task_manager">
+		<text>Administrador de tareas multihilo (mt_task_manager)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_mt_ui">
+		<text>Actualización de interfaz multihilo (mt_ui)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_mt_update_weapon_sounds">
+		<text>Actualizaciones de sonidos de armas multihilo (mt_update_weapon_sounds)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_r__optimize_torch">
+		<text>Actualización para optimizar lámparas frontales (r__optimize_torch)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_r__optimize_torch_desc">
+		<text>Los stalkers que se encuentren lejos recibirán actualizaciones con menos frecuencia.</text>
 	</string>
 	
 	<string id="ui_mm_modded_exes_optimizations_spawn_antifreeze">
@@ -813,5 +1060,60 @@
 	</string>
 	<string id="ui_mm_modded_exes_optimizations_keyboard_buffer_size">
 		<text>Tamaño de búfer de entrada del teclado (keyboard_buffer_size)</text>
+	</string>
+	
+	<string id="ui_mm_modded_exes_optimizations_r__optimize_calculate_bones">
+		<text>Optimizar cálculos de huesos (r__optimize_calculate_bones)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_r__optimize_calculate_bones_desc">
+		<text>Los modelos esqueléticos que no estén dentro del campo de visión del jugador o que se encuentren muy lejos de él no se animarán para ahorrar recursos de la CPU.</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_ik_calc_ssa">
+		<text>Área máxima de la pantalla (ik_calc_ssa)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_ik_calc_ssa_desc">
+		<text>Los objetos cuyo área sea inferior a este valor se optimizarán. Un valor más alto dará lugar a optimizaciones más agresivas y podría provocar errores visuales.</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_ik_always_calc_dist">
+		<text>Distancia a la que siempre hacer cálculos de huesos (ik_always_calc_dist)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_optimizations_mt_level_call">
+		<text>Ejecución en paralelo de CreateTimeEvent y AddUniqueCall en Lua (mt_level_call)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_lua_use_functor_cache">
+		<text>Objetos de función de caché de Lua en el motor (lua_use_functor_cache)</text>
+	</string>
+	
+	<string id="ui_mm_modded_exes_optimizations_lua_parallel_gc">
+		<text>Recolector de basura Lua paralelo (lua_parallel_gc)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_lua_parallel_gc_desc">
+		<text>Llama repetidamente al recolector de basura de Lua en un hilo independiente con los parámetros que se indican a continuación para realizar la recolección de basura mientras el motor está renderizando el fotograma.</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_optimizations_lua_parallel_gcstep">
+		<text>Etapa del recolector de basura Lua paralelo (lua_parallel_gcstep)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_lua_parallel_gcstep_desc">
+		<text>Cuántos datos recopilar en una sola llamada. RECOMENDACIÓN: para dar con el punto óptimo en el que el tiempo de fotograma se mantiene estable y el recolector de basura paralelo no sobrecarga la CPU, escribe «lua_parallel_gc_debug 1» en la consola y comprueba el uso de memoria. Debería mantenerse estable en un valor determinado, normalmente entre 45 y 50 MB. Para AUMENTAR la eficiencia del recolector de basura paralelo, primero aumenta el paso del recolector de basura y, a continuación, aumenta el número de llamadas. Si crees que puedes permitirte un recolector de basura menos agresivo, para DISMINUIRLO, primero reduce el número de llamadas y, a continuación, el paso del recolector de basura. Da prioridad a un paso de recolector de basura más alto que al número de llamadas para reducir la sobrecarga al acceder a Lua. Los valores predeterminados son muy buenos para el juego base (pueden ejecutarse incluso con valores más bajos) y buenos para GAMMA.</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_optimizations_lua_parallel_gc_call_amount">
+		<text>Cantidad de llamadas a recolector de basura Lua paralelo (lua_parallel_gc_call_amount)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_lua_parallel_gc_call_amount_desc">
+		<text>Cuántas llamadas hay que realizar para recolectar la basura. Esta cantidad NO está garantizada si los fotogramas se renderizan demasiado rápido. RECOMENDACIÓN: para dar con el punto óptimo en el que el tiempo de fotograma se mantiene estable y el recolector de basura paralelo no sobrecarga la CPU, escribe «lua_parallel_gc_debug 1» en la consola y comprueba el uso de memoria. Debería mantenerse estable en un valor determinado, normalmente entre 45 y 50 MB. Para AUMENTAR la eficiencia del recolector de basura paralelo, primero aumenta el paso del recolector de basura y, a continuación, aumenta el número de llamadas. Si crees que puedes permitirte un recolector de basura menos agresivo, para DISMINUIRLO, primero reduce el número de llamadas y, a continuación, el paso del recolector de basura. Da prioridad a un paso de recolector de basura más alto que al número de llamadas para reducir la sobrecarga al acceder a Lua. Los valores predeterminados son muy buenos para el juego base (pueden ejecutarse incluso con valores más bajos) y buenos para GAMMA.</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_optimizations_lua_parallel_gc_debug">
+		<text>Depuración de recolector de basura Lua paralelo (lua_parallel_gc_debug)</text>
+	</string>
+
+	<string id="ui_mm_modded_exes_optimizations_dltx_use_cache">
+		<text>Caché DLTX (dltx_use_cache)</text>
+	</string>
+	<string id="ui_mm_modded_exes_optimizations_dltx_use_cache_desc">
+		<text>Almacena en caché archivos y secciones para cargar rápidamente los datos evaluados sin necesidad de leer el disco ni analizar DLTX en la siguiente carga de archivos. Ocupa unos 50 MB en Anomaly y 150 MB en GAMMA. </text>
 	</string>
 </string_table>

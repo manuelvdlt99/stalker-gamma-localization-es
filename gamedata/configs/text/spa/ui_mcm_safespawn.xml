@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+    <string id="ui_mcm_menu_safespawn">
+        <text>SafeSpawn</text>
+    </string>
+
+    <string id="ui_mcm_safespawn_show_messages">
+        <text>Activar notificaciones de PDA</text>
+    </string>
+    <string id="ui_mcm_safespawn_show_messages_desc">
+        <text>Muestra alertas cuando los enemigos quedan aislados o se recuperan.</text>
+    </string>
+
+    <string id="ui_mcm_safespawn_radius">
+        <text>Radio de detección (metros)</text>
+    </string>
+    <string id="ui_mcm_safespawn_radius_desc">
+        <text>La distancia alrededor de tu punto de aparición para detectar humanos hostiles; el valor predeterminado es de 6 metros.</text>
+    </string>
+
+    <string id="ui_mcm_safespawn_random_duration">
+        <text>Activar duración aleatoria</text>
+    </string>
+    <string id="ui_mcm_safespawn_random_duration_desc">
+        <text>Si se activa, el script seleccionará una hora de llegada aleatoria entre los valores mínimo y máximo que se indican a continuación. Si se desactiva, utilizará el control deslizante «Duración estática».</text>
+    </string>
+
+    <string id="ui_mcm_safespawn_duration">
+        <text>Duración estática (segundos) - 30 por defecto</text>
+    </string>
+
+    <string id="ui_mcm_safespawn_duration_min">
+        <text>Duración aleatoria: mínimo</text>
+    </string>
+
+    <string id="ui_mcm_safespawn_duration_max">
+        <text>Duración aleatoria: máximo</text>
+    </string>
+
+    <string id="ui_mcm_safespawn_debug">
+        <text>Activar depuración</text>
+    </string>
+
+	<string id="ui_mcm_safespawn_debug_desc">
+        <text>Si se activa, el mod mostrará mensajes de activación en cada transición de nivel, independientemente de si hay enemigos presentes, para probar los puntos de transición modificados.</text>
+    </string>
+</string_table>

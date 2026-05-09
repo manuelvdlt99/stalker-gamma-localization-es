@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_stickgrenade">
+		<text>Stielhandgranate Modelo 1924</text>
+    </string>
+	<string id="st_wpn_stickgrenade_s">
+		<text>M24</text>
+    </string>
+    <string id="st_wpn_stickgrenade_descr">
+        <text>La Stielhandgranate Modelo 1924, o M24, es una granada de mano fabricada y utilizada por la Alemania nazi desde 1924 hasta el final de la Segunda Guerra Mundial. La granada se activa mediante una cuerda que el operador tira hacia abajo, lo que a su vez arrastra una varilla de acero a través del detonador situado dentro de la espoleta.\nMuchas de estas granadas llegaron a la Zona procedentes de las enormes reservas de la Segunda Guerra Mundial. Son las preferidas por las facciones menos equipadas debido a que son más fáciles de lanzar que las granadas convencionales; sin embargo, hay quien se queja de su longitud y del tiempo que tardan en explotar.\n \n
+		%c[d_purple] • %c[ui_gray_2] Potencia de explosión: %c[ui_gray_1]media\n
+		%c[d_purple] • %c[ui_gray_2] Radio de explosión: %c[ui_gray_1]2-8 m\n
+		%c[d_purple] • %c[ui_gray_2] Fragmentos de media: %c[ui_gray_1]200 (metralla pequeña)\n
+		%c[d_purple] • %c[ui_gray_2] Retardo de explosión: %c[ui_gray_1]5,5 segundos</text>
+	</string>
+
+	<string id="st_grenade_splinter">
+		<text>Stielhandgranate Modelo 1924 con Splitterring</text>
+    </string>
+	<string id="st_grenade_splinter_s">
+		<text>M24 antipersona</text>
+    </string>
+    <string id="st_grenade_splinter_descr">
+        <text>La Stielhandgranate Modelo 1924, o M24, es una granada de mano fabricada y utilizada por la Alemania nazi desde 1924 hasta el final de la Segunda Guerra Mundial. La granada se activa mediante una cuerda que el operador tira hacia abajo, lo que a su vez arrastra una varilla de acero a través del detonador situado dentro de la espoleta.\nEl Splitterring era un manguito de fragmentación para las granadas de mano M24 y M43, desarrollado por el Heer en 1942. Las granadas de mano alemanas solo contaban con una delgada carcasa de acero que rodeaba la carga explosiva, cuyo efecto se basaba principalmente en la onda expansiva; la incorporación de un Splitterring aumentó considerablemente su capacidad de fragmentación antipersona.\n
+		%c[ui_gray_3]CHARACTERISTICS:\n \n
+		%c[d_purple] • %c[ui_gray_2] Potencia de explosión: %c[ui_gray_1]media\n
+		%c[d_purple] • %c[ui_gray_2] Radio de explosión: %c[ui_gray_1]6-12 m\n
+		%c[d_purple] • %c[ui_gray_2] Fragmentos de media: %c[ui_gray_1]200 (metralla pequeña)\n
+		%c[d_purple] • %c[ui_gray_2] Retardo de explosión: %c[ui_gray_1]4 segundos</text>
+	</string>
+
+	<string id="st_grenade_at">
+		<text>Stielhandgranate Modelo 1924 «Geballte Ladung»</text>
+    </string>
+	<string id="st_grenade_at_s">
+		<text>M24 racimo</text>
+    </string>
+    <string id="st_grenade_at_descr">
+        <text>La Stielhandgranate Modelo 1924, o M24, es una granada de mano fabricada y utilizada por la Alemania nazi desde 1924 hasta el final de la Segunda Guerra Mundial. La granada se activa mediante una cuerda que el operador tira hacia abajo, lo que a su vez arrastra una varilla de acero a través del detonador situado dentro de la espoleta.\nLa M24 carecía de eficacia contra objetivos duros, como tanques y edificios. Una solución habitual era una «Geballte Ladung» improvisada, o «carga agrupada». Se ataban hasta seis cabezas de granadas M24 —sin asas ni espoletas— alrededor de una granada completa, improvisando rápidamente una granada con hasta siete veces más potencia explosiva. Sin embargo, el peso añadido dificultaba su lanzamiento, y el mayor tamaño hacía que no fuera práctico llevarla con una sola mano y que se pudieran transportar muchas menos.\n \n
+		%c[d_purple] • %c[ui_gray_2] Potencia de explosión: %c[ui_gray_1]grande\n
+		%c[d_purple] • %c[ui_gray_2] Radio de explosión: %c[ui_gray_1]10-16 m\n
+		%c[d_purple] • %c[ui_gray_2] Fragmentos de media: %c[ui_gray_1]650 (metralla pequeña)\n
+		%c[d_purple] • %c[ui_gray_2] Retardo de explosión: %c[ui_gray_1]4,5 segundos\n</text>
+	</string>
+
+</string_table>

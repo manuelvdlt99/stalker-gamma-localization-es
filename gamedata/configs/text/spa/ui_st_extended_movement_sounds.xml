@@ -9,6 +9,25 @@
 	<string id="ui_mcm_grok_casings_sounds_enabled">
 		<text>Activar sonidos de casquillos cayendo</text>
 	</string>
+	
+	<string id="ui_mcm_extended_movement_sounds_enabled_footstep_sounds">
+		<text>Activar sonidos de pasos</text>
+	</string>
+	<string id="ui_mcm_extended_movement_sounds_volume_footstep_sounds">
+		<text>Volumen de sonidos de pasos</text>
+	</string>
+	<string id="ui_mcm_extended_movement_sounds_enabled_gear_rustle_sounds">
+		<text>Activar sonidos de traqueteo de equipo</text>
+	</string>
+	<string id="ui_mcm_extended_movement_sounds_volume_gear_rustle_sounds">
+		<text>Volumen de sonidos de traqueteo de equipo</text>
+	</string>
+	<string id="ui_mcm_extended_movement_sounds_enabled_servo_sounds">
+		<text>Activar sonidos de servomotores</text>
+	</string>
+	<string id="ui_mcm_extended_movement_sounds_volume_servo_sounds">
+		<text>Volumen de sonidos de servomotores</text>
+	</string>
 
 	<string id="ui_mcm_extended_movement_sounds_enabled_stance_sounds">
 		<text>Activar sonidos al agacharse</text>

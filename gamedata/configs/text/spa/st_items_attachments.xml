@@ -46,7 +46,8 @@
 	<string id="st_af_kevlar_up_descr">
 		<text>Las placas de kevlar son muy conocidas por su capacidad de protección y, por ello, son muy valoradas. Desempeñan un amplio abanico de funciones, la más importante de las cuales es absorber el impacto de los proyectiles de armas de fuego en la parte delantera y trasera del torso. Constituyen una alternativa ligera a las pesadas placas de acero. Además, cualquier tipo de blindaje también ayuda a mantener los trajes en buen estado, evitando su degradación por desgaste. Utilizadas por unidades militares de todo el mundo.\n \n%c[d_orange]PROPIEDADES:\n
 		%c[d_orange] • La protección solo se aplica a los brazos, las piernas y el torso\n
-		%c[d_orange] • +3 niveles BR\n</text>
+		%c[d_orange] • +3 niveles BR\n
+		%c[d_green] • +8 % de reducción de daño de la clase BR\n</text>
 	</string>
 	
 	<string id="st_af_plates_up_name">
@@ -55,7 +56,8 @@
 	<string id="st_af_plates_up_descr">
 		<text>Estas placas de acero están fabricadas, tratadas térmicamente y moldeadas expresamente para que tengan propiedades antibalas y se adapten a un amplio abanico de aplicaciones de protección. Están diseñadas para resistir impactos balísticos menores en la parte delantera y trasera del torso. Sin embargo, esta protección tiene un precio, ya que las gruesas placas de acero son muy pesadas, lo que limita la libertad de movimiento. Además, cualquier tipo de blindaje también ayuda a mantener los trajes en buen estado, evitando su degradación por desgaste. Muy utilizadas por las fuerzas Spetsnaz.\n \n%c[d_red]\n\n%c[d_red]ADVERTENCIA:%c[ui_gray_2]\n \n%c[default]El acero es un conductor, y su proximidad a la piel hace que el cuerpo sea más vulnerable a la electricidad. Por esta razón, se recomienda tomar precauciones cerca de anomalías eléctricas u otras fuentes de electricidad.\n \n%c[d_orange]PROPIEDADES:\n
 		%c[d_orange] • La protección solo se aplica a los brazos, las piernas y el torso\n
-		%c[d_orange] • +6 niveles BR\n</text>
+		%c[d_orange] • +10 clase BR\n
+		%c[d_green] • +17 % de reducción de daño de la clase BR\n</text>
 	</string>
 	
 	<string id="st_af_camelbak_up_name">
@@ -112,7 +114,8 @@
 	<string id="st_af_kevlar_descr">
 		<text>Las placas de kevlar son muy conocidas por su capacidad de protección y, por ello, son muy valoradas. Desempeñan un amplio abanico de funciones, la más importante de las cuales es absorber el impacto de los proyectiles de armas de fuego en la parte delantera y trasera del torso. Constituyen una alternativa ligera a las pesadas placas de acero. Además, cualquier tipo de blindaje también ayuda a mantener los trajes en buen estado, evitando su degradación por desgaste. Utilizadas por unidades militares de todo el mundo.\n \n%c[d_orange]PROPIEDADES:\n
 		%c[d_orange] • La protección solo se aplica a los brazos, las piernas y el torso\n
-		%c[d_orange] • +1 nivel BR\n</text>
+		%c[d_orange] • +1 nivel BR\n
+		%c[d_green] • +5 % de reducción de daño de la clase BR\n</text>
 	</string>
 	
 	<string id="st_af_plates_name">
@@ -121,7 +124,8 @@
 	<string id="st_af_plates_descr">
 		<text>Estas placas de acero están fabricadas, tratadas térmicamente y moldeadas expresamente para que tengan propiedades antibalas y se adapten a un amplio abanico de aplicaciones de protección. Están diseñadas para resistir impactos balísticos menores en la parte delantera y trasera del torso. Sin embargo, esta protección tiene un precio, ya que las gruesas placas de acero son muy pesadas, lo que limita la libertad de movimiento. Además, cualquier tipo de blindaje también ayuda a mantener los trajes en buen estado, evitando su degradación por desgaste. Muy utilizadas por las fuerzas Spetsnaz.\n \n%c[d_red]\n\n%c[d_red]ADVERTENCIA:%c[ui_gray_2]\n \n%c[default]El acero es un conductor, y su proximidad a la piel hace que el cuerpo sea más vulnerable a la electricidad. Por esta razón, se recomienda tomar precauciones cerca de anomalías eléctricas u otras fuentes de electricidad.\n \n%c[d_orange]PROPIEDADES:\n
 		%c[d_orange] • La protección solo se aplica a los brazos, las piernas y el torso\n
-		%c[d_orange] • +4 niveles BR\n</text>
+		%c[d_orange] • +6 clase BR\n
+		%c[d_green] • +12 % de reducción de daño de la clase BR\n</text>
 	</string>
 	
 	<string id="st_af_camelbak_name">
@@ -179,7 +183,9 @@
 		<text>Una piel cubierta casi del todo por una gruesa capa de pelaje, extraída de uno de los jabalíes que se encuentran habitualmente en la Zona. Los mutantes como tales son bastante resistentes al daño y pueden soportar castigos considerables, y esto se debe a una sencilla razón: gran masa muscular y huesos casi irrompibles. La piel, por otro lado, es bastante fina (muy probablemente para ofrecerle a la criatura un medio eficaz de regular su temperatura), lo que la convierte en una opción bastante mediocre para mejorar el blindaje. A su vez, el pelaje hace de la piel un aislante térmico relativamente potente. También puede utilizarse para reparaciones ligeras. Por desgracia, llevar la piel encima del blindaje hace que el portador sea menos resistente a los daños radiactivos y tóxicos, ya que las partículas pesadas suelen acumularse en el pelo.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Piel de mutante ligera \n
 		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
-		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n
+		%c[d_green] • +2 clase BR\n
+		%c[d_green] • +5 % de reducción de daño de la clase BR\n</text>
 	</string>
 	
 	<string id="st_hide_bloodsucker_name">
@@ -239,7 +245,9 @@
 		<text>La piel de un pseudogigante se parece en muchos aspectos a la de un elefante. Es gruesa y dura al tacto, su textura es muy irregular y está llena de pliegues que hacen de mecanismo de refrigeración de la criatura. El grosor medio de la piel del pseudogigante es de unos 2 cm, lo que la hace muy duradera y capaz de soportar daños importantes. Sin embargo, esto se consigue a costa de un mayor peso. Como se sabe que los pseudogigantes suelen vivir en zonas de alta toxicidad y radiactividad, la piel se adapta de forma natural a dichas condiciones, lo que aumenta aún más su utilidad. También se puede utilizar para remendar los trajes más pesados, pero este proceso requiere las herramientas más duraderas y caras disponibles. Se valora no solo por sus cualidades prácticas, sino que también puede servir como prestigioso trofeo de caza y espécimen raro para los científicos de la Zona.\n \n%c[ui_gray_2]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Espécimen científico\n
 		%c[d_green] • %c[ui_gray_2] ¿Multiapilable?: %c[ui_red]NO\n
-		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n</text>
+		%c[d_orange] • %c[d_orange] Solo se puede equipar una piel\n
+		%c[d_green] • +4 clase BR\n
+		%c[d_green] • +10 % de reducción de daño de la clase BR\n</text>
 	</string>
 	
 	<string id="st_hide_controller_name">

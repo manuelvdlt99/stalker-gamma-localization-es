@@ -327,7 +327,7 @@
 		<text>%c[0,255,255,255]RESISTENCIA QUÍMICA:\n \n%c[ui_gray_2]Determina la resistencia a las anomalías químicas y tóxicas (las verdes que borbotean).\n \n%c[0,255,255,255]OBJETOS ÚTILES: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Clortetraciclina\n %c[d_cyan] • %c[0,255,255,255]Sulfadimetoxina\n %c[d_cyan] • %c[0,255,255,255]Antídoto\n \n%c[0,255,255,255]EQUIPO ÚTIL: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Artefactos\n %c[d_cyan] • %c[0,255,255,255]Pieles de mutantes\n %c[d_cyan] • %c[0,255,255,255]Objetos del cinturón tecnológicos\n %c[d_cyan] • %c[0,255,255,255]Trajes protectores\n %c[d_cyan] • %c[0,255,255,255]Mascarillas/Equipos de respiración</text>
 	</string>
 	<string id="ui_inv_fire_wound_protection">
-		<text>%c[0,255,255,255]RESISTENCIA BALÍSTICA:\n \n%c[ui_gray_2]Determina la resistencia a las balas entrantes.\n Actúa como una reducción plana al daño entrante (como cualquier otra resistencia), pero separada entre la cabeza y el resto del cuerpo.\n Las resistencias balísticas de los artefactos y las pieles se aplican tanto a la cabeza como al cuerpo, mientras que los cascos, los blindajes corporales y las placas de blindaje solo protegen sus zonas respectivas (cabeza o resto del cuerpo).\n \n%c[0,255,255,255]OBJETOS ÚTILES: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Diclofenaco sódico\n %c[d_cyan] • %c[0,255,255,255]Metamizol\n %c[d_cyan] • %c[0,255,255,255]Morfina\n \n%c[0,255,255,255]EQUIPO ÚTIL: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Artefactos\n %c[d_cyan] • %c[0,255,255,255]Pieles de mutantes\n %c[d_cyan] • %c[0,255,255,255]Placas de blindaje\n %c[d_cyan] • %c[0,255,255,255]Trajes protectores\n %c[d_cyan] • %c[0,255,255,255]Mascarillas/Equipos de respiración</text>
+		<text>%c[0,255,255,255]RESISTENCIA BALÍSTICA (BR%):\n \n%c[ui_gray_2]Determina la resistencia a las balas entrantes.\n Actúa como una reducción plana al daño entrante (como cualquier otra resistencia), pero separada entre la cabeza y el resto del cuerpo.\n Las resistencias balísticas de los artefactos y las pieles se aplican tanto a la cabeza como al cuerpo, mientras que los cascos y las placas de blindaje solo protegen sus zonas respectivas (cabeza o resto del cuerpo).\n \n%c[0,255,255,255]OBJETOS ÚTILES: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Diclofenaco sódico\n %c[d_cyan] • %c[0,255,255,255]Metamizol\n %c[d_cyan] • %c[0,255,255,255]Morfina\n \n%c[0,255,255,255]EQUIPO ÚTIL: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Artefactos\n %c[d_cyan] • %c[0,255,255,255]Pieles de mutantes\n %c[d_cyan] • %c[0,255,255,255]Placas de blindaje\n %c[d_cyan] • %c[0,255,255,255]Trajes protectores\n %c[d_cyan] • %c[0,255,255,255]Cascos protectores</text>
 	</string>
 	<string id="ui_inv_radiation_protection">
 		<text>%c[0,255,255,255]RESISTENCIA A RADIACIÓN:\n \n%c[ui_gray_2]Determina la reducción activa de las radiaciones entrantes.\nEsto NO determina la rapidez con que las radiaciones serán purgadas del cuerpo.\nUna resistencia lo bastante alta evitará por completo la acumulación de radiaciones procedentes de determinadas zonas (del agua o del aire).\n \n%c[0,255,255,255]OBJETOS ÚTILES: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Medicamentos antirradiación\n %c[d_cyan] • %c[0,255,255,255]Cisteamina\n %c[d_cyan] • %c[0,255,255,255]Yoduro de potasio\n %c[d_cyan] • %c[0,255,255,255]Radioprotector\n \n%c[0,255,255,255]EQUIPO ÚTIL: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Artefactos\n %c[d_cyan] • %c[0,255,255,255]Pieles de mutantes\n %c[d_cyan] • %c[0,255,255,255]Objetos del cinturón tecnológicos\n %c[d_cyan] • %c[0,255,255,255]Trajes protectores\n %c[d_cyan] • %c[0,255,255,255]Mascarillas/Equipos de respiración</text>
@@ -363,7 +363,26 @@
 	</string>
 
 	<string id="ui_inv_br_protection">
-		<text>%c[0,255,255,255]CLASE DE BR:\n \n%c[ui_gray_2]Representa la resistencia de tu blindaje corporal o casco a la penetración de las balas.\nEste valor se compara directamente con el valor de perforación de blindajes (AP) de la bala entrante y permite que las balas solo inflijan daño por conmoción si son detenidas por el blindaje.\nSi la clase de BR es superior al valor AP de la bala, el daño de la bala entrante se reducirá mediante la siguiente fórmula:\n Reducción de daño = (clase de BR x 1,3 + resistencia balística del blindaje x 0,2) + objetos del cinturón + medicamentos\n \nSi la clase de BR es inferior al valor AP de la bala, esta penetrará en el blindaje y se aplicarán los daños normales, como por ejemplo:\nReducción de daño = resistencia balística del blindaje x 1,0 + objetos del cinturón + medicamentos\n \n%c[0,255,255,255]OBJETOS ÚTILES: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Diclofenaco sódico\n %c[d_cyan] • %c[0,255,255,255]Metamizol\n		 %c[d_cyan] • %c[0,255,255,255]Morfina\n \n%c[0,255,255,255]EQUIPO ÚTIL: %c[ui_gray_2]%c[0,255,255,255]:\n %c[d_cyan] • %c[0,255,255,255]Artefactos\n %c[d_cyan] • %c[0,255,255,255]Pieles de mutantes\n		 %c[d_cyan] • %c[0,255,255,255]Trajes protectores\n %c[d_cyan] • %c[0,255,255,255]Cascos protectores\n
+		<text>%c[0,255,255,255]CLASE DE BR (REDUCCIÓN BRC y BRC):\n \n%c[ui_gray_2]Representa la resistencia de tu blindaje corporal o casco a la penetración de las balas.\nEste valor se compara directamente con el valor de perforación de blindajes (AP) de las balas que llegan. Permite mitigar el daño de las balas si su valor AP es inferior al de la clase BR:\n 
+		 • Si la clase BR (BRC) es superior al valor AP de la bala, el daño recibido por las balas se reduce gracias a la mitigación de la clase BR (% reducción BRC = 40 % + bonificación de objetos en cinturón).\n
+		 • Si la clase BR es inferior al valor AP de la bala, no se aplica ninguna mitigación de la clase BR (% reducción BR = 0 %).\n
+		 • Las bonificaciones de resistencia balística (BR%) del blindaje, los artefactos y los medicamentos se aplican además al daño restante, independientemente de la penetración de la bala.\n \n
+		 
+		La fórmula es:\n
+		Daño * (1 - BR%) * (1 - % reducción BRC)\n \n
+		
+		Dado que la interacción entre el % de reducción BR y el % de BR es multiplicativa, intentar aumentar ambos al mismo tiempo da resultados decrecientes. Ejemplo:\n \n
+		 • Con 1 - ((1 - BR%) * (1 - % reducción BRC)) = X % reducción de daño \n
+		 • 1 - ((1 - 40 %) * (1 - 60 %)) = 76 % reducción de daño\n
+		 • 1 - ((1 - 15 %) * (1 - 85 %)) = 87 % reducción de daño\n \nPor lo tanto, al crear tu configuración, aumenta el BR% o el BRC y la reducción BRC.\n \n
+		
+		El % de reducción BR no tiene límite máximo, a diferencia del BR%, pero solo se aplica cuando las balas no penetran tu BRC.\n \n\n \n%c[0,255,255,255]EQUIPO ÚTIL: %c[ui_gray_2]%c[0,255,255,255]:\n	
+		%c[d_cyan] • %c[0,255,255,255]Placas balísticas\n	
+		%c[d_cyan] • %c[0,255,255,255]Pieles\n
+		%c[d_cyan] • %c[0,255,255,255]Artefactos\n	
+		%c[d_cyan] • %c[0,255,255,255]Artefactos con ventaja\n
+		%c[d_cyan] • %c[0,255,255,255]Trajes protectores\n
+		%c[d_cyan] • %c[0,255,255,255]Cascos protectores\n
 		</text>
 	</string>
 	

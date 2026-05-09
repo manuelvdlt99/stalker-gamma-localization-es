@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_ar70">
+		<text>Beretta AR70</text>
+    </string>
+    <string id="st_wpn_ar70_descr">
+   		<text>El Beretta AR70 es la primera iteración de una serie de fusiles de asalto de la Guerra Fría desarrollados y adoptados por Italia. El arma es muy básica en su configuración actual, ya que no incluye bípode ni bocacha lanzagranadas, pero tiene un grupo de control de tiro automático. Italia vendió diversos lotes de estos fusiles para que los utilizaran las facciones abastecidas por la OTAN, como alternativa económica al AR-15. Este fusil suele verse eclipsado por el AR-15 y otras plataformas modernas en la Zona debido a su ergonomía y a su anticuado manual de armas.\n \n%c[0,255,255,255]PROPIEDADES:\n
+		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Italia\n
+		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Beretta\n</text>
+    </string>
+
+	<string id="st_mag_ar70_default">
+		<text>Cargador de AR70</text>
+    </string>
+    <string id="st_mag_ar70_default_descr">
+   		<text>Un cargador de acero de 30 cartuchos de calibre 5,56 para el AR70. Es un poco raro y se parece a los del AK, pero funciona y alimenta la munición sin problemas.</text>
+    </string>
+</string_table>

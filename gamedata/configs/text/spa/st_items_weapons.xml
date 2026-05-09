@@ -2269,7 +2269,7 @@ Grenades
 		<text>Granada RGD-5</text>
 	</string>
 	<string id="st_grenade_rgd5_descr">
-		<text>Una granada de mano ofensiva con una reducida zona letal de unos 3 metros. Los stalkers la suelen usar para «ahuyentar» a los mutantes debido a su coste relativamente bajo.\n \n\n \n%c[ui_gray_3]PROPIEDADES:\n
+		<text>Una granada de mano ofensiva con una reducida zona letal de unos 3 metros. Los stalkers la suelen usar para «ahuyentar» a los mutantes debido a su coste relativamente bajo.\n \n%c[ui_gray_3]PROPIEDADES:\n
 		%c[d_cyan] • %c[ui_gray_2] Explosivo\n
 		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Unión Soviética\n</text>
 	</string>
