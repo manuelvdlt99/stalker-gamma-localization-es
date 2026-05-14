@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 <string_table>
-	<string id="ui_st_game_version">
-		<text>S.T.A.L.K.E.R. GAMMA 0.9.5</text>
+
+	<string id="encyclopedia_addons">
+		<text>Complementos</text>
 	</string>
 </string_table>

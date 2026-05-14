@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+    <string id="ui_mcm_varefined_varefined_generated_chance_add_this_spot">
+        <text>Añadir este punto</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_command_start">
+        <text>Inicio de orden</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_command_stop">
+        <text>Fin de orden</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_bleed">
+        <text>Comentar sangrar</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_bleed_squadnear">
+        <text>Comentar sangrar cerca escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_enemy">
+        <text>Comentar enemigo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_enemy_far_squad">
+        <text>Comentar enemigo lejos escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_enemy_squad">
+        <text>Comentar enemigo escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_hurt">
+        <text>Comentar herido</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_hurt_bad">
+        <text>Comentar malherido</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_hurt_bad_squadnear">
+        <text>Comentar malherido cerca escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_hurt_squadnear">
+        <text>Comentar herido cerca escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_mumble">
+        <text>Comentar murmullo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_mumble_squadnear">
+        <text>Comentar murmullo cerca escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_tired">
+        <text>Comentar cansado</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_comment_tired_squadnear">
+        <text>Comentar cansado cerca escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_death">
+        <text>Muerte</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_dont_loot_com_close">
+        <text>No saquees com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_dont_loot_com_far">
+        <text>No saquees com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_dont_loot_com_mid">
+        <text>No saquees com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_dont_loot_com_near">
+        <text>No saquees com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_dont_loot_radio">
+        <text>No saquees radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_exhausted">
+        <text>Agotado</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fear">
+        <text>Miedo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_close">
+        <text>Fuego a discreción com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_close_aic">
+        <text>Fuego a discreción com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_far">
+        <text>Fuego a discreción com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_far_aic">
+        <text>Fuego a discreción com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_mid">
+        <text>Fuego a discreción com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_mid_aic">
+        <text>Fuego a discreción com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_near">
+        <text>Fuego a discreción com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_near_aic">
+        <text>Fuego a discreción com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_com_too_far_aic">
+        <text>Fuego a discreción com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_fire_at_will_radio">
+        <text>Fuego a discreción radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_close">
+        <text>Seguir com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_close_aic">
+        <text>Seguir com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_far">
+        <text>Seguir com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_far_aic">
+        <text>Seguir com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_mid">
+        <text>Seguir com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_mid_aic">
+        <text>Seguir com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_near">
+        <text>Seguir com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_near_aic">
+        <text>Seguir com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_com_too_far_aic">
+        <text>Seguir com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_follow_radio">
+        <text>Seguir radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_forget_all_waypoints">
+        <text>Olvidar todos los puntos de referencia</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_grenade_throw">
+        <text>Lanzar granada</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_grenade_throw_squad">
+        <text>Lanzar granada escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_gun_jam">
+        <text>Arma encasquillada</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_gun_jam_alone">
+        <text>Arma encasquillada solo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_gun_jam_squad">
+        <text>Arma encasquillada escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_close">
+        <text>Ponerse a cubierto com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_close_aic">
+        <text>Ponerse a cubierto com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_far">
+        <text>Ponerse a cubierto com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_far_aic">
+        <text>Ponerse a cubierto com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_mid">
+        <text>Ponerse a cubierto com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_mid_aic">
+        <text>Ponerse a cubierto com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_near">
+        <text>Ponerse a cubierto com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_near_aic">
+        <text>Ponerse a cubierto com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hide_in_cover_com_too_far_aic">
+        <text>Ponerse a cubierto com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hunger">
+        <text>Hambre</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hurt">
+        <text>Herido</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_hurt_bad">
+        <text>Malherido</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_but_help_me">
+        <text>Ignora el combate pero ayúdame</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_close">
+        <text>Ignora el combate com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_close_aic">
+        <text>Ignora el combate com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_far">
+        <text>Ignora el combate com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_far_aic">
+        <text>Ignora el combate com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_mid">
+        <text>Ignora el combate com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_mid_aic">
+        <text>Ignora el combate com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_near">
+        <text>Ignora el combate com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_near_aic">
+        <text>Ignora el combate com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_com_too_far_aic">
+        <text>Ignora el combate com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_ignore_combat_radio">
+        <text>Ignora el combate radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_common_squad">
+        <text>Comentario matar común escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_common_state1">
+        <text>Comentario matar común estado1</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_common_state2">
+        <text>Comentario matar común estado2</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_common_state3">
+        <text>Comentario matar común estado3</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_mutant_squad">
+        <text>Comentario matar mutante escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_mutant_state1">
+        <text>Comentario matar mutante estado1</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_mutant_state2">
+        <text>Comentario matar mutante estado2</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_mutant_state3">
+        <text>Comentario matar mutante estado3</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_stalker_state1">
+        <text>Comentario matar stalker estado1</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_comment_stalker_state3">
+        <text>Comentario matar stalker estado3</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_common_squad">
+        <text>Confirmar baja común escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_common_state1">
+        <text>Confirmar baja común estado1</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_common_state2">
+        <text>Confirmar baja común estado2</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_common_state3">
+        <text>Confirmar baja común estado3</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_mutant_state3">
+        <text>Confirmar baja mutante estado3</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_stalker_squad">
+        <text>Confirmar baja stalker escuadrón</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_stalker_state1">
+        <text>Confirmar baja stalker estado1</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_stalker_state2">
+        <text>Confirmar baja stalker estado2</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_kill_confirm_stalker_state3">
+        <text>Confirmar baja stalker estado3</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_com_close">
+        <text>Saquear com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_com_far">
+        <text>Saquear com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_com_mid">
+        <text>Saquear com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_com_near">
+        <text>Saquear com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_open">
+        <text>Saquear abierto</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_open_box">
+        <text>Saquear abierto caja</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_open_npc">
+        <text>Saquear abierto PNJ</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_loot_radio">
+        <text>Saquear radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_close">
+        <text>Ve a este punto com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_close_aic">
+        <text>Ve a este punto com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_far">
+        <text>Ve a este punto com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_far_aic">
+        <text>Ve a este punto com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_mid">
+        <text>Ve a este punto com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_mid_aic">
+        <text>Ve a este punto com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_near">
+        <text>Ve a este punto com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_near_aic">
+        <text>Ve a este punto com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_com_too_far_aic">
+        <text>Ve a este punto com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_move_to_point_radio">
+        <text>Ve a este punto radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_on_item_before_use_medkit">
+        <text>Antes de usar objeto botiquín</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_on_item_before_use_medkit_army">
+        <text>Antes de usar objeto botiquín militar</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_on_item_before_use_medkit_scientic">
+        <text>Antes de usar objeto botiquín científico</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_pain">
+        <text>Dolor</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_pain_bad">
+        <text>Mucho dolor</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_random">
+        <text>Aleatorio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_reloading">
+        <text>Recargando</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_reloading_ammo_low">
+        <text>Recargando poca munición</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_reloading_ammo_out">
+        <text>Recargando sin munición</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_sanity">
+        <text>Cordura</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_sleepiness">
+        <text>Sueño</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_squadmate_died">
+        <text>Compañero muerto</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_squadmate_hit">
+        <text>Compañero alcanzado</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_squadmate_joined">
+        <text>Compañero unido</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_start_patrolling">
+        <text>Empezar patrulla</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_close">
+        <text>Acércate com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_close_aic">
+        <text>Acércate com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_far">
+        <text>Acércate com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_far_aic">
+        <text>Acércate com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_mid">
+        <text>Acércate com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_mid_aic">
+        <text>Acércate com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_near">
+        <text>Acércate com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_near_aic">
+        <text>Acércate com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_com_too_far_aic">
+        <text>Acércate com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_close_radio">
+        <text>Acércate radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_close">
+        <text>Aléjate com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_close_aic">
+        <text>Aléjate com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_far">
+        <text>Aléjate com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_far_aic">
+        <text>Aléjate com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_mid">
+        <text>Aléjate com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_mid_aic">
+        <text>Aléjate com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_near">
+        <text>Aléjate com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_near_aic">
+        <text>Aléjate com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_com_too_far_aic">
+        <text>Aléjate com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stay_far_radio">
+        <text>Aléjate radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stealth_com_close">
+        <text>Sigilo com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stealth_com_far">
+        <text>Sigilo com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stealth_com_mid">
+        <text>Sigilo com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stealth_com_near">
+        <text>Sigilo com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stealth_radio">
+        <text>Sigilo radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stop_patrolling">
+        <text>Deja de patrullar</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stop_stealth_com_close">
+        <text>Basta de sigilo com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stop_stealth_com_far">
+        <text>Basta de sigilo com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stop_stealth_com_mid">
+        <text>Basta de sigilo com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stop_stealth_com_near">
+        <text>Basta de sigilo com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_stop_stealth_radio">
+        <text>Basta de sigilo radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_thirst">
+        <text>Sed</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_close">
+        <text>Esperar com próximo</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_close_aic">
+        <text>Esperar com próximo aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_far">
+        <text>Esperar com lejos</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_far_aic">
+        <text>Esperar com lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_mid">
+        <text>Esperar com medio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_mid_aic">
+        <text>Esperar com medio aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_near">
+        <text>Esperar com cerca</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_near_aic">
+        <text>Esperar com cerca aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_com_too_far_aic">
+        <text>Esperar com muy lejos aic</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_wait_radio">
+        <text>Esperar radio</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_generated_chance_Wait_Radio">
+        <text>Esperar radio</text>
+    </string>
+</string_table>

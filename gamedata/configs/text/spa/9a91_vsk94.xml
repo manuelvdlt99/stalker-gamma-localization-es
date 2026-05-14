@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="windows-1252"?>
-
-<!--
-	Weapons
--->
+<?xml version="1.0" encoding="Windows-1252"?>
 
 <string_table>
-	
-	<string id="st_wpn_9a91n_descr">
-		<text>El fusil de asalto compacto 9A-91 se desarrolló originalmente como parte de la familia A-91 de armas compactas. De estas, solo la versión en 9 mm sobrevivió y se produjo a pequeña escala en la fábrica de armas de Tula. En un principio, estaba destinado a ser un arma de defensa personal del Ejército, pero en su lugar encontró cierto favor en las filas del MVD y las tropas de la Policía rusa como un equivalente menos costoso del fusil de asalto compacto SR-3 Vijr.\n \n%c[0,255,255,255]PROPIEDADES:\n
-		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Rusia\n
-		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP</text>
+
+	<string id="st_wpn_9a91n">
+		<text>9A-91</text>
 	</string>
-	
+	<string id="st_wpn_9a91n_descr">
+		<text>Un fusil de asalto compacto y ligero diseñado para fuerzas especiales y cuerpos de seguridad que ofrece una gran potencia de fuego en un diseño compacto. Su diseño simple pero duradero garantiza un rendimiento fiable en el combate urbano y en enfrentamientos en espacios cerrados. Gracias a su capacidad para acoplar silenciadores y miras ópticas, es un arma versátil, ideal tanto para operaciones de sigilo como para enfrentamientos directos.
+		
+		\n \n%c[pda_white]PROPIEDADES:
+		\n%c[d_cyan] • %c[pda_white] Origen: %c[ui_gray_2]Rusia
+		\n%c[d_cyan] • %c[pda_white]Fabricante: %c[ui_gray_2]Oficina de Diseño de Instrumentos KBP\n</text>
+	</string>
+
+	<string id="st_wpn_vsk94n">
+		<text>VSK-94</text>
+	</string>	
 	<string id="st_wpn_vsk94n_descr">
-		<text>El fusil de asalto compacto 9A-91 se desarrolló originalmente como parte de la familia A-91 de armas compactas. De estas, solo la versión en 9 mm sobrevivió y se produjo a pequeña escala en la fábrica de armas de Tula. En un principio, estaba destinado a ser un arma de defensa personal del Ejército, pero en su lugar encontró cierto favor en las filas del MVD y las tropas de la Policía rusa como un equivalente menos costoso del fusil de asalto compacto SR-3 Vijr. Para hacer competencia al fusil VSS, se creó el VSK-94 como una versión «parafrancotiradora» del 9A-91 para disparos silenciados y a largas distancias.\n \n%c[0,255,255,255]PROPIEDADES:\n
-		%c[d_cyan] • %c[0,255,255,255]Origen: %c[ui_gray_1]Rusia\n
-		%c[d_cyan] • %c[0,255,255,255]Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP</text>
+		<text>Un fusil de tirador designado silenciado basado en la plataforma 9A-91 y diseñado para enfrentamientos silenciosos y precisos a media distancia. Incluye un silenciador integral y compatibilidad con visores de largo alcance. Es ideal para operaciones de reconocimiento y encubiertas. Su tamaño compacto y su bajo retroceso hacen que sea muy eficaz para eliminar objetivos sin revelar la posición del tirador.
+		
+		\n \n%c[pda_white]PROPIEDADES:
+		\n%c[d_cyan] • %c[pda_white] Origen: %c[ui_gray_2]Rusia
+		\n%c[d_cyan] • %c[pda_white]Fabricante: %c[ui_gray_2]Oficina de Diseño de Instrumentos KBP\n</text>
 	</string>
 
 </string_table>

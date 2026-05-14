@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252"?>
 
+
+
 <string_table>
     <string id="ui_mcm_menu_campfires_on_map">
 		<text>Hogueras en el mapa</text>
@@ -13,13 +15,13 @@
 		<text>Solo mostrar si se han visitado</text>
 	</string>
 	<string id="ui_mcm_campfires_on_map_show_only_visited_desc">
-		<text>Solo se muestran en el mapa las hogueras con las que ha interactuado el jugador.</text>
+		<text>Hace que solo se muestren en el mapa las hogueras con las que ha interactuado el jugador.</text>
 	</string>
 
     <string id="st_campfire">
 		<text>Hoguera</text>
 	</string>
       <string id="st_campfire_visited">
-		<text>%c[ui_white]Hoguera (%c[d_orange]visitada%c[ui_white])</text>
+		<text>%c[pda_white]Hoguera (%c[d_orange]visitada%c[pda_white])</text>
 	</string>
 </string_table>

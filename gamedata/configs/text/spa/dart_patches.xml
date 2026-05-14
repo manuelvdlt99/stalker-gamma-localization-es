@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+  <string id="ui_mcm_dart_patches_title">
+    <text>Ajustes de HUD de parches de ID de facción</text>
+  </string>
+
+  <string id="ui_mcm_menu_dart_patches">
+    <text>ID de facción</text>
+  </string>
+
+  <string id="ui_mcm_dart_patches_scale">
+    <text>Escala de parches</text>
+  </string>
+
+  <string id="ui_mcm_dart_patches_scale_desc">
+    <text>Ajusta el tamaño de los parches. Los valores superiores a 1 harán que sean más grandes. Los valores inferiores a 1 harán que sean más pequeños.</text>
+  </string>
+</string_table>

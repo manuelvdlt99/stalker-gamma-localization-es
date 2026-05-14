@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>	
+	<string id="as_sub_characters_voice_dialogs_oso_chernobyl_crush_1">
+        <text>No, nosotros no tuvimos nada que ver. Nuestro experimento comenzó tras el incidente de Chernóbil.</text>
+    </string>
+    <string id="as_sub_characters_voice_dialogs_oso_death_truck_1">
+		<text>Este es el medio de transporte que utilizamos para llevar a nuestros agentes a diferentes partes de la Zona. Los agentes se infiltran en el entorno de los stalkers y llevan a cabo las tareas para las que han sido programados sin siquiera darse cuenta. Por desgracia, más de la mitad de los agentes mueren durante el trayecto, ya que la Zona es muy inestable.</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_osoznanie_start_11">
+		<text>Hola, veo que tienes muchas preguntas para mí. Hazlas y entonces decidiremos qué hacer contigo.</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_osoznanie_start_21">
+		<text>La decisión es tuya.</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_stalker_1">
+		<text>Stalker es el nombre de un programa para codificar a una persona para que lleve a cabo ciertas tareas. En los accesos al centro de la Zona, hemos desplegado varias unidades psíquicas. La más grande de ellas es la que conocerás como el «Cauterizador Cerebral». Cualquiera que intente llegar al centro de la Zona queda bajo nuestro control. A continuación, se les programa, se convierten en nuestros agentes y reciben un tatuaje de «stalker». Al distribuirlos por toda la Zona, influimos en el curso de los acontecimientos y nos mantenemos a salvo. ¡No olvides suscribirte!</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_what_about_me_1">
+		<text>Eres un engranaje suelto en la máquina. En uno de tus viajes al centro de la Zona, te acercaste demasiado a nosotros. Creíamos que nuestras defensas contra las infiltraciones eran perfectas, pero conseguiste encontrar un camino que no sabíamos que existía. No podíamos permitir que nadie más conociera nuestro secreto. La humanidad aún no está preparada para conocer la verdad sobre las causas de la Zona. Así que inmediatamente comenzamos a programar a nuestros agentes para que te destruyeran. Por alguna razón desconocida, el equipo falló y no nos dimos cuenta de que tú mismo te encontrabas entre los stalkers que cayeron bajo nuestro control. Por consiguiente, se te ha encomendado la misión de suicidarte.</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_what_is_the_zone_1">
+		<text>La Zona es la consecuencia de un experimento que se salió de control con la noosfera, el campo de información de la Tierra. Íbamos a aprovechar la noosfera para valorar la posibilidad de influir en ella. Sin embargo, durante el experimento, hubo una brecha y la energía de la noosfera se precipitó hacia la Tierra, transformando todo a su alrededor. Así es como se formó la anomalía que llamáis la Zona.</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_what_next_1">
+		<text>Lo que pase a continuación depende de ti. La Zona está creciendo de forma lenta pero constante. Nuestras fuerzas apenas son lo bastante fuertes como para contener el flujo de energía desde la noosfera. Puedes unirte a nosotros. Nuestras fuerzas crecerán y quizás podamos controlarlo. Podrías destruirnos. Entonces, la energía de la noosfera llegaría sin obstáculos hacia la Zona. Quién sabe a dónde llevaría eso.</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_who_are_you_1">
+		<text>Somos LOS CONSCIENTES. Un grupo de investigadores que se dispusieron a cambiar el mundo. Es sabido que la Tierra está rodeada por un campo especial de información, la noosfera. Está estrechamente relacionada con todos los seres conscientes del planeta y almacena todas sus imágenes mentales. Decidimos aprovechar la noosfera y hacer cambios. Eliminando todo lo oscuro que ha engendrado a la humanidad, para hacer del mundo un lugar perfecto. Ninguna mente humana es lo suficientemente poderosa como para interactuar con la noosfera. Por eso hemos unido nuestras conciencias.</text>
+	</string>
+	<string id="as_sub_characters_voice_dialogs_oso_why_chernobyl_1">
+		<text>La central nuclear de Chernóbil era el lugar más adecuado para nuestros experimentos. En primer lugar, quedaban muy pocas personas después del incidente de 1986, por lo que pudimos trabajar sin que nadie nos molestara. En segundo lugar, la central nos proporcionaba la energía necesaria para hacer funcionar las fábricas. En tercer lugar, cerca de la central había potentes antenas que se utilizaron en los experimentos para influir en la conciencia de las personas.</text>
+	</string>
+</string_table>

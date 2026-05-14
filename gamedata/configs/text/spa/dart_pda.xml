@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+  <string id="ui_mcm_dart_pda_title">
+    <text>Opciones de PDA</text>
+  </string>
+
+  <string id="ui_mcm_menu_dart_pda">
+    <text>PDA</text>
+  </string>
+
+  <string id="ui_mcm_dart_pda_textScale">
+    <text>Escala de texto en PDA 3D</text>
+  </string>
+
+  <string id="ui_mcm_dart_pda_textScale_desc">
+    <text>Aumenta el tamaño del texto en la PDA 3D según el factor seleccionado. Hay 8 tamaños de fuente específicos disponibles, entre 16 px y 50 px. Cada incremento aumentará todo el texto al siguiente tamaño disponible.</text>
+  </string>
+
+  <string id="ui_mcm_dart_pda_textCeiling">
+    <text>Tamaño máximo de texto en PDA 3D</text>
+  </string>
+
+  <string id="ui_mcm_dart_pda_textCeiling_desc">
+    <text>DART no hará el texto más grande que este valor independientemente de la escala que se seleccione.</text>
+  </string>
+
+  <string id="ui_mcm_lst_22px">
+    <text>22 px</text>
+  </string>
+
+  <string id="ui_mcm_lst_25px">
+    <text>25 px</text>
+  </string>
+
+  <string id="ui_mcm_lst_32px">
+    <text>32 px</text>
+  </string>
+
+  <string id="ui_mcm_lst_50px">
+    <text>50 px</text>
+  </string>
+</string_table>

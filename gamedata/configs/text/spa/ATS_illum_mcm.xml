@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	
+	<string id="ui_mcm_menu_ATS_illum">
+		<text>ATS Illum</text>
+	</string>
+	
+	<string id="ui_mcm_ATS_illum_title">
+		<text>Ajustes de iluminación de retículo y sonido</text>
+	</string>
+	
+	<string id="ui_mcm_ATS_illum_ATS_keybind">
+		<text>Tecla para activar iluminación</text>
+	</string>
+	
+	<string id="ui_mcm_ATS_illum_dzs_mode">
+		<text>Modo de sonido de zoom dinámico</text>
+	</string>
+	<string id="ui_mcm_ATS_illum_dzs_mode_desc">
+		<text>Modo 1: Un sonido de clic para cada mira. Escoge el sonido de la siguiente lista.\n \nModo 2: Cada mira puede tener distintos sonidos según configs/plugins/dynamic_zoom_scope_sounds.ltx.</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_mode_1">
+		<text>1</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_mode_2">
+		<text>2</text>
+	</string>
+	<string id="ui_mcm_ATS_illum_dzs_sound_type">
+		<text>Tipo de sonido de zoom dinámico</text>
+	</string>
+	<string id="ui_mcm_ATS_illum_dzs_volume">
+		<text>Volumen de sonido de zoom dinámico</text>
+	</string>
+	<string id="ui_mcm_ATS_illum_dzs_volume_desc">
+		<text>¡ÚSESE CON PRECAUCIÓN!\n \nProtege tus oídos y no subas demasiado el volumen.</text>
+	</string>
+	<string id="ui_mcm_ATS_illum_ATS_toggle_volume">
+		<text>Volumen de sonido de activar iluminación</text>
+	</string>
+	<string id="ui_mcm_ATS_illum_ATS_toggle_volume_desc">
+		<text>¡ÚSESE CON PRECAUCIÓN!\n \nProtege tus oídos y no subas demasiado el volumen.</text>
+	</string>
+
+	<string id="ui_mcm_lst_dzs_sound_1">
+		<text>Sonido 1</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_2">
+		<text>Sonido 2</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_3">
+		<text>Sonido 3</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_4">
+		<text>Sonido 4</text>
+	</string>
+	<string id="ui_mcm_lst_dzs_sound_5">
+		<text>Sonido 5</text>
+	</string>
+</string_table>e>

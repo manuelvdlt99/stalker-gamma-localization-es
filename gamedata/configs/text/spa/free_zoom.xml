@@ -13,21 +13,21 @@
 		<text>Multiplicador de FOV base para pistolas</text>
 	</string>
 	<string id="ui_mcm_free_zoom_pistol_mult_desc">
-        <text>Escala el FOV solo para pistolas, aumenta para que las pistolas estén más lejos de la cámara.
-        </text>
+        <text>Escala el FOV solo para pistolas, aumenta para que las pistolas estén más lejos de la cámara.</text>
 	</string>
 	<string id="ui_mcm_free_zoom_ads_mult">
 		<text>Multiplicador al apuntar</text>
 	</string>
 	<string id="ui_mcm_free_zoom_ads_mult_desc">
-        <text>Define cuánto se amplía la vista al apuntar. Disminuir el multiplicador hace que el zoom sea más fuerte.
-        </text>
+        <text>Define cuánto se amplía la vista al apuntar. Disminuir el multiplicador hace que el zoom sea más fuerte.</text>
 	</string>
 	<string id="ui_mcm_free_zoom_free_zoom_mult">
-		<text>Multiplicador del multiplicador de zoom libre</text>
+		<text>Multiplicador de zoom libre</text>
 	</string>
 	<string id="ui_mcm_free_zoom_free_zoom_mult_desc">
-        <text>Define cuánto se amplía la vista al pulsar la tecla de zoom libre. Disminuir el multiplicador hace que el zoom sea más fuerte.
-        </text>
+        <text>Define cuánto se amplía la vista al pulsar la tecla de zoom libre. Disminuir el multiplicador hace que el zoom sea más fuerte.</text>
+	</string>
+	<string id="ui_mcm_free_zoom_freezoom_toggleable">
+		<text>Zoom libre conmutable</text>
 	</string>
 </string_table>

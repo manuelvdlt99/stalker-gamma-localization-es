@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="Windows-1252"?>
+
+
+
 <string_table>
 	<string id="st_ui_no_save_campfire_baby">
-		<text>Solo puedes %s cerca de una hoguera, nena.</text>
+		<text>Solo puedes %s cerca de una hoguera.</text>
 	</string>
 	<string id="st_ui_no_save_campfire_base">
-		<text>Solo puedes %s cerca de una hoguera y en bases amigas.</text>
+		<text>Solo puedes %s cerca de hogueras encendidas y en bases amigas.</text>
 	</string>
 	<string id="st_ui_no_save_campfire_unlit">
 		<text>La hoguera tiene que estar encendida para poder %s.</text>
@@ -64,7 +67,6 @@
 		<text>Se te concederá un bono de %s en %i segundos.</text>
 	</string>
 	<string id="token_granted">
-		<text>Tienes un bono de %s. Pulsa Mayús. + F5 para canjearlo.</text>
+		<text>Tienes un bono de %s. Pulsa Mayús + F5 para canjearlo.</text>
 	</string>
 </string_table>
-

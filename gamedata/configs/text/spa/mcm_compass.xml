@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+    
+
+    <string id="ui_mcm_menu_tactic_compass">
+        <text>Tactical Compass</text>
+    </string>
+
+    <string id="ui_mcm_compass_title">
+        <text>Tactical Compass</text>
+    </string>
+
+    <string id="ui_mcm_menu_tc_main">
+        <text>Ajustes principales</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_main_t_c_show">
+        <text>Activar la brújula incluida</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_main_compass_sc_pos">
+        <text>Posición de la brújula en la pantalla</text>
+    </string>
+
+    <string id="ui_mcm_compass_state_up">
+        <text>Arriba</text>
+    </string>
+
+    <string id="ui_mcm_compass_state_down">
+        <text>Abajo</text>
+    </string>
+
+    
+
+    <string id="ui_mcm_menu_tc_keybinds">
+        <text>Teclas asignadas</text>
+    </string>
+
+    <string id="ui_mcm_keybinds_title">
+        <text>Teclas asignadas</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_keybinds_keybind">
+        <text>Tecla para alternar brújula</text>
+    </string>
+
+    
+
+    <string id="ui_mcm_menu_tc_markers">
+        <text>Ajustes de marcadores</text>
+    </string>
+
+    <string id="ui_mcm_markers_title">
+        <text>Marcadores</text>
+    </string>
+
+    <string id="ui_mcm_tc_markers_marker_m_desc">
+        <text>Personaliza la visualización de marcadores. Puedes activar/desactivar la visualización de una categoría determinada de marcadores, activar/desactivar la visualización de una distancia al objetivo y cambiar la distancia de la visualización. El parámetro «Mostrar siempre» siempre mostrará los marcadores a la máxima distancia posible. El parámetro «Distancia al objetivo» se ignora en este caso.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_quest">
+        <text>Marcador de tarea: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_quest_dist">
+        <text>Marcador de tarea: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_quest_dist">
+        <text>Marcador de tarea: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_unique">
+        <text>Marcadores de PNJ especiales: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_unique_dist">
+        <text>Marcadores de PNJ especiales: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_unique_dist">
+        <text>Marcadores de PNJ especiales: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_sleep">
+        <text>Marcador de lugar para dormir: visualizar</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_sleep_dist">
+        <text>Marcador de lugar para dormir: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_sleep_dist">
+        <text>Marcador de lugar para dormir: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_stashes">
+        <text>Marcadores de alijos: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_stashes_dist">
+        <text>Marcadores de alijos: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_stashes_dist">
+        <text>Marcadores de alijos: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_transitions">
+        <text>Marcador de transición: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_transitions_dist">
+        <text>Marcador de transición: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_transitions_dist">
+        <text>Marcador de transición: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_squads">
+        <text>Marcadores de escuadrón: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_squads_dist">
+        <text>Marcadores de escuadrón: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_squads_dist">
+        <text>Marcadores de escuadrón: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tc_markers_marker_m_corpses_desc">
+        <text>Requiere el mod Body Dots on Minimap o Milspec PDA.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_corpses">
+        <text>Marcador de cadáver: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_corpses_dist">
+        <text>Marcador de cadáver: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_corpses_dist">
+        <text>Marcador de cadáver: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_campf">
+        <text>Marcador de hoguera: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tc_markers_marker_m_campf_desc">
+        <text>Requiere el mod Display Campfires on Map.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_campf_dist">
+        <text>Marcador de hoguera: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_campf_dist">
+        <text>Marcador de hoguera: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_pump">
+        <text>Marcador de bomba de agua: visualización</text>
+    </string>
+
+    <string id="ui_mcm_tc_markers_marker_m_pump_desc">
+        <text>Requiere el mod Fillable Canteens with Water Pumps.</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_pump_dist">
+        <text>Marcador de bomba de agua: visualizar distancia al objetivo</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_show_pump_dist">
+        <text>Marcador de bomba de agua: distancia de visualización</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_quest_av">
+        <text>Marcador de tarea: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_unique_av">
+        <text>Marcadores de PNJ especiales: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_sleep_av">
+        <text>Marcador de lugar para dormir: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_stashes_av">
+        <text>Marcadores de alijos: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_transitions_av">
+        <text>Marcador de transición: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_squads_av">
+        <text>Marcadores de escuadrón: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_corpses_av">
+        <text>Marcador de cadáver: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_campf_av">
+        <text>Marcador de hoguera: mostrar siempre</text>
+    </string>
+
+    <string id="ui_mcm_tactic_compass_tc_markers_is_pump_av">
+        <text>Marcador de bomba de agua: mostrar siempre</text>
+    </string>
+</string_table>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+  <string id="ui_mcm_dart_companionWheel_title">
+    <text>Ajustes de rueda de compañeros</text>
+  </string>
+
+  <string id="ui_mcm_menu_dart_companionWheel">
+    <text>Rueda de compañeros</text>
+  </string>
+</string_table>

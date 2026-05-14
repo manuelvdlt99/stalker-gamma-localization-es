@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="windows-1252" ?>
+<?xml version="1.0" encoding="Windows-1252"?>
 
 <string_table>
     <string id="st_manual_on_startup">
-        <text>Te damos la bienvenida a S.T.A.L.K.E.R. GAMMA. Revisa tu PDA > Guía > seccióN GAMMA \npara consultar una descripción detallada y un manual sobre las mecánicas del juego.</text>
+        <text>Te damos la bienvenida a S.T.A.L.K.E.R. GAMMA. Revisa la sección PDA &gt; Guía &gt; GAMMA
+		\npara obtener una descripción detallada y un manual sobre las mecánicas del juego</text>
     </string>
 </string_table>

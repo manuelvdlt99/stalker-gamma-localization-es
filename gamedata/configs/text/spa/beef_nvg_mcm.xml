@@ -1,20 +1,16 @@
-<!-- 
-	Anomaly Modconfiguration Menu strings
-	
--->
-
+<?xml version="1.0" encoding="Windows-1252"?>
 <string_table>
 
 	<string id="ui_mcm_beef_nvg_title">
-		<text>Configuración de la visión nocturna de Beef</text>
+		<text>Configuración de Beef’s NVG</text>
 	</string>	
 	
 	<string id="ui_mcm_beef_nvg_title_2">
-		<text>Compatibilidad con Shader Based 2d Scopes</text>
+		<text>Compatibilidad con Shader Based 2D Scopes</text>
 	</string>	
 	
 	<string id="ui_mcm_menu_beef_nvg">
-		<text>Visión nocturna de Beef</text>
+		<text>Beef&apos;s NVG</text>
 	</string>
 
 
@@ -43,7 +39,7 @@
 
 
 	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
-		<text>Umbral para el desteñido de la fuente de luz</text>
+		<text>Umbral para desteñido de la fuente de luz</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
@@ -52,7 +48,7 @@
 	
 	
 	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
-		<text>Se puede usar la visión nocturna al apuntar:</text>
+		<text>Se puede usar la visión nocturna al apuntar</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
@@ -60,7 +56,7 @@
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
-		<text>La visión nocturna se mantiene al consultar la PDA:</text>
+		<text>La visión nocturna se mantiene al consultar la PDA</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
@@ -157,19 +153,11 @@
 	
 	
 	<string id="ui_mcm_beef_nvg_shader_scope_compat">
-		<text>Si tienes Shader Based 2d Scopes, marca esta casilla.</text>
+		<text>Si tienes Shader Based 2D Scopes, marca esta casilla</text>
 	</string>
 	
 	<string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
-		<text>Básicamente, debido a la magia de los sombreadores, si tienes Shader Based 2d Scopes, tienes que marcar esta casilla. Si no, no la marques.</text>
+		<text>Básicamente, debido a la magia de los sombreadores, si tienes Shader Based 2D Scopes, tienes que marcar esta casilla. Si no, no la marques.</text>
 	</string>
-	
-	<string id="ui_mcm_menu_nvm_keys">
-        <text>Miras de visión nocturna</text>
-    </string>
-
-    <string id="ui_mcm_nvm_keys_ui_keybind">
-        <text>Alternar miras de visión nocturna</text>
-    </string>
 	
 </string_table>

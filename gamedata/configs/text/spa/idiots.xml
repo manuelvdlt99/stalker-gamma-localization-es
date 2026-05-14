@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+  <string id="st_idiots_tab_all">
+    <text>Todos</text>
+  </string>
+  <string id="st_idiots_title_all">
+    <text>Todos los compañeros</text>
+  </string>
+
+  
+  <string id="st_idiots_move_point_message">
+    <text>Moviendo %s compañero(s) al punto.</text>
+  </string>
+  <string id="st_idiots_move_all_point_message">
+    <text>Moviendo todos los compañeros al punto.</text>
+  </string>
+  <string id="st_idiots_move_away_message">
+    <text>Quitando a %s compañero(s) de en medio.</text>
+  </string>
+  <string id="st_idiots_add_waypoint_message">
+    <text>Punto de referencia añadido.</text>
+  </string>
+  <string id="st_idiots_waypoint_error">
+    <text>Debes seleccionar exactamente 1 compañero para añadir o eliminar puntos de referencia.</text>
+  </string>
+  <string id="st_idiots_clear_waypoints_message">
+    <text>Se han eliminado todos los puntos de referencia.</text>
+  </string>
+  <string id="st_idiots_resync_message">
+    <text>%s compañero(s) sincronizado(s) con el estado global.</text>
+  </string>
+  <string id="st_idiots_resync_all_message">
+    <text>Todos los compañeros sincronizados con el estado global.</text>
+  </string>
+  <string id="st_idiots_select_message">
+    <text>Ha seleccionado al compañero #%s. %s compañero(s) seleccionado(s).</text>
+  </string>
+  <string id="st_idiots_deselect_message">
+    <text>Ha deseleccionado al compañero #%s. %s compañero(s) deseleccionado(s).</text>
+  </string>
+  <string id="st_idiots_deselect_all_message">
+    <text>Todos los compañeros deseleccionados.</text>
+  </string>
+  <string id="st_idiots_retreat_message">
+    <text>Obligando a %s compañero(s) a retirarse.</text>
+  </string>
+  <string id="st_idiots_retreat_all_message">
+    <text>Obligando a todos los compañeros a retirarse.</text>
+  </string>
+  <string id="st_idiots_enabled_message">
+    <text>Activado</text>
+  </string>
+  <string id="st_idiots_disabled_message">
+    <text>Desactivado</text>
+  </string>
+
+  
+  <string id="st_idiots_reset_all">
+    <text>Sincronizar todos</text>
+  </string>
+  <string id="st_idiots_reset">
+    <text>Resincronizar</text>
+  </string>
+  <string id="st_idiots_reload">
+    <text>Recargar</text>
+  </string>
+  <string id="st_idiots_unstick">
+    <text>Despegar</text>
+  </string>
+  <string id="st_idiots_inventory">
+    <text>Inventario</text>
+  </string>
+  <string id="st_idiots_clear_waypoints">
+    <text>Quitar puntos de referencia</text>
+  </string>
+  <string id="st_idiots_add_waypoint">
+    <text>Añadir punto de referencia</text>
+  </string>
+  <string id="st_idiots_retreat">
+    <text>Retirada rápida</text>
+  </string>
+
+  
+  <string id="st_idiots_movement">
+    <text>Movimiento</text>
+  </string>
+  <string id="st_idiots_movement_follow">
+    <text>Seguir</text>
+  </string>
+  <string id="st_idiots_movement_wait">
+    <text>Esperar</text>
+  </string>
+  <string id="st_idiots_movement_cover">
+    <text>Buscar cobertura</text>
+  </string>
+  <string id="st_idiots_movement_relax">
+    <text>Relax</text>
+  </string>
+  <string id="st_idiots_movement_patrol">
+    <text>Patrulla</text>
+  </string>
+
+  
+  <string id="st_idiots_light_auto">
+    <text>Luz por defecto</text>
+  </string>
+  <string id="st_idiots_light_off">
+    <text>Luz apagada</text>
+  </string>
+  <string id="st_idiots_light_on">
+    <text>Luz encendida</text>
+  </string>
+
+  
+  <string id="st_idiots_speed_hurry">
+    <text>Rápido</text>
+  </string>
+
+  
+  <string id="st_idiots_stance">
+    <text>Postura</text>
+  </string>
+  <string id="st_idiots_stance_stand">
+    <text>De pie</text>
+  </string>
+  <string id="st_idiots_stance_sneak">
+    <text>A hurtadillas</text>
+  </string>
+  <string id="st_idiots_stance_prone">
+    <text>A rastras</text>
+  </string>
+
+  
+  <string id="st_idiots_distance">
+    <text>Distancia</text>
+  </string>
+  <string id="st_idiots_distance_near">
+    <text>Quedarse cerca</text>
+  </string>
+  <string id="st_idiots_distance_normal">
+    <text>Normal</text>
+  </string>
+  <string id="st_idiots_distance_far">
+    <text>Alejarse</text>
+  </string>
+
+  
+  <string id="st_idiots_combat">
+    <text>Combate</text>
+  </string>
+  <string id="st_idiots_combat_default">
+    <text>Combate por defecto</text>
+  </string>
+  <string id="st_idiots_combat_assault">
+    <text>Combate de asalto</text>
+  </string>
+  <string id="st_idiots_combat_support">
+    <text>Combate de apoyo</text>
+  </string>
+  <string id="st_idiots_combat_guard">
+    <text>Combate de defensa</text>
+  </string>
+  <string id="st_idiots_combat_snipe">
+    <text>Combate de francotirador</text>
+  </string>
+  <string id="st_idiots_combat_monolith">
+    <text>Combate de Monolito</text>
+  </string>
+  <string id="st_idiots_combat_camper">
+    <text>Combate de campista</text>
+  </string>
+  <string id="st_idiots_combat_zombied">
+    <text>Combate de zombi</text>
+  </string>
+
+  
+  <string id="st_idiots_weapon">
+    <text>Arma</text>
+  </string>
+  <string id="st_idiots_weapon_best">
+    <text>Mejor</text>
+  </string>
+  <string id="st_idiots_weapon_pistol">
+    <text>Pistola</text>
+  </string>
+  <string id="st_idiots_weapon_shotgun">
+    <text>Escopeta</text>
+  </string>
+  <string id="st_idiots_weapon_smg">
+    <text>Subfusil</text>
+  </string>
+  <string id="st_idiots_weapon_rifle">
+    <text>Fusil</text>
+  </string>
+  <string id="st_idiots_weapon_sniper">
+    <text>Francotirador</text>
+  </string>
+
+  
+  <string id="st_idiots_readiness">
+    <text>Presteza</text>
+  </string>
+  <string id="st_idiots_readiness_attack">
+    <text>Atacar enemigos</text>
+  </string>
+  <string id="st_idiots_readiness_defend">
+    <text>Solo defender</text>
+  </string>
+  <string id="st_idiots_readiness_ignore">
+    <text>Ignorar el combate</text>
+  </string>
+
+  
+  <string id="st_idiots_jobs">
+    <text>Trabajos</text>
+  </string>
+  <string id="st_idiots_jobs_loot_items">
+    <text>Reunir objetos</text>
+  </string>
+  <string id="st_idiots_jobs_loot_artifacts">
+    <text>Y artefactos</text>
+  </string>
+  <string id="st_idiots_jobs_loot_corpses">
+    <text>Saquear cuerpos</text>
+  </string>
+  <string id="st_idiots_jobs_help_wounded">
+    <text>Ayudar a los heridos</text>
+  </string>
+
+  
+  <string id="st_idiots_formation">
+    <text>Formación</text>
+  </string>
+  <string id="st_idiots_formation_bunch">
+    <text>Formación apiñada</text>
+  </string>
+  <string id="st_idiots_formation_spread">
+    <text>Formación dispersa</text>
+  </string>
+  <string id="st_idiots_formation_line">
+    <text>Formación en línea</text>
+  </string>
+  <string id="st_idiots_formation_covered">
+    <text>Formación cubierta</text>
+  </string>
+</string_table>

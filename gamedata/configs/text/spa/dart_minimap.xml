@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+  <string id="ui_mcm_dart_minimap_title">
+    <text>Ajustes de minimapa</text>
+  </string>
+
+  <string id="ui_mcm_menu_dart_minimap">
+    <text>Minimapa</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_alpha">
+    <text>Opacidad del minimapa</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_alpha_desc">
+    <text>Ajusta la opacidad del minimapa. Los valores más altos lo hacen más opaco. Los valores más bajos lo hacen más transparente.</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_alpha_note">
+    <text>NOTA: fíjalo en -1 para usar el valor por defecto del minimapa.</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_clockOffsetX">
+    <text>Desplazamiento X del reloj</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_clockOffsetX_desc">
+    <text>Ajusta la posición horizontal del reloj. Los valores positivos lo mueven a la derecha. Los valores negativos lo mueven a la izquierda.</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_clockOffsetY">
+    <text>Desplazamiento Y del reloj</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_clockOffsetY_desc">
+    <text>Ajusta la posición vertical del reloj. Los valores positivos lo mueven hacia abajo. Los valores negativos lo mueven hacia arriba.</text>
+  </string>
+
+  <string id="ui_mcm_dart_minimap_clockOffset_note">
+    <text>NOTA: esto solo afecta al minimapa circular, ya que la posición del reloj es fija en el minimapa cuadrado.</text>
+  </string>
+</string_table>

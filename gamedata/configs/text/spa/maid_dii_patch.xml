@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="ui_mcm_menu_dii_custom_layers_maid">
+		<text>Maid Indicators</text>
+	</string>
+	<string id="ui_mcm_dii_maid_attachments_show">
+		<text>Alternar etiquetas de accesorios</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiorepair_show">
+		<text>Alternar indicadores de reparación</text>
+	</string>
+	<string id="ui_mcm_dii_maid_chevrontiers_show">
+		<text>Alternar indicadores de galones</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiocontainers_show">
+		<text>Alternar indicadores de contenedores</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiocooking_show">
+		<text>Alternar indicadores de cocina</text>
+	</string>
+	<string id="ui_mcm_dii_maid_repair_top_right_show">
+		<text>Alternar etiquetas de reparación de la esquina superior derecha</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aioexplosives_show">
+		<text>Alternar indicadores de explosivos</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiomainquest_show">
+		<text>Alternar indicadores de objetos de misión</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiomanuals_show">
+		<text>Alternar indicadores de recetas de fabricación</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiomap_show">
+		<text>Alternar indicador de mapa</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aionotes_show">
+		<text>Alternar indicadores de notas</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiopartsmisc_show">
+		<text>Alternar indicadores de otros objetos</text>
+	</string>
+	<string id="ui_mcm_dii_maid_aiovaluable_show">
+		<text>Alternar indicadores de objetos valiosos</text>
+	</string>
+</string_table>
