@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_wpn_mk23">
+		<text>HK MK23</text>
+	</string>
+	<string id="st_wpn_mk23_descr">
+		<text>Desarrollada durante los años 90 para reemplazar a la 1911A1, en servicio con las fuerzas de operaciones especiales. La pistola MK23 SOCOM fue la ganadora de las pruebas Offensive Handgun Weapon System, venciendo a la pistola OHWS de Colt, cuyo nombre resulta muy apropiado. Con su propio presupuesto, el USSOCOM fue capaz de financiar sus propios programas de adopción de armas y adecuó los requisitos a sus expectativas. El diseño debía ser capaz de usar un silenciador de forma fiable durante operaciones prolongadas sobre el terreno y disparar el calibre .45 ACP. Por ello, los operadores del SOCOM la han apodado la «pistola colectiva» debido a su tamaño. Tras demostrar sin lugar a dudas que era más que suficiente para las fuerzas de operaciones especiales, se puede confiar en esta pistola para un uso prolongado en la Zona, sin importar las dificultades que se presenten.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+	
+</string_table>

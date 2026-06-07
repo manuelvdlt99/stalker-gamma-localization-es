@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    
+    <string id="ui_mcm_menu_EFT_ADS">
+        <text>Apuntado no lineal</text>
+    </string>
+    <string id="ui_mcm_menu_EFT_ADS_Title">
+        <text>Animación de apuntado no lineal</text>
+    </string>
+	<string id="ui_mcm_menu_EFT_ADS_weapon_mod">
+        <text>Ajuste de fuerza específico por clase de arma</text>
+    </string>
+	<string id="ui_mcm_menu_EFT_ADS_weapon_speed">
+        <text>Ajuste de velocidad específico por clase de arma</text>
+    </string>
+	<string id="ui_mcm_menu_EFT_ADS_anim_on_sprint">
+        <text>Reproducir la animación solo al esprintar</text>
+    </string>
+	<string id="ui_mcm_menu_EFT_ADS_weapon_mod_title">
+        <text>Ajustes específicos por clase de arma</text>
+    </string>
+	<string id="ui_mcm_menu_EFT_ADS_max_min">
+        <text>Máximos y mínimos de velocidad y fuerza</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_anim_on_sprint">
+        <text>Activar animación solo al esprintar</text>
+    </string>
+	
+	<string id="ui_mcm_menu_EFT_ADS_aim_anim">
+        <text>Ajustar la duración de la animación a las animaciones de apuntado</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_aim_anim_out">
+        <text>Desactivar animación si existe animación de apuntado</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_aim_anim_out_desc">
+        <text>A veces, el movimiento resultante al desactivar ambas animaciones puede quedar mal. Por ejemplo, en el SVD-S Retribución, donde se produce un temblor extraño. Al activar esta opción, se desactivará la animación si existe un aim_anim_out.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_aim_anim">
+	    <text>Activar duración de animación en base a animaciones de apuntado</text>
+	</string>
+	<string id="ui_mcm_EFT_ADS_aim_anim_speed">
+	    <text>Factor de velocidad para factor de animación de apuntado</text>
+	</string>
+		
+	<string id="ui_mcm_EFT_ADS_anim_on_sprint_delay">
+        <text>Desactivar retardo de animación tras esprintar</text>
+    </string>
+	
+	<string id="ui_mcm_menu_EFT_ADS_arm_health">
+        <text>La salud de los brazos afecta a la fuerza de la animación</text>
+    </string>
+	
+	<string id="ui_mcm_menu_EFT_ADS_weapon_handling">
+        <text>El manejo del arma afecta a la fuerza</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_handling_affect">
+        <text>El manejo afecta a la fuerza de la animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_handling_factor">
+        <text>Factor de manejo sobre la fuerza</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_handling_factor_desc">
+        <text>Modifica el grado en que el manejo influye en la fuerza; un valor más alto implica un efecto más pronunciado. Con un valor de 4, un manejo del 100 % proporciona un multiplicador de 0,2; con un valor de 1, un manejo del 100 % proporciona un multiplicador de 0,5. La fórmula es (factor/(factor + (manejo/100)^exponente_de_manejo)) + compensación_de_manejo.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_max_handling_factor">
+        <text>Multiplicador máx. de manejo</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_handling_exponent">
+        <text>Exponente de manejo</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_handling_exponent_desc">
+        <text>Cambia el exponente de manejo que se usa en la fórmula; cuanto mayor sea el valor, mayor será la caída del multiplicador. La fórmula es (factor/(factor + (manejo/100)^exponente_de_manejo)) + compensación_de_manejo.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_handling_offset">
+        <text>Compensación de manejo</text>
+    </string>
+	
+	<string id="ui_mcm_menu_EFT_ADS_weapon_weight">
+        <text>El peso del arma afecta a la velocidad</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_weight_affect">
+        <text>El peso afecta a la velocidad de la animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_weight_factor">
+        <text>Factor de peso sobre la velocidad</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_weight_threshold">
+        <text>Umbral de peso para el factor</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_Play_anim">
+        <text>Reproducir animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Play_anim_desc">
+        <text>Activará o desactivará que se reproduzca la animación.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in">
+        <text>Multiplicador de velocidad al apuntar</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_desc">
+        <text>Multiplicador de velocidad en la animación de apuntado adicional: un valor más bajo significa más lento, y uno más alto, más rápido.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_min_speed">
+        <text>Velocidad mínima de animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_min_speed_desc">
+        <text>Establece la velocidad mínima de la animación a la que se limitará la velocidad si esta es inferior. Cuanto menor sea, peor; cuanto mayor sea, mejor. Fíjalo en 0,9 para evitar animaciones aletargadas de más.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_max_speed">
+        <text>Velocidad máxima de animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_min_speed_desc">
+        <text>Establece la velocidad máxima de la animación a la que se limitará la velocidad si esta es superior. Cuanto menor sea, peor; cuanto mayor sea, mejor.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_min_power">
+        <text>Fuerza mínima de animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_min_power_desc">
+        <text>Establece la fuerza mínima de la animación a la que se limitará la fuerza si esta es inferior. Cuanto mayor sea, peor; cuanto menor sea, mejor.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_max_power">
+        <text>Fuerza máxima de animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_max_power_desc">
+        <text>Establece la fuerza máxima de la animación a la que se limitará la fuerza si esta es superior. Cuanto mayor sea, peor; cuanto menor sea, mejor.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power">
+        <text>Multiplicador de fuerza al apuntar</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power_desc">
+        <text>Multiplicador de fuerza de la animación al apuntar; un valor más alto indica mayor visibilidad, mientras que uno más bajo indica menor visibilidad.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_out">
+        <text>Multiplicador de velocidad al dejar de apuntar</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_out_desc">
+        <text>Multiplicador de velocidad en la animación de dejar de apuntar adicional: un valor más bajo significa más lento, y uno más alto, más rápido.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_out_power">
+        <text>Multiplicador de fuerza al dejar de apuntar</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_out_power_desc">
+        <text>Multiplicador de fuerza de la animación al dejar de apuntar; un valor más alto indica mayor visibilidad, mientras que uno más bajo indica menor visibilidad.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_Debug">
+        <text>Registros de depuración</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Debug_desc">
+        <text>Imprime información de depuración adicional en el registro.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_gl_anim">
+        <text>Activar animación para lanzagranadas</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_gl_anim_desc">
+        <text>Decide si la animación de apuntado se reproduce para los lanzagranadas.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_Pistol_Allowed">
+        <text>Activar animación para pistola</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Pistol_Allowed_desc">
+        <text>Decide si la animación se reproduce para las pistolas.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_alt_aim_allowed">
+        <text>Activar animación para apuntado alternativo</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_alt_aim_cheese_delay">
+        <text>Retardo del apuntado alternativo</text>
+    </string>
+		<string id="ui_mcm_EFT_ADS_alt_aim_cheese_delay_desc">
+        <text>Configura el retardo tras el cual la animación dejará de reproducirse al cambiar del punto de mira alternativo al principal. Fíjalo en 0,2 para evitar que se salte la animación al pasar rápidamente del punto de mira alternativo al principal. No hace nada si la animación de apuntado alternativo está activada.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Pistol_Allowed_desc">
+        <text>Decide si la animación se reproduce para el apuntado alternativo.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_Strength_factor">
+        <text>La habilidad Fuerza influye en la fuerza de la animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Strength_factor_desc">
+        <text>Decide si la fuerza de la animación estará influenciada por el factor de la habilidad de fuerza de Haruka.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Arm_Health_factor">
+        <text>La salud de los brazos afecta a la fuerza de la animación</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Arm_Health_factor_desc">
+        <text>Decide si la animación estará influenciada por la salud de los brazos de BHS.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Arm_Health_factor_factor">
+        <text>Factor de fuerza de salud de los brazos</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Arm_Health_factor_factor_desc">
+        <text>Configura cuánto afecta la salud de los brazos de BHS a la fuerza de la animación.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Strength_power_factor_factor">
+        <text>Factor de fuerza de habilidad de fuerza</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Strength_power_factor_factor_desc">
+        <text>Configura cuánto afecta la habilidad de fuerza a la fuerza de la animación.</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Strength_speed_factor_factor">
+        <text>Factor de velocidad de habilidad de fuerza</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Strength_speed_factor_factor_desc">
+        <text>Configura cuánto afecta la habilidad de fuerza a la velocidad de la animación.</text>
+    </string>
+	
+	
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power_pistol">
+        <text>Factor de fuerza de pistola</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power_smg">
+        <text>Factor de fuerza de subfusil</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power_shotgun">
+        <text>Factor de fuerza de escopeta</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power_rifle">
+        <text>Factor de fuerza de fusil</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power_sniper">
+        <text>Factor de fuerza de francotirador</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_speed_pistol">
+        <text>Factor de velocidad de pistola</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_speed_smg">
+        <text>Factor de velocidad de subfusil</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_speed_shotgun">
+        <text>Factor de velocidad de escopeta</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_speed_rifle">
+        <text>Factor de velocidad de fusil</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_speed_sniper">
+        <text>Factor de velocidad de francotirador</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_power_lmg">
+        <text>Factor de fuerza de ametralladora</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_Speed_Mulitplier_in_speed_lmg">
+        <text>Factor de velocidad de ametralladora</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_lmg_separation">
+        <text>Separar ametralladoras de fusiles</text>
+    </string>
+	<string id="ui_mcm_EFT_ADS_lmg_separation_desc">
+        <text>Separa las ametralladores de los fusiles en el código. Si se desactiva, las ametralladoras seguirán los multiplicadores de velocidad y fuerza de los fusiles.</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_anim_variants">
+        <text>Variantes de animación</text>
+    </string>
+	
+	<string id="ui_mcm_EFT_ADS_anim_variants_desc">
+        <text>Variantes de animación, ¡no afecta a las animaciones de brazos rotas!</text>
+    </string>
+	
+	<string id="EFT_ADS_anim_variants_lst_def">
+        <text>Animación predeterminada</text>
+    </string>
+	
+	<string id="EFT_ADS_anim_variants_lst_no_movement">
+        <text>Movimiento sin retícula</text>
+    </string>
+	
+	<string id="EFT_ADS_anim_variants_lst_extreme">
+        <text>Animación intensificada</text>
+    </string>
+	
+	<string id="EFT_ADS_anim_variants_lst_lizard">
+        <text>Animación de Lizzardman</text>
+    </string>
+	
+</string_table>

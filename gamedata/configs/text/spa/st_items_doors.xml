@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+   <string id="st_placeable_door">
+		<text>Puerta de madera</text>
+	</string>
+	<string id="st_placeable_door_descr">
+		<text>Una pequeña puerta de madera con papeles rasgados pegados en ella que mide 1 metro por 1,9 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Compatible con los portales fabricables
+		\n %c[d_cyan] • %c[ui_gray_2]NOTA: %c[ui_gray_1]para quitar la puerta, apuñálala con un arma cuerpo a cuerpo.
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_door02">
+		<text>Puerta de metal</text>
+	</string>
+	<string id="st_placeable_door02_descr">
+		<text>Una gran puerta de metal oxidada que antes estaba pintada de un blanco prístino y mide 1,5 metros por 2,5 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2]NOTA: %c[ui_gray_1]para quitar la puerta, apuñálala con un arma cuerpo a cuerpo.
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_door03">
+		<text>Puerta de madera</text>
+	</string>
+	<string id="st_placeable_door03_descr">
+		<text>Una puerta de madera decolorada por el sol, construida con notable maestría artesanal. Mide 1,15 metros por 2,15 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2]NOTA: %c[ui_gray_1]para quitar la puerta, apuñálala con un arma cuerpo a cuerpo.
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_door04">
+		<text>Puerta de madera</text>
+	</string>
+	<string id="st_placeable_door04_descr">
+		<text>Una sencilla puertade madera decolorada por el sol. Presenta indicios de podredumbre en la parte inferior debido a posibles daños causados &#x200B;&#x200B;por el agua. Mide 1,45 metros por 2,2 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2]NOTA: %c[ui_gray_1]para quitar la puerta, apuñálala con un arma cuerpo a cuerpo.
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_door05">
+		<text>Puerta pesada</text>
+	</string>
+	<string id="st_placeable_door05_descr">
+		<text>Una puerta reforzada muy grande montada en la Zona a partir de tablones y chatarra gruesa. Mide 1,76 metros por 3 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2]NOTA: %c[ui_gray_1]para quitar la puerta, apuñálala con un arma cuerpo a cuerpo.
+		\n</text>
+	</string>
+
+</string_table>

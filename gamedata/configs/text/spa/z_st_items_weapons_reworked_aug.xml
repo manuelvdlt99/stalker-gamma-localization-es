@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_wpn_aug_9mm_spectre">
+		<text>Steyr AUG A3 Spectre Tactical</text>
+	</string>
+	<string id="st_wpn_aug_9mm_spectre_descr">
+		<text>Subfusil AUG de 9 x 19 mm. Esta versión es el fusil de asalto AUG A3 estándar con el kit de conversión de 9 x 19 mm Nightsword. El mecanismo de disparo permite disparar en modo semiautomático y automático con el cerrojo cerrado. Los componentes y mecanismos básicos son los mismos que los del fusil de asalto, excepto por el nuevo cañón acortado, el cerrojo, el adaptador del cargador y los nuevos cargadores de 32 cartuchos.
+		
+		\n \nEste kit táctico está equipado con un cañón extendido que afecta las características del arma, tales como: daño, precisión, velocidad de salida y alcance efectivo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Arms
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_aug_9mm_infiltrator">
+		<text>Steyr AUG A3 Infiltrator</text>
+	</string>
+	<string id="st_wpn_aug_9mm_infiltrator_descr">
+		<text>Subfusil AUG de 9 x 19 mm. Esta versión es el fusil de asalto AUG A3 estándar con el kit de conversión de 9 x 19 mm Nightsword. El mecanismo de disparo permite disparar en modo semiautomático y automático con el cerrojo cerrado. Los componentes y mecanismos básicos son los mismos que los del fusil de asalto, excepto por el nuevo cañón acortado, el cerrojo, el adaptador del cargador y los nuevos cargadores de 32 cartuchos.
+		
+		\n \nEste kit táctico está equipado con un cañón pesado largo que mejora considerablemente las características del arma, tales como: daño, precisión, velocidad de salida y alcance efectivo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Arms
+		\n</text>
+	</string>	
+
+</string_table>

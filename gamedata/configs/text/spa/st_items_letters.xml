@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_recipe_basic_1">
+		<text>Guía de supervivencia (n.º 1)</text>
+	</string>
+	<string id="st_recipe_basic_2">
+		<text>Guía de supervivencia (n.º 2)</text>
+	</string>
+	<string id="st_recipe_basic_3">
+		<text>Guía de supervivencia (n.º 3)</text>
+	</string>
+	<string id="st_recipe_basic_4">
+		<text>Guía de supervivencia (n.º 4)</text>
+	</string>
+	<string id="st_recipe_basic_descr">
+		<text>Una guía desgastada que contiene estrategias esenciales de supervivencia y técnicas de fabricación pensadas para la vida en la Zona. Abarca desde la construcción básica de refugios hasta herramientas y suministros improvisados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	
+	<string id="st_recipe_advanced_1">
+		<text>Manual de mecánica (1.ª edición)</text>
+	</string>
+	<string id="st_recipe_advanced_2">
+		<text>Manual de mecánica (2.ª edición)</text>
+	</string>
+	<string id="st_recipe_advanced_3">
+		<text>Manual de mecánica (3.ª edición)</text>
+	</string>
+	<string id="st_recipe_advanced_4">
+		<text>Manual de mecánica (4.ª edición)</text>
+	</string>
+	<string id="st_recipe_advanced_descr">
+		<text>Un manual detallado centrado en la reparación y modificación de armas, blindajes y maquinaria usando piezas rapiñadas. Los stalkers expertos en mecánica dependen de él para mantener su equipo en funcionamiento en el mundo adverso de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	
+	<string id="st_recipe_expert_1">
+		<text>Manual de ingeniería (1.ª edición)</text>
+	</string>
+	<string id="st_recipe_expert_2">
+		<text>Manual de ingeniería (2.ª edición)</text>
+	</string>
+	<string id="st_recipe_expert_3">
+		<text>Manual de ingeniería (3.ª edición)</text>
+	</string>
+	<string id="st_recipe_expert_4">
+		<text>Manual de ingeniería (4.ª edición)</text>
+	</string>
+	<string id="st_recipe_expert_descr">
+		<text>Un manual técnico que describe métodos avanzados de resolución de problemas y de fabricación para crear y mejorar equipos, incluidas modificaciones electrónicas. Solo los stalkers más ingeniosos pueden aprovechar al máximo sus complejos esquemas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	
+	<string id="st_recipe_drug_1">
+		<text>Receta de medicamento n.º 1</text>
+	</string>
+	<string id="st_recipe_drug_2">
+		<text>Receta de medicamento n.º 2</text>
+	</string>
+	<string id="st_recipe_drug_3">
+		<text>Receta de medicamento n.º 3</text>
+	</string>
+	<string id="st_recipe_drug_4">
+		<text>Receta de medicamento n.º 4</text>
+	</string>
+	<string id="st_recipe_drug_descr">
+		<text>Un par de páginas arrancadas de un libro, escritas a mano con tinta azul. Las notas escritas describen la creación de diversos tipos de medicamentos utilizando suministros médicos comunes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	
+	<string id="st_recipe_ammo_1">
+		<text>Guía de seguridad sobre munición (1.ª edición)</text>
+	</string>
+	<string id="st_recipe_ammo_2">
+		<text>Guía de seguridad sobre munición (2.ª edición)</text>
+	</string>
+	<string id="st_recipe_ammo_3">
+		<text>Guía de seguridad sobre munición (3.ª edición)</text>
+	</string>
+	<string id="st_recipe_ammo_4">
+		<text>Guía de seguridad sobre munición (4.ª edición)</text>
+	</string>
+	<string id="st_recipe_ammo_descr">
+		<text>Una guía práctica sobre montar y modificar munición con seguridad utilizando pólvora y casquillos rescatados. Esencial para cualquier stalker que quiera fabricar balas fiables sin arriesgarse a sufrir un fallo catastrófico.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	
+	<string id="st_recipe_cooking_1">
+		<text>Notas del chef</text>
+	</string>
+	<string id="st_recipe_cooking_descr">
+		<text>Una colección de recetas escritas a mano que detallan cómo preparar comidas comestibles a partir de los escasos y a menudo cuestionables recursos hallados en la Zona. Un hallazgo valioso para cualquier stalker cansado de raciones rancias y carne mutante de dudosa seguridad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	
+	<string id="st_memoirs_1_of_2_name">
+		<text>Diario de un stalker (parte 1 de 2)</text>
+	</string>
+	<string id="st_memoirs_1_of_2_desc">
+		<text>Un viejo cuaderno descolorido metido en una funda para protegerlo del desgaste. Sin embargo, no ha resistido bien el paso del tiempo y ha quedado gravemente dañado por el agua.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_memoirs_2_of_2_name">
+		<text>Diario de un stalker (parte 2 de 2)</text>
+	</string>
+	<string id="st_memoirs_2_of_2_desc">
+		<text>Un viejo cuaderno descolorido metido en una funda para protegerlo del desgaste. Sin embargo, no ha resistido bien el paso del tiempo y ha quedado gravemente dañado por el agua.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_freedom_manual_1_of_2_name">
+		<text>Técnicas de interrogatorio: Nociones básicas (parte 1 de 2)</text>
+	</string>
+	<string id="st_freedom_manual_1_of_2_desc">
+		<text>Un folleto didáctico con el emblema de Libertad que describe los métodos fundamentales para extraer información por medios psicológicos y físicos. Ya sea con fines de autodefensa o propósitos más oscuros, su presencia plantea interrogantes inquietantes.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_freedom_manual_2_of_2_name">
+		<text>Técnicas de interrogatorio: Nociones básicas (parte 2 de 2)</text>
+	</string>
+	<string id="st_freedom_manual_2_of_2_desc">
+		<text>Un folleto didáctico con el emblema de Libertad que describe los métodos fundamentales para extraer información por medios psicológicos y físicos. Ya sea con fines de autodefensa o propósitos más oscuros, su presencia plantea interrogantes inquietantes.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_stalker_letter_1_of_2_name">
+		<text>Memoria (parte 1 de 2)</text>
+	</string>
+	<string id="st_stalker_letter_1_of_2_desc">
+		<text>Un puñado de páginas ajadas escritas a mano que detallan las experiencias de un stalker desconocido, repletas de reflexiones personales, consejos de supervivencia y memorias fragmentadas. Aunque están incompletas, ofrecen un vistazo escalofriante a las pruebas y tragedias de la vida en la Zona.
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_stalker_letter_2_of_2_name">
+		<text>Memoria (parte 2 de 2)</text>
+	</string>
+	<string id="st_stalker_letter_2_of_2_desc">
+		<text>Un puñado de páginas ajadas escritas a mano que detallan las experiencias de un stalker desconocido, repletas de reflexiones personales, consejos de supervivencia y memorias fragmentadas. Aunque están incompletas, ofrecen un vistazo escalofriante a las pruebas y tragedias de la vida en la Zona.
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_ecologist_report_1_of_3_name">
+		<text>Hallazgos de muertos vivientes, informe de campo 39B, rev. 2 (parte 1 de 3)</text>
+	</string>
+	<string id="st_ecologist_report_1_of_3_desc">
+		<text>Un documento clasificado mecanografiado con el emblema de investigación de los ecologistas que detalla observaciones y teorías acerca del llamado fenómeno de los «muertos vivientes» en la Zona. Firmado por Arkadi Cvetkovski, contiene relatos perturbadores de stalkers zombificados, posibles causas y los peligros de una exposición prolongada a la radiación anómala.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_ecologist_report_2_of_3_name">
+		<text>Hallazgos de muertos vivientes, informe de campo 39B, rev. 2 (parte 2 de 3)</text>
+	</string>
+	<string id="st_ecologist_report_2_of_3_desc">
+		<text>Un documento clasificado mecanografiado con el emblema de investigación de los ecologistas que detalla observaciones y teorías acerca del llamado fenómeno de los «muertos vivientes» en la Zona. Firmado por Arkadi Cvetkovski, contiene relatos perturbadores de stalkers zombificados, posibles causas y los peligros de una exposición prolongada a la radiación anómala.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_ecologist_report_3_of_3_name">
+		<text>Hallazgos de muertos vivientes, informe de campo 39B, rev. 2 (parte 3 de 3)</text>
+	</string>
+	<string id="st_ecologist_report_3_of_3_desc">
+		<text>Un documento clasificado mecanografiado con el emblema de investigación de los ecologistas que detalla observaciones y teorías acerca del llamado fenómeno de los «muertos vivientes» en la Zona. Firmado por Arkadi Cvetkovski, contiene relatos perturbadores de stalkers zombificados, posibles causas y los peligros de una exposición prolongada a la radiación anómala.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_monolith_prayer_1_of_3_name">
+		<text>Plegaria del Monolito (parte 1 de 3)</text>
+	</string>
+	<string id="st_monolith_prayer_1_of_3_desc">
+		<text>Una plegaria manuscrita dedicada al Monolito, a rebosar de devoción fervorosa y referencias crípticas a su supuesta voluntad divina. El texto insinúa una creencia casi fanática, lo que permite comprender la mentalidad sectaria de los seguidores del Monolito.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_monolith_prayer_2_of_3_name">
+		<text>Plegaria del Monolito (parte 2 de 3)</text>
+	</string>
+	<string id="st_monolith_prayer_2_of_3_desc">
+		<text>Una plegaria manuscrita dedicada al Monolito, a rebosar de devoción fervorosa y referencias crípticas a su supuesta voluntad divina. El texto insinúa una creencia casi fanática, lo que permite comprender la mentalidad sectaria de los seguidores del Monolito.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_monolith_prayer_3_of_3_name">
+		<text>Plegaria del Monolito (parte 3 de 3)</text>
+	</string>
+	<string id="st_monolith_prayer_3_of_3_desc">
+		<text>Una plegaria manuscrita dedicada al Monolito, a rebosar de devoción fervorosa y referencias crípticas a su supuesta voluntad divina. El texto insinúa una creencia casi fanática, lo que permite comprender la mentalidad sectaria de los seguidores del Monolito.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_monolithian_thoughts_name">
+		<text>Diario de un Monolito</text>
+	</string>
+	<string id="st_monolithian_thoughts_desc">
+		<text>Una nota descuidada y escrita a mano de forma caótica perteneciente a un fanático del Monolito que contiene pensamientos fragmentados, registros de misiones y alabanzas obsesivas a la misteriosa entidad.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_letter_to_outside_name">
+		<text>Carta para Natalie</text>
+	</string>
+	<string id="st_letter_to_outside_desc">
+		<text>Una carta escrita a alguien fuera de la Zona, muy probablemente su amante. Parece que, lamentablemente, nunca llegó a su destinatario.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_letter_military_stalker_name">
+		<text>Nota del stalker militar</text>
+	</string>
+	<string id="st_letter_military_stalker_desc">
+		<text>Una nota encontrada en un alijo. Parece que alguien estaba pasando el rato durante una larga y aburrida noche.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_letter_mercenary_name">
+		<text>Nota del mercenario</text>
+	</string>
+	<string id="st_letter_mercenary_desc">
+		<text>Una nota manuscrita de uno de los mercenarios que contiene pensamientos acerca de sus actividades en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_letter_military_log_name">
+		<text>Registro de comunicaciones / Operación de MSRC / 05.04.2014 18:36:21</text>
+	</string>
+	<string id="st_letter_military_log_desc">
+		<text>Una transcripción impresa de la transmisión de radio entre unidades militares destinadas en la Zona. Seguramente forme parte de alguna operación clandestina.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_letter_stalker_letter_3_name">
+		<text>Carta para Nikolái</text>
+	</string>
+	<string id="st_letter_stalker_letter_3_desc">
+		<text>Una carta escrita a mano dirigida a Nikolái.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+</string_table>

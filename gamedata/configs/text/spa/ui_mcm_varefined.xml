@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+    <string id="ui_mcm_menu_varefined">
+        <text>VA Refined</text>
+    </string>
+    <string id="ui_mcm_varefined_title">
+        <text>Voiced Actor Refined</text>
+    </string>
+    <string id="ui_mcm_menu_varefined_main">
+        <text>General</text>
+    </string>
+    <string id="ui_mcm_menu_varefined_generated_chance">
+        <text>Probabilidad de reacción</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_voice_language_description">
+        <text>Idioma de las líneas de diálogo. «Por facción»: ISG y mercenarios con voces en inglés, las demás facciones en ruso. «Ruso» e «Inglés» solos se entienden. Se puede cambiar durante una partida.</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_voice_language">
+        <text>Idioma de las voces</text>
+    </string>
+    <string id="ui_mcm_lst_voice_language_by_faction">
+        <text>Por facción</text>
+    </string>
+    <string id="ui_mcm_lst_voice_language_russian">
+        <text>Ruso</text>
+    </string>
+    <string id="ui_mcm_lst_voice_language_english">
+        <text>Inglés</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_shouts_description">
+        <text>Activa/desactiva diversos gritos del personaje en distintas circunstancias. Advertencia: contiene lenguaje soez. Se puede cambiar durante una partida. ¡ADVERTENCIA! Si la opción «WPO -&gt; Burlas al encasquillarse» estaba activada, VA Refined la desactivará, por lo que no se reproducirán voces duplicadas ni con sonidos diferentes.</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_enable_on_kill_shouts">
+        <text>Gritos al matar</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_enable_on_weapon_jam_shouts">
+        <text>Gritos al encasquillarse un arma</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_enable_on_weapon_reload_shouts">
+        <text>Gritos al recargar un arma</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_enable_on_grenade_throw_shouts">
+        <text>Gritos al lanzar granada</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_enable_companions_commands_shouts">
+        <text>Líneas de diálogo para órdenes a compañeros</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_shouts_pain_muffled_description">
+        <text>El personaje expresa dolor y sus voces se oyen amortiguadas con la máscara/casco puesto. Se puede cambiar durante una partida.</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_enable_pain_shouts">
+        <text>Líneas de personaje dolorido</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_enable_muffled_shouts">
+        <text>Voces amortiguadas con máscara/casco puesto</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_comments_shouts_key_description">
+        <text>Comentarios de voz del personaje mediante teclas asignadas, que tienen en cuenta el entorno y las condiciones circundantes. Advertencia: contiene lenguaje soez. Se puede cambiar durante una partida.</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_comments_shouts_key">
+        <text>Comentarios de VA</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_random_shouts_key_description">
+        <text>Gritos y frases aleatorias del personaje mediante teclas asignadas, sin tener en cuenta el entorno ni las condiciones circundantes. Advertencia: contiene lenguaje soez. Se puede cambiar durante una partida.</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_random_shouts_key">
+        <text>Gritos aleatorios de VA</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_shouts_volume_description">
+        <text>Regulación del nivel de volumen para todos los sonidos que proporciona este mod.</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_shouts_volume">
+        <text>Nivel de volumen de VA</text>
+    </string>
+	<string id="ui_mcm_varefined_varefined_main_va_global_volume_influence_description">
+        <text>Cuánto afecta el volumen global a las líneas de VA. 0 = El volumen de VA es independiente del volumen de sonido global. 1 = El volumen de VA se ajusta por completo al volumen global.</text>
+    </string>
+    <string id="ui_mcm_varefined_varefined_main_va_global_volume_influence">
+        <text>Volumen de VA afectado por volumen global</text>
+    </string>
+</string_table>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="st_wpn_g36new">
+		<text>G36</text>
+	</string>
+	<string id="st_wpn_g36new_descr">
+		<text>Creado para reemplazar al vetusto G3, el G36 sigue marcando la pauta en el ámbito de los fusiles de asalto con una fiabilidad sin precedentes. Ligero, preciso y de fácil mantenimiento, ha llegado a manos de diversas agencias policiales de todo el mundo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+	<string id="st_wpn_g36new_k">
+		<text>G36K</text>
+	</string>
+	<string id="st_wpn_g36new_k_descr">
+		<text>Creado para reemplazar al vetusto G3, el G36 sigue marcando la pauta en el ámbito de los fusiles de asalto con una fiabilidad sin precedentes. Ligero, preciso y de fácil mantenimiento, ha llegado a manos de diversas agencias policiales de todo el mundo. El modelo K cuenta con un cañón y guardamanos más cortos e incluye una bocacha apagallamas y un riel inferior para acoplar accesorios tácticos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+	<string id="st_wpn_g36new_c">
+		<text>G36C</text>
+	</string>
+	<string id="st_wpn_g36new_c_descr">
+		<text>Creado para reemplazar al vetusto G3, el G36 sigue marcando la pauta en el ámbito de los fusiles de asalto con una fiabilidad sin precedentes. Ligero, preciso y de fácil mantenimiento, ha llegado a manos de diversas agencias policiales de todo el mundo. El modelo C cuenta con un cañón, guardamanos y culata más cortos e incluye una bocacha apagallamas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+	<string id="st_wpn_g36new_nimble">
+		<text>G36 «FEAR»</text>
+	</string>
+	<string id="st_wpn_g36new_nimble_descr">
+		<text>Creado para reemplazar al vetusto G3, el G36 sigue marcando la pauta en el ámbito de los fusiles de asalto con una fiabilidad sin precedentes. Ligero, preciso y de fácil mantenimiento, ha llegado a manos de diversas agencias policiales de todo el mundo. Este modelo peculiar y único es similar al G36K, solo que mucho más ligero sin reducción en la precisión o aumento en el retroceso. También se ha modificado el cerrojo para alcanzar una mayor cadencia de tiro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+
+</string_table>

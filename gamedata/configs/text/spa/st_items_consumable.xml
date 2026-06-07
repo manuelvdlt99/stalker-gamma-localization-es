@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="st_vodka">
+		<text>Vodka (Nemiroff)</text>
+	</string>
+	<string id="st_vodka_descr">
+		<text>Nemiroff es un productor ucraniano de bebidas alcohólicas, especializado en vodkas y otras bebidas espirituosas, con sede en la ciudad de Nemýriv, en el óblast de Vínnitsa. Uno de los mejores vodkas del mundo y, por extensión, de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_cyan] • %c[ui_gray_2] Alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_vodka2">
+		<text>Vodka (Putinka)</text>
+	</string>
+	<string id="st_vodka2_descr">
+		<text>Triple purificación, textura suave y sabor único. Siguiendo la tradición de bautizar las marcas de vodka en honor a líderes rusos, el Putinka empezó a producirse tras la elección de Vladímir Putin como presidente. Se produce en Rusia a partir del mejor grano y agua cristalina de manantiales siberianos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_cyan] • %c[ui_gray_2] Alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_vodka_quality">
+		<text>Vodka (Stolíchnaya)</text>
+	</string>
+	<string id="st_vodka_quality_descr">
+		<text>Una robusta cantimplora de metal llena de vodka Stolíchnaya, a menudo llamado «Stoli», una marca de vodka de origen ruso que ahora se produce en Letonia. Tiene una larga historia y es conocido por su sabor clásico y su amplia distribución internacional. Ya sea para calmar los nervios, relajarse o celebrar, esta emblemática bebida espirituosa soviética es un compañero de fiar en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_cyan] • %c[ui_gray_2] Alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_beer">
+		<text>Cerveza</text>
+	</string>
+	<string id="st_beer_descr">
+		<text>La cerveza ucraniana abarca una variedad de cervezas elaboradas en Ucrania, reflejo de la rica tradición cervecera del país. Estas cervezas van desde rubias ligeras hasta ales robustas y son una bebida muy popular en la Zona, junto con el vodka.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_cyan] • %c[ui_gray_2] Alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_bottle_metal">
+		<text>Vodka</text>
+	</string>
+	<string id="st_bottle_metal_descr">
+		<text>Una cantimplora de metal que contiene una porción de lo que parece ser vodka producido en la Zona. Aunque es más económico, huele fortísimo y la calidad y el sabor dejan mucho que desear, pero cumple su función.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_cyan] • %c[ui_gray_2] Alcohol
+		\n</text>
+	</string>
+
+
+
+	<string id="st_mint">
+		<text>Altoids</text>
+	</string>
+	<string id="st_mint_descr">
+		<text>Altoids con sabor a menta importados del exterior. Aunque no son una comida, ofrecen un breve respiro de la monotonía de las raciones de supervivencia. Muy refrescantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_beans">
+		<text>Alubias estofadas</text>
+	</string>
+	<string id="st_beans_descr">
+		<text>Alubias estofadas en lata con una salsa sabrosa, traídas de fuera de la Zona. Este pilar ofrece un sabor reconfortante que recuerda al hogar, proporcionando sustento durante expediciones prolongadas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_tushonka">
+		<text>Tushonka</text>
+	</string>
+	<string id="st_tushonka_descr">
+		<text>«Tushonka» es el nombre común de la carne guisada en conserva producida en la Unión Soviética y otros países del Pacto de Varsovia. Se ha convertido en un método fundamental para la conservación de la carne a largo plazo, utilizada tanto por la población civil como en la ración reglamentaria del Ejército Rojo. La tushonka es conocida por su alto valor nutricional y su sabor relativamente bueno.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_bread">
+		<text>Barra de pan</text>
+	</string>
+	<string id="st_bread_descr">
+		<text>Una simple barra de pan que constituye un componente básico pero esencial de la dieta de un stalker. Su versatilidad lo convierte en un acompañamiento habitual de otros alimentos encontrados en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_conserva">
+		<text>Atún en lata</text>
+	</string>
+	<string id="st_conserva_descr">
+		<text>Una lata de atún conservado en aceite, que ofrece una opción de comida ligera y rica en proteínas. Su tamaño compacto la hace ideal para llevarla durante largas caminatas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_corn">
+		<text>Maíz en lata</text>
+	</string>
+	<string id="st_corn_descr">
+		<text>Maíz dulce en lata importado del exterior. Añade variedad a la por lo demás monótona dieta de un stalker, ofreciendo azúcares naturales para un aporte rápido de energía cuando sea necesario.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_tomato">
+		<text>Tomates en lata</text>
+	</string>
+	<string id="st_tomato_descr">
+		<text>Se suelen usar tomates en conserva, en rodajas y en dados para potenciar el sabor de las cómidas básicas. Aportan una nota de frescura a las por lo demás insípidas opciones culinarias disponibles.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_chili">
+		<text>Frijoles con chile</text>
+	</string>
+	<string id="st_chili_descr">
+		<text>Frijoles con chile enlatados, cocinados en una salsa picante. Sustanciosos y deliciosos, ofrecen una alternativa ácida a la comida tradicional. El toque picante puede levantar el ánimo en entornos fríos y desolados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_protein">
+		<text>Barrita de proteínas</text>
+	</string>
+	<string id="st_protein_descr">
+		<text>Una barrita compacta que combina la indulgencia del chocolate con los beneficios nutricionales de la proteína. Ideal para el consumo rápido, ofrece un dulce capricho junto con nutrientes esenciales. Útil para viajes largos, cuando no puedes parar y necesitas comer algo rápido.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_kolbasa">
+		<text>Salchicha del doctor</text>
+	</string>
+	<string id="st_kolbasa_descr">
+		<text>Esta salchicha fue concebida originalmente como un suplemento alimenticio para personas con síntomas de inanición prolongada. Al ser una fuente de carne de sabor suave, económica y relativamente saludable, la salchicha del doctor se popularizó enormemente en la URSS. Su larga vida útil la convierte en una opción práctica para la alimentación en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_nuts">
+		<text>Cóctel de frutos secos</text>
+	</string>
+	<string id="st_nuts_descr">
+		<text>Surtido de cacahuetes, avellanas, anacardos y almendras. Ofrecen una alta concentración de calorías y grasas saludables. Perfectas para picar sobre la marcha, ayudan a mantener los niveles de energía.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+	
+	<string id="st_raisins">
+		<text>Pasas</text>
+	</string>
+	<string id="st_raisins_descr">
+		<text>Uvas secas que sirven como fuente ligera y natural de azúcar. Proporcionan un chute rápido de energía y un toque dulce a la dieta. Un buen tentempié para llevar de viaje.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+	
+	<string id="st_chocolate">
+		<text>Chocolate</text>
+	</string>
+	<string id="st_chocolate_descr">
+		<text>Un dulce que ofrece un breve momento de placer. Aunque no es de primera calidad, satisface los antojos de dulce en la desolación de la Zona. Trae a la memoria muchos recuerdos entrañables de la infancia, lo que puede ayudar a aliviar el dolor de vivir en las duras e implacables condiciones de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+	
+    <string id="st_chocolate_p">
+		<text>Chocolate (a medio consumir)</text>
+	</string>
+    <string id="st_chocolate_p_descr">
+		<text>Medio dulce que ofrece un breve momento de placer. Aunque no es de primera calidad, satisface los antojos de dulce en la desolación de la Zona. Trae a la memoria muchos recuerdos entrañables de la infancia, lo que puede ayudar a aliviar el dolor de vivir en las duras e implacables condiciones de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+	
+	<string id="st_salmon">
+		<text>Salmón ahumado</text>
+	</string>
+	<string id="st_salmon_descr">
+		<text>Lonchas de salmón ucraniano curado y ahumado, con un sabor intenso y salado. Aunque es un lujo, ofrece nutrientes valiosos y un sabor a normalidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_sausage">
+		<text>Salchichón ahumado</text>
+	</string>
+	<string id="st_sausage_descr">
+		<text>Salchichas de carne curada y ahumada, llenas de sabor intenso y proteínas. Su método de conservación garantiza la longevidad, lo que lo convierte en una fuente de alimentación fiable en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_breadold">
+		<text>Barra de pan (dura)</text>
+	</string>
+	<string id="st_breadold_descr">
+		<text>Una barra de pan que se ha endurecido con el tiempo y ha perdido su frescura inicial. A pesar de su textura, aún es comestible y puede ablandarse con líquidos o usarse para cocinar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+
+
+	<string id="st_tea">
+		<text>Té de Barbas</text>
+	</string>
+	<string id="st_tea_descr">
+		<text>El popular té caliente de Barbas se elabora con una mezcla de azúcar, setas secas comestibles y agua hervida, que, según se dice, está libre de radiación. Los stalkers que pueden permitirse la bebida suelen llevársela a viajes largos por la Zona. Es una buena y saludable manera de mantenerse alerta cuando uno se siente cansado o está explorando en noches frías.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+
+	<string id="st_energy_drink">
+		<text>Bebida energética</text>
+	</string>
+	<string id="st_energy_drink_descr">
+		<text>Una bebida enlatada que tiene una fórmula mejorada compuesta por cafeína, taurina y vitaminas C, B5, B6 y B9. La suelen tomar los stalkers que realizan viajes largos debido a su contenido de azúcar y cafeína o para desembriagarse tras tomar demasiadas bebidas alcohólicas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_flask">
+		<text>Cantimplora (agua limpia)</text>
+	</string>
+	<string id="st_flask_descr">
+		<text>Una cantimplora portátil llena de agua limpia y potable. Esencial para saciar la sed sin arriesgarse a la exposición a la radiación de fuentes contaminadas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n</text>
+	</string>
+
+	<string id="st_mineral_water">
+		<text>Agua mineral</text>
+	</string>
+	<string id="st_mineral_water_descr">
+		<text>Una botella sellada que contiene agua mineral carbonatada con infusión de calcio procedente de manantiales ucranianos, rica en minerales esenciales. Ofrece un sabor refrescante y repone nutrientes vitales perdidos en actividades extenuantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+
+	<string id="st_water_drink">
+		<text>Gaseosa</text>
+	</string>
+	<string id="st_water_drink_descr">
+		<text>Agua carbonatada almacenada en una lata que ofrece una alternativa efervescente al agua sin gas. Un lujo poco común en la Zona, que ofrece un escape momentáneo de la desolación de la supervivencia diaria.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_drink_crow">
+		<text>Té «El Pico»</text>
+	</string>
+	<string id="st_drink_crow_descr">
+		<text>«El Pico» es un potente mejunje de vodka destilado en la Zona y el pico molido de un cuervo que ha vivido en la Zona más de 15 años, y que se cree que contiene proteínas enriquecidas capaces de limpiar el cuerpo de la radiación. A pesar de sus supuestas propiedades reconstituyentes y la fugaz sensación de euforia que proporciona, la bebida es conocida por su sabor desagradable.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+
+
+
+	<string id="st_mre">
+		<text>MRE</text>
+	</string>
+	<string id="st_mre_descr">
+		<text>La Meal, Ready-to-Eat es una ración de campaña autocontenida y ligera desarrollada originalmente para personal militar, que proporciona una comida completa que no requiere cocción. Su durabilidad y comodidad la convierten en una opción preferida de los stalkers que afrontan los desafíos de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+
+	<string id="st_ration_ru">
+		<text>Ración de combate IRP-B rusa</text>
+	</string>
+	<string id="st_ration_ru_descr">
+		<text>Conocida como la «Ración Individual de Comida», este paquete ofrece sustento para un día completo, incluyendo carnes enlatadas, galletitas saladas y mezclas para bebidas. Diseñada para las fuerzas rusas, su embalaje compacto y robusto garantiza su resistencia en condiciones adversas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+	
+	<string id="st_ration_ukr">
+		<text>Ración de combate ucraniana</text>
+	</string>
+	<string id="st_ration_ukr_descr">
+		<text>Esta ración ofrece a las tropas ucranianas una dieta equilibrada, con alimentos como gachas de trigo sarraceno con pollo, galletas y mermelada. Su diseño hace hincapié en la practicidad y el sustento, respondiendo a las exigencias de misiones prolongadas en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n</text>
+	</string>
+	
+
+	
+	<string id="st_cigarettes_lucky">
+		<text>Cigarrillos (Lucky Strike)</text>
+	</string>
+	<string id="st_cigarettes_lucky_descr">
+		<text>Una cajetilla de cigarrillos estadounidenses Lucky Strike, conocidos por su sabor intenso e importancia histórica. Muy codiciados en la Zona, ofrecen un sabor nostálgico del mundo exterior.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+
+	<string id="st_cigarettes">
+		<text>Cigarrillos (Marlboro)</text>
+	</string>
+	<string id="st_cigarettes_descr">
+		<text>Los cigarrillos Marlboro, con su característico envoltorio rojiblanco, son un símbolo de la cultura del tabaquismo occidental. Su suave mezcla proporciona un alivio familiar para aquellos que atraviesan las adversidades de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+
+	<string id="st_cigarettes_russian">
+		<text>Cigarrillos (rusos)</text>
+	</string>
+	<string id="st_cigarettes_russian_descr">
+		<text>Estos cigarrillos rusos sin marca, de producción local, están al alcance de todos y son asequibles. Aunque carecen del prestigio de las marcas importadas, ofrecen la dosis necesaria de nicotina para los stalkers agotados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_cigar1">
+		<text>Cigarrillos (soviéticos)</text>
+	</string>
+	<string id="st_cigar1_descr">
+		<text>Una cajetilla de cigarrillos añejos producidos durante la era soviética, extraordinariamente bien conservados y que aún conservan ese sabor áspero y distintivo que recuerda a los años dorados de la URSS. A pesar de su antigüedad, la mezcla única de tabaco de poca calidad y filtros de papel mantiene el característico sabor soviético intacto, evocando un sentimiento de nostalgia entre los habitantes más vetustos de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_cigar2">
+		<text>Cigarrillos (soviéticos)</text>
+	</string>
+	<string id="st_cigar2_descr">
+		<text>Una cajetilla de cigarrillos añejos producidos durante la era soviética, extraordinariamente bien conservados y que aún conservan ese sabor áspero y distintivo que recuerda a los años dorados de la URSS. A pesar de su antigüedad, la mezcla única de tabaco de poca calidad y filtros de papel mantiene el característico sabor soviético intacto, evocando un sentimiento de nostalgia entre los habitantes más vetustos de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_cigar3">
+		<text>Cigarrillos (soviéticos)</text>
+	</string>
+	<string id="st_cigar3_descr">
+		<text>Una cajetilla de cigarrillos añejos producidos durante la era soviética, extraordinariamente bien conservados y que aún conservan ese sabor áspero y distintivo que recuerda a los años dorados de la URSS. A pesar de su antigüedad, la mezcla única de tabaco de poca calidad y filtros de papel mantiene el característico sabor soviético intacto, evocando un sentimiento de nostalgia entre los habitantes más vetustos de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+
+	<string id="st_cuban_cigar">
+		<text>Puro cubano</text>
+	</string>
+	<string id="st_cuban_cigar_descr">
+		<text>Un lujoso puro cubano, reconocido por su excepcional elaboración y sus intensos y complejos sabores. En la Zona, poseer uno es un símbolo de distinción, a menudo reservado para ocasiones especiales o negocios importantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_hand_rolling_tobacco">
+		<text>Tabaco de liar</text>
+	</string>
+	<string id="st_hand_rolling_tobacco_descr">
+		<text>Tabaco suelto pensado para liarse a mano que ofrece una experiencia de fumar personalizable. Los stalkers ingeniosos agradecen su versatilidad, ya que les permite liarse cigarrillos con su tamaño y potencia preferidos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+	<string id="st_tobacco">
+		<text>Tabaco ruso</text>
+	</string>
+	<string id="st_tobacco_descr">
+		<text>Una caja de metal que contiene tabaco ruso finamente picado, conservando así su frescura en las duras condiciones de la Zona. Ideal para los que prefieren liarse sus propios cigarrillos o usar una pipa, ofrece un sabor robusto y auténtico.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+
+
+</string_table>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="mag_kriss45">
+		<text>Cargador estándar de .45 ACP de KRISS Vector</text>
+	</string>
+	<string id="mag_kriss45_descr">
+		<text>Un cargador estándar de 25 cartuchos de .45 ACP para la KRISS Vector.</text>
+	</string>
+	
+	<string id="mag_kriss9">
+		<text>Cargador estándar de 9 x 19 mm de KRISS</text>
+	</string>
+	<string id="mag_kriss9_descr">
+		<text>Un cargador estándar de 33 cartuchos de 9 x 19 mm para la KRISS Vector, designado «Big Stick».</text>
+	</string>
+
+	<string id="ext_mag_kriss_drum">
+		<text>Cargador ampliado de .45 ACP de KRISS Vector</text>
+	</string>
+	<string id="ext_mag_kriss_drum_descr">
+		<text>Un cargador ampliado de 40 cartuchos de .45 ACP para la KRISS Vector.</text>
+	</string>
+
+	<string id="ext_mag_kriss9_drum">
+		<text>Cargador ampliado de 9 x 19 mm de KRISS Vector</text>
+	</string>
+	<string id="ext_mag_kriss9_drum_descr">
+		<text>Cargador de gran capacidad de 9 x 19 mm para la KRISS Vector que puede contener hasta 50 cartuchos. Fabricado en Corea e importado por SGM Tactical. El fabricante no recomienda insertar más de 50 cartuchos.</text>
+	</string>
+
+	<string id="st_mag_mp7_5.7x28_ss190">
+		<text>Cargador modificado de 5,7 x 28 mm de MP7</text>
+	</string>
+	<string id="st_mag_mp7_5.7x28_ss190_descr">
+		<text>Cargador ampliado de 40 cartuchos de MP7 modificado para aceptar el cartucho de 5,7 x 28 mm desarrollado y fabricado por FN Herstal. Debido a la relativa escasez de munición 4,6 x 30, algunos técnicos ingeniosos lograron adaptar el MP7 para que disparara la misma munición que la FN P90 y la Five-seveN.</text>
+	</string>
+
+</string_table>

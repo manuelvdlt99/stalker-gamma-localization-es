@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="st_addon_sil_ash12">
+		<text>Silenciador de ShAK-12</text>
+	</string>
+	<string id="st_addon_sil_ash12_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 12,7 x 55 mm
+		
+		\n \n%c[ui_gray_1]PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n</text>
+	</string>
+
+	<string id="st_addon_sil_silencerco">
+		<text>Silenciador Salvo 12</text>
+	</string>
+	<string id="st_addon_sil_silencerco_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] Calibre 12
+		
+		\n \n%c[ui_gray_1]PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n</text>
+	</string>
+
+
+
+	<string id="st_addon_scope_sup">
+		<text>Kit de miras SUP</text>
+	</string>
+	<string id="st_addon_scope_sup_descr">
+		<text>Un sistema de accesorios modulares que permite el acoplamiento de varios silenciadores en armas compatibles, aumentando la versatilidad y las capacidades de supresión.
+		
+		\n \n INCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Mira ELCAN SpecterDR DFOV14-C2
+		\n %c[d_cyan] • %c[ui_gray_2] Mira Trijicon RMR
+		\n</text>
+	</string>
+
+	<string id="st_addon_scope_specterup">
+		<text>Kit táctico de SA58</text>
+	</string>
+	<string id="st_addon_scope_specterup_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] SA58
+		
+		\n \n%c[ui_gray_1]Un paquete de mejora integral que incluye empuñaduras, rieles, culatas y otras mejoras para optimizar la ergonomía, el control y la efectividad general del arma en combate.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Mira ELCAN SpecterDR DFOV14-C2
+		\n %c[d_cyan] • %c[ui_gray_2] Mira Trijicon RMR
+		\n %c[d_cyan] • %c[ui_gray_2] Módulo láser AN/PEQ-15
+		\n</text>
+	</string>
+
+</string_table>

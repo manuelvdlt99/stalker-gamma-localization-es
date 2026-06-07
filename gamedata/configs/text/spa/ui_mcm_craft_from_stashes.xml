@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	
+    <string id="ui_mcm_menu_craft_from_stashes">
+		<text>Fabricar desde alijos</text>
+	</string>
+    <string id="ui_mcm_craft_from_stashes_range">
+		<text>Distancia (m) desde la que buscar alijos para fabricar</text>
+	</string>
+	<string id="ui_mcm_craft_from_stashes_range_desc">
+		<text>Distancia en metros desde el jugador para buscar alijos con los que fabricar, reparar y fundir.</text>
+	</string>
+    <string id="ui_mcm_craft_from_stashes_cooking_range">
+		<text>Distancia (m) desde la que buscar alijos para cocinar</text>
+	</string>
+	<string id="ui_mcm_craft_from_stashes_cooking_range_desc">
+		<text>Distancia en metros desde el jugador para buscar alijos con los que cocinar.</text>
+	</string>
+    <string id="ui_mcm_craft_from_stashes_artefact_high_priority">
+		<text>Usar mejor artefacto para fabricar</text>
+	</string>
+    <string id="ui_mcm_craft_from_stashes_artefact_high_priority_desc">
+		<text>Prioridad de fabricación de artefactos de alta a baja (excepto artefactos con ventaja.)</text>
+	</string>
+</string_table>

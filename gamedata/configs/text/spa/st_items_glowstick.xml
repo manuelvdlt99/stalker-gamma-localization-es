@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_device_glowstick">
+		<text>Barra luminosa (verde)</text>
+	</string>
+	<string id="st_device_glowstick_descr">
+		<text>Una pequeña fuente de luz química de un solo uso que ofrece una iluminación tenue pero fiable en la oscuridad de la Zona. La suelen usar los stalkers para señalizar caminos, hacer señas a aliados o recorrer zonas subterráneas sin llamar demasiado la atención.
+		\nEmite una luz verde con un alcance e iluminación equilibrados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Duración: %c[ui_gray_1]~40 minutos
+		\n</text>
+	</string>
+
+	<string id="st_device_glowstick_red">
+		<text>Barra luminosa (roja)</text>
+	</string>
+	<string id="st_device_glowstick_red_descr">
+		<text>Una pequeña fuente de luz química de un solo uso que ofrece una iluminación tenue pero fiable en la oscuridad de la Zona. La suelen usar los stalkers para señalizar caminos, hacer señas a aliados o recorrer zonas subterráneas sin llamar demasiado la atención.
+		\nEmite una luz roja con mayor alcance, pero una iluminación limitada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Duración: %c[ui_gray_1]~60 minutos
+		\n</text>
+	</string>
+
+	<string id="st_device_glowstick_orange">
+		<text>Barra luminosa (naranja)</text>
+	</string>
+	<string id="st_device_glowstick_orange_descr">
+		<text>Una pequeña fuente de luz química de un solo uso que ofrece una iluminación tenue pero fiable en la oscuridad de la Zona. La suelen usar los stalkers para señalizar caminos, hacer señas a aliados o recorrer zonas subterráneas sin llamar demasiado la atención.
+		\nEmite una luz naranja con un alcance e iluminación decentes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Duración: %c[ui_gray_1]~40 minutos
+		\n</text>
+	</string>
+
+	<string id="st_device_glowstick_blue">
+		<text>Barra luminosa (cian)</text>
+	</string>
+	<string id="st_device_glowstick_blue_descr">
+		<text>Una pequeña fuente de luz química de un solo uso que ofrece una iluminación tenue pero fiable en la oscuridad de la Zona. La suelen usar los stalkers para señalizar caminos, hacer señas a aliados o recorrer zonas subterráneas sin llamar demasiado la atención.\nEmite una luz cian con un alcance muy limitado, pero una gran iluminación.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Duración: %c[ui_gray_1]~30 minutos
+		\n</text>
+	</string>
+
+
+
+	<string id="ui_mcm_menu_glowsticks">
+		<text>Barras luminosas</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker">
+		<text>Parpadeo en Cauterizador Cerebral y Máquina Milagrosa</text>
+	</string>
+	<string id="ui_mcm_glowsticks_enable_bs_mm_flicker_desc">
+		<text>Las lámparas y linternas parpadean en el Cauterizador Cerebral y la Máquina Milagrosa mientras están activas para darte una razón para llevar barras luminosas.</text>
+	</string>
+	<string id="ui_mcm_glowsticks_throw_force">
+        <text>Distancia de lanzado de barras luminosas</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance">
+        <text>Probabilidad de barras luminosas en alijos</text>
+    </string>
+	<string id="ui_mcm_glowsticks_stash_chance_desc">
+        <text>La probabilidad de encontrar barras luminosas en alijos.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance">
+        <text>Probabilidad de saquear barras luminosas</text>
+    </string>
+	<string id="ui_mcm_glowsticks_loot_chance_desc">
+        <text>La probabilidad de encontrar barras luminosas en cadáveres.</text>
+    </string>
+	<string id="ui_mcm_glowsticks_throw_key">
+        <text>Tecla para lanzar</text>
+    </string>
+    <string id="ui_mcm_glowsticks_throw_key_desc">
+        <text>La tecla que hay que mantener pulsada para lanzar barras luminosas.</text>
+    </string>
+	
+</string_table>

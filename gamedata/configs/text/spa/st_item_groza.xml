@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_guns_groza">
+		<text>OTs-14 Groza</text>
+	</string>
+	<string id="st_wpn_groza_guns_descr">
+		<text>El fusil de asalto modular OTs-14 «Groza» («trueno») se desarrolló a principios de los noventa en el TsKIB SOO. Estaba destinado a diversas fuerzas especiales del Ejército ruso y del Ministerio del Interior como arma específica para la guerra urbana. Presenta un diseño bullpup con un lanzagranadas de 40 mm en lugar de la empuñadura extraíble.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n</text>
+	</string>
+	<string id="st_wpn_groza_guns_nimble">
+		<text>OTs-14 Groza «Tormenta»</text>
+	</string>
+	<string id="st_wpn_groza_guns_nimble_descr">
+		<text>El fusil de asalto modular OTs-14 «Groza» («trueno») se desarrolló a principios de los noventa en el TsKIB SOO. Estaba destinado a diversas fuerzas especiales del Ejército ruso y del Ministerio del Interior como arma específica para la guerra urbana. Presenta un diseño bullpup con un lanzagranadas de 40 mm en lugar de la empuñadura extraíble. La «Tormenta» es una importante modificación de la Groza-1 experimental que cuenta con un cargador ampliado. Es un viejo sueño de todo veterano miembro del Deber que solo se concede a los más dignos del grupo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n</text>
+	</string>
+
+</string_table>

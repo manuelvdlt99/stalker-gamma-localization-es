@@ -559,19 +559,19 @@
 	</string>
 
 	<string id="ui_mcm_lst_paw_crosshair_white">
-		<text>Retículo blanco</text>
+		<text>Retícula blanca</text>
 	</string>
 
 	<string id="ui_mcm_lst_paw_crosshair_red">
-		<text>Retículo rojo</text>
+		<text>Retícula roja</text>
 	</string>
 
 	<string id="ui_mcm_lst_paw_crosshair_green">
-		<text>Retículo verde</text>
+		<text>Retícula verde</text>
 	</string>
 
 	<string id="ui_mcm_lst_paw_crosshair_green">
-		<text>Retículo verde</text>
+		<text>Retícula verde</text>
 	</string>
 
 	<string id="ui_mcm_lst_paw_stash_green">
@@ -935,9 +935,9 @@
 	<string id="st_pawsys_welcome_msg">
 		<text>$clr_prp[ Sistema Personal Adjustable Waypoint inicializado ]$clr_wht
 		
-		\n \n• Haz clic derecho en cualquier icono visible del mapa para fijar un pin personalizado ($clr_lblpunto de referencia$clr_wht) o colocar y etiquetar pines llamados $clr_lblpines$clr_wht.
-		\n• Pulsa $clr_yel%s$clr_wht para activar o desactivar el punto de referencia en cualquier momento. Si no quieres un pin visible en el HUD, puedes desactivarlo en el MCM.\n • Pulsa $clr_yel%s$clr_wht para colocar un $clr_lblpin rápido$clr_wht en tu posición actual.
-		\n• Mantén pulsado $clr_yel%s$clr_wht para entrar en el $clr_lblmodo Cartografía$clr_wht para obtener más funciones, como $clr_lblescanear$clr_wht el mapa para mostrar pines temporales para la colocación precisa de puntos de referencia y pines.
+		\n \n • Haz clic derecho en cualquier icono visible del mapa para fijar un pin personalizado ($clr_lblpunto de referencia$clr_wht) o colocar y etiquetar pines llamados $clr_lblpines$clr_wht.
+		\n • Pulsa $clr_yel%s$clr_wht para activar o desactivar el punto de referencia en cualquier momento. Si no quieres un pin visible en el HUD, puedes desactivarlo en el MCM.\n • Pulsa $clr_yel%s$clr_wht para colocar un $clr_lblpin rápido$clr_wht en tu posición actual.
+		\n • Mantén pulsado $clr_yel%s$clr_wht para entrar en el $clr_lblmodo Cartografía$clr_wht para obtener más funciones, como $clr_lblescanear$clr_wht el mapa para mostrar pines temporales para la colocación precisa de puntos de referencia y pines.
 		
 		\n \nEncontrarás esto y mucho más en el MCM, en $clr_lblAdjustable Waypoint$clr_wht.
 		
@@ -1121,11 +1121,11 @@
 	</string>
 
 	<string id="ui_mcm_paw_crosshair_target_head">
-		<text>Referencias y pines: apuntado con retículo</text>
+		<text>Referencias y pines: apuntado con retícula</text>
 	</string>
 
 	<string id="ui_mcm_paw_crosshair_target_desc">
-		<text>Estas dos asignaciones de teclas te permiten usar puntos de referencia y pines en cualquier objeto que esté en tu retículo. Los puntos de referencia tienen la opción de colocarse en cualquier parte. Al colocar pines, debe haber un objeto válido exactamente en el centro del retículo. Para un stalker, esto significa lo bastante centrado como para que la identificación de retículo se active.</text>
+		<text>Estas dos asignaciones de teclas te permiten usar puntos de referencia y pines en cualquier objeto que esté en tu retícula. Los puntos de referencia tienen la opción de colocarse en cualquier parte. Al colocar pines, debe haber un objeto válido exactamente en el centro de la retícula. Para un stalker, esto significa lo bastante centrado como para que la identificación de retícula se active.</text>
 	</string>
 
 	<string id="ui_mcm_paw_generalbinds_head">
@@ -1137,7 +1137,7 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_wp_target_obj_desc">
-		<text>Cuando se pulsa esta tecla, el punto de referencia se fijará (o moverá) en el objeto en el retículo del jugador. Si ya estaba fijado en el objeto apuntado, se desactivará.</text>
+		<text>Cuando se pulsa esta tecla, el punto de referencia se fijará (o moverá) en el objeto en la retícula del jugador. Si ya estaba fijado en el objeto apuntado, se desactivará.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj">
@@ -1145,7 +1145,7 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawbinds_bind_pin_target_obj_desc">
-		<text>Cuando se pulsa esta tecla, se colocará un pin en el objeto en el retículo del jugador, si no hay ninguno, usando el icono activo. Si ya existe un pin para el objetivo, se eliminará.</text>
+		<text>Cuando se pulsa esta tecla, se colocará un pin en el objeto en la retícula del jugador, si no hay ninguno, usando el icono activo. Si ya existe un pin para el objetivo, se eliminará.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_pin_auto_visible">
@@ -1153,7 +1153,7 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_pin_auto_visible_desc">
-		<text>Si se creó un pin apuntando a un objeto con el retículo (ya sea manualmente o con el autoetiquetado), se mostrará automáticamente en el HUD. Puedes mostrar u ocultar pines en el HUD en cualquier momento usando la PDA.</text>
+		<text>Si se creó un pin apuntando a un objeto con la retícula (ya sea manualmente o con el autoetiquetado), se mostrará automáticamente en el HUD. Puedes mostrar u ocultar pines en el HUD en cualquier momento usando la PDA.</text>
 	</string>
 
 
@@ -1217,35 +1217,35 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_reticle_mode">
-		<text>Mostrar retículo inteligente cuando se apunta a un objeto válido</text>
+		<text>Mostrar retícula inteligente cuando se apunta a un objeto válido</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_reticle_mode_desc">
-		<text>Este ajuste controla cuándo puede aparecer el retículo inteligente: siempre, solo en el modo Cartografía, o nunca (desactivado).</text>
+		<text>Este ajuste controla cuándo puede aparecer la retícula inteligente: siempre, solo en el modo Cartografía, o nunca (desactivado).</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_reticle_alpha">
-		<text>Transparencia del retículo</text>
+		<text>Transparencia de la retícula</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_reticle_alpha_desc">
-		<text>El valor alfa (transparencia) máximo del retículo. 0 es totalmente transparente y 255 es totalmente opaco.</text>
+		<text>El valor alfa (transparencia) máximo de la retícula. 0 es totalmente transparente y 255 es totalmente opaco.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time">
-		<text>Duración de fundido del retículo del objeto</text>
+		<text>Duración de fundido de la retícula del objeto</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_ret_fade_attack_time_desc">
-		<text>El tiempo, en milisegundos, que tarda el retículo en terminar de fundirse cuando se apunta a un objeto válido.</text>
+		<text>El tiempo, en milisegundos, que tarda la retícula en terminar de fundirse cuando se apunta a un objeto válido.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time">
-		<text>Duración de desvanecimiento del retículo del objeto</text>
+		<text>Duración de desvanecimiento de la retícula del objeto</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_ret_fade_decay_time_desc">
-		<text>El tiempo, en milisegundos, que tarda el retículo en terminar de desvanecerse después de que el retículo no tenga un objetivo.</text>
+		<text>El tiempo, en milisegundos, que tarda la retícula en terminar de desvanecerse después de que la retícula no tenga un objetivo.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawhud_preview_aspect">
@@ -1308,19 +1308,19 @@
 
 
 	<string id="ui_mcm_menu_pawret">
-		<text>Retículo/Autoetiquetado</text>
+		<text>Retícula/Autoetiquetado</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_enable_autotag">
-		<text>Activar el etiquetado inteligente automático en el ID de retículo</text>
+		<text>Activar el etiquetado inteligente automático en el ID de retícula</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_enable_autotag_desc">
-		<text>Si esta función está activada, el retículo del HUD de PAW «etiquetará» automáticamente a objetos válidos con un pin apropiado cuando estén identificados, según se configure a continuación.</text>
+		<text>Si esta función está activada, la retícula del HUD de PAW «etiquetará» automáticamente a objetos válidos con un pin apropiado cuando estén identificados, según se configure a continuación.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawhud_reticle_info1">
-		<text>Utiliza pines y puntos de referencia en cualquier objeto válido en tu retículo mediante teclas de acceso rápido configurables. Por defecto, el retículo aparece y desaparece para indicar cuándo estás apuntando a un objeto válido.</text>
+		<text>Utiliza pines y puntos de referencia en cualquier objeto válido en tu retícula mediante teclas de acceso rápido configurables. Por defecto, la retícula aparece y desaparece para indicar cuándo estás apuntando a un objeto válido.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawhud_reticle_info2">
@@ -1414,7 +1414,7 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_reticle_mustzoom_desc">
-		<text>Si esta opción está activada, el retículo (y sus funciones de etiquetado) solo se activarán cuando hagas zoom con prismáticos o un arma con mira. Esto se recomienda para que no se creen etiquetas solo al hablar con un NPC.</text>
+		<text>Si esta opción está activada, la retícula (y sus funciones de etiquetado) solo se activarán cuando hagas zoom con prismáticos o un arma con mira. Esto se recomienda para que no se creen etiquetas solo al hablar con un NPC.</text>
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_manual_smart_pins">
@@ -1422,7 +1422,7 @@
 	</string>
 
 	<string id="ui_mcm_pawsys_pawret_manual_smart_pins_desc">
-		<text>Si esta opción está activada, los pines de retículo creados por pulsar la tecla asociada manualmente también usarán los ajustes de autoetiquetado de abajo, asignando el icono seleccionado para el objeto apuntado en lugar del icono activo.</text>
+		<text>Si esta opción está activada, los pines de retícula creados por pulsar la tecla asociada manualmente también usarán los ajustes de autoetiquetado de abajo, asignando el icono seleccionado para el objeto apuntado en lugar del icono activo.</text>
 	</string>
 
 	<string id="ui_mcm_lst_paw_pin_redskull">
@@ -1430,7 +1430,7 @@
 	</string>
 
 	<string id="ui_mcm_lst_paw_crosshair_gradient">
-		<text>Retículos con degradado</text>
+		<text>Retículas con degradado</text>
 	</string>
 
 
@@ -1486,8 +1486,8 @@
 	<string id="ui_mcm_pawsys_pawgen_headertxt">
 		<text>$clr_yelPAW$clr_wht no es solo un punto de referencia, es un conjunto de herramientas de mapeo y navegación que te da un mayor control sobre tu mapa y tu HUD y te permite marcar tu propio camino a través de la Zona. $clr_yelTodas estas funciones son opcionales y personalizables a su gusto.$clr_wht
 		
-		\n \n•$clr_lbl Coloca tu propio pin de misión en cualquier momento y lugar, y personaliza su texto$clr_wht \n •$clr_lbl Coloca, renombra y elimina pines («pines») en cualquier lugar del mapa con el icono que elijas$clr_wht
-		\n•$clr_lbl Identifica blancos automáticamente con los pines «inteligentes» que tú elijas y muéstralos en el HUD$clr_wht
+		\n \n •$clr_lbl Coloca tu propio pin de misión en cualquier momento y lugar, y personaliza su texto$clr_wht \n •$clr_lbl Coloca, renombra y elimina pines («pines») en cualquier lugar del mapa con el icono que elijas$clr_wht
+		\n •$clr_lbl Identifica blancos automáticamente con los pines «inteligentes» que tú elijas y muéstralos en el HUD$clr_wht
 		
 		\n \n$clr_yelNo dejes que los PNJ te digan adónde ir: coloca un PAW y haz tuyo el mapa.$clr_wht</text>
 	</string>
@@ -1750,7 +1750,7 @@
 	</string>
 
 	<string id="encyclopedia_addons">
-		<text>Complementos</text>
+		<text>Mods</text>
 	</string>
 
 	<string id="encyclopedia_addons_addon_name">

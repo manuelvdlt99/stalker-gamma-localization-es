@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<!--
+	Artefacts Containers (AAC)
+-->
+
+<string_table>
+	<string id="st_af_itcher_lead_box_name">
+		<text>CMRP con Comezón</text>
+	</string>  
+	<string id="st_af_itcher_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string> 
+
+	<string id="st_af_pin_lead_box_name">
+		<text>CMRP con Alfiler</text>
+	</string>  
+	<string id="st_af_pin_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>  
+	
+	<string id="st_af_cristall_lead_box_name">
+		<text>CMRP con Cristal</text>
+	</string>
+	<string id="st_af_cristall_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_fireball_lead_box_name">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_blood_lead_box_name">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_mincer_meat_lead_box_name">
+		<text>CMRP con Bola de Carne</text>
+	</string>
+	<string id="st_af_mincer_meat_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_bracelet_lead_box_name">
+		<text>CMRP con Brazalete</text>
+	</string>  
+	<string id="st_af_bracelet_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>  
+	
+	<string id="st_af_baloon_lead_box_name">
+		<text>CMRP con Burbuja</text>
+	</string>
+	<string id="st_af_baloon_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_electra_sparkler_lead_box_name">
+		<text>CMRP con Bengala</text>
+	</string>
+	<string id="st_af_electra_sparkler_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_sponge_lead_box_name">
+		<text>CMRP con Esponja</text>
+	</string>  
+	<string id="st_af_sponge_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string> 
+	
+	<string id="st_af_ring_lead_box_name">
+		<text>CMRP con Anillo</text>
+	</string>  
+	<string id="st_af_ring_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string> 
+	
+	<string id="st_af_electra_flash_lead_box_name">
+		<text>CMRP con Destello</text>
+	</string>
+	<string id="st_af_electra_flash_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_cristall_flower_lead_box_name">
+		<text>CMRP con Flor de Piedra</text>
+	</string>
+	<string id="st_af_cristall_flower_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_lobster_eyes_lead_box_name">
+		<text>CMRP con Ojos de Langosta</text>
+	</string>  
+	<string id="st_af_lobster_eyes_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string> 
+	
+	<string id="st_af_electra_moonlight_lead_box_name">
+		<text>CMRP con Claro de Luna</text>
+	</string>
+	<string id="st_af_electra_moonlight_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_black_spray_lead_box_name">
+		<text>CMRP con Espray Negro</text>
+	</string>  
+	<string id="st_af_black_spray_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>  
+	
+	<string id="st_af_medusa_lead_box_name">
+		<text>CMRP con Medusa</text>
+	</string>
+	<string id="st_af_medusa_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_vyvert_lead_box_name">
+		<text>CMRP con Torcedor</text>
+	</string>
+	<string id="st_af_vyvert_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_empty_lead_box_name">
+		<text>CMRP con Vacío</text>
+	</string>  
+	<string id="st_af_empty_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string> 
+ 	
+	<string id="st_af_full_empty_lead_box_name">
+		<text>CMRP con Vacío Completo</text>
+	</string>  
+	<string id="st_af_full_empty_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string> 
+	
+	<string id="st_af_night_star_lead_box_name">
+		<text>CMRP con Estrella Nocturna</text>
+	</string>
+	<string id="st_af_night_star_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_gravi_lead_box_name">
+		<text>CMRP con Gravi</text>
+	</string>
+	<string id="st_af_gravi_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_gold_fish_lead_box_name">
+		<text>CMRP con Carpín</text>
+	</string>
+	<string id="st_af_gold_fish_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_dummy_glassbeads_lead_box_name">
+		<text>CMRP con Abalorios de Madre</text>
+	</string>
+	<string id="st_af_dummy_glassbeads_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_eye_lead_box_name">
+		<text>CMRP con Ojo</text>
+	</string>
+	<string id="st_af_eye_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_fire_lead_box_name">
+		<text>CMRP con Llama</text>
+	</string>
+	<string id="st_af_fire_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_dummy_battery_lead_box_name">
+		<text>CMRP con Batería</text>
+	</string>
+	<string id="st_af_dummy_battery_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_dummy_dummy_lead_box_name">
+		<text>CMRP con Concha</text>
+	</string>
+	<string id="st_af_dummy_dummy_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_ice_lead_box_name">
+		<text>CMRP con Copo de Nieve</text>
+	</string>
+	<string id="st_af_ice_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_soul_lead_box_name">
+		<text>CMRP con Alma</text>
+	</string>
+	<string id="st_af_soul_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_fuzz_kolobok_lead_box_name">
+		<text>CMRP con Kolobok</text>
+	</string>
+	<string id="st_af_fuzz_kolobok_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_glass_lead_box_name">
+		<text>CMRP con Luciérnaga</text>
+	</string>
+	<string id="st_af_glass_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_compass_lead_box_name">
+		<text>CMRP con Brújula</text>
+	</string>
+	<string id="st_af_compass_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_oasis_heart_lead_box_name">
+		<text>CMRP con Corazón del Oasis</text>
+	</string>
+	<string id="st_af_oasis_heart_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+	<string id="st_af_death_lamp_lead_box_name">
+		<text>CMRP con Lámpara de la Muerte</text>
+	</string>  
+	<string id="st_af_death_lamp_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string> 
+	
+	<string id="st_af_misery_bread_lead_box_name">
+		<text>CMRP con pan anómalo</text>
+	</string>
+	<string id="st_af_misery_bread_lead_box_descr">
+		<text>NO SE USA, NO SE USA, NO SE USA
+
+		\n \n</text>
+	</string>
+	
+</string_table>

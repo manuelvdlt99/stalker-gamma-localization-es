@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+    <string id="st_hf_workshop_menu">
+        <text>Abrir menú de banco de trabajo</text>
+    </string>
+
+    <string id="st_hf_control_menu">
+        <text>Abrir menú de control</text>
+    </string>
+
+    <string id="st_prop_chair">
+        
+        <text>Silla de madera</text>
+    </string>
+
+    <string id="ui_mcm_dotmarks_dmarkobjs_scan_furniture">
+        <text>Marcar Hideout Furniture</text>
+    </string>
+
+    <string id="ui_mcm_dotmarks_addons_hideout_furniture">
+        <text>$clr_gldHideout Furniture</text>
+    </string>
+
+    <string id="ui_mcm_dotmarks_dmarkmods_hf_add_primary_pickup">
+        <text>Añadir interacción primaria para coger objetos de decorado</text>
+    </string>
+    <string id="ui_mcm_dotmarks_dmarkmods_hf_add_primary_pickup_desc">
+        <text>Muchos objetos de Hideout Furniture ya tienen interacciones primarias, como las camas y las luces interactivas. Si un objeto de decorado no tiene una ya y esta opción está activada, DotMarks añadirá una interacción primaria personalizada que te permitirá coger el objeto al instante sin tener que abrir el menú de Hideout Furniture.</text>
+    </string>
+
+    <string id="ui_mcm_dotmarks_dmarkmods_hf_show_default_secmenu">
+        <text>Mostrar indicador para el menú predeterminado de Hideout Furniture</text>
+    </string>
+    <string id="ui_mcm_dotmarks_dmarkmods_hf_show_default_secmenu_desc">
+        <text>Si DotMarks aún no ha agregado una acción secundaria personalizada a un objeto y esta opción está activada, DotMarks mostrará un indicador secundario para el menú predeterminado de Hideout Furniture, al que normalmente se accede manteniendo presionada la tecla de uso principal.</text>
+    </string>
+
+</string_table>

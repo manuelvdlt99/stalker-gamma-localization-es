@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="ui_mcm_menu_oleh_sounds">
+		<text>Sonidos</text>
+	</string>
+	<string id="ui_mcm_menu_movement">
+		<text>Movimiento</text>
+	</string>
+	<string id="ui_mcm_menu_weapons">
+		<text>Armas</text>
+	</string>
+	<string id="ui_mcm_menu_inventory">
+		<text>Inventario</text>
+	</string>
+	<string id="ui_mcm_title_oleh_sounds_movement">
+		<text>Sonidos de movimiento</text>
+	</string>
+	<string id="ui_mcm_title_oleh_sounds_weapons">
+		<text>Sonidos de armas</text>
+	</string>
+	<string id="ui_mcm_title_oleh_sounds_inventory">
+		<text>Sonidos de inventario</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_player_disc">
+		<text>Los ajustes a continuación solo se aplican a los sonidos del jugador</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_movement_enabled_footstep_sounds">
+		<text>Activar sonidos de pasos</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_volume_footstep_sounds">
+		<text>Volumen de sonidos de pasos</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_enabled_gear_rustle_sounds">
+		<text>Activar sonidos de traqueteo de equipo</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_enabled_gear_rustle_sounds_desc">
+		<text>El volumen del traqueteo de equipo se ajusta al peso transportado</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_volume_gear_rustle_sounds">
+		<text>Volumen de sonidos de traqueteo de equipo</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_enabled_servo_sounds">
+		<text>Activar sonidos de exos</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_volume_servo_sounds">
+		<text>Volumen de sonidos de exos</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_movement_enabled_stance_sounds">
+		<text>Activar sonidos al agacharse</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_enabled_lookout_sounds">
+		<text>Activar sonidos al inclinarse</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_volume_stance_sounds">
+		<text>Volumen de sonidos al agacharse</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_volume_lookout_sounds">
+		<text>Volumen de sonidos al inclinarse</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_movement_enabled_jump_sounds">
+		<text>Activar sonidos al saltar</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_volume_jump_sounds">
+		<text>Volumen de sonidos al saltar</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_movement_crawl_sounds_dependency">
+		<text>Los sonidos a gatas requieren MCM / Inertia Expanded / Otros / Activar animación a gatas.</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_enabled_crawl_sounds">
+		<text>Activar sonidos a gatas</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_movement_volume_crawl_sounds">
+		<text>Volumen de sonidos a gatas</text>
+	</string>
+
+	
+
+	<string id="ui_mcm_menu_oleh_misc_sounds">
+		<text>Sonidos de inventario</text>
+	</string>
+	<string id="ui_mcm_title_oleh_misc_sounds">
+		<text>Sonidos de inventario GAMMA</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_inventory_enabled_inventory_pickup">
+		<text>Activar sonidos de objetos de inventario</text>
+	</string>
+		<string id="ui_mcm_oleh_sounds_inventory_enabled_inventory_pickup_desc">
+		<text>Efectos de sonido al recoger, soltar, reparar y mover objetos entre inventarios o casillas.</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_inventory_volume_inventory_pickup">
+		<text>Volumen de objetos de inventario</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_inventory_enabled_inventory_hover">
+		<text>Activar sonidos al pasar el cursor</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_inventory_enabled_inventory_hover_desc">
+		<text>Efectos de sonido al pasar el cursor del ratón por encima de los iconos de los objetos.</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_inventory_volume_inventory_hover">
+		<text>Volumen al pasar el cursor</text>
+	</string>
+
+
+
+	<string id="ui_mcm_menu_grok_casings_sounds">
+		<text>Sonidos de armas</text>
+	</string>
+	<string id="ui_mcm_title_grok_casings_sounds">
+		<text>Sonidos de armas GAMMA</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_weapons_volume_gunfire">
+		<text>Volumen de disparos del jugador</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_gunfire_desc">
+		<text>También afecta a algunas armas con silenciadores integrados.</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_gunfire_sil">
+		<text>Volumen de disparos del jugador (silenciados)</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_gunfire_npc">
+		<text>Volumen de disparos de PNJ</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_gunfire_npc_desc">
+		<text>También afecta a algunas armas con silenciadores integrados.</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_gunfire_sil_npc">
+		<text>Volumen de disparos de PNJ (silenciados)</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_weapons_enabled">
+		<text>Activar sonidos de casquillos cayendo</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_ubgl_enabled">
+		<text>Sonidos de casquillo de lanzagranadas acoplado</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume">
+		<text>Volumen de sonidos de casquillos cayendo</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_ice_patch">
+		<text>Parche de Screen Space Shaders Ice Version</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_ice_patch_desc">
+		<text>Parchea los sonidos de casquillos cayendo al disparar sobre hielo.</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_weapons_enabled_aim_rattle">
+		<text>Activar traqueteo al apuntar</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_enabled_lower_raise_rattle">
+		<text>Activar traqueteo al subir/bajar</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_aim_rattle">
+		<text>Volumen de traqueteo al apuntar</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_lower_raise_rattle">
+		<text>Volumen de traqueteo al subir/bajar</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_weapons_enabled_sprint_rattle">
+		<text>Activar traqueteo al esprintar</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_enabled_sprint_rattle_lowered">
+		<text>Activar traqueteo al esprintar con arma baja</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_enabled_sprint_rattle_lowered_desc">
+		<text>Suena el traqueteo aunque se baje el arma equipada.</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_sprint_rattle">
+		<text>Volumen de traqueteo al esprintar</text>
+	</string>
+
+	<string id="ui_mcm_oleh_sounds_weapons_enabled_reload_hint">
+		<text>Activar sonidos de poca munición</text>
+	</string>
+	<string id="ui_mcm_oleh_sounds_weapons_volume_reload_hint">
+		<text>Volumen de sonidos de poca munición</text>
+	</string>
+</string_table>

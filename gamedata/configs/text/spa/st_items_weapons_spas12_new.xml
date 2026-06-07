@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+	<string id="st_wpn_spas12_new">
+		<text>SPAS-12</text>
+	</string>
+	<string id="st_wpn_spas12_descr_new">
+		<text>Una escopeta de combate con modos de tiro de corredera y semiautomático diseñada para aplicaciones militares, policiales y tácticas. Su característica culata plegable y construcción robusta permiten adaptabilidad en el combate en espacios cerrados y operaciones de incursión. Conocida por su diseño agresivo y su versatilidad, se ha convertido en una de las escopetas más reconocibles de la cultura popular y la historia militar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Italia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Franchi
+		\n</text>
+	</string>
+
+</string_table>

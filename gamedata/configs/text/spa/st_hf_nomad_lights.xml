@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+    <string id="st_placeable_gas_lamp">
+		<text>Lámpara de gas</text>
+	</string>
+	<string id="st_placeable_gas_lamp_descr">
+		<text>Genera luz encendiendo una mecha empapada en queroseno.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]queroseno
+		\n</text>
+	</string>
+
+	<string id="st_placeable_metal_torch">
+		<text>Linterna de metal</text>
+	</string>
+	<string id="st_placeable_metal_torch_descr">
+		<text>Una linterna de mano de la época soviética. Este modelo concreto se puede construir sobre el terreno, aunque su utilidad se ve limitada por su estrecho cono de luz.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+
+	<string id="st_placeable_light_altar">
+		<text>Luz psíquica compacta</text>
+	</string>
+	<string id="st_placeable_light_altar_descr">
+		<text>Un objeto de origen y fin desconocidos. Originalmente, este extraño objeto emitía ondas psíquicas letales y fue la causa de la muerte de muchos stalkers desprevenidos que se adentraban en las zonas septentrionales. Este ejemplar fue modificado por Sájarov y, con la ayuda de un artefacto Luz de Luna, se convirtió en una fuente de luz ilimitada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]baterías Gauss
+		\n</text>
+	</string>
+	
+</string_table>

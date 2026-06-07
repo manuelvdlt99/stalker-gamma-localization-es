@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="encyclopedia_achievements">
+		<text>Logros</text>
+	</string>
+
+	<string id="encyclopedia_achievements_bookworm_food">
+		<text>RATÓN DE BIBLIOTECA</text>
+	</string>
+	<string id="encyclopedia_achievements_bookworm_food_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Desbloquea todos los artículos de la guía del juego.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Se sustituirán los pendrives por PDA raras.
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_completionist">
+		<text>COMPLETISTA</text>
+	</string>
+	<string id="encyclopedia_achievements_completionist_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Desbloquea todos los demás logros.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Ya has logrado todo lo que había que lograr.
+		\nHa sido un largo camino, pero has llegado triunfante al final.
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_down_to_earth">
+		<text>CON LOS PIES EN LA TIERRA</text>
+	</string>
+	<string id="encyclopedia_achievements_down_to_earth_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Destruye tres helicópteros con armas ligeras o uno con un explosivo.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Aparecerán helicópteros Mi-2 «Hoplite» en lugar de Mi-24 «Hind».
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_duga_free">
+		<text>DUGA LIBRE</text>
+	</string>
+	<string id="encyclopedia_achievements_duga_free_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Desactiva el Cauterizador Cerebral y la Máquina Milagrosa.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Es más probable que los stalkers crucen Yantar y el Radar, lo que puede aumentar su población en las zonas septentrionales.
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_geologist">
+		<text>GEÓLOGO</text>
+	</string>
+	<string id="encyclopedia_achievements_geologist_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Detecta un mínimo de 50 artefactos.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Tendrás más posibilidades de encontrar artefactos después de una emisión.
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_heavy_pockets">
+		<text>BOLSILLOS LLENOS</text>
+	</string>
+	<string id="encyclopedia_achievements_heavy_pockets_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Posee 10 000 000 RU.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Los comerciantes estarán más dispuestos a venderte equipo de mayor nivel, aunque no reúnas los requisitos de buena voluntad con su facción.
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_infopreneur">
+		<text>INFOEMPRENDEDOR</text>
+	</string>
+	<string id="encyclopedia_achievements_infopreneur_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Entrega 50 PDA a comerciantes de información.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Los comerciantes te pagarán un pequeño extra por cualquier PDA que les entregues.
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_mechanized_warfare">
+		<text>GUERRA MECANIZADA</text>
+	</string>
+	<string id="encyclopedia_achievements_mechanized_warfare_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Entrega los tres kits de herramientas a un solo técnico.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Los objetos de bonificación utilizados en reparaciones serán más efectivos.
+		\n</text>
+	</string>
+
+	<string id="encyclopedia_achievements_patriarch">
+		<text>HÉROE POPULAR</text>
+	</string>
+	<string id="encyclopedia_achievements_patriarch_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Alcanza el máximo rango posible.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Podrás reclutar grupos más grandes de seguidores para que hagan de compañeros.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_radiotherapy">
+		<text>RADIOTERAPIA</text>
+	</string>
+	<string id="encyclopedia_achievements_radiotherapy_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Sobrevive a 25 emisiones y tormentas psíquicas.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Cada vez que se inicie una tormenta psíquica o una emisión, existirá la posibilidad de que no tengas que ponerte a cubierto.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_rag_and_bone">
+		<text>ROPAVEJERO</text>
+	</string>
+	<string id="encyclopedia_achievements_rag_and_bone_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Saquea 100 alijos.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Encontrarás ocasionalmente un mayor botín al buscar en los alijos.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_silver_or_lead">
+		<text>PLATA O PLOMO</text>
+	</string>
+	<string id="encyclopedia_achievements_silver_or_lead_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Mata a 500 stalkers o consigue que 50 se rindan ante ti.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Los stalkers que se rindan podrían desvelar la ubicación de un segundo alijo.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_tourist">
+		<text>TURISTA</text>
+	</string>
+	<string id="encyclopedia_achievements_tourist_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Visita las 33 ubicaciones de la Zona.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Recibirás coordenadas de 3 alijos especiales.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_well_dressed">
+		<text>DE PUNTA EN BLANCO</text>
+	</string>
+	<string id="encyclopedia_achievements_well_dressed_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Mata a 500 mutantes o consigue 250 partes de mutantes.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Podrás desollar a los mutantes mucho más rápido de lo normal.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_wishful_thinking">
+		<text>HACERSE ILUSIONES</text>
+	</string>
+	<string id="encyclopedia_achievements_wishful_thinking_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Completa la trama «Leyenda viviente».
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Desbloquearás a los Renegados como facción jugable.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_infantile_pleasure">
+		<text>PLACER INFANTIL</text>
+	</string>
+	<string id="encyclopedia_achievements_infantile_pleasure_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Rompe 200 cajas.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Las cajas tendrán un 25 % de posibilidades de contener un mayor botín.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_recycler">
+		<text>RECICLADOR AVIZOR</text>
+	</string>
+	<string id="encyclopedia_achievements_recycler_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Desmonta 200 objetos.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]33 % de posibilidades de obtener una pieza extra al desmontar.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_artificer_eagerness">
+		<text>AFÁN ARTIFICIERO</text>
+	</string>
+	<string id="encyclopedia_achievements_artificer_eagerness_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Fabrica 50 objetos.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Muchas recetas de fabricacíon avanzadas necesitarán menos componentes.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_unforeseen_guest">
+		<text>INVITADO IMPREVISTO</text>
+	</string>
+	<string id="encyclopedia_achievements_unforeseen_guest_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Llega a un total de 5 horas disfrazado.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Tus acciones estando disfrazado llamarán menos la atención.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_absolver">
+		<text>ABSOLVEDOR</text>
+	</string>
+	<string id="encyclopedia_achievements_absolver_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Completa la trama «Pecado mortal».
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Desbloquearás al Pecado como facción jugable.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_collaborator">
+		<text>COLABORADOR</text>
+	</string>
+	<string id="encyclopedia_achievements_collaborator_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Completa la trama «Operación Resplandor».
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Desbloquearás al UNISG como facción jugable.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_iron_curtain">
+		<text>TELÓN DE ACERO</text>
+	</string>
+	<string id="encyclopedia_achievements_iron_curtain_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Captura la mitad de los territorios disponibles.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Bonificación de 50 000 RU.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_murky_spirit">
+		<text>ESPÍRITU TURBIO</text>
+	</string>
+	<string id="encyclopedia_achievements_murky_spirit_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Completa las tres tramas de «Perdido en la Zona» en modo Ironman.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Importante aumento de rango.
+		\n</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_invictus">
+		<text>INVICTUS</text>
+	</string>
+	<string id="encyclopedia_achievements_invictus_text">
+		<text>%c[pda_white] • Requisito(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Juega en modo Historia y completa las tres tramas de «Perdido en la Zona».
+		\n %c[d_cyan] • %c[ui_gray_2]El modo Ironman debe estar activado desde el día 1 en la Zona hasta que se terminen las tramas.
+		\n %c[d_cyan] • %c[ui_gray_2]Juega en las dificultades de progresión y juego más difíciles sin cambiar ningún ajuste.
+		\n %c[d_cyan] • %c[ui_gray_2]No mueras más de una vez.
+		\n %c[d_cyan] • %c[ui_gray_2]No uses el modo de depuración.
+		\n%c[pda_white] • Recompensa(s):
+		\n %c[d_cyan] • %c[ui_gray_2]Derecho de presumir.
+		\n</text>
+	</string>
+
+</string_table>

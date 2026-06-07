@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+    <string id="st_player_skills_hint_scavenging">
+		<text>Otorga mayores recompensas de los stalkers.\nSi está habilitado en el MCM de DotMarks, otorga una mayor distancia de visibilidad a la marca de interacción.
+		
+		\n \nLos niveles se obtienen saqueando a los stalkers; los stalkers de mayor rango dan más experiencia.
+		
+		\n \n</text>
+	</string>
+
+    <string id="st_skills_stats_dotmark_bonus_range">
+        <text>
+		\n%c[255,255,201,86]•%c[ui_6] Distancia adicional de marcas de interacción: %c[d_green]+$stat m</text>
+    </string>
+
+</string_table>

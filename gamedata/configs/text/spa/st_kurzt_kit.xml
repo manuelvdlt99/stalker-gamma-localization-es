@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="st_addon_kurtz_kit">
+		<text>Kit de mejora MP5K</text>
+	</string>
+	<string id="st_addon_kurtz_descr">
+		<text>Este kit incluye todas las piezas necesarias para convertir un MP5 en un MP5K. Las piezas incluidas son un nuevo cajón superior de mecanismos, guardamanos, cañón y sistema de gases. Se ha mejorado la cadencia de tiro y el tamaño compacto lo hace ideal para ocultarlo y llevarlo como arma de mano. Debido a la eliminación de la culata, el MP5K ya no puede usar miras eficazmente.</text>
+	</string>
+</string_table>

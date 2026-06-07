@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_addon_scope_sup_new">
+		<text>Paquete especial de mejora</text>
+	</string>
+	<string id="st_addon_scope_sup_new_descr">
+		<text>Un kit de mejoras que incluye diversas herramientas, piezas y miras para mejorar un amplio abanico de armas.</text>
+	</string>
+
+</string_table>

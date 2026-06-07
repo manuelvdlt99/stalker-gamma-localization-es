@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+    <string id="st_hf_holding_msg">
+		<text>$key_interact - Colocar objeto
+		\n$key_collision - Alternar detección de colisiones
+		\n$key_align - Alternar alineación de superficies
+		\n$key_mode - Cambiar a modo avanzado
+		\nESCAPE - Cancelar colocación</text>
+	</string>
+
+    <string id="st_hf_advanced_msg">
+		<text>$key_interact - Colocar objeto
+		\nTransformaciones:
+		\nRATÓN 1 - Mover en plano horizontal
+		\nRATÓN 2 - Rotar sobre eje vertical
+		\nMAYÚS IZQ. + RATÓN 1 - Mover en plano vertical
+		\nModificadores:
+		\nALT IZQ. - Pegar
+		\nCTRL IZQ. - Refinar
+		\n$key_mode - Cambiar a modo de previsualización
+		\nESCAPE - Cambiar a modo normal</text>
+	</string>
+
+    <string id="st_hf_preview_msg">
+		<text>$key_interact - Colocar objeto
+		\nESCAPE - Cancelar colocación
+		\n$key_mode - Cambiar a modo avanzado</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+	<string id="st_wpn_steppe_eagle">
+		<text>Desert Eagle «Águila de Estepa»</text>
+	</string>
+	<string id="st_wpn_steppe_eagle_descr">
+		<text>Una pistola semiautomática accionada por gas conocida por disparar el cartucho de percusión central más grande de cualquier pistola semiautomática con cargador. Utiliza un mecanismo de expulsión/carga accionado por gas que normalmente solo se ve en fusiles, lo que le permite disparar cartuchos mucho más potentes que diseños de pistolas semiautomáticas tradicionales. Esto permite a la Desert Eagle Competir en un sector que antes estaba dominado por los revólveres Magnum. La «Águila de Estepa» incluye un compensador integrado para reducir drásticamente el retroceso y un riel Picatinny completamente rediseñado para su uso con un amplio abanico de miras y visores. Al parecer, la trajo a la zona un stalker, cuyo destino se desconoce, disfrazado de fotoperiodista que logró llegar hasta el centro de Prípiat él solo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos, Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n</text>
+	</string>
+
+
+	<string id="st_wpn_deagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="st_wpn_deagle_descr">
+		<text>Una pistola semiautomática accionada por gas conocida por disparar el cartucho de percusión central más grande de cualquier pistola semiautomática con cargador. Utiliza un mecanismo de expulsión/carga accionado por gas que normalmente solo se ve en fusiles, lo que le permite disparar cartuchos mucho más potentes que diseños de pistolas semiautomáticas tradicionales. Esto permite a la Desert Eagle Competir en un sector que antes estaba dominado por los revólveres Magnum.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos, Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n</text>
+	</string>
+
+</string_table>

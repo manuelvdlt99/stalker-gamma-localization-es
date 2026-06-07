@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+<string id="st_wpn_steyr_scout">
+		<text>Steyr Scout 5,56</text>
+	</string>
+	<string id="st_wpn_steyr_scout_descr">
+		<text>Desarrollado en colaboración con la leyenda estadounidense, el teniente coronel del Cuerpo de Marines Jeff Cooper, el Scout combina un diseño vanguardista con soluciones técnicas innovadoras. Versátil, ligero y preciso hasta 800 metros, representa la máxima expresión de la excelencia en la fabricación de fusiles. Este modelo dispara el cartucho 5,56 x 45 mm.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Mannlicher
+		\n</text>
+	</string>
+
+<string id="st_wpn_steyr_scout_big">
+		<text>Steyr Scout 7,62</text>
+	</string>
+	<string id="st_wpn_steyr_scout_big_descr">
+		<text>Desarrollado en colaboración con la leyenda estadounidense, el teniente coronel del Cuerpo de Marines Jeff Cooper, el Scout combina un diseño vanguardista con soluciones técnicas innovadoras. Versátil, ligero y preciso hasta 800 metros, representa la máxima expresión de la excelencia en la fabricación de fusiles. Este modelo dispara el cartucho 7,62 x 51 mm.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Mannlicher
+		\n</text>
+	</string>
+
+<string id="st_mag_steyr_556">
+		<text>Cargador de 5,56 x 45 mm de Steyr Scout</text>
+	</string>
+	<string id="st_mag_steyr_556_descr">
+		<text>Cargador estándar para el fusil Steyr Scout en 5,56 mm.</text>
+	</string>	
+
+<string id="st_mag_steyr_762">
+		<text>Cargador de 7,62 x 51 mm de Steyr Scout</text>
+	</string>
+	<string id="st_mag_steyr_762_descr">
+		<text>Cargador estándar para el fusil Steyr Scout en 7,62 mm.</text>
+	</string>
+
+</string_table>

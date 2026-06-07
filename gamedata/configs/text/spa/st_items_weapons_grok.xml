@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	
+	<string id="st_wpn_raptr">
+		<text>RAPTR</text>
+	</string>
+	<string id="st_wpn_raptr_descr">
+		<text>Una escopeta automática con cargador, diseñada y adaptada a las necesidades específicas de la Zona. Su alta cadencia de tiro, su gran cargador y su ergonomía inigualable le han valido el apodo de «matachupasangres». Es considerada una de las mejoras armas de 12 x 70 mm disponibles en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]desconocido
+		\n</text>
+	</string>
+	<string id="mag_raptr">
+		<text>Cargador de tambor de RAPTR</text>
+	</string>
+	<string id="mag_raptr_descr">
+		<text>Cargador de tambor de 12 cartuchos de RAPTR.</text>
+	</string>
+	
+</string_table>

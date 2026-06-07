@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_addon_scope_las_upgrade">
+		<text>Kit de mira láser</text>
+	</string>
+
+	<string id="st_addon_scope_las_upgrade_descr">
+		<text>Un kit que contiene una mira láser para el arma para la que está pensada.
+		\n</text>
+</string>
+
+	<string id="st_wpn_colt1911_n">
+		<text>Colt M1911A1</text>
+	</string>
+	<string id="st_wpn_colt1911_n_descr">
+		<text>Comúnmente conocida simplemente como la «1911», la M1911 es una de las pistolas más famosas del planeta. Se utilizó como arma reglamentaria del Ejército de los Estados Unidos durante las dos guerras mundiales y, a pesar de haber sido reemplazada en 1986, sus variantes posteriores todavía se utilizan como arma de mano por diferentes unidades de las fuerzas especiales de los Estados Unidos. La M1911A1 es la segunda generación de la pistola M1911 original. Tras la Primera Guerra Mundial, la Modelo 1911 del Ejército experimentó diversos cambios, como un gatillo más corto con muecas en el armazón, miras de hierro mejoradas, un alojamiento del muelle real arqueado y un seguro del pistolete rediseñado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+
+	<string id="st_wpn_colt1911_anarchy">
+		<text>Colt M1911A1 «Anarquía»</text>
+	</string>
+	<string id="st_wpn_colt1911_anarchy_descr">
+		<text>Comúnmente conocida simplemente como la «1911», la M1911 es una de las pistolas más famosas del planeta. Se utilizó como arma reglamentaria del Ejército de los Estados Unidos durante las dos guerras mundiales y, a pesar de haber sido reemplazada en 1986, sus variantes posteriores todavía se utilizan como arma de mano por diferentes unidades de las fuerzas especiales de los Estados Unidos. La M1911A1 es la segunda generación de la pistola M1911 original. Tras la Primera Guerra Mundial, la Modelo 1911 del Ejército experimentó diversos cambios, como un gatillo más corto con muecas en el armazón, miras de hierro mejoradas, un alojamiento del muelle real arqueado y un seguro del pistolete rediseñado. Una versión personalizada del arma con muchos ajustes y mejoras, una de las cuales es un modo de tiro automático.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+
+	<string id="st_wpn_m45a1">
+		<text>Colt M45A1</text>
+	</string>
+
+	<string id="st_wpn_m45a1_descr">
+		<text>La pistola MEU(SOC) (Marine Expeditionary Unit - Special Operations Capable), oficialmente designada M45 MEUSOC, es una pistola semiautomática, con cargador extraíble, accionada por retroceso y de acción simple que dispara el cartucho .45 ACP. Es una variante de la M1911 y ha sido el arma de mano reglamentaria de los elementos de la Fuerza de Reconocimiento de las Unidades Expedicionarias de Marines del Cuerpo de Marines de los Estados Unidos desde 1985.\nEsta 1911 mejorada cuenta con varios cambios en el diseño original de la M1911A1. Una característica es el sistema de doble muelle recuperador, que distribuye el retroceso del cartucho .45 ACP reduciendo la fuerza máxima del impulso del retroceso. También tiene miras nocturnas de tritio, un cañón de competición de 127 mm, un seguro ambidiestro, un riel Picatinny y un acabado en Cerakote color canela.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+</string>
+
+	<string id="st_wpn_1911_nsc">
+		<text>Colt 1911 Nightsword Custom</text>
+	</string>
+
+	<string id="st_wpn_1911_nsc_descr">
+		<text>La pistola Colt 1911 Nightsword Custom (NSC), un ejemplar de armamento de alta tecnología, raro y valioso que cuenta con un sistema de alimentación mejorado y una precisión excepcional. Este modelo único es ideal para stalkers experimentados que buscan la eficiencia máxima en combate. Las miras personalizadas permiten apuntar con precisión aun en condiciones de poca luz o baja visibilidad. El arma cuenta con un modo de ráfagas de tres disparos, lo que aumenta considerablemente la potencia de fuego. Con una capacidad del cargador ampliada de 15 balas, la pistola ofrece tiro sostenido sin recargar frecuentemente. Esta pistola es un arma fiable y potente idónea para cualquier situación de peligro en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+</string>
+
+	<string id="st_wpn_lar_grizzly">
+		<text>LAR Grizzly Win Mag</text>
+	</string>
+
+	<string id="st_wpn_lar_grizzly_descr">
+		<text>La LAR Grizzly Win Mag (Mark I), una pistola semiautomática poderosa y fiable desarrollada en EE. UU. Cuenta con un armazón de metal reforzado y usa cartuchos de .357 Magnum. Equipada con un cargador extraíble de 7 balas. Gracias a su potencia y precisión, es excelente para lidiar con mutantes y enemigos en zonas de peligro. Duradera, fácil de mantener y capaz de convertirse en un arma indispensable en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]LAR Manufacturing
+		\n</text>
+</string>
+
+	<string id="st_wpn_rapide">
+		<text>Kimber Rapide</text>
+	</string>
+
+	<string id="st_wpn_rapide_descr">
+		<text>La Kimber Rapide es una pistola semiautomática de gran calidad basada en el modelo clásico 1911. Cuenta con un diseño moderno, una ergonomía mejorada y una gran precisión. Está dotada de un armazón de acero, un cañón estriado y un sistema de retroceso que garantiza un funcionamiento fluido y fiable. El arma dispara el cartucho .45 ACP y viene con un cargador extraíble de 8 balas. Esta versión de la pistola es idónea para luchar contra mutantes y stalkers ligeramente blindados. Rara vez se ve en la Zona, lo que la convierte en un arma valiosa.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Kimber America
+		\n</text>
+	</string>
+
+	<string id="st_wpn_tt33_custom">
+		<text>TT-33</text>
+	</string>
+
+	<string id="st_wpn_tt33_custom_descr">
+		<text>Una pistola legendaria que ha presenciado numerosos conflictos militares a lo largo de los años y sigue en servicio en ciertas regiones del mundo de una forma u otra. Esta es una TT-33 clásica, la versión más producida. Incorpora un sistema de cañón basculante de retroceso corto de Browning, pero aparte de eso, el diseño de construcción es singular: es deliberadamente sencilla, de acción simple y no tiene medidas de seguridad salvo una muesca de medio amartillado, lo que le permite soportar un uso intensivo y severo. Gracias al poderoso cartucho de 7,62 x 25 mm y su cañón relativamente largo, la TT presume de una gran velocidad de salida, penetración y una precisión impresionante, incluso a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n</text>
+	</string>
+
+	<string id="st_wpn_tt33_custom_las">
+		<text>TT-33</text>
+	</string>
+
+	<string id="st_wpn_tt33_custom_las_descr">
+		<text>Una pistola legendaria que ha presenciado numerosos conflictos militares a lo largo de los años y sigue en servicio en ciertas regiones del mundo de una forma u otra. Esta es una TT-33 clásica, la versión más producida. Incorpora un sistema de cañón basculante de retroceso corto de Browning, pero aparte de eso, el diseño de construcción es singular: es deliberadamente sencilla, de acción simple y no tiene medidas de seguridad salvo una muesca de medio amartillado, lo que le permite soportar un uso intensivo y severo. Gracias al poderoso cartucho de 7,62 x 25 mm y su cañón relativamente largo, la TT presume de una gran velocidad de salida, penetración y una precisión impresionante, incluso a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n</text>
+	</string>
+
+	<string id="st_wpn_tt33_custom_upgr">
+		<text>TT-33 de Mangun</text>
+	</string>
+
+	<string id="st_wpn_tt33_custom_upgr_descr">
+		<text>Una pistola legendaria que ha presenciado numerosos conflictos militares a lo largo de los años y sigue en servicio en ciertas regiones del mundo de una forma u otra. Esta es una TT-33 clásica, la versión más producida. Incorpora un sistema de cañón basculante de retroceso corto de Browning, pero aparte de eso, el diseño de construcción es singular: es deliberadamente sencilla, de acción simple y no tiene medidas de seguridad salvo una muesca de medio amartillado, lo que le permite soportar un uso intensivo y severo. Gracias al poderoso cartucho de 7,62 x 25 mm y su cañón relativamente largo, la TT presume de una gran velocidad de salida, penetración y una precisión impresionante, incluso a larga distancia. Una versión personalizada de la pistola TT-33 fabricada por el técnico de la facción Deber, el sargento Potryko (alias Mangun). Cuenta con varias mejoras, como una mayor cadencia de tiro, un cañón roscado personalizado para acoplar silenciadores y una ergonomía mejorada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n</text>
+	</string>
+
+	<string id="st_addon_scope_tt_upgr_kit">
+		<text>Kit táctico de mejora de TT-33</text>
+	</string>
+
+	<string id="st_addon_scope_tt_upgr_kit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] TT-33
+		
+		\n \n%c[ui_gray_1]Kit táctico de mejora para la TT-33. Incluye modificaciones como un cañón alargado, miras de hierro extendidas con miras de tritio, un nuevo cargador de 13 balas y un pistolete de madera personalizado con mira láser.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Silenciador personalizado para 7,62 x 25 mm
+		\n %c[d_cyan] • %c[ui_gray_2] Pistolete de madera personalizado con mira láser
+		\n %c[d_cyan] • %c[ui_gray_2] Cargador ampliado (13 balas)
+		\n %c[d_cyan] • %c[ui_gray_2] Cañón alargado
+		\n %c[d_cyan] • %c[ui_gray_2] Miras de hierro extendidas con miras de tritio 
+		\n</text>
+	</string>
+
+<string id="st_wpn_pm_new">
+    <text>Makárov PM</text>
+</string>
+
+<string id="st_wpn_pm_new_descr">
+    <text>La pistola PM (Pistolet Makárova, «pistola de Makárov», índice GRAU 56-A-125), de eficacia probada a lo largo del tiempo. Debido a su precio asequible y la amplia disponibilidad tanto de la pistola como de la munición, junto con su excepcional fiabilidad, ligereza y tamaño compacto, la suelen usar los stalkers en los territorios del sur de la Zona. El único inconveniente es el pésimo poder de parada de la pistola. Este modelo cuenta con un cañón alargado y roscado para acoplar un silenciador.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+</string>
+
+<string id="st_wpn_pm_las">
+    <text>Makárov PM</text>
+</string>
+
+<string id="st_wpn_pm_las_descr">
+    <text>La pistola PM (Pistolet Makárova, «pistola de Makárov», índice GRAU 56-A-125), de eficacia probada a lo largo del tiempo. Debido a su precio asequible y la amplia disponibilidad tanto de la pistola como de la munición, junto con su excepcional fiabilidad, ligereza y tamaño compacto, la suelen usar los stalkers en los territorios del sur de la Zona. El único inconveniente es el pésimo poder de parada de la pistola. Este modelo cuenta con un cañón alargado y roscado para acoplar un silenciador.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+</string>
+
+<string id="st_wpn_pm_upgr">
+    <text>Makárov PM mejorada</text>
+</string>
+
+<string id="st_wpn_pm_upgr_descr">
+    <text>La pistola PM (Pistolet Makárova, «pistola de Makárov», índice GRAU 56-A-125), de eficacia probada a lo largo del tiempo. Debido a su precio asequible y la amplia disponibilidad tanto de la pistola como de la munición, junto con su excepcional fiabilidad, ligereza y tamaño compacto, la suelen usar los stalkers en los territorios del sur de la Zona. El único inconveniente es el pésimo poder de parada de la pistola. Este modelo cuenta con un cañón alargado y roscado para acoplar un silenciador.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+</string>
+
+	<string id="st_addon_scope_pm_upgr_kit">
+		<text>Kit de mejora de Makárov PM</text>
+	</string>
+
+<string id="st_addon_scope_pm_upgr_kit_descr">
+    <text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] Makárov PM
+		
+		\n \n%c[ui_gray_1]Kit táctico de mejora para la pistola Makárov PM de 9 x 18 mm. Incluye modificaciones para mejorar la ergonomía y una mira de punto rojo mini Zaria Z-1x20.
+	
+	\n \nINCLUYE:
+	\n %c[d_cyan] • %c[ui_gray_2] Mira de punto rojo mini Zaria Z-1x20
+	\n %c[d_cyan] • %c[ui_gray_2] Pistolete Zaria en color oliva
+	\n %c[d_cyan] • %c[ui_gray_2] Cargador ampliado (10 balas)
+	\n</text>
+</string>
+
+<string id="st_wpn_pb_new">
+    <text>PB</text>
+</string>
+
+<string id="st_wpn_pb_new_descr">
+    <text>La pistola silenciada PB (Pistolet Besshumnyi, «pistola silenciada», índice GRAU 6P9) se diseñó con un silenciador de dos partes: el silenciador principal y una sección integrada en el cañón. Esto permite operar el arma sin problemas incluso sin el silenciador principal, aunque de esta forma no se reduce el ruido ni el fogonazo. Estaba pensada para los grupos de reconocimiento del Ejército y el personal del KGB de la URSS, y entró en servicio en 1967. Sigue en servicio en unidades especiales del FSB y las tropas del Ministerio del Interior de Rusia. No es tan popular como la pistola Makárov, pero también la suelen usar los stalkers, ya que comparte las mismas ventajas que la PM.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+</string>
+
+<string id="st_wpn_pb_upgr">
+    <text>PB mejorada</text>
+</string>
+
+<string id="st_wpn_pb_upgr_descr">
+    <text>La pistola silenciada PB (Pistolet Besshumnyi, «pistola silenciada», índice GRAU 6P9) se diseñó con un silenciador de dos partes: el silenciador principal y una sección integrada en el cañón. Esto permite operar el arma sin problemas incluso sin el silenciador principal, aunque de esta forma no se reduce el ruido ni el fogonazo. Estaba pensada para los grupos de reconocimiento del Ejército y el personal del KGB de la URSS, y entró en servicio en 1967. Sigue en servicio en unidades especiales del FSB y las tropas del Ministerio del Interior de Rusia. No es tan popular como la pistola Makárov, pero también la suelen usar los stalkers, ya que comparte las mismas ventajas que la PM.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+</string>
+
+<string id="st_addon_scope_pb_upgr_kit">
+    <text>Kit de mejora de PB</text>
+</string>
+
+<string id="st_addon_scope_pb_upgr_kit_descr">
+    <text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] PB
+		
+		\n \n%c[ui_gray_1]Kit táctico de mejora para la pistola silenciada PB de 9 x 18 mm. Incluye mejoras para una ergonomía optimizada, láser incorporado, riel Picatinny y mira colimadora Aimpoint Micro T-1.
+	
+	\n \nINCLUYE:
+	\n %c[d_cyan] • %c[ui_gray_2] Mira láser con montura personalizada
+	\n %c[d_cyan] • %c[ui_gray_2] Mira de punto rojo mini Zaria Z-1x20
+	\n %c[d_cyan] • %c[ui_gray_2] Cargador ampliado (10 balas)
+	\n</text>
+</string>
+
+	<string id="st_wpn_oc33_new">
+		<text>OTs-33 Pernach</text>
+	</string>
+
+	<string id="st_wpn_oc33_new_descr">
+		<text>Desarrollada para reemplazar a la pistola Stechkin APS en unidades militares especiales, la OTs-33 Pernach es una pistola capaz de disparar en modo semiautomático y automático. La Pernach se diseñó expresamente para solucionar los problemas de control del retroceso en modo automático inherentes a la Stechkin APS, así como para simplificar su uso en condiciones de combate. Es más barata de producir, más cómoda de manejar y cuenta con una gestión del retroceso mejorada. Este modelo es una versión modernizada encargada por stalkers militares en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n</text>
+</string>
+
+	<string id="st_wpn_oc33_las">
+		<text>OTs-33 Pernach</text>
+	</string>
+
+	<string id="st_wpn_oc33_las_descr">
+		<text>Desarrollada para reemplazar a la pistola Stechkin APS en unidades militares especiales, la OTs-33 Pernach es una pistola capaz de disparar en modo semiautomático y automático. La Pernach se diseñó expresamente para solucionar los problemas de control del retroceso en modo automático inherentes a la Stechkin APS, así como para simplificar su uso en condiciones de combate. Es más barata de producir, más cómoda de manejar y cuenta con una gestión del retroceso mejorada. Este modelo es una versión modernizada encargada por stalkers militares en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n</text>
+</string>
+
+<string id="st_wpn_usp_tac45">
+    <text>USP Tactical</text>
+</string>
+
+<string id="st_wpn_usp_tac45_descr">
+    <text>La pistola HK USP (Universelle Selbstladepistole, «pistola universal de autocarga» en español) es un nuevo modelo que sustituye a las pistolas de la serie HK P7 fabricadas por Heckler &amp; Koch. Reconocida internacionalmente como una pistola precisa y de gran fiabilidad. Gracias a su mecanismo tipo Browning modificado y a un sistema patentado de reducción de retroceso, la USP reduce los efectos del retroceso en los componentes de la pistola y también disminuye la fuerza de retroceso que siente el tirador. Esta variante en particular utiliza munición de .45 ACP y está equipada con un cargador extraíble de 12 balas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+</string>
+
+<string id="st_wpn_rsh12_shorty">
+    <text>RSh-12 Shorty</text>
+</string>
+
+	<string id="st_wpn_rsh12_shorty_descr">
+		<text>El potente revólver RSh-12 (Revólver Shturmovói 12, «revólver de asalto 12»), fabricado por la Oficina de Diseño de Instrumentos KBP, está diseñado para su uso por fuerzas especiales. A pesar de su potente calibre 12,7 x 55 mm, esta es una versión acortada y más compacta del revólver, con menor peso, pero que, como consecuencia, aumenta su retroceso. Esta modificación también cuenta con un cañón roscado para acoplar un silenciador táctico de 12,7 mm.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n</text>
+</string>
+
+<string id="st_addon_scope_m9_upgr_kit">
+    <text>Kit táctico de mejora de Beretta M9A3</text>
+</string>
+
+<string id="st_addon_scope_m9_upgr_kit_descr">
+    <text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] Beretta M9A3
+		
+		\n \n%c[ui_gray_1]Kit táctico de mejora para la pistola Beretta M9A3. Incluye una linterna táctica SureFire XC1 con mira láser, riel táctico y mira colimadora Deltapoint.
+	
+	\n \nINCLUYE:
+	\n %c[d_cyan] • %c[ui_gray_2] Riel táctico
+	\n %c[d_cyan] • %c[ui_gray_2] Mira de punto rojo Deltapoint
+	\n %c[d_cyan] • %c[ui_gray_2] Linterna táctica SureFire XC1 con láser
+	\n %c[d_cyan] • %c[ui_gray_2] Guardapolvos térmico para el silenciador
+	\n</text>
+</string>
+
+<string id="st_wpn_beretta_new">
+    <text>Beretta M9A3</text>
+</string>
+
+<string id="st_wpn_beretta_new_descr">
+    <text>La Beretta M9A3 es una pistola semiautomática moderna desarrollada por la empresa italiana Beretta. Está basada en el popular modelo M9, pero con una serie de modificaciones. Entre sus características destacan una ergonomía mejorada con una nueva empuñadura, un cargador de 17 balas y un sistema de seguridad optimizado. La pistola es apta para uso militar y policial gracias a su fiabilidad y precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Italia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Beretta
+		\n</text>
+</string>
+
+<string id="st_wpn_pl15_new">
+    <text>Lébedev PL-15</text>
+</string>
+
+<string id="st_wpn_pl15_new_descr">
+    <text>Una pistola rusa semiautomática con recámara para cartuchos de 9 x 19 mm, desarrollada por un equipo de diseñadores de la Corporación Kaláshnikov bajo el liderazgo de Dimitri Lébedev para las necesidades de las fuerzas del orden rusas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Corporación Kaláshnikov
+		\n</text>
+</string>
+
+<string id="st_wpn_pl15_las">
+    <text>Lébedev PL-15</text>
+</string>
+
+<string id="st_wpn_pl15_las_descr">
+    <text>Una pistola rusa semiautomática con recámara para cartuchos de 9 x 19 mm, desarrollada por un equipo de diseñadores de la Corporación Kaláshnikov bajo el liderazgo de Dimitri Lébedev para las necesidades de las fuerzas del orden rusas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Corporación Kaláshnikov
+		\n</text>
+</string>
+
+<string id="st_wpn_pl15_upgr">
+    <text>Lébedev PL-15 mejorada</text>
+</string>
+
+<string id="st_wpn_pl15_upgr_descr">
+    <text>Una pistola rusa semiautomática con recámara para cartuchos de 9 x 19 mm, desarrollada por un equipo de diseñadores de la Corporación Kaláshnikov bajo el liderazgo de Dimitri Lébedev para las necesidades de las fuerzas del orden rusas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Corporación Kaláshnikov
+		\n</text>
+</string>
+
+<string id="st_addon_scope_pl15_scolaz_new">
+    <text>Kit de mejora de Lébedev PL-15</text>
+</string>
+
+<string id="st_addon_scope_pl15_scolaz_new_descr">
+    <text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] Lébedev PL-15
+		
+		\n \n%c[ui_gray_1]Kit táctico de mejora para la pistola Lébedev PL-15 de 9 x 19 mm. Incluye una linterna táctica SureFire X400 Ultra con mira láser, una mira de punto rojo mini Zaria Z-1x20 y aislamiento térmico para el silenciador.
+	
+	\n \nINCLUYE:
+	\n %c[d_cyan] • %c[ui_gray_2] Cañón roscado de 112 mm
+	\n %c[d_cyan] • %c[ui_gray_2] Silenciador modular SP-9
+	\n %c[d_cyan] • %c[ui_gray_2] Mira de punto rojo mini Zaria Z-1x20
+	\n %c[d_cyan] • %c[ui_gray_2] Aislamiento térmico para el silenciador
+	\n %c[d_cyan] • %c[ui_gray_2] Linterna táctica SureFire X400 Ultra con láser
+	\n</text>
+</string>
+
+<string id="st_wpn_sr1mp_new">
+    <text>SR-1MP Guiurza</text>
+</string>
+
+<string id="st_wpn_sr1mp_new_descr">
+    <text>La pistola SR-1MP (índice GRAU: 6P53), también conocida como &quot;Guiurza&quot; («víbora») o SPS (Samozariadnyi Pistolet Serdiukova, «pistola semiautomática de Serdiukov»), fue diseñada por P. Serdiukov e I. Beliáyev con el potente cartucho de 9 x 21 mm para reemplazar a la pistola ametralladora APS utilizada por las fuerzas especiales de la Federación Rusa. Este modelo puede equiparse con un juego de monturas para acoplar equipo adicional, además de servir como base para la instalación de un silenciador. \n \nINCLUYE:  \n \n</text>
+</string>
+
+<string id="st_wpn_sr1mp_las">
+    <text>SR-1MP Guiurza</text>
+</string>
+
+<string id="st_wpn_sr1mp_las_descr">
+    <text>La pistola SR-1MP (índice GRAU: 6P53), también conocida como &quot;Guiurza&quot; («víbora») o SPS (Samozariadnyi Pistolet Serdiukova, «pistola semiautomática de Serdiukov»), fue diseñada por P. Serdiukov e I. Beliáyev con el potente cartucho de 9 x 21 mm para reemplazar a la pistola ametralladora APS utilizada por las fuerzas especiales de la Federación Rusa. Este modelo puede equiparse con un juego de monturas para acoplar equipo adicional, además de servir como base para la instalación de un silenciador.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsNIITochMash
+		\n</text>
+</string>
+
+<string id="st_wpn_sr1mp_upgr">
+    <text>SR-1MP Guiurza mejorada</text>
+</string>
+
+<string id="st_wpn_sr1mp_upgr_descr">
+    <text>La pistola SR-1MP (índice GRAU: 6P53), también conocida como &quot;Guiurza&quot; («víbora») o SPS (Samozariadnyi Pistolet Serdiukova, «pistola semiautomática de Serdiukov»), fue diseñada por P. Serdiukov e I. Beliáyev con el potente cartucho de 9 x 21 mm para reemplazar a la pistola ametralladora APS utilizada por las fuerzas especiales de la Federación Rusa. Este modelo puede equiparse con un juego de monturas para acoplar equipo adicional, además de servir como base para la instalación de un silenciador.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsNIITochMash
+		\n</text>
+</string>
+
+<string id="st_addon_scope_sr1upgr1_new">
+    <text>Kit de mejora de SR-1MP Guiurza</text>
+</string>
+
+<string id="st_addon_scope_sr1upgr1_new_descr">
+    <text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] SR-1MP Guiurza
+		
+		\n \n%c[ui_gray_1]Kit táctico de mejora para la pistola SR-1MP Guiurza de 9 x 21 mm. Incluye un silenciador de 9 x 21 mm con montura, un riel único y una mira láser Zaria.
+	
+	\n \nINCLUYE:
+	\n %c[d_cyan] • %c[ui_gray_2] Riel único
+	\n %c[d_cyan] • %c[ui_gray_2] Silenciador de 9 x 21 mm con montura
+	\n %c[d_cyan] • %c[ui_gray_2] Mira láser Zaria
+	\n</text>
+</string>
+
+<string id="st_addon_scope_gurza_up_new">
+    <text>Kit avanzado de mejora de SR-1MP Guiurza</text>
+</string>
+
+<string id="st_addon_scope_gurza_up_new_descr">
+    <text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] SR-1MP Guiurza
+		
+		\n \n%c[ui_gray_1]Kit táctico de mejora para la pistola SR-1MP Guiurza de 9 x 21 mm. Incluye un silenciador de 9 x 21 mm con montura, un riel único, aislamiento térmico para el silenciador, una mira de punto rojo mini Zaria Z-1x20 y una mira láser.
+	
+	\n \nINCLUYE:
+	\n %c[d_cyan] • %c[ui_gray_2] Riel único
+	\n %c[d_cyan] • %c[ui_gray_2] Silenciador de 9 x 21 mm con montura
+	\n %c[d_cyan] • %c[ui_gray_2] Mira de punto rojo mini Zaria Z-1x20
+	\n %c[d_cyan] • %c[ui_gray_2] Aislamiento térmico para el silenciador
+	\n %c[d_cyan] • %c[ui_gray_2] Mira láser Zaria
+	\n</text>
+</string>
+
+</string_table>

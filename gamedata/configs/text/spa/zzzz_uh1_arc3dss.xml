@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="st_addon_scope_razor">
+		<text>AMG UH-1 Gen. II</text>
+	</string>
+	<string id="st_addon_scope_razor_descr">
+		<text>Una mira holográfica robusta de 1x aumento con una retícula EBR-CQB rápida, modo de visión nocturna y una gran ventana de visualización para una rápida localización de objetivos. Su diseño duradero y resistente al empañamiento, junto con sus controles intuitivos, garantizan un funcionamiento impecable en cualquier condición de iluminación, con un ajuste brillante para la luz del día y un modo tenue compatible con gafas de visión nocturna para condiciones de poca luz.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Vortex Optics
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n %c[d_cyan] • %c[ui_gray_2] Cambio de retícula: %c[ui_gray_1]pulsa la tecla de cambiar retícula (por defecto, =)
+		\n</text>
+	</string>
+</string_table>

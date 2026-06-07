@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="st_addon_scope">
+		<text>PSO-1</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>Una mira telescópica soviética de 4x aumentos diseñada para fusiles de tirador designado, con retícula telemétrica iluminada y compensación de caída de bala para disparos de precisión a larga distancia. Se acopla habitualmente a los fusiles SVD y sigue siendo un visor elemental del bloque del Este.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n%c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica de Instrumentos Ópticos NPZ
+		\n%c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>1P29 Tiulpán</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>Una robusta mira de 4x aumentos utilizada por las fuerzas rusas, conocida por su diseño prismático y construcción ligera. Cuenta con una retícula telemétrica e iluminación para condiciones de poca luz.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>ACOG TA47</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>Una mira Trijicon robusta de 2,8x aumentos diseñada para la rápida localización de objetivos en enfrentamientos a media distancia. Cuenta con iluminación de fibra óptica y tritio para una visibilidad óptima en cualquier condición lumínica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Trijicon
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2,8x
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>Una variante avanzada de la PSO-1M con revestimientos de lente mejorados y una mayor resistencia a las inclemencias medioambientales. Conserva el diseño de retícula clásico para disparos precisos a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n		
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_specterDR">
+		<text>ELCAN SpecterDR</text>
+	</string>
+	<string id="st_addon_scope_specterDR_descr">
+		<text>Un visor de combate dual capaz de cambiar entre 1x y 4x aumentos, ofreciendo versatilidad para enfrentamientos tanto en espacios cerrados como a larga distancia. Cuenta con una óptica de gran calidad y un diseño duradero para aplicaciones militares.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Canadá
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Raytheon ELCAN
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 4,0x
+		\n	
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso2">
+		<text>PSO-1M</text>
+	</string>
+	<string id="st_addon_scope_pso2_descr">
+		<text>Una versión modernizada de la clásica mira soviética PSO-1, que cuenta con una óptica mejorada y una retícula más refinada para el tiro de precisión. Conserva el icónico compensador de caída de bala para enfrentamientos efectivos a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+		
+	<string id="st_addon_scope_1p59">
+		<text>1P59 Guiperon</text>
+	</string>
+	<string id="st_addon_scope_1p59_descr">
+		<text>Un visor óptico ruso de alta potencia diseñada para tiradores designados que ofrece capacidades avanzadas de calibrado. Cuenta con una retícula iluminada y está diseñado para un uso militar intensivo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]varios
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 8,0x
+		\n	
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_1pn93">
+		<text>1PN93-4</text>
+	</string>
+	<string id="st_addon_scope_1pn93_descr">
+		<text>Una mira de visión nocturna optimizada para condiciones de combate de poca luz y nocturno. Ofrece una visibilidad mejorada en la oscuridad gracias a su resistente carcasa de grado militar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]3,7x
+		\n	
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_leupold">
+		<text>Leupold Mark 8</text>
+	</string>
+	<string id="st_addon_scope_leupold_descr">
+		<text>Una mira de largo alcance de primera con aumentos variables, una óptica en alta definición y una retícula del primer plano focal. Está diseñada para el tiro de precisión en ambientes militares y competitivos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Leupold
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 8,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_pn23">
+		<text>PN23</text>
+	</string>
+	<string id="st_addon_scope_pn23_descr">
+		<text>Una mira de visión nocturna rusa optimizada para enfrentamientos con poca luz que ofrece una visibilidad aumentada en la oscuridad. Está diseñada para usarse en diversas armas y cuenta con una construcción duradera y resistente a las inclemencias del tiempo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]3,0x
+		\n	
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_marchf">
+		<text>March Tactical 3-24x42 FFP</text>
+	</string>
+	<string id="st_addon_scope_marchf_descr">
+		<text>Una mira de alto rendimiento con primer plano focal (FFP) y aumentos variables que proporciona una claridad y precisión excepcionales para disparos de largo alcance. Es preferida por tiradores designados y tiradores competitivos por su versatilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Japón
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Deon Optical Design
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]3,0x - 24,0x
+		\n		
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pgo7gs">
+		<text>PGO-7</text>
+	</string>
+	<string id="st_addon_scope_pgo7gs_descr">
+		<text>Un visor óptico de 2,7x aumentos fijos diseñado para el lanzagranadas RPG-7 que cuenta con una retícula telemétrica para apuntar con precisión. Es robusto y está optimizado para enfrentamientos contra blindados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2,7x
+		\n		
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_susat">
+		<text>SUSAT</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>El Sight Unit Small Arms, Trilux (SUSAT) es un visor óptico de 4x empleado por las fuerzas británicas que cuenta con una retícula iluminada para un rendimiento mejorado con poca luz. Es conocido por su durabilidad y su imagen nítida.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2]Origen: %c[ui_gray_1]Reino Unido
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Avimo
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_gauss_sight">
+		<text>EOTS-62</text>
+	</string>
+	<string id="st_addon_scope_gauss_sight_descr">
+		<text>Una mira electroóptica especializada diseñada para apuntar con precisión en diversas condiciones de combate. Ofrece una claridad óptica mejorada y se suele usar en armamento de grado militar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]CENSURADO
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 8,0x
+		\n	
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_1p78gs">
+		<text>1P78 Kashtan</text>
+	</string>
+	<string id="st_addon_scope_1p78gs_descr">
+		<text>Una mira de combate prismática rusa de 2,8x diseñada para fusiles AK que ofrece un amplio campo de visión y compensación para la caída de bala. Es muy duradera e idónea para condiciones del campo de batalla escabrosas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2,8x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_1pn93n2_1gs">
+		<text>1PN93-1</text>
+	</string>
+	<string id="st_addon_scope_1pn93n2_1gs_descr">
+		<text>Una mira de visión nocturna rusa diseñada para el combate con poca luz que ofrece compatibilidad con infrarrojos y un armazón duradero. Mejora la visibilidad de noche sin perder precisión a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n		
+		</text>
+	</string>
+
+	<string id="st_addon_scope_usp1">
+		<text>1P29 Tiulpán</text>
+	</string>
+	<string id="st_addon_scope_usp1_descr">
+		<text>Una robusta mira rusa de 4x aumentos similar a la SUSAT que cuenta con una retícula telemétrica iluminada. Se diseñó para usarse con AK y otros fusiles de infantería.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_susatov">
+		<text>Mira SUSAT de 4,0x</text>
+	</string>
+	<string id="st_addon_scope_susatov_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] L85A2
+		
+		\n \n%c[ui_gray_1]El Sight Unit Small Arms, Trilux (SUSAT) es un visor óptico de 4x aumentos fijos utilizado principalmente por las fuerzas británicas. Cuenta con una retícula iluminada y un diseño prismático que ofrece una imagen nítida y una estimación de distancias eficaz.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Reino Unido
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Avimo
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_march_f_shorty">
+		<text>March F Shorty 1x-8x24mm LPVO</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_descr">
+		<text>Una mira telescópica compacta de alta calidad y baja potencia variable (LPVO) con un abanico de aumentos de 1x a 8x, diseñada para disparos de precisión tanto a corta como a larga distancia. Cuenta con una claridad de lente superior y una retícula en el primer plano focal para enfrentamientos dinámicos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Japón
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Deon Optical Design
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 8,0x
+		\n
+		</text>		
+	</string>	
+	
+	<string id="st_addon_scope_lco1">
+		<text>LCO</text>
+	</string>
+	<string id="st_addon_scope_lco1_descr">
+		<text>Una robusta mira de punto rojo desarrollada por Leupold que ofrece un amplio campo de visión y una rápida localización de objetivos para carabinas y rifles. Su diseño duradero e impermeable la hace ideal para el tiro táctico y deportivo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Leupold
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_e0t2_mag">
+		<text>EOTech XPS3 con magnificador EOTech G33 6x</text>
+	</string>
+	<string id="st_addon_scope_e0t2_mag_descr">
+		<text>Una combinación de una mira holográfica compacta y un magnificador de 6x aumentos abatible, lo que ofrece versatilidad tanto para disparos réflex a corta distancia como para enfrentamientos a larga distancia. El XPS3 es compatible con visión nocturna, lo que lo convierte en una opción popular para fuerzas militares y del orden.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]EOTech
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]6,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_razor_mag">
+		<text>AMG UH-1 con magnificador EOTech G33 6x</text>
+	</string>
+	<string id="st_addon_scope_razor_mag_descr">
+		<text>Una configuración híbrida que incluye la mira holográfica Razor AMG UH-1, duradera y de rápida localización, junto con el magnificador EOTech G33 para un mejor encare del objetivo a diferentes distancias. Esta combinación permite una transición fluida entre el combate a corta y media distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Vortex Optics y EOTech
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]6,0x
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_razor">
+		<text>AMG UH-1 Gen. II</text>
+	</string>
+	<string id="st_addon_scope_razor_descr">
+		<text>Una mira holográfica robusta de 1x aumento con una retícula EBR-CQB rápida, modo de visión nocturna y una gran ventana de visualización para una rápida localización de objetivos. Su diseño duradero y resistente al empañamiento, junto con sus controles intuitivos, garantizan un funcionamiento impecable en cualquier condición de iluminación, con un ajuste brillante para la luz del día y un modo tenue compatible con gafas de visión nocturna para condiciones de poca luz.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Vortex Optics
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_exps3">
+		<text>EOTech XPS3</text>
+	</string>
+	<string id="st_addon_scope_exps3_descr">
+		<text>Una mira holográfica compacta y de alto rendimiento diseñada para uso militar y policial, compatible con visión nocturna y con una interfaz de control lateral. Ofrece un amplio campo de visión y una rápida adquisición de la retícula para enfrentamientos acelerados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]EOTech
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_he510">
+		<text>Holosun HE510C</text>
+	</string>
+	<string id="st_addon_scope_he510_descr">
+		<text>Una mira réflex abierta, duradera y alimentada por energía solar con varias opciones de retícula diseñada para fusiles y carabinas. Su carga duradera, la tecnología de activación por movimiento y su robusta carcasa la convierten en una excelente mira polivalente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Holosun
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_bravo4">
+		<text>BRAVO4</text>
+	</string>
+	<string id="st_addon_scope_bravo4_descr">
+		<text>Una mira de combate prismática que ofrece un aumento de 4x, un amplio campo de visión y una retícula iluminada en forma de herradura para un rápido encare del objetivo. Diseñada para aplicaciones tácticas, proporciona una claridad y durabilidad excepcionales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG Sauer
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_hamr">
+		<text>Mark 4 HAMR</text>
+	</string>
+	<string id="st_addon_scope_hamr_descr">
+		<text>Una mira telescópica robusta de 4x aumentos fijos con retícula grabada y punto rojo iluminado para una rápida localización de objetivos. Diseñada para ser duradera, es muy utilizada por militares y fuerzas del orden por su fiabilidad en condiciones de combate.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Leupold
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+  
+	<string id="st_addon_scope_razorhd">
+		<text>Razor HD Gen II</text>
+	</string>
+	<string id="st_addon_scope_razorhd_descr">
+		<text>Una mira telescópica de precisión de alta gama con una claridad de lente excepcional, retícula en el primer plano focal y una construcción robusta. Diseñada para disparos de largo alcance, proporciona un seguimiento y una repetibilidad superiores en condiciones extremas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Vortex Optics
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 6,0x
+		\n
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_devo">
+		<text>Leupold D-EVO con mira LCO</text>
+	</string>
+	<string id="st_addon_scope_devo_descr">
+		<text>Un sistema óptico descentrado único que combina una mira de 6x aumentos con un punto rojo para cambiar rápidamente entre enfrentamientos de corto y medio alcance. Su diseño innovador permite la localización instantánea del objetivo sin ajustar la posición de la cabeza.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Leupold
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 6,0x
+		\n		
+		</text>
+	</string>	
+
+	<string id="st_addon_scope_side">
+		<text>Mira lateral de Winchester</text>
+	</string>
+	<string id="st_addon_scope_side_descr">
+		<text>Una mira clásica diseñada para acoplarse lateralmente en fusiles de palanca y modelos antiguos que proporciona una solución de puntería tradicional pero eficaz. Permite un uso sencillo sin perder el acceso a las miras de hierro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Winchester Repeating Arms Company
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n		
+		</text>
+	</string>
+
+	<string id="st_addon_scope_romeo">
+		<text>ROMEO4</text>
+	</string>
+	<string id="st_addon_scope_romeo_descr">
+		<text>Una mira de punto rojo de alto rendimiento con iluminación activada por movimiento, múltiples opciones de retícula y un diseño impermeable. Está diseñada para una rápida localización de objetivos y fiabilidad en cualquier condición climática.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG Sauer
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n
+		</text>
+	</string>	
+
+	<string id="st_cortex_scope">
+		<text>Razor HD Gen III</text>
+	</string>
+	<string id="st_cortex_scope_desc">
+		<text>El Vortex Razor HD Gen III 1-10x24 es un LPVO de primer plano focal de primera diseñado para brindar versatilidad y precisión. Ofrece un aumento real de 1x para enfrentamientos en espacios cerrados y se extiende hasta 10x aumentos para objetivos a media distancia. El visor cuenta con un sistema óptico HD con lentes totalmente multicapa que proporcionan una claridad y transmisión de luz excepcionales. Su construcción robusta garantiza durabilidad en condiciones exigentes, lo que lo hace adecuado para aplicaciones militares, policiales y de tiro competitivo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Vortex Optics
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 10,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_cmore">
+        <text>C-More Railway Tactical</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+		<text>La mira de punto rojo C-More Railway es una versátil mira de punto rojo abierta diseñada para la localización rápida de objetivos en diversas plataformas. Ofrece un campo de visión ilimitado, eliminando la visión de túnel común en las miras tubulares. La mira se acopla directamente en rieles Weaver o Picatinny, lo que la hace compatible con escopetas, fusiles, pistolas y más. Su base de riel desmontable permite una fácil instalación y extracción, lo que mejora su adaptabilidad a diferentes escenarios de tiro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]C-More Systems
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n
+		</text>
+    </string>
+
+	<string id="st_addon_scope_zf4">
+		<text>ZF4</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>Una mira telescópica compacta de 4x aumentos suministrada a finales de la Segunda Guerra Mundial para fusiles reglamentarios alemanes semiautomáticos y de cerrojo; la más famosa de ellas se instaló en el G43/K43 y también se vio en algunos ejemplares del K98k con monturas inclinadas hacia atrás. Mira sencilla y robusta con retícula de tres postes (o cruz) y elevación preajustada de fábrica a unos 300 m, diseñada para el combate rápido más que para la precisión a larga distancia. La producción durante la guerra corrió a cargo de varias empresas alemanas (entre ellas Voigtländer), por lo que las marcas y los detalles menores varían entre los diferentes ejemplares.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania nazi
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]varios
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_kp_sr2">
+		<text>KP-SR2</text>
+	</string>
+	<string id="st_addon_scope_kp_sr2_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] SR-2M Veresk
+		
+		\n \n%c[ui_gray_1]Una mira réflex abierta compacta desarrollada en los años noventa para la familia SR-2/SR-2M Veresk, optimizada para el cajón de mecanismos corto y la culata plegable. Su carcasa robusta y de bajo perfil mantiene un tamaño reducido a la vez que proporciona una rápida localización de objetivos mediante una sencilla retícula de punto rojo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsNIITochMash
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_gee36">
+		<text>Hensoldt ZF 3x</text>
+	</string>
+	<string id="st_addon_scope_gee36_descr">
+		<text>Derivada del módulo de puntería del asa de transporte del G36, esta mira telescópica compacta funciona como una mira de alcance medio independiente cuando se acopla en un riel Picatinny. Su retícula simple, carcasa robusta y construcción de grado de combate la hacen adecuada para transiciones rápidas entre distancias cortas y medias, manteniendo la durabilidad de la mira original. Producida originalmente para el G36 por Hensoldt (de la línea Zeiss), la unidad se suele reutilizar o adaptar para otras plataformas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Hensoldt
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]3,0x
+		\n
+		</text>
+	</string>
+
+
+
+	<string id="st_addon_scope_trijicon_rmr">
+		<text>Kit de Trijicon-mira de punto rojo</text>
+	</string>
+	<string id="st_addon_scope_trijicon_rmr_descr">
+		<text>Un sistema de ajustes modular que permite acoplar diversos silenciadores en armas de fuego compatibles, mejorando la versatilidad y la capacidad de supresión de sonido.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Mira Trijicon ACOG BAC 5.56 BDC
+		\n %c[d_cyan] • %c[ui_gray_2] Mira inclinada de punto rojo
+		\n
+		</text>
+	</string>	
+	
+	<string id="st_addon_scope_mark8_rmr">
+		<text>Kit de Mark 8-mira de punto rojo</text>
+	</string>
+	<string id="st_addon_scope_mark8_rmr_descr">
+		<text>Un sistema de ajustes modular que permite acoplar diversos silenciadores en armas de fuego compatibles, mejorando la versatilidad y la capacidad de supresión de sonido.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Mira Leupold Mark 8 CQBSS
+		\n %c[d_cyan] • %c[ui_gray_2] Mira inclinada de punto rojo
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_spec_alt">
+		<text>Kit de SpecterDR-mira de punto rojo</text>
+	</string>
+	<string id="st_addon_scope_spec_alt_descr">
+		<text>Un sistema de ajustes modular que permite acoplar diversos silenciadores en armas de fuego compatibles, mejorando la versatilidad y la capacidad de supresión de sonido.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Mira ELCAN SpecterDR DFOV14-C2
+		\n %c[d_cyan] • %c[ui_gray_2] Mira inclinada de punto rojo
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_kashtan_rmr">
+		<text>Kit de Kashtan-mira de punto rojo</text>
+	</string>
+	<string id="st_addon_scope_kashtan_rmr_descr">
+		<text>Un sistema de ajustes modular que permite acoplar diversos silenciadores en armas de fuego compatibles, mejorando la versatilidad y la capacidad de supresión de sonido.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Mira 1P78 Kasthan
+		\n %c[d_cyan] • %c[ui_gray_2] Mira inclinada de punto rojo
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_psicho_rmr">
+		<text>Kit de PSO-mira de punto rojo</text>
+	</string>
+	<string id="st_addon_scope_psicho_rmr_descr">
+		<text>Un sistema de ajustes modular que permite acoplar diversos silenciadores en armas de fuego compatibles, mejorando la versatilidad y la capacidad de supresión de sonido.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Mira PSO-1M2-1
+		\n %c[d_cyan] • %c[ui_gray_2] Mira inclinada de punto rojo
+		\n
+		</text>
+	</string>
+
+	<string id="st_addon_scope_march_f_shorty_alt">
+		<text>Kit de March F Shorty-mira de punto rojo</text>
+	</string>
+	<string id="st_addon_scope_march_f_shorty_alt_descr">
+		<text>Un sistema de ajustes modular que permite acoplar diversos silenciadores en armas de fuego compatibles, mejorando la versatilidad y la capacidad de supresión de sonido.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] March F Shorty 1x-8x24mm LPVO
+		\n %c[d_cyan] • %c[ui_gray_2] Mira inclinada de punto rojo
+		\n
+		</text>		
+	</string>
+
+</string_table>

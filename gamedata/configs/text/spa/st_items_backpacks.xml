@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_itm_backpack_name">
+		<text>Mochila</text>
+	</string>
+	<string id="st_itm_backpack_desc">
+		<text>Una mochila hecha de materiales resistentes capaz de soportar las peores condiciones meteorológicas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n</text>
+	</string>
+	
+	<string id="st_equ_smallpack_name">
+		<text>Mochila de acampada</text>
+	</string>
+	<string id="st_equ_smallpack_desc">
+		<text>Una mochila con un espacio de almacenamiento considerable. El interior se ha modificado para que no retenga agua. Una elección popular entre stalkers y novatos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n</text>
+	</string>
+	
+	<string id="st_equ_smilpack_name">
+		<text>Mochila de viaje</text>
+	</string>
+	<string id="st_equ_smilpack_desc">
+		<text>Una mochila grande para viajes largos. Gracias al sistema de distribución del peso, permite llevar provisiones y equipo suficientes para un viaje de hasta cinco días.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n</text>
+	</string>
+	
+	<string id="st_equ_milpack_name">
+		<text>Mochila de combate</text>
+	</string>
+	<string id="st_equ_milpack_desc">
+		<text>Una mochila de combate usada por el Ejército. Tiene espacio de sobra para guardar munición y suministros médicos adicionales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n</text>
+	</string>
+	
+	<string id="st_equ_touristpack_name">
+		<text>Mochila de turista</text>
+	</string>
+	<string id="st_equ_touristpack_desc">
+		<text>Una mochila para turistas con mucho espacio de almacenamiento. No es muy popular debido a su incómodo tamaño.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n</text>
+	</string>
+	
+	<string id="st_kit_hunt">
+		<text>Kit de cazador</text>
+	</string>
+	<string id="st_kit_hunt_descr">
+		<text>Una bolsa entera llena de ganchos, cuchillos y demás equipos usados para desollar y destripar animales y mutantes. Gracias a su variedad de herramientas, este kit puede mejorar el mantenimiento de armas y blindajes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_green] • %c[ui_gray_2] Aumenta la cantidad de partes obtenidas de mutantes
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n</text>
+	</string>
+	
+	<string id="st_itm_actor_backpack_name">
+		<text>Sistema de desenganche rápido</text>
+	</string>
+	<string id="st_itm_actor_backpack_descr">
+		<text>A menudo la utilizan los stalkers como recurso en caso de imprevistos. Sus funciones son sencillas: consiste en una correa que puede soltarse junto con la mochila en cualquier momento para salir corriendo.
+		\nPulsa la tecla de acceso rápido para activar el desenganche de emergencia, que hará que tu mochila (y todo lo que contiene) caiga al suelo al instante.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] GPS integrado
+		\n %c[d_cyan] • %c[ui_gray_2] El portador conserva el equipo de combate
+		\n %c[d_cyan] • %c[ui_gray_2] NOTA: %c[ui_gray_1]tus armas equipadas, munición, blindaje, accesorios del blindaje y PDA permanecen en tu posesión, por lo que estarás listo para el combate.
+		\n</text>
+	</string>
+	<string id="st_itm_actor_backpack_desc_mlr">
+		<text>A menudo la utilizan los stalkers como recurso en caso de imprevistos. Sus funciones son sencillas: consiste en una correa que puede soltarse junto con la mochila en cualquier momento para salir corriendo.
+		\nPulsa la tecla de acceso rápido para activar el desenganche de emergencia, que hará que tu mochila (y todo lo que contiene) caiga al suelo al instante.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] GPS integrado
+		\n %c[d_cyan] • %c[ui_gray_2] El portador conserva el equipo de combate
+		\n %c[d_cyan] • %c[ui_gray_2] NOTA: %c[ui_gray_1]tus armas equipadas, munición, blindaje, accesorios del blindaje y PDA permanecen en tu posesión, por lo que estarás listo para el combate.
+		\n</text>
+	</string>
+	
+	<string id="st_itm_backpack_stash_name">
+		<text>Mochila marcada en PDA</text>
+	</string>
+	<string id="st_itm_backpack_stash_desc">
+		<text>Una mochila extremadamente duradera con un dispositivo GPS implementado. Se sincroniza automáticamente con la PDA cuando se deja en el suelo para generar un alijo que se marca en la PDA. La mochila está fabricada con materiales resistentes y duraderos que mantienen el equipo a salvo y seco independientemente de las condiciones ambientales. El diseño camuflado asegura que no destaque en el entorno.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] GPS integrado
+		\n</text>
+	</string>
+	
+</string_table>

@@ -176,7 +176,7 @@
     <text>Activa o desactiva la capacidad de los PNJ que no son compañeros para saquear y recoger objetos. Para mantener el comportamiento actual, esta opción debería estar marcada en GAMMA y desmarcada en Anomaly.</text>
   </string>
   <string id="ui_mcm_idiots_options_jobs_note">
-    <text>NOTA: Para que el saqueo y la recolección funcionen correctamente en GAMMA, es necesario desactivar la opción «311 NPC Stop Looting Dead Bodies».</text>
+    <text>NOTA: para que el saqueo y la recolección funcionen correctamente en GAMMA, es necesario desactivar la opción «311 NPC Stop Looting Dead Bodies».</text>
   </string>
 
   
@@ -184,19 +184,19 @@
     <text>Posibles trampas</text>
   </string>
   <string id="ui_mcm_idiots_options_cheats_note">
-    <text>NOTA: Estas opciones pueden destrozar el equilibrio del juego. Lee los globos de ayuda detenidamente antes de decidir activarlas.</text>
+    <text>NOTA: estas opciones pueden destrozar el equilibrio del juego. Lee los globos de ayuda detenidamente antes de decidir activarlas.</text>
   </string>
   <string id="ui_mcm_idiots_options_artifacts">
     <text>Activar orden para recoger artefactos</text>
   </string>
   <string id="ui_mcm_idiots_options_artifacts_desc">
-    <text>Activa/desactiva una orden en la interfaz que ordena a los compañeros recolectar artefactos. NOTA: Activar esto es básicamente hacer trampa, a menos que uses un mod que permita que los PNJ resulten heridos o mueran en anomalías.</text>
+    <text>Activa/desactiva una orden en la interfaz que ordena a los compañeros recolectar artefactos. NOTA: activar esto es básicamente hacer trampa, a menos que uses un mod que permita que los PNJ resulten heridos o mueran en anomalías.</text>
   </string>
   <string id="ui_mcm_idiots_options_showAllItems">
     <text>Mostrar todos los objetos en los inventarios de los compañeros</text>
   </string>
   <string id="ui_mcm_idiots_options_showAllItems_desc">
-    <text>Muestra todo lo que hay en los inventarios de los compañeros, en lugar de solo los objetos que han saqueado o recogido para ti. NOTA: Activar esto es básicamente hacer trampa, ya que te permite explotar a tus compañeros por su equipo. Utiliza esta opción solo para eliminar chatarra o en caso de que un problema con el mod te impida acceder a un objeto que hayas recogido o saqueado.</text>
+    <text>Muestra todo lo que hay en los inventarios de los compañeros, en lugar de solo los objetos que han saqueado o recogido para ti. NOTA: activar esto es básicamente hacer trampa, ya que te permite explotar a tus compañeros por su equipo. Utiliza esta opción solo para eliminar chatarra o en caso de que un problema con el mod te impida acceder a un objeto que hayas recogido o saqueado.</text>
   </string>
 
   
@@ -289,7 +289,7 @@
     <text>Abrir inventario</text>
   </string>
   <string id="ui_mcm_idiots_subtitle_point_inventory_note">
-    <text>NOTA: El modificador Mayús no funciona para esta asignación en GAMMA (a menos que hayas desactivado GAMMA UI).</text>
+    <text>NOTA: el modificador Mayús no funciona para esta asignación en GAMMA (a menos que hayas desactivado GAMMA UI).</text>
   </string>
   <string id="ui_mcm_idiots_subtitle_point_reset">
     <text>Resincronizar estado</text>

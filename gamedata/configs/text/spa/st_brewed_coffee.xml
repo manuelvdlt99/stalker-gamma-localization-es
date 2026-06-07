@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_brewed_coffee">
+		<text>Café filtrado</text>
+	</string>
+	<string id="st_brewed_coffee_descr">
+		<text>Un lujo en la zona que ofrece un breve impulso de resistencia y estado de alerta. Su intenso aroma y su calor proporcionan un pequeño pero inestimable consuelo a los stalkers que soportan el frío y el agotamiento del páramo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	
+	<string id="st_gamma_recipe_basic_1">
+		<text>Guía del superviviente vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_1_descr">
+		<text>Una guía que contiene consejos para sobrevivir en entornos hostiles, así como recetas para fabricar objetos básicos relativos a la supervivencia, como mochilas, placas de kevlar, accesorios, kits de cocina, tiendas de campaña y sacos de dormir.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	<string id="st_gamma_recipe_advanced_1">
+		<text>Guía del superviviente vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_1_descr">
+		<text>Una guía que contiene consejos para sobrevivir en entornos hostiles, así como recetas para fabricar objetos básicos relativos a la supervivencia, como mochilas, placas de kevlar, accesorios, kits de cocina, tiendas de campaña y sacos de dormir.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>	
+	<string id="st_gamma_recipe_expert_1">
+		<text>Guía del superviviente vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_1_descr">
+		<text>Una guía que contiene consejos para sobrevivir en entornos hostiles, así como recetas para fabricar objetos básicos relativos a la supervivencia, como mochilas, placas de kevlar, accesorios, kits de cocina, tiendas de campaña y sacos de dormir.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>		
+
+	<string id="st_gamma_recipe_basic_2">
+		<text>Manual de electrónica vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_2_descr">
+		<text>Un manual que contiene consejos y planos para crear circuitos electrónicos, chips y planos. Podría usarse para fabricar sistemas de visión nocturna, detectores de artefactos y contenedores de artefactos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+
+	<string id="st_gamma_recipe_advanced_2">
+		<text>Manual de electrónica vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_2_descr">
+		<text>Un manual que contiene consejos y planos para crear circuitos electrónicos, chips y planos. Podría usarse para fabricar sistemas de visión nocturna, detectores de artefactos y contenedores de artefactos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+
+	<string id="st_gamma_recipe_expert_2">
+		<text>Manual de electrónica vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_2_descr">
+		<text>Un manual que contiene consejos y planos para crear circuitos electrónicos, chips y planos. Podría usarse para fabricar sistemas de visión nocturna, detectores de artefactos y contenedores de artefactos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>		
+	
+	<string id="st_gamma_recipe_basic_3">
+		<text>Fundamentos de las mejoras de armas y blindajes vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_3_descr">
+		<text>Este completo libro contiene consejos y planos para fabricar sistemas básicos de mejora de armas, blindajes y cascos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+
+	<string id="st_gamma_recipe_advanced_3">
+		<text>Fundamentos de las mejoras de armas y blindajes vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_3_descr">
+		<text>Este completo libro contiene consejos y planos para fabricar sistemas avanzados de mejora de armas, blindajes y cascos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+
+	<string id="st_gamma_recipe_expert_3">
+		<text>Fundamentos de las mejoras de armas y blindajes vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_3_descr">
+		<text>Este completo libro contiene consejos y planos para fabricar sistemas expertos de mejora de armas, blindajes y cascos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>		
+		
+	<string id="st_gamma_recipe_basic_4">
+		<text>El arte de la fusión de artefactos vol. 1</text>
+	</string>
+    <string id="st_gamma_recipe_basic_4_descr">
+		<text>Este libro contiene versiones impresas de las últimas publicaciones del profesor Sájarov sobre la fusión de artefactos. Muestra un puñado de recetas para que el fundidor de artefactos fusione artefactos comunes en artefactos poco comunes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+
+	<string id="st_gamma_recipe_advanced_4">
+		<text>El arte de la fusión de artefactos vol. 2</text>
+	</string>
+    <string id="st_gamma_recipe_advanced_4_descr">
+		<text>Este libro contiene versiones impresas de las últimas publicaciones del profesor Sájarov sobre la fusión de artefactos. Muestra un puñado de recetas para que el fundidor de artefactos fusione artefactos comunes en artefactos poco comunes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+
+	<string id="st_gamma_recipe_expert_4">
+		<text>El arte de la fusión de artefactos vol. 3</text>
+	</string>
+    <string id="st_gamma_recipe_expert_4_descr">
+		<text>Este libro contiene versiones impresas de las últimas publicaciones del profesor Sájarov sobre la fusión de artefactos. Muestra un puñado de recetas para que el fundidor de artefactos fusione artefactos comunes en artefactos poco comunes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+
+	<string id="st_gamma_recipe_ammo_4">
+		<text>Avances en aplicaciones militares: exoesqueletos (confidencial)</text>
+	</string>
+    <string id="st_gamma_recipe_ammo_4_descr">
+		<text>Este especialísima y rarísima edición de «Avances en aplicaciones militares» incluye comunicaciones y compendios científicos confidenciales sobre los exoesqueletos producidos por los líderes del desarrollo de soluciones militares. Esta valiosa información te permitirá reparar los exoesqueletos y exocascos específicos que se encuentran en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Receta
+		\n</text>
+	</string>
+	
+</string_table>

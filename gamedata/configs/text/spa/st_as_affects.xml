@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    <string id="as_sub_affects_heartbeat">
+        <text>Tu ritmo cardíaco empieza a acelerarse progresivamente</text>
+    </string>
+    <string id="as_sub_affects_hit_fist">
+        <text>Echas el brazo hacia atrás y lanzas un puñetazo rápido</text>
+    </string>
+    <string id="as_sub_affects_psy_blackout">
+        <text>Se te cierran los ojos poco a poco, ¿por qué tengo la cabeza como en una nube?</text>
+    </string>
+    <string id="as_sub_affects_tinnitus">
+        <text>Te pitan los oídos con un tono agudo</text>
+    </string>
+</string_table>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_udp9">
+		<text>UDP-9</text>
+	</string>
+	<string id="st_wpn_udp9_descr">
+		<text>Una plataforma táctica de 9 mm diseñada para ofrecer versatilidad y alto rendimiento en entornos urbanos y zonas abiertas. Con su armazón estilo AR y controles sencillos, combina precisión y capacidad de tiro rápido. Su diseño modular permite una fácil personalización, mientras que su tamaño compacto la hace ideal para escaramuzas en espacios cerrados o como arma de respaldo en tiroteos intensos. Con un sistema de retroceso fiable y una gran precisión a larga distancia, la UDP-9 es una opción sólida para cualquiera que busque un equilibrio entre potencia de fuego y maniobrabilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Angstadt Arms
+		\n</text>
+	</string>
+
+</string_table>

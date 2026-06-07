@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="ui_mcm_menu_magnifier_switch">
+		<text>3DSS Magnifier Switch</text>
+	</string>
+	
+	<string id="ui_mcm_magnifier_switch_title">
+		<text>Magnifier Switch</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_use_mousewheel">
+		<text>Usar rueda del ratón (¡desactiva la tecla a continuación si se activa!)</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_use_mousewheel_desc">
+		<text>Usa la entrada de la rueda del ratón para cambiar el magnificador (cumple con «mouse_wheel_invert_zoom» si se activa).</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_mwheel_switch_ads_only">
+		<text>Cambiar con rueda del ratón solo al apuntar</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_mwheel_switch_ads_only_desc">
+		<text>Desactiva cambiar el magnificador con la rueda del ratón si no se apunta.</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_mwheel_weapon_swap">
+		<text>Activar cambio de arma con rueda de ratón</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_mwheel_weapon_swap_desc">
+		<text>Atajo para el comando de consola «mouse_wheel_change_weapon» y configuración de ejecutables modificados, añadido para mayor comodidad.</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_switch_bind">
+		<text>Tecla para cambiar magnificador</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_switch_bind_desc">
+		<text>Modifica el comportamiento normal de la tecla cuando se configure en la tecla de alternancia del modo de puntería, permitiendo su uso cuando no se pueda cambiar el magnificador o cuando no se realice la combinación de teclas y el modo de entrada específicos para cambiar el magnificador.</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_keep_aim_toggle">
+		<text>Mantener la activación de la mira</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_keep_aim_toggle_desc">
+		<text>Cambiar la mira mientras se apunta mantiene la activación de la mira (en el modo de alternancia de la mira).</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_switch_sound">
+		<text>Reproducir efecto de sonido</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_switch_sound_desc">
+		<text>Reproduce un efecto de sonido al cambiar de modo de magnificador.</text>
+	</string>
+
+	<string id="ui_mcm_magnifier_switch_debug">
+		<text>Registros de depuración (muy verbosos)</text>
+	</string>
+
+</string_table>

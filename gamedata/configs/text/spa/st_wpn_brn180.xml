@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_brn180">
+		<text>BRN-180</text>
+	</string>
+	<string id="st_wpn_brn180_descr">
+		<text>El BRN-180 es una interpretación moderna del diseño clásico del fusil AR-180. Incorpora un sistema de pistón de gases de carrera corta para un funcionamiento fiable, ofreciendo a los tiradores una plataforma ligera y compacta, perfecta para aplicaciones tácticas o tiro deportivo. El BRN-180, que conserva la ergonomía familiar de la plataforma AR-15 ofreciendo al mismo tiempo fiabilidad y facilidad de mantenimiento, es conocido por su precisión y su experiencia de tiro fluida, lo que lo convierte en una opción popular entre los entusiastas de las armas que buscan un fusil versátil y fiable.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Brownells
+		\n</text>
+	</string>
+
+	<string id="st_wpn_brn180_tac">
+		<text>BRN-180 «Lich»</text>
+	</string>
+	<string id="st_wpn_brn180_tac_descr">
+		<text>El BRN-180 es una interpretación moderna del diseño clásico del fusil AR-180. Incorpora un sistema de pistón de gases de carrera corta para un funcionamiento fiable, ofreciendo a los tiradores una plataforma ligera y compacta, perfecta para aplicaciones tácticas o tiro deportivo. El BRN-180, que conserva la ergonomía familiar de la plataforma AR-15 ofreciendo al mismo tiempo fiabilidad y facilidad de mantenimiento, es conocido por su precisión y su experiencia de tiro fluida, lo que lo convierte en una opción popular entre los entusiastas de las armas que buscan un fusil versátil y fiable. El «Lich» aprovecha la modularidad de la plataforma BRN-180 y está dotado de un cargador de 40 balas, empuñadura delantera y módulo láser.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Brownells
+		\n</text>
+	</string>
+
+</string_table>

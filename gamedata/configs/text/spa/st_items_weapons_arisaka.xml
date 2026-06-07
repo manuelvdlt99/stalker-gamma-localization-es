@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_arisaka">
+		<text>Arisaka Tipo 38</text>
+	</string>
+	<string id="st_wpn_arisaka_descr">
+		<text>Un fusil de cerrojo conocido por su excepcional durabilidad, funcionamiento suave y precisión a larga distancia. Diseñado para uso militar, cuenta con un cajón de mecanismos robusto y reforzado y un cañón largo para un mejor rendimiento balístico. Pese a su edad, sigue siendo un arma muy codiciada por coleccionistas y aficionados de la historia por su fiabilidad y artesanía.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Imperio del Japón
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Imperio del Japón
+		\n</text>
+	</string>
+	
+	<string id="st_up_add_arisaka_name">
+		<text>Cambio de calibre a 7,92 x 57 mm</text>
+	</string>
+	
+</string_table>

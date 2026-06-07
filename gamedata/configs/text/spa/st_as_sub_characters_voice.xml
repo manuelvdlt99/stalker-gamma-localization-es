@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="as_sub_characters_voice_human_bandit_3_help_combat_coming_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_combat_coming_1_pda">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_kill_wounded_1">
+		<text>¡NO HAWAY!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_kill_wounded_2">
+		<text>¡Te apañaré</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_kill_wounded_3">
+		<text>¡Atrapa a un loco!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_kill_wounded_4">
+		<text>¡Ja, ja! ¡Tómate una pastilla, chulo!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_medkit_1">
+		<text>¡Aguanta, Koresh, todo va a salir bien!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_medkit_2">
+		<text>¡Eres un auténtico loa, tío, eres todo un personaje!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_medkit_3">
+		<text>Agáchate, agáchate, voy a por ti.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_heavy_help_1">
+		<text>¡Me habéis dado!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_heavy_help_2">
+		<text>¡Mierda, tengo el petróleo!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_heavy_help_3">
+		<text>¡Scorch, ayuda!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_heavy_help_4">
+		<text>¡Chicos, ayudadme!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_heavy_help_5">
+		<text>¡Aah!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_heavy_help_6">
+		<text>¡Ay, yoo-moo-yoo!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_heavy_help_7">
+		<text>¡Oaaaaaaaaaaaaaah!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_thanx_thanx_1">
+		<text>¡Vaya, ese sí que es un tipo de verdad! ¡Gracias, tío!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_thanx_thanx_2">
+		<text>¡Vaya, este sí que es un hombre de verdad, choca esos cinco!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_help_wounded_thanx_thanx_3">
+		<text>¡Oh, sí, gracias, tío!</text>
+	</string>
+</string_table>

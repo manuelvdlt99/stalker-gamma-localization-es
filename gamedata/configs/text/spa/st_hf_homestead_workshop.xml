@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_placeable_workshop">
+		<text>Taller portátil</text>
+	</string>
+	<string id="st_placeable_workshop_descr">
+		<text>Una combinación de una mesa desplegable, herramientas de taller y un alijo integrado. Esto permite a los stalkers ser más autosuficientes en zonas poco amigables, aunque su peso es un elemento disuasorio para fabricar en la carretera.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]reparar equipo
+		\n</text>
+	</string>
+	
+</string_table>

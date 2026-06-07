@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+   <string id="st_placeable_arti_display">
+		<text>Expositor de artefactos</text>
+	</string>
+	<string id="st_placeable_arti_display_descr">
+		<text>Un mueble especializado diseñado para exhibir y almacenar artefactos de forma segura. Más allá de su función práctica de almacenamiento, hace de pieza central visual, permitiendo a los coleccionistas apreciar las propiedades únicas y a menudo fascinantes de los artefactos que han reunido.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Muestra artefactos
+		\n %c[d_cyan] • %c[ui_gray_2] NOTA: %c[ui_gray_1]los artefactos solo son visibles con un detector de artefactos en la mano
+		\n</text>
+	</string>
+	
+</string_table>

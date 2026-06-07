@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="ui_mcm_menu_oleh_misc_sounds">
+		<text>Sonidos de inventario</text>
+	</string>
+	<string id="ui_mcm_title_oleh_misc_sounds">
+		<text>Sonidos de inventario de GAMMA</text>
+	</string>
+
+	<string id="ui_mcm_oleh_misc_sounds_enabled_inventory_pickup">
+		<text>Activar sonidos de inventario</text>
+	</string>
+		<string id="ui_mcm_oleh_misc_sounds_enabled_inventory_pickup_desc">
+		<text>Efectos de sonido al coger, soltar, reparar y mover objetos entre inventarios/ranuras.</text>
+	</string>
+	<string id="ui_mcm_oleh_misc_sounds_volume_inventory_pickup">
+		<text>Volumen de inventario</text>
+	</string>
+
+	<string id="ui_mcm_oleh_misc_sounds_enabled_inventory_hover">
+		<text>Activar sonidos al pasar cursor</text>
+	</string>
+	<string id="ui_mcm_oleh_misc_sounds_enabled_inventory_hover_desc">
+		<text>Efectos de sonido sl pasar el cursor sobre los iconos de los objetos.</text>
+	</string>
+	<string id="ui_mcm_oleh_misc_sounds_volume_inventory_hover">
+		<text>Volumen de cursor</text>
+	</string>
+</string_table>

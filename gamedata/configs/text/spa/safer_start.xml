@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="ui_mcm_menu_safer_start">
+		<text>Prevención de travesuras</text>
+	</string>
+	<string id="ui_mcm_safer_start_enable">
+		<text>Activar</text>
+	</string>
+	<string id="ui_mcm_safer_start_god_length">
+		<text>Tiempo invencible</text>
+	</string>
+	<string id="ui_mcm_safer_start_dmg_reduction_length">
+		<text>Tiempo de reducción de daño desde invencible hasta normal</text>
+	</string>
+	<string id="ui_mcm_safer_start_dbug">
+		<text>Modo de desarrollador</text>
+	</string>
+</string_table>

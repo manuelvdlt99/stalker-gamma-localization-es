@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_coffee_drink">
+		<text>Café UCC Cold Brew</text>
+	</string>
+	<string id="st_coffee_drink_descr">
+		<text>Café UCC Cold Brew fresco y listo para tomar, ideal para un refrescante impulso de energía sin necesidad de preparación. Se suele disfrutar por su comodidad y su efecto revitalizante.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Bebida
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+		\n</text>
+	</string>
+	
+</string_table>

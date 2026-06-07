@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="csky_patch">
+		<text>Parche (Cielo Despejado)</text>
+	</string>
+	<string id="csky_patch_description">
+		<text>Una insignia arrancada de un uniforme de Cielo Despejado.</text>
+	</string>
+
+	<string id="st_clearsky_fp">
+		<text>Parche (Cielo Despejado)</text>
+	</string>
+	<string id="st_clearsky_fp_descr">
+		<text>Una insignia arrancada de un uniforme de Cielo Despejado.
+		\nEste parche muestra un amanecer sobre un cielo azul despejado, flanqueado por palomas. El diseño pretende transmitir el deseo de la facción de sanar la Zona, así como su aversión a la guerra.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="freedom_patch">
+		<text>Parche (Libertad)</text>
+	</string>
+	<string id="freedom_patch_description">
+		<text>Una insignia arrancada de un uniforme de Libertad.</text>
+	</string>
+
+	<string id="st_freedom_fp">
+		<text>Parche (Libertad)</text>
+	</string>
+	<string id="st_freedom_fp_descr">
+		<text>Una insignia arrancada de un uniforme de Libertad.
+		\nEste parche muestra un lobo verde sobre un fondo negro junto a la bandera ucraniana. El diseño pretende transmitir la naturaleza social de Libertad y su amor por la tierra, así como su determinación inquebrantable y su ferocidad colectiva en combate.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="stalker_patch">
+		<text>Parche (solitario)</text>
+	</string>
+	<string id="stalker_patch_description">
+		<text>Una insignia arrancada de un uniforme de un solitario.</text>
+	</string>
+
+	<string id="st_stalker_fp">
+		<text>Parche (solitario)</text>
+	</string>
+	<string id="st_stalker_fp_descr">
+		<text>Una insignia arrancada de un uniforme de un solitario.
+		\nEste parche, que muestra un sencillo trébol, suelen utilizarlo los stalkers que no están alineados con ninguna facción específica.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="ecolog_patch">
+		<text>Parche (ecologista)</text>
+	</string>
+	<string id="ecolog_patch_description">
+		<text>Una insignia arrancada de un uniforme de un ecologista.</text>
+	</string>
+
+	<string id="st_ecolog_fp">
+		<text>Parche (ecologista)</text>
+	</string>
+	<string id="st_ecolog_fp_descr">
+		<text>Una insignia arrancada de un uniforme de un ecologista.
+		\nEste parche muestra un par de alas doradas sobre un fondo blanco y cian.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="bandit_patch">
+		<text>Parche (bandido)</text>
+	</string>
+	<string id="bandit_patch_description">
+		<text>Una insignia arrancada de un uniforme de un bandido.</text>
+	</string>
+
+	<string id="st_bandit_fp">
+		<text>Parche (bandido)</text>
+	</string>
+	<string id="st_bandit_fp_descr">
+		<text>Una insignia arrancada de un uniforme de un bandido.
+		\nEste parche muestra una calavera negra resquebrajada sobre un escudo blanco. El diseño pretende transmitir el despiadado castigo que imponen sobre cualquiera que se atreva a plantarles cara.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="duty_patch">
+		<text>Parche (Deber)</text>
+	</string>
+	<string id="duty_patch_description">
+		<text>Una insignia arrancada de un uniforme de Deber.</text>
+	</string>
+
+	<string id="st_dolg_fp">
+		<text>Parche (Deber)</text>
+	</string>
+	<string id="st_dolg_fp_descr">
+		<text>Una insignia arrancada de un uniforme de Deber.
+		\nEste parche muestra una retícula dorada sobre un escudo rojinegro. El diseño pretende aludir a las raíces militares de la facción, pero sin restar importancia a su papel principal como protectores estoicos de la Zona frente al mundo exterior.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="monolith_patch">
+		<text>Parche (Monolito)</text>
+	</string>
+	<string id="monolith_patch_description">
+		<text>Una insignia arrancada de un uniforme del Monolito.</text>
+	</string>
+
+	<string id="st_monolith_fp">
+		<text>Parche (Monolito)</text>
+	</string>
+	<string id="st_monolith_fp_descr">
+		<text>Una insignia arrancada de un uniforme del Monolito.
+		\nEste parche muestra alas emplumadas sobre un sol dorado. Los parches del Monolito son muy codiciados entre otros grupos, ya que demuestran que se puede luchar contra el Monolito y sobrevivir.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="army_patch">
+		<text>Parche (militar)</text>
+	</string>
+	<string id="army_patch_description">
+		<text>Una insignia arrancada de un uniforme del Ejército ucraniano.</text>
+	</string>
+
+	<string id="st_army_fp">
+		<text>Parche (militar)</text>
+	</string>
+	<string id="st_army_fp_descr">
+		<text>Una insignia arrancada de un uniforme del Ejército ucraniano.
+		\nEste parche muestra un blasón militar completo con tres escudos triangulares, el central con los colores de la bandera ucraniana. Los militares parecen creerse ante todo fuerzas protectoras y pacificadoras.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+	<string id="merc_patch">
+		<text>Parche (mercenario)</text>
+	</string>
+	<string id="merc_patch_description">
+		<text>Una insignia arrancada de un uniforme de un mercenario.</text>
+	</string>
+	
+	<string id="st_merc_fp">
+		<text>Parche (mercenario)</text>
+	</string>
+	<string id="st_merc_fp_descr">
+		<text>Una insignia arrancada de un uniforme de un mercenario.
+		\nEste parche muestra un ave de presa azul sobre un fondo negro. El diseño pretende ser indicativo del carácter de los mercenarios como facción de soldados de fortuna fríos, precisos y ágiles.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+	
+	<string id="st_isg_fp">
+		<text>Parche (UNISG)</text>
+	</string>
+	<string id="st_isg_fp_descr">
+		<text>Una insignia arrancada de un uniforme del UNISG.
+		\nEste parche muestra un microscopio blanco enmarcado por dos laureles muy estilizados y angulosos sobre un fondo granate. En el reverso del parche hay cosida una etiqueta que reza «United Nations International Scientific Group».
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+	
+	<string id="st_greh_fp">
+		<text>Parche (Pecado)</text>
+	</string>
+	<string id="st_greh_fp_descr">
+		<text>Una insignia arrancada de un uniforme perteneciente al Pecado.
+		\nEste parte muestra una serpiente en la esquina superior izqueirda con una cruz ortodoxa en la esquina superior derecha. En el centro de la insignia hay una imagen estilizada de un eclipse.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+	
+	<string id="st_renegade_fp">
+		<text>Parche (Renegados)</text>
+	</string>
+	<string id="st_renegade_fp_descr">
+		<text>Una insignia arrancada de un uniforme de los Renegados.
+		\nEste parche muestra un escorpión amarillo sobre un exuberante escudo verde. Su existencia implica alguna especie de organización en el seno de la facción, aunque hoy en día nadie creería que se unen por otra cosa que no sea la desesperación.
+
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parche de facción
+		\n</text>
+	</string>
+
+</string_table>

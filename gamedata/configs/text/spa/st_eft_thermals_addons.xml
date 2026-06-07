@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_addon_scope_t12">
+		<text>T12W 30Hz</text>
+	</string>
+	<string id="st_addon_scope_t12_descr">
+		<text>Una mira térmica de última generación con una frecuencia de refresco de 30 Hz para detectar señales térmicas en la oscuridad o en entornos con poca visibilidad. Ideal para aplicaciones tácticas, de caza y vigilancia, permite la localización de objetivos independientemente de las condiciones lumínicas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Torrey Pines Logic
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n</text>
+	</string>	
+
+</string_table>

@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="st_addon_scope">
+		<text>PSO-1M</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>Una versión modernizada de la clásica mira soviética PSO-1, que cuenta con una óptica mejorada y una retícula más refinada para el tiro de precisión. Conserva el icónico compensador de caída de bala para enfrentamientos efectivos a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>1P29 Tiulpán</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>Una robusta mira de 4x aumentos utilizada por las fuerzas rusas, conocida por su diseño prismático y construcción ligera. Cuenta con una retícula telemétrica e iluminación para condiciones de poca luz.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_ac10632">
+		<text>Mira Electro</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>Una versátil mira réflex electrónica diseñada para la rápida localización de objetivos en el combate en espacios cerrados y a media distancia. Ofrece una retícula clara e iluminada para una mayor velocidad de apuntado y precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Barska
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>ACOG TA31</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>Una mira de 4x aumentos fijos desarrollada por Trijicon y muy utilizada para aplicaciones militares gracias a su construcción robusta y su retícula iluminada. Destaca en el combate a media distancia, ofreciendo una excelente claridad y compensación para caída de bala.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Trijicon
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_eotech">
+		<text>EOTech 553</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>Una mira holográfica diseñada para ejércitos y fuerzas del orden que ofrece una rápida localización de objetivos con un amplio campo de visión. Cuenta con compatibilidad con visión nocturna y una construcción impermeable duradera.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]EOTech
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_galil_susat">
+		<text>Mira 4,0x de Galil</text>
+	</string>
+	<string id="st_addon_scope_galil">
+		<text>Mira 4,0x de Galil</text>
+	</string>
+	<string id="st_addon_scope_galil_descr">
+		<text>Un visor óptico de potencia fija diseñado para su uso en fusiles Galil, que cuenta con una retícula iluminada de tritio para una mejor visibilidad en condiciones de poca luz. Su diseño prismático ofrece una excelente claridad y durabilidad robusta, lo que lo convierte en una opción de fiar para el combate a media distancia y el tiro de precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n %c[d_cyan] • %c[ui_gray_2]Aumentos: %c[ui_gray_1]4,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_kobra">
+		<text>Kobra EKP-1S-03</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>Una mira réflex rusa conocida por su durabilidad y cuatro retículas seleccionables. Proporciona una visión rápida con un diseño robusto ideado para condiciones del campo de batalla adversas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Axion
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_po4x34">
+		<text>PO4x34</text>
+	</string>
+	<string id="st_addon_scope_po4x34_descr">
+		<text>Una mira telescópica con aumento fijo de 4x de la era soviética con una distintiva retícula telemétrica. Diseñada para fusiles de tirador designado, ofrece una precisión fiable en enfrentamientos a media distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[pda_white] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>Una variante avanzada de la PSO-1M con revestimientos de lente mejorados y una mayor resistencia a las inclemencias medioambientales. Conserva el diseño de retícula clásico para disparos precisos a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica Estatal de Instrumentos Ópticos NPZ
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_pu">
+		<text>PU</text>
+	</string>
+	<string id="st_addon_scope_pu_descr">
+		<text>Una mira compacta y robusta diseñada originalmente para los fusiles de francotirador soviéticos que ofrece aumentos fijos y una retícula simple pero eficaz para apuntar a larga distancia. Conocida por su durabilidad y facilidad de uso, es una opción popular para tiradores que usan fusiles más antiguos en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]3,5x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_zf4">
+		<text>ZF4</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>Una mira de 4x aumentos alemana de la Segunda Guerra Mundial diseñada para fusiles de francotirador que tiene una retícula sencilla y una construcción robusta. Se utilizó mucho en los fusiles Kar 98k para enfrentamientos a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania nazi
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Voigtländer
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2,0x
+		\n</text>
+	</string>
+	
+	<string id="st_addon_scope_cmore">
+        <text>C-More Tactical</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+		<text>Una mira réflex compacta conocida por su construcción de polímero ligera y su amplio campo de visión. Es popular para el tiro competitivo y aplicaciones tácticas que requieren enfrentamientos rápidos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]C-More Systems
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n</text>
+    </string>
+	
+	<string id="st_addon_scope_ac11090">
+        <text>AC11090</text>
+    </string>
+    <string id="st_addon_scope_ac11090_descr">
+		<text>Una mira réflex ligera y compacta diseñada para una rápida localización de objetivos que cuenta con una retícula iluminada clara para un mejor apuntado en enfrentamientos a corta y media distancia. Su construcción robusta y su brillo ajustable la convierten en una opción fiable para escenarios tanto de supervivencia como tácticos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Barska
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2,0x
+		\n</text>
+    </string>
+
+	<string id="st_addon_trijicon_acog">
+		<text>ACOG TA47</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>Una versión de menor aumento de la serie ACOG, diseñada para una localización de objetivos más rápida, a la vez que proporciona cierto aumento para enfrentamientos a media distancia. Cuenta con iluminación de fibra óptica y tritio para su uso en cualquier condición lumínica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Trijicon
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2,0x
+		\n</text>
+	</string>
+
+
+
+	<string id="st_addon_sil_45">
+		<text>Silenciador de .45 ACP</text>
+	</string>
+	<string id="st_addon_sil_45_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] .45
+		
+		\n \nUn silenciador diseñado expresamente para armas de .45 ACP que reduce el ruido y el fogonazo para un mayor sigilo. Su diseño apto para velocidades subsónicas lo hace ideal para operaciones tácticas y encubiertas donde la discreción es crucial.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_57">
+		<text>Silenciador de 5,7 x 28</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 5,7 mm
+		
+		\n \nUn silenciador de ingeniería de precisión optimizado para armas de 5,7 x 28 mm, lo que reduce el ruido del disparo sin sacrificar el rendimiento balístico. Construido para usarse con proyectiles de alta velocidad, ofrece una reducción del ruido mejorada sin sacrificar la precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_6p9">
+		<text>Silenciador de 6P9</text>
+	</string>
+	<string id="st_addon_sil_6p9_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 9 mm
+		
+		\n \nUn silenciador expresamente para la pistola silenciada 6P9, diseñado para amortiguar considerablemente el sonido para operaciones encubiertas. Su construcción robusta le permite soportar muchos disparos con una mínima fuga de sonido, lo que lo hace muy eficaz para enfrentamientos sigilosos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n</text>
+	</string>
+
+	<string id="st_addon_sil_9a91">
+		<text>Silenciador de 9A-91/VSK-94</text>
+	</string>
+	<string id="st_addon_sil_9a91_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 9 x 39 mm
+		
+		\n \nUn silenciador especializado para el fusil de asalto compacto 9A-91 y la variante de francotirador VSK-94, que garantiza ruido y fogonazo reducidos. Aumenta las capacidades de sigilo sin afectar significativamente al rendimiento del arma, lo que lo hace ideal para misiones urbanas y de reconocimiento.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_9mm">
+		<text>Silenciador de 9 mm</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 9 mm
+		
+		\n \nUn silenciador versátil diseñado para armas de 9 mm que ofrece una supresión de ruido eficaz para pistolas, subfusiles y algunas carabinas. Su diseño compacto y ligero garantiza un impacto mínimo sobre el manejo del arma a la par que mejora la efectividad táctica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Varios
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_aps">
+		<text>Silenciador de APS</text>
+	</string>
+	<string id="st_addon_sil_aps_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 9 mm
+		
+		\n \nUn silenciador diseñado específicamente para la pistola ametralladora APS, que permite su funcionamiento con un nivel de ruido reducido. Su ingeniería única la convierte en una herramienta excepcional pero valiosa para las fuerzas de operaciones especiales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_atg">
+		<text>Silenciador ATG</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 5,56 mm, 7,62 mm
+		
+		\n \nUn silenciador de alto rendimiento diseñado para aplicaciones tácticas, que equilibra la supresión del ruido con un impacto mínimo en la precisión y el retroceso. Su construcción robusta y versátil lo convierte en la opción preferida tanto para unidades militares como policiales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_gemtech">
+		<text>Silenciador GemTech</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 9 mm, .45
+		
+		\n \nUna marca conocida de silenciadores que ofrece diseños ligeros y duraderos, diseñados para una reducción de ruido superior en diversos calibres. Sus materiales avanzados y su sistema de amortiguadores lo convierten en una opción fiable para tiradores profesionales y operadores tácticos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_kzrzp">
+		<text>Silenciador KZRZP</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 7,62 mm
+		
+		\n \nUn silenciador de fabricación rusa diseñado para las fuerzas especiales y optimizado para munición subsónica y estándar. Construido para ser duradero y eficaz, ofrece una excelente reducción del ruido en combate y misiones de reconocimiento.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_nato">
+		<text>Silenciador OTAN</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] .45, 5,56 mm, 7,62 mm
+		
+		\n \nUn silenciador estandarizado usado por las fuerzas de la OTAN, diseñado para ser compatible con un amplio abanico de armas militares. Diseñado para soportar condiciones del campo de batalla adversas, garantiza una reducción del ruido eficaz sin sacrificar la durabilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[pda_white] Origen: %c[ui_gray_1]Bélgica
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs1">
+		<text>Silenciador PBS-1</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 7,62 mm
+		
+		\n \nUn silenciador de diseño soviético creado específicamente para fusiles de tipo AK, que reduce el sonido y el fogonazo cuando se usa con munición subsónica. Su construcción robusta garantiza la fiabilidad en situaciones de combate prolongadas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs4">
+		<text>Silenciador PBS-4</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 5,45 mm
+		
+		\n \nUna evolución más moderna de la serie PBS diseñada para usarse con fusiles AK-74, que proporciona una reducción de ruido superior sin sacrificar la precisión del arma. Es muy utilizado por fuerzas especiales para operaciones orientadas al sigilo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_sr25">
+		<text>Silenciador de SR-25</text>
+	</string>
+	<string id="st_addon_sil_sr25_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 7,62 mm
+		
+		\n \nUn silenciador de ingeniería de precisión diseñado para el fusil de tirador SR-25, que mantiene la precisión a la vez que reduce considerablemente el ruido. Su avanzado sistema de amortiguadores minimiza el retroceso y el fogonazo, lo que lo hace ideal para enfrentamientos a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_tgp-a">
+		<text>Silenciador TGP-A</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 5,45 mm
+		
+		\n \nUn silenciador ruso diseñado para reducir el ruido y el fogonazo con diversos calibres de fusil. Conocido por su diseño simple pero eficaz, se suele usar en aplicaciones militares que precisan sigilo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n</text>
+	</string>
+	
+	<string id="st_addon_sil_vihr">
+		<text>Silenciador de SR-3M</text>
+	</string>
+	<string id="st_addon_sil_vihr_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 9 x 39 mm
+		
+		\n \nUn silenciador personalizado construido para el fusil de asalto compacto SR-3M y diseñado para aumentar el sigilo en el combate en espacios cerrados. Se integra a la perfección con el arma, garantizando una supresión de ruido eficaz sin sacrificar la maniobrabilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n</text>
+	</string>
+	
+	<string id="st_addon_silencer">
+		<text>Silenciador de fusil de pequeño calibre del Ejército de EE. UU.</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] 5,56 mm
+		
+		\n \nUn silenciador de grado militar diseñado para su uso con fusiles de pequeño calibre, que reduce tanto el ruido como la firma acústica del cañón para una mayor discreción en el campo de batalla. Diseñado para ofrecer durabilidad y un uso prolongado, mejora la eficacia táctica en operaciones encubiertas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n</text>
+	</string>
+	
+	<string id="st_addon_silencer_svu">
+		<text>Silenciador de SVU</text>
+	</string>
+	<string id="st_addon_silencer_svu_descr">
+		<text>%c[ui_gray_1]COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] Fusiles SVU
+		
+		\n \nUn silenciador especializado fabricado para el fusil de francotirador bullpup SVU, diseñado para reducir significativamente el ruido y conservar precisión a larga distancia. Su integración con el fusil garantiza una amortiguación eficaz del sonido sin afectar a la trayectoria ni la precisión del proyectil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n</text>
+	</string>
+	
+</string_table>

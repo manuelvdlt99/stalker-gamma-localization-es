@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+	<string id="st_wpn_beretta_px4">
+		<text>Beretta Px4 Storm</text>
+	</string>
+	<string id="st_wpn_beretta_px4_descr">
+		<text>Una pistola semiautomática moderna conocida por su funcionamiento de cañón rotativo, que mejora la precisión y reduce el retroceso. Diseñada para uso militar, policial y civil, cuenta con un armazón ligero de polímero, controles ambidiestros y opciones modulares de pistolete para una mayor ergonomía. Su combinación de durabilidad, funcionamiento suave y adaptabilidad la convierte en una opción de fiar para aplicaciones de autodefensa y tácticas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Italia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Beretta
+		\n</text>
+	</string>
+	
+	<string id="st_up_px4_a1_name">
+		<text>Cambio de calibre a .45 ACP</text>
+	</string>
+	<string id="st_up_px4_a1_descr">
+		<text>Cambia el calibre del arma a .45 ACP.</text>
+	</string>
+
+
+
+</string_table>

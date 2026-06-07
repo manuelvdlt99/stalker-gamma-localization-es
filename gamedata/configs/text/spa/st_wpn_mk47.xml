@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_mk47">
+		<text>Mk. 47 Mutant</text>
+	</string>
+	<string id="st_wpn_mk47_custom">
+		<text>Mk. 47 Mutant</text>
+	</string>
+	<string id="st_wpn_mk47_descr">
+		<text>Un fusil estilo AR-15 de fabricación estadounidense compatible con cargadores de AK de 7,62 mm. El fusil tiene bastante compatibilidad con piezas de AR-15 y, por lo general, acepta los mismos accesorios.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Central Missouri Machine Guns
+		\n</text>
+	</string>
+
+</string_table>

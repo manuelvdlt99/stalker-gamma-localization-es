@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_wpn_mp133">
+		<text>MP-133</text>
+	</string>
+	<string id="st_wpn_mp133_descr">
+		<text>La MP-133, una evolución de la anterior escopeta de corredera IZh-81, estaba pensada para los mercados de seguridad y civil como arma de caza y autodefensa fiable y práctica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+	</string>
+
+	<string id="st_wpn_mp153">
+		<text>MP-153</text>
+	</string>
+	<string id="st_wpn_mp153_descr">
+		<text>La MP-153, la primera escopeta semiautomática diseñada y fabricada por la Planta Mecánica de Izhevsk, es una de las escopetas semiautomáticas más populares de origen ruso y se usa mucho en la caza. Desarrollada junto a la escopeta de corredera MP-133, comparte muchas de sus piezas y es conocida por su fiabilidad y construcción robusta y sólida.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+	</string>
+
+    <string id="st_wpn_mp153_m1">
+        <text>MP-153 «Carabinera»</text>
+    </string>
+    <string id="st_wpn_mp153_m1_descr">
+		<text>La MP-153, la primera escopeta semiautomática diseñada y fabricada por la Planta Mecánica de Izhevsk, es una de las escopetas semiautomáticas más populares de origen ruso y se usa mucho en la caza. Desarrollada junto a la escopeta de corredera MP-133, comparte muchas de sus piezas y es conocida por su fiabilidad y construcción robusta y sólida. La «Carabinera» incluye un freno de boca y un riel Picatinny.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+    </string>
+<string id="st_wpn_ks23_vorkuta">
+        <text>KS-23M «Vorkutá»</text>
+    </string>
+    <string id="st_wpn_ks23_vorkuta_descr">
+		<text>En esencia, la KS-23 es una «escopeta» de corredera y accionamiento manual que dispara proyectiles únicos de 23 mm. Sin embargo, aunque su aspecto se asemeja al de una escopeta, los rusos designaron la KS-23 como una «carabina especial» debido a su cañón estriado de 700 mm en comparación con los cañones de ánima lisa de las escopetas convencionales. La «Vorkutá» es una versión más grande de la KS-23 que cuenta con un cañón reducido de 700 mm y un pistolete en lugar de la culata estándar. La «Vorkutá» cuenta con un cañón roscado para acoplarle un silenciador y una mira PU acoplable para combates a mayor distancia. El nombre del arma sugiere que su origen podría ser la ciudad homónima.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n</text>
+    </string>
+	
+
+	
+</string_table>

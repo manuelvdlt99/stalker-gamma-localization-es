@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_addon_scope_chs">
+		<text>Visor de asa de transporte de AR-15</text>
+	</string>
+	<string id="st_addon_scope_chs_descr">
+		<text>%c[0.255.255.255]PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]3x
+		\n</text>
+	</string>
+
+	<string id="st_addon_scope_acog2x">
+		<text>ACOG 2x</text>
+	</string>
+	<string id="st_addon_scope_acog2x_descr">
+		<text>%c[0.255.255.255]PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Trijicon
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]2x
+		\n</text>
+	</string>
+
+	<string id="st_addon_scope_aim_2k">
+		<text>Aimpoint 2000</text>
+	</string>
+	<string id="st_addon_scope_aim_2k_descr">
+		<text>%c[0.255.255.255]PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suecia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Aimpoint
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1x
+		\n</text>
+	</string>
+	
+</string_table>

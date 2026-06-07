@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_wpn_colt1911_classic">
+		<text>Colt M1911 «Clásica»</text>
+	</string>
+	<string id="st_wpn_colt1911_classic_s">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_classic_descr">
+		<text>Esta es la Colt 1911 original, creada por John Moses Browning en 1910 y patentada el año siguiente, de ahí la designación de 1911. Entró en servicio en 1913 y es considerada la primera pistola de autocarga exitosa, capaz de disparar al menos 1000 cartuchos de .45 ACP sin fallos. Se sabe que es una 1911 clásica y no una 1911A1 por la ventana de expulsión más pequeña, el gatillo más largo y, sobre todo, por las empuñaduras con forma de diamante. Solo tiene cargadores de 7 cartuchos, cuenta bien las balas. Gracias al mercado negro que se practica en la Zona se puede conseguir un clásico como este, aunque podrían haberlo modificado un poco, buena suerte averiguándolo. Si quieres precisión con un calibre potente y sin demasiado retroceso, esta podría ser la mejor opción, pero es mejor usarla como arma de repuesto en todo caso, ya que no hay manera de acoplarle un silenciador.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+
+	<string id="st_wpn_colt1911a1">
+		<text>Colt M1911A1</text>
+	</string>
+	<string id="st_wpn_colt1911a1_descr">
+		<text>Una mejora de la 1911 ante las quejas durante la Primera Guerra Mundial y después de esta. Se reintrodujo en las Fuerzas Armadas estadounidenses en 1924. Un gran problema que tenía la 1911 era el martillo: como la protección era demasiado pequeña, había muchas posibilidades de sufrir «picotazos del martillo». Por tanto, se alargó la protección. También se cambió el seguro de empuñadura para que fuese más ergonómico; tiene un recorte cerca del armazón para ayudar con diferentes formas de mano, un gatillo más pequeño para aplicar menos fuerza, miras más anchas y empuñaduras a cuadros simplificadas. Algunos de estos cambios, como el nuevo seguro de empuñadura y el gatillo, son polémicos, pero la protección del martillo y las miras son una gran mejora. Es imposible equivocarse con esta pistola, aunque algunos prefieren la 1911 original y averiguan la forma de evitar sus defectos, como empuñarla con una mano para evitar los picotazos del martillo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+
+	<string id="st_wpn_colt1911_tokarev">
+		<text>Colt M1911 por encargo ruso</text>
+	</string>
+	<string id="st_wpn_colt1911_tokarev_descr">
+		<text>Una «versión rusa» de la 1911. La única diferencia es que tiene marcas distintas, pero parece ser una variante antigua sin sello cirílico que indique que es la versión encargada desde EE. UU. a Rusia. Es idéntica a la 1911, pero con una diferencia clave: el cargador y el cañón están ligeramente modificados, y cualquier técnico puede modificarlos aun más para cambiar el calibre de .45 ACP a 7,62 x 25 mm Tókarev.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+
+	<string id="st_up_add_colttokarev_name">
+		<text>Cambio de calibre a 7,62 x 25 mm</text>
+	</string>
+
+	<string id="st_up_add_colt695_name">
+		<text>Cambio de calibre a 9 x 19 mm</text>
+	</string>
+
+	<string id="st_wpn_sw645">
+		<text>Smith &amp; Wesson 645</text>
+	</string>
+	<string id="st_wpn_sw645_descr">
+		<text>La Smith &amp; Wesson Modelo 645 es una pistola compacta de .45 ACP fabricada en 1985 y descatalogada en 1988. A pesar de ello, mucha gente del mercado negro es capaz de conseguirla, por no hablar de hasta fabricarlas ilegalmente. La S&amp;W 645 está hecha casi en su totalidad de acero inoxidable, por lo que es extremadamente resistente a las inclemencias meteorológicas. Como es muy fácil hacerlo, cualquier técnico puede cambiar el calibre a 9 x 19 mm, convirtiéndola en una S&amp;W Modelo 659. En general, una buena pistola de repuesto si necesitas menos peso y mejor combate en espacios cerrados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Smith &amp; Wesson
+		\n</text>
+	</string>
+
+	<string id="st_wpn_m45">
+		<text>Colt M45</text>
+	</string>
+	<string id="st_wpn_m45_descr">
+		<text>Una variante moderna de la M1911. Esta es la pistola reglamentaria de la Fuerza de Reconocimiento de las Unidades Expedicionarias del Cuerpo de Marines de los Estados Unidos desde 1985. Esta idea de una 1911 mejorada viene de finales de los ochenta, de parte del coronel de los Marines Robert Young. Es básicamente una M1911A1 construida con piezas de muchos fabricantes, puesto que la corredera es de Springfield Armory, el retén del cargador de Wilson Combat y todo lo demás de Nowlin Manufacturing. Aunque suene a «monstruo de Frankenstein», resulta ser una pistola agradable a la vista y bastante mejor que la 1911. Los mercenarios la prefieren por el hecho de que es muy personalizable, las mejoras se traducen en bonficiaciones.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Springfield Armory
+		\n</text>
+	</string>
+
+	<string id="st_wpn_m45a1">
+		<text>Colt M45A1</text>
+	</string>
+	<string id="st_wpn_m45a1_descr">
+		<text>Una variante moderna de la M1911 y una mejora con respecto a la M45. Esta es la pistola reglamentaria de la Fuerza de Reconocimiento de las Unidades Expedicionarias del Cuerpo de Marines de los Estados Unidos desde 1985. En comparación con la M45, las mejoras de la M45A1 son el sistema de doble muelle recuperador que distribuye la fuerza de retroceso del .45 ACP reduciendo la fuerza máxima del impulso de retroceso, las miras nocturnas de tritio rojo de 3 puntos, un cañón National Match de 127 mm, seguro ambidiestro, riel Picatinny para el armazón y un acabado Cerakote en color canela. Uno se pregunta cómo encaja el acabado Ceratoke de color canela en la Zona, pero puede que sea el orgullo de un mercenario.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Springfield Armory
+		\n</text>
+	</string>
+
+	<string id="st_wpn_svi">
+		<text>Strayer-Voigt Infinity</text>
+	</string>
+	<string id="st_wpn_svi_s">
+		<text>SVI 2011</text>
+	</string>
+	<string id="st_wpn_svi_descr">
+		<text>Strayer-Voigt Inc. es un fabricante de pistolas modulares de estilo M1911. Esto incluye especialmente a la propia Strayer-Voigt Infinity, abreviada SVI. Se trata de una pistola comercializada para el tiro deportivo, por lo que es bastante cara y escasa, ya que no está al alcance de cualquier ejército o ciudadano medio con armas. ¿Cómo ha llegado siquiera a la Zona? Sin duda, de esos vistosos mercenarios estadounidenses. La pistola como tal tiene la enorme ventaja de tener su propio cargador Strayer-Voigt, que contiene 15 cartuchos. También se ha modificado internamente para que dispare en ráfagas de 3 tiros con una gran cadencia. Ah, y si con eso no quedas satisfecho, lo estarás con las miras de tritio, puesto que son azules. Sin embargo, no esperes la fiabilidad de la 1911 clásica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Strayer-Voigt
+		\n</text>
+	</string>
+
+	<string id="st_wpn_coonan357">
+		<text>Coonan .357 Magnum Compact</text>
+	</string>
+	<string id="st_wpn_coonan357_s">
+		<text>Coonan .357</text>
+	</string>
+	<string id="st_wpn_coonan357_descr">
+		<text>La Coonan .357 Magnum es una peculiar pistola semiautomática que dispara cartuchos de .357 Magnum desde el chasis de una Colt 1911. Esto es posible cambiando el cañón, la corredera, la empuñadura y el cargador para aceptar el cambio de calibre. Por lo que parece, llegó a la Zona gracias a... un grupo siniestro. Es un misterio como la consiguieron, pero, por lo descuidada, contrastada y rota que parece, podría hasta ser una copia ilegal de la Coonan original. Lamentablemente, el arma no sobresale por su puntería, pero el retroceso es tolerable (siempre y cuando no dispares rápido) y el manejo es genial. Una de las principales ventajas de usar esta en lugar de otras pistolas de .357 como la Desert Eagle es la portación oculta, el peso y un mejor combate en espacios cerrados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Coonan Arms
+		\n</text>
+	</string>
+
+</string_table>

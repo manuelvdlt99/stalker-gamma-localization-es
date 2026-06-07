@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_mp7">
+		<text>MP7</text>
+	</string>
+	<string id="st_wpn_mp7_descr_new">
+		<text>Un arma de defensa personal diseñada para una alta movilidad y eficacia en espacios cerrados. Con un armazón ligero de polímero, bajo retroceso y una alta cadencia de tiro, permite una rápida localización de objetivos y un control superior. Su diseño modular acepta diversos accesorios, lo que la convierte en una opción versátil para fuerzas especiales, fuerzas del orden y personal de seguridad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+
+	<string id="story_line_dialog_1">
+		<text>Aquí están las coordenadas de la anomalía. Escanéalas con tu detector. Las muestras en las que estoy interesado deberían estar ahí.</text>
+	</string>
+	<string id="story_line_answer_1">
+		<text>Entendido.</text>
+	</string>	
+	<string id="story_line_dialog_2">
+		<text>Como ya habrás deducido, trabajo en un grupo científico del Instituto Científico de Investigación de la Zona Anómala de Chernóbil. Los artefactos son invisibles al ojo humano, pero los detectores pueden detectar la frecuencia que emiten.</text>
+	</string>
+	<string id="story_line_answer_2">
+		<text>Ya, lo sé.</text>
+	</string>	
+	<string id="story_line_dialog_3">
+		<text>Cada artefacto irradia energía con su propia frecuencia única. Es como una huella, la firma de un autor en un cuadro. Cuanto más amplia sea la base de datos del detector y mayor el espectro de escaneo, más artefactos podrá detectar. Por norma general, los stalkers buscan artefactos con propiedades excepcionales. Mientras tanto, cualquier muestra de anomalías es de enorme interés para la ciencia.</text>
+	</string>
+	<string id="story_line_answer_3">
+		<text>Muy interesante.</text>
+	</string>	
+	<string id="story_line_dialog_4">
+		<text>Como sabrás, Strelok logró destapar el secreto detrás de la creación de la Zona. Ahora, esta información está al alcance de muchos científicos. Esto nos ha hecho avanzar mucho en la comprensión de la asombrosa naturaleza de las anomalías y de cómo afectan al medioambiente y a los seres vivos. De hecho, así es como algunos grupos de investigación crearon los fundidores de artefactos, una herramienta que permite fusionar y potenciar los artefactos existentes. Pero, en estos momentos, estamos recopilando una base de datos con observaciones y mediciones prácticas de campo. No es que sea trabajo fácil. Por eso buscamos asistentes entre los stalkers libres.</text>
+	</string>
+	<string id="story_line_answer_4">
+		<text>A cambio de una recompensa digna, claro está.</text>
+	</string>	
+	<string id="story_line_dialog_5">
+		<text>Sin duda... La ruptura de la noosfera, que todo el mundo conoce como la segunda explosión, provocó la creación de la zona anómala. Las líneas de fuerza de los campos psíquicos envuelven este territorio como tentáculos. Todos los objetos que se encuentran dentro de la Zona quedan bajo su influencia. Incluso tú estás marcado por la Zona. Los artefactos son un regalo increíble que no todo el mundo puede apreciar. Y no hablo del dinero que valen. Los artefactos son los mensajeros de la Zona, que se comunica con nosotros a través de ellos. Por eso los necesitamos tanto: para comprender mejor la Zona.</text>
+	</string>
+	<string id="story_line_answer_5">
+		<text>Ahórrese la charla de cerebritos, por favor... Los artefactos no se pueden untar en el pan, ¿sabe usted?</text>
+	</string>	
+	<string id="story_line_dialog_6">
+		<text>Por último, pero no menos importante, cada artefacto tiene una modulación única, aunque sean del mismo tipo. Nos pueden decir mucho sobre la noosfera. Lo más estúpido que se puede hacer es colgarlos del cinturón y esperar que te salven de las balas o las anomalías Solo ahora estamos llegando a la respuesta, y nuestro plan es elaborar un espectrograma completo de la Zona. Para ello, tendremos que recorrer los cuatro rincones de la Zona.</text>
+	</string>
+	<string id="story_line_answer_6">
+		<text>Y ¿qué cree que hago? ¿Escribir una tesis doctoral todo el día?</text>
+	</string>	
+	<string id="story_line_dialog_7">
+		<text>¿Alguna vez te has preguntado de qué están hechos los artefactos? La mayoría de las veces, son los restos de criaturas vivas que se toparon con anomalías. Así que la próxima vez que decidas presumir de un hallazgo raro, recuerda que podrían ser los restos de otro stalker. O de un jabalí, quién sabe.</text>
+	</string>
+	<string id="story_line_answer_7">
+		<text>Eso... es un dato muy útil. Gracias. Procuraré acordarme.</text>
+	</string>	
+	<string id="story_line_dialog_8">
+		<text>Se cree que las anomalías son una especie de rupturas en el espacio-tiempo, donde las leyes físicas de nuestro mundo dejan de aplicarse. Pero existe otro punto de vista, según el cual se trata de una poderosa fuente de señales que simplemente no podemos recibir. ¿Quién las transmite, o por qué? ¿O tal vez es solo una tapa de cacerola que traquetea sobre el caldo hirviendo?</text>
+	</string>	
+	<string id="story_line_answer_8">
+		<text>Lo principal es que no vuelva a explotar.</text>
+	</string>	
+	<string id="story_line_dialog_9">
+		<text>Una anomalía suele seleccionar muestras orgánicas como receptoras de información. Por ejemplo, las bestias salvajes o los zombis que suelen perecer en ellas. Así es como aparecen los artefactos. Si conoces el lugar exacto de origen del artefacto, puedes leerlo como un libro o como un pendrive.</text>
+	</string>
+	<string id="story_line_answer_9">
+		<text>Espero que no se les haya ocurrido lanzar cualquier cosa a las anomalías.</text>
+	</string>	
+	<string id="story_line_dialog_10">
+		<text>No compramos artefactos a stalkers o bandidos. Sin conocer su punto exacto de origen, nos son inútiles. Nuestro cometido es recoger muestras de cada rincón de la Zona.</text>
+	</string>	
+	<string id="story_line_answer_10">
+		<text>Entendido.</text>
+	</string>	
+	<string id="story_line_dialog_11">
+		<text>Cada artefacto, incluso del mismo tipo, tiene una radiación única que depende donde se encontró. La Zona ha dejado una huella única en cada uno de ellos que no puede confundirse con ninguna otra cosa. Si conocemos todo el espectro de emisiones, podremos cartografiar los campos psiónicos de la Zona. Conocer los orígenes de esas perturbaciones que dieron lugar a la Zona. Y, quizás, hasta controlarlas o predecir cómo cambian.</text>
+	</string>	
+	<string id="story_line_answer_11">
+		<text>Planes ambiciosos. Pero nos sería de gran utilidad.</text>
+	</string>	
+	<string id="story_line_dialog_12">
+		<text>Gracias a ti, nuestro equipo informático está ocupado con cálculos las 24 horas del día. Hay suficiente información para años de análisis. Fue la decisión correcta, a pesar de los riesgos, repartir el equipo por todo el territorio. Nuestro líder, el académico Skabinski, actuó en este caso con gran visión de futuro. Es imposible que una sola persona pueda comprender una estructura tan vasta en su totalidad. Solo alcanzaremos el éxito aunando nuestras habilidades cognitivas.</text>
+	</string>	
+	<string id="story_line_answer_12">
+		<text>Me alegro por usted.</text>
+	</string>	
+	<string id="story_line_dialog_13">
+		<text>Gracias por quedarte con nosotros. Los stalkers que nos ayudan suelen desaparecer constantemente. El análisis preliminar del espectrograma está lleno de sorpresas. Parece que el centro de la Zona ha estado delante de nuestras narices todo este tiempo. Nuestro compañero no podía esperar a los cálculos definitivos y ya se ha trasladado allí. Pero yo sigo inclinado a terminar de elaborar el mapa. Aún me quedan algunas muestras.</text>
+	</string>	
+	<string id="story_line_answer_13">
+		<text>Esto nunca acaba.</text>
+	</string>	
+	<string id="story_line_dialog_14">
+		<text>Nuestro trabajo está llegando a su fin. Pronto demostraremos que somos dignos de ocupar nuestro lugar... ¿Sabes que hay una gigaanomalía en el centro de la Zona y que todas las líneas psíquicas se cruzan allí? Un artefacto nacido en este lugar especial poseerá propiedades únicas. La Zona por fin nos hablará.</text>
+	</string>	
+	<string id="story_line_answer_14">
+		<text>¿«Nos»?</text>
+	</string>	
+	<string id="story_line_dialog_15">
+		<text>Malas noticias. Nuestro hermano ha dejado de comunicarse con nosotros. No tenemos razones para pensar bien; seguramente haya muerto. Hay una gigaanomalía en el centro de la Zona. Atravesarla es casi imposible. Tendremos que pensar cómo resolver este problema; quizá debamos refinar los cálculos.</text>
+	</string>	
+	<string id="story_line_answer_15">
+		<text>En la Zona, siempre tienes que pensar antes de actuar.</text>
+	</string>	
+	
+</string_table>

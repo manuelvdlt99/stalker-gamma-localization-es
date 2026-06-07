@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="st_wpn_m24_new">
+		<text>M24 SWS</text>
+	</string>
+	<string id="st_wpn_m24_new_short">
+		<text>M24 SWS</text>
+	</string>
+	<string id="st_wpn_m24_new_descr">
+		<text>El M24 Sniper Weapon System (SWS), un fusil de francotirador del Ejército de los EE. UU., está basado en el Remington 700. Con una mira Leupold de 10 x 40 mm, el M24 tiene un cañón de acero inoxidable y una culata compuesta ajustable hecha de kevlar y grafito.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Remington
+		\n</text>
+	</string>
+</string_table>

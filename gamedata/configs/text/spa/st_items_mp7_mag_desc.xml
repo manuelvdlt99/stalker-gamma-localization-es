@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="st_mag_mp7_5.7x28_ss190">
+		<text>Cargador modificado de 5,7 x 28 mm de MP7</text>
+	</string>
+	<string id="st_mag_mp7_5.7x28_ss190_descr">
+		<text>Cargador ampliado de 40 cartuchos de MP7 modificado para aceptar cartuchos de 5,7 x 29 mm. Debido a la relativa escasez de munición 4,6 x 30, algunos técnicos ingeniosos lograron adaptar el MP7 para que disparara balas de pistola de 5,7 mm más comunes.</text>
+	</string>	
+</string_table>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    <string id="st_alarm_system">
+        <text>Sistema de alarma</text>
+    </string>
+    <string id="st_alarm_system_descr">
+		<text>Módulo de defensa improvisado montado con chatarra de la Zona. No es bonito ni silencioso, pero gana valiosos segundos cuando se vulnera el perímetro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	<string id="st_artifact_harvester">
+		<text>Recolector de artefactos</text>
+	</string>
+	<string id="st_artifact_harvester_descr">
+		<text>Un dispositivo para recolectar diferentes artefactos para obtener recursos. Los artefactos pierden su estado mientras generan recursos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_white] Artefactos compatibles: %c[ui_gray_1]pan anómalo, Burbuja, Cristal, Lámpara de la Muerte, Bola de Fuego, Llama, Gravi, Trozo de Carne, Pin, Copo de Nieve, Esponja
+		\n</text>
+	</string>
+	<string id="st_pegboard">
+		<text>Tablero de armas</text>
+	</string>
+	<string id="st_pegboard_descr">
+		<text>Un tablero de clavijas que puede exhibir hasta tres armas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	<string id="st_pegboard_pistol">
+		<text>Tablero de pistolas</text>
+	</string>
+	<string id="st_pegboard_pistol_descr">
+		<text>Un tablero de clavijas que puede exhibir hasta nueve pistolas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	<string id="st_headgear_display">
+		<text>Expositor de cascos</text>
+	</string>
+	<string id="st_headgear_display_descr">
+		<text>Un expositor para cascos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+    <string id="st_trading_computer">
+		<text>Ordenador de comerciante</text>
+	</string>
+	<string id="st_trading_computer_descr">
+		<text>Un ordenador que te permite contactar con los comerciantes locales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	<string id="st_trading_computer_title">
+        <text>Ordenador de comerciante</text>
+    </string>
+    <string id="st_trading_computer_hint_select">
+        <text>Selecciona un comerciante y pulsa Comerciar.</text>
+    </string>
+    <string id="st_trading_computer_hint_no_traders">
+        <text>No hay comerciantes disponibles.</text>
+    </string>
+    <string id="st_trading_computer_count">
+        <text>Comerciantes encontrados: %d</text>
+    </string>
+    <string id="st_trading_computer_btn_trade">
+        <text>Comerciar</text>
+    </string>
+    <string id="st_trading_computer_btn_refresh">
+        <text>Actualizar</text>
+    </string>
+    <string id="st_trading_computer_btn_close">
+        <text>Cerrar</text>
+    </string>
+    <string id="st_trading_computer_entry_format">
+        <text>%d. [%s] %s [%d m]</text>
+    </string>
+    <string id="st_trading_computer_role_medic">
+        <text>Médico</text>
+    </string>
+    <string id="st_trading_computer_role_scientist">
+        <text>Científico</text>
+    </string>
+    <string id="st_trading_computer_role_technician">
+        <text>Técnico</text>
+    </string>
+    <string id="st_trading_computer_role_barman">
+        <text>Tabernero</text>
+    </string>
+    <string id="st_trading_computer_role_trader">
+        <text>Comerciante</text>
+    </string>
+</string_table>
+
+

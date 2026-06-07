@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+    <string id="ui_catsy_text_bullet_item">
+        <text>
+		\n%s • %s%s</text>
+    </string>
+
+    <string id="ui_catsy_text_crlf">
+        <text>
+		\n%s</text>
+    </string>
+
+    <string id="ui_fft_tutorial_clicknext">
+        <text>Haz clic en $clr_gldSiguiente$clr_def%s.</text>
+    </string>
+
+    <string id="ui_mcm_npe_module_fft_tutorial">
+        <text>Fair Fast Travel</text>
+    </string>
+
+    <string id="ui_mcm_npe_module_fft_tutorial_title">
+        <text>Tutoriales del viaje rápido</text>
+    </string>
+
+    <string id="ui_mcm_npe_module_fft_tutorial_fft_tut_travel_unlocked">
+        <text>Resumen del viaje rápido</text>
+    </string>
+
+    <string id="ui_fft_tutorial_unlocked_title">
+        <text>Resumen del viaje rápido</text>
+    </string>
+
+    <string id="ui_fft_tutorial_card_01_title">
+        <text>Se ha desbloqueado el sistema de viaje rápido de Anomaly.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_01_content">
+        <text>%s
+		
+		\n \nDesde el menú principal: %s
+		
+		\n \n%s
+		
+		\n \nPara personalizar tus ajustes: %s
+		
+		\n \n%s</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_01_ft_state0">
+        <text>$ui_gray_1El viaje rápido está $clr_reddesactivado$ui_gray_1 en tus ajustes de jugabilidad, por lo que no te tendría ni que haber saltado el tutorial. Por favor, informa de este bug. Dicho esto, si lo activas, podrás hacer clic derecho sobre el mapa de tu PDA para viajar rápidamente de ubicación en ubicación.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_01_ft_state1">
+        <text>$ui_gray_1Ahora que has descubierto más de una ubicación en la Zona, puedes emplear este sistema para viajar rápidamente entre tu ubicación actual y $clr_gldcualquier punto de viaje que ya hayas visitado$ui_gray_1. Si prefieres viajar libremente a cualquier parte, puedes cambiarlo en los ajustes de Anomaly.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_01_ft_state2">
+        <text>$ui_gray_1Puedes emplear este sistema para viajar rápidamente entre tu ubicación actual y $clr_gldcualquier punto de viaje que ya hayas visitado$ui_gray_1. Tus ajustes actuales no te obligan a visitar una ubicación primero$ui_gray_1 para realizar un viaje rápido a ella, pero lo puedes cambiar en los ajustes de Anomaly si prefieres que sea más restrictivo.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_01_fft_intro">
+        <text>$ui_gray_1En tu lista de mods, todos los tipos de viaje rápido los gestiona el mod $clr_gldFair Fast Travel$ui_gray_1, así denominado porque todas sus funciones (incluidas todas las que se mencionan a continuación) son configurables en el MCM y pueden desactivarse o personalizarse a tu gusto.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_01_clicknext">
+        <text>para un resumen de cómo funciona</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_02_clicknext">
+        <text>para algunos consejos basados en tus ajustes actuales</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_cfg_mcm">
+        <text>
+		\n$clr_lblMenú de configuración de mods$clr_def &gt; $clr_lblFair Fast Travel
+		\n$clr_def</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_cfg_van">
+        <text>
+		\n$clr_lblAjustes$clr_def &gt; $clr_lblJugabilidad$clr_def &gt; $clr_lblViaje rápido
+		\n$clr_def</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_pdainfo_feat">
+        <text>$clr_lblGuía PDA$clr_def &gt; $clr_lblAjustes$clr_def &gt; $clr_lblJugabilidad$clr_def &gt; $clr_lblViaje rápido$clr_def)</text>
+    </string>
+
+    <string id="ui_fft_tutorial_card_02_title">
+        <text>Usar el viaje rápido</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_02_content">
+        <text>%s
+		
+		\n \n%s
+		
+		\n \n%s
+		
+		\n \n%s</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_02_ft_howto">
+        <text>$ui_gray_1Para utilizar el sistema de viaje rápido, $clr_gldhaz clic derecho en cualquier punto de viaje$ui_gray_1 que veas en el mapa de tu PDA y selecciona una de las $clr_gldopciones de viaje disponibles$ui_gray_1. Cada opción mostrará %s%scualquier restricción relevante.</text>
+    </string>
+
+
+    <string id="ui_fft_tut_ftunlocked_mapicon">
+        <text>$ui_gray_1Los puntos de viaje disponibles tendrán un $clr_gldicono especial$ui_gray_1 a la derecha. %s</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_travel_hazard_icons">
+        <text>Si un campo psíquico potente u otro peligro impide viajar a una ubicación, se indicará con un icono distinto.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_distdur">
+        <text>la distancia y duración del viaje, así como</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_payfare">
+        <text>la tarifa que debe pagarse y</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_travelbegins">
+        <text>$ui_gray_1Una vez hagas clic en la opción de viaje, tu viaje comenzará automáticamente tras un breve fundido a negro. %s</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_companions">
+        <text>Tus compañeros, de haberlos, viajarán contigo, a menos que les hayas dicho que esperen.</text>
+    </string>
+
+    <string id="ui_fft_tutorial_card_03_title">
+        <text>Antes de viajar, toma nota de lo siguiente:</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_03_content">
+        <text>%s
+		
+		\n \n%s 
+		\n%s
+		
+		\n \n%s</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_warn">
+        <text>\n%s</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_neverknow">
+        <text>$clr_gldPlanifica tu viaje al dedillo$ui_gray_1, nunca se sabe qué te puede estar esperando al otro lado. Viajar a ciegas a lugares sin asegurar es pedir una emboscada a gritos.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_enable_fare">
+        <text>$clr_gldLas tarifas de viaje rápido están activadas$ui_gray_1. Debes pagar $clr_gld%s %s$ui_gray_1 por metro de distancia para usar este servicio. Si no puedes pagar, no puedes viajar.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_enable_time">
+        <text>$clr_gldEl tiempo pasará durante el viaje rápido$ui_gray_1%s.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_survival_stats">
+        <text>, y puede que al final de un largo viaje te encuentres $clr_gldcon hambre o cansado$ui_gray_1</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_enable_gear">
+        <text>$clr_gldEl desgaste del equipo está activado$ui_gray_1: tu equipo podría sufrir una mínima pérdida de estado para $clr_gldsimular los efectos del viaje$ui_gray_1.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_enable_scorcher_icon">
+        <text>Esto se indicará con un icono especial rojo.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_enable_scorcher_on">
+        <text>Hasta que no avances en la historia principal y $clr_glddesactives el Cauterizador Cerebral$ui_gray_1, un peligroso campo psíquico $clr_gldimpedirá el viaje rápido$ui_gray_1 entre ciertas partes del norte y el sur del mapa. %s</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_travel_zones_friendly">
+        <text>Tus ajustes actuales solo te permiten iniciar el viaje si estás $clr_glddentro de una base amiga$ui_gray_1%s.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_travel_zones_ally">
+        <text>Tus ajustes actuales solo te permiten iniciar el viaje si estás $clr_glddentro de una base de tu propia facción$ui_gray_1%s.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_travel_zones_campfire">
+        <text>, o si estás $cld_gldal lado de una hoguera$ui_gray_1</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_guide_travel">
+        <text>Para superar o mitigar algunos de estos retos, plantéate aprovechar los $clr_gldviajes guiados$ui_gray_1 de pago o crear alijos para $clr_gldviajar a una mochila$ui_gray_1.</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_playyourway">
+        <text>Y, una vez más, puedes cambiar cualquiera de estas funciones a tu antojo en el MCM:</text>
+    </string>
+
+    <string id="ui_fft_tut_ftunlocked_ft_goodhunting">
+        <text>$clr_gld¡Buena caza, stalker!</text>
+    </string>
+
+    <string id="ui_mcm_npe_module_fft_tutorial_fft_tut_travel_psyblocked">
+        <text>Viaje bloqueado por campo psíquico</text>
+    </string>
+
+</string_table>

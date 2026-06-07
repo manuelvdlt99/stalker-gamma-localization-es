@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="st_wpn_uzi">
+		<text>IMI Uzi</text>
+	</string>
+	<string id="st_wpn_uzi_s">
+		<text>Uzi</text>
+	</string>
+	<string id="st_wpn_uzi_descr">
+		<text>El Uzi es un subfusil de cerrojo abierto y accionado por retroceso simple diseñado por el comandante Uziel «Uzi» Gal a finales de los años cuarenta.
+		\nFue una de las primeras armas en utilizar un diseño de cerrojo telescópico, que que permite insertar el cargador en el pistolete y acortar su longitud.
+		\nConstruido principalmente con chapa metálica estampada, el Uzi tiene relativamente pocas piezas móviles, lo que facilita su desmontaje para mantenimiento o reparación.
+		\nSe usa en todo el mundo como arma policial o de fuerzas especiales, y lo han fabricado Israel Military Industries, FN Herstal y otros conglomerados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n</text>
+	</string>
+
+	<string id="st_wpn_uzi_mini">
+		<text>IMI Mini Uzi</text>
+	</string>
+	<string id="st_wpn_uzi_mini_s">
+		<text>Mini Uzi</text>
+	</string>
+	<string id="st_wpn_uzi_mini_descr">
+		<text>El Mini Uzi es un subfusil de cerrojo abierto y accionado por retroceso simple introducido en 1980.
+		\nEs una versión compacta del famoso Uzi que, pese a su tamaño reducido, conserva la robustez y fiabilidad del original.
+		\nCon un cañón acortado y un mecanismo ligeramente modificado, el Mini Uzi tiene una cadencia de tiro automática mayor debido al cerrojo más corto.
+		\nEsta versión es especialmente popular para operaciones en entornos urbanos y espacios confinados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n</text>
+	</string>
+
+	<string id="st_wpn_uzi_micro">
+		<text>IMI Micro Uzi</text>
+	</string>
+	<string id="st_wpn_uzi_micro_s">
+		<text>Micro Uzi</text>
+	</string>
+	<string id="st_wpn_uzi_micro_descr">
+		<text>El Micro Uzi es un subfusil de cerrojo cerrado y accionado por retroceso simple introducido en 1986.
+		\nEs una versión extremadamente reducida del Uzi con un modelo de culata similar al del Mini Uzi.
+		\nCon un cañón reducido, un cerrojo más corto y una mayor cadencia cíclica, el Micro Uzi dispara con el cerrojo cerrado para mejorar la precisión en disparos individuales.
+		\nSe utilizó en varias fuerzas armadas y terminó siendo desbancada por la Uzi Pro en 2010.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n</text>
+	</string>
+
+
+	<string id="st_mag_uzi_9x19">
+		<text>Cargador de 20 cartuchos de 9 x 19 mm de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_9x19_s">
+		<text>Cargador de 20 cartuchos de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_9x19_descr">
+		<text>Cargador de 20 cartuchos para la familia de subfusiles Uzi. Estándar para las versiones Mini y Micro.</text>
+	</string>
+	<string id="st_mag_uzi_9x19_extended">
+		<text>Cargador de 32 cartuchos de 9 x 19 mm de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_9x19_extended_s">
+		<text>Cargador de 32 cartuchos de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_9x19_extended_descr">
+		<text>Cargador ampliado de 32 cartuchos para la familia de subfusiles Uzi. Estándar para la versión clásica.</text>
+	</string>
+	
+	<string id="st_mag_uzi_11.43x23">
+		<text>Cargador de 12 cartuchos de .45 ACP de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_11.43x23_s">
+		<text>Cargador de 12 cartuchos de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_11.43x23_descr">
+		<text>Cargador de 12 cartuchos para la familia de subfusiles Uzi. Modificado para aceptar cartuchos de .45 ACP.</text>
+	</string>
+	<string id="st_mag_uzi_11.43x23_extended">
+		<text>Cargador de 16 cartuchos de .45 ACP de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_11.43x23_extended_s">
+		<text>Cargador de 16 cartuchos de Uzi</text>
+	</string>
+	<string id="st_mag_uzi_11.43x23_extended_descr">
+		<text>Cargador de 16 cartuchos para la familia de subfusiles Uzi. Modificado para aceptar cartuchos de .45 ACP.</text>
+	</string>
+
+
+	<string id="st_up_uzi_rail_name">
+		<text>Montura para mira</text>
+	</string>
+	<string id="st_up_uzi_rail_descr">
+		<text>Una montura de riel para acoplar diversas miras al subfusil Uzi.</text>
+	</string>
+</string_table>

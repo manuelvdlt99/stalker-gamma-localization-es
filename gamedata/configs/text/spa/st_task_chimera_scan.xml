@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="chimera_scan_device_name">
+		<text>Escáner de ondas cerebrales</text>
+	</string>
+	<string id="chimera_scan_device_desc">
+		<text>Un dispositivo diseñado para grabar ondas electromagnéticas cercanas. Este se ha ajustado específicamente para aislar las oscilaciones neurales de un espécimen concreto de quimera.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Objeto de misión
+		\n</text>
+	</string>
+
+
+
+	<string id="yan_stalker_sakharov_task_chimera_scan_name">
+		<text>Mapeo mental</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_chimera_scan_about">
+		<text>¿Has oído hablar del mutante llamado quimera? Los científicos no se ponen de acuerdo en si es un animal extremadamente deformado que, de alguna manera, desarrolló una cabeza humanoide o la consecuencia de unos experimentos inmorales. Para averiguarlo, necesitamos más datos.
+		
+		\n \nNuestro equipo ha construido un dispositivo que puede leer patrones de ondas cerebrales. Los datos técnicos no harían más que confundirte. Lo que importa es que necesitamos que alguien se acerque a una quimera concreta y grabe su actividad cerebral mientras viva. Ahí está lo chungo.
+		
+		\n \nCuando tengas la grabación, dejo en tus manos que la criatura viva o no.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_chimera_scan_stage_0">
+		<text>No te alejes de la quimera designada para grabar sus ondas cerebrales.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_chimera_scan_stage_1">
+		<text>Recupera el dispositivo</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_chimera_scan_stage_2">
+		<text>Vuelve con Sájarov</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_chimera_scan_start">
+		<text>INICIALIZACIÓN COMPLETADA: ESCANEO INICIADO</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_chimera_scan_error">
+		<text>ERROR: SEÑAL PERDIDA, ESCANEO ABORTADO</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_chimera_scan_complete">
+		<text>ESCANEO COMPLETADO</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_kriss">
+		<text>KRISS Vector</text>
+	</string>
+	<string id="st_wpn_kriss_descr">
+		<text>Inventado por el ingeniero francés Renaud Kerbrat, el Vector emplea un sistema de retroceso retardado poco convencional para reducir el retroceso y la elevación del cañón transfiriendo la energía hacia abajo en lugar de hacia atrás. Es la opción ideal para unidades policiales y militares que buscan un sistema armamentístico compacto y controlable para entornos de combate en espacios cerrados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Kriss USA
+		\n</text>
+	</string>
+
+</string_table>

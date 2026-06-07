@@ -8,14 +8,14 @@
 	<string id="st_rotten_meat_raw_descr">
 		<text>Carne cruda en mal estado y maloliente que no se cocinó a tiempo. Consumirla sería una sentencia de muerte, ya que está plagada de bacterias y contaminantes tóxicos de la Zona. Ni siquiera los perros se la comerían ya.
 		
-		\n \n%c[ui_red]ADVERTENCIA: Carne estropeada
+		\n \n%c[ui_red]ADVERTENCIA: carne estropeada
 		
 		\n \n</text>
 	</string>
 	<string id="st_rotten_meat_cooked_descr">
 		<text>Antaño una copiosa comida producida en la Zona, este plato de papilla hace tiempo que se echó a perder; su superficie está cubierta de grasa y salpicada de moho. Solo el hedor basta para que hasta a un stalker curtido le den arcadas. Comérselo sería un acto suicida, ya que lo que sea que se esconda en su interior sin duda provocará un suplicio, si no algo mucho peor.
 		
-		\n \n%c[ui_red]ADVERTENCIA: Carne estropeada
+		\n \n%c[ui_red]ADVERTENCIA: carne estropeada
 		
 		\n \n</text>
 	</string>
@@ -23,7 +23,7 @@
 	<string id="st_rotten_meat_snork_descr">
 		<text>Cercenada del cuerpo de un snork muerto hace mucho tiempo, esta extremidad putrefacta está infecta y supura fluidos nauseabundos. Los tendones y los huesos son un grotesco recordatorio de la tortuosa existencia del mutante. Incluso los comerciantes se niegan a tocarla, ya que no sirve para nada más que para propagar enfermedades.
 		
-		\n \n%c[ui_red]ADVERTENCIA: Carne estropeada
+		\n \n%c[ui_red]ADVERTENCIA: carne estropeada
 		
 		\n \n</text>
 	</string>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="st_favorite_parts">
+		<text>Piezas favoritas</text>
+	</string>
+	<string id="st_part_missing">
+		<text>Falta</text>
+	</string>
+	<string id="st_unfavorite_part">
+		<text>Quitar de favoritos</text>
+	</string>
+	<string id="st_favorite_part">
+		<text>Marcar como favorito</text>
+	</string>
+	<string id="st_unfavorite_all_part">
+		<text>Quitar de favoritos todas las piezas con al menos un</text>
+	</string>
+	<string id="st_favorite_all_part">
+		<text>Marcar como favoritas todas las piezas inexistentes o por debajo del</text>
+	</string>
+	<string id="st_part_condition">
+		<text>% de estado</text>
+	</string>
+</string_table>

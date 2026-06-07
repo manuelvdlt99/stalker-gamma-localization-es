@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="as_sub_characters_voice_human_freedom_3_alife_attack_actor_in_battle_1">
+		<text>¡Salid!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_freedom_3_alife_attack_actor_in_battle_1_pda">
+		<text>¡Salid!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_freedom_3_alife_attack_actor_in_battle_2">
+		<text>¡Tomad esa, cabrones!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_freedom_3_alife_attack_actor_in_battle_2_pda">
+		<text>¡Tomad esa, cabrones!</text>
+	</string>
+</string_table>

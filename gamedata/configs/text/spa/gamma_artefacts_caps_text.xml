@@ -2,27 +2,27 @@
 
 <string_table>
 	<string id="gamma_burn_cap">
-		<text>Tope de quemaduras</text>
+		<text>Tope de quemaduras:</text>
 	</string>
 	<string id="gamma_shock_cap">
-		<text>Tope eléctrico</text>
+		<text>Tope eléctrico:</text>
 	</string>
 	<string id="gamma_telepatic_cap">
-		<text>Tope psíquico</text>
+		<text>Tope psíquico:</text>
 	</string>
 	<string id="gamma_chemical_burn_cap">
-		<text>Tope químico</text>
+		<text>Tope químico:</text>
 	</string>
 	<string id="gamma_wound_cap">
-		<text>Tope de rasguños</text>
+		<text>Tope de rasguños:</text>
 	</string>
 	<string id="gamma_fire_wound_cap">
-		<text>Tope balístico</text>
+		<text>Tope balístico:</text>
 	</string>
 	<string id="gamma_explosion_cap">
-		<text>Tope de explosiones</text>
+		<text>Tope de explosiones:</text>
 	</string>
 	<string id="gamma_strike_cap">
-		<text>Tope de impactos</text>
+		<text>Tope de impactos:</text>
 	</string>
 </string_table>

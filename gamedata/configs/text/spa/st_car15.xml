@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_car15">
+		<text>CAR-15</text>
+	</string>
+	<string id="st_wpn_car15_descr">
+		<text>La CAR-15 es una familia de armas de fuego basadas en el M16 comercializadas por Colt en los años sesenta y setenta, que se asocian sobre todo con versiones compactas de tamaño de carabina, como la Colt Commando. Estas armas se diseñaron para ser maniobrables, sobre todo para uso de fuerzas de operaciones especiales y tripulaciones aéreas durante la guerra de Vietnam. Hoy en día, «CAR-15» suele usarse como término genérico para variantes de tamaño de carabina del M16/AR-15. Las versiones modernas suelen incorporar componentes actualizados a la par que conservan un perfil clásico.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos 
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+
+	<string id="st_wpn_admin">
+		<text>CAR-15 «Administrador»</text>
+	</string>
+	<string id="st_wpn_admin_descr">
+		<text>La «Administrador», una versión moderna de la clásica CAR-15, fue diseñada por un exmercenario que quería conservar el perfil clásico del asa de transporte del CAR-15, pero con todas las prestaciones de cualquier diseño M4 actual. Lo bonito antes que lo práctico, nena.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos 
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_car15_bd">
+		<text>CAR-15 «Diamante de sangre»</text>
+	</string>
+	<string id="st_wpn_car15_bd_descr">
+		<text>«Si sabes, sabes. Ya Ya»
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos 
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n</text>
+	</string>
+	
+</string_table>
+

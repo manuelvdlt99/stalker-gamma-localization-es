@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_g36nimble_rwap">
+		<text>G36C «Merc»</text>
+	</string>
+	<string id="st_wpn_g36nimble_rwap_descr">
+		<text>Creado para reemplazar al vetusto G3, el G36 sigue marcando la pauta en el ámbito de los fusiles de asalto con una fiabilidad sin precedentes. Ligero, preciso y de fácil mantenimiento, ha llegado a manos de diversas agencias policiales de todo el mundo. El modelo C cuenta con un cañón, guardamanos y culata más cortos e incluye una bocacha apagallamas.
+		\nEsta variante incluye una empuñadura delantera, una mira láser y un cerrojo modificado para alcanzar una mayor cadencia de tiro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+
+
+
+</string_table>

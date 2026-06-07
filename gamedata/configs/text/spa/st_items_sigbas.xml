@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_sig550_custom">
+		<text>SIG SG 550</text>
+	</string>
+	<string id="st_wpn_sig550">
+		<text>SIG SG 550</text>
+	</string>
+	<string id="st_wpn_sig550_camo">
+		<text>SIG SG 550</text>
+	</string>
+	<string id="st_wpn_sig550_descr">
+		<text>Un fusil de asalto de ingeniería de precisión conocido por su fiabilidad, precisión y construcción robusta, lo que lo convierte en uno de los favoritos entre las fuerzas militares. Con un cañón largo, culata plegable y un sistema de rieles de longitud completa, ofrece un rendimiento excelente tanto en enfrentamientos de medio como de largo alcance. Su durabilidad y funcionamiento sin problemas en entornos adversos lo convierten en una opción fiable para los operadores profesionales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suiza
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG Arms
+		\n</text>
+	</string>
+
+	<string id="st_wpn_sig550_strelok">
+		<text>SIG SG 550-1 «Flecha»</text>
+	</string>
+	<string id="st_wpn_sig550_strelok_descr">
+		<text>Una variante de precisión del SG 550 diseñada para ofrecer precisión a larga distancia y un rendimiento balístico mejorado. Con un cañón más pesado, compatibilidad mejorada con visores y una culata reforzada, ofrece una estabilidad superior para tiradores designados. Aunque deja algo que desear en cuanto a poder de parada y precisión en comparación con un fusil de francotirador consagrado, conserva la fiabilidad y calidad de fabricación del SG 550.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suiza
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG Arms
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_sig552">
+		<text>SIG SG 552 Commando</text>
+	</string>
+	<string id="st_wpn_sig552_descr">
+		<text>Una variante compacta del SG 550 diseñada para las fuerzas especiales y el combate en espacios cerrados que ofrece una mayor maniobrabilidad sin sacrificar la potencia de fuego. Su cañón más corto y su armazón ligero mejoran el manejo en espacios reducidos, mientras que su diseño modular permite el fácil acople de visores y accesorios tácticos. Pese a su tamaño reducido, conserva la precisión y fiabilidad de su homólogo de tamaño completo, lo que lo convierte en un arma muy versátil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suiza
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG Arms
+		\n</text>
+	</string>
+
+
+
+</string_table>

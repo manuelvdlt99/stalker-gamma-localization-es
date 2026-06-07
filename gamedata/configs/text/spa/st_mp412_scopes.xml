@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+	<string id="st_integrated_docter">
+		<text>Mira Docter</text>
+	</string>
+	<string id="st_integrated_docter_descr">
+		<text>PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Noblex
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n</text>
+	</string>
+
+    <string id="st_integrated_compact">
+		<text>Mira compacta</text>
+	</string>
+	<string id="st_integrated_compact_descr">
+		<text>PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]varios
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]varios
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x
+		\n</text>
+	</string>
+	
+</string_table>

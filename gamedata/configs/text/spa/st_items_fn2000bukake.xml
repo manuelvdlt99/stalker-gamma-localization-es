@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_fn2000e_descr">
+		<text>El objetivo del FN F2000 era producir un arma modular que ofreciera todas las características populares del fusil de asalto moderno, como una disposición bullpup compacta, un cajón de mecanismos ambidiestro y un diseño con todo lujo de opciones y complementos. Por ahora, el fusil FN F2000 solo ha tenido unos pocos compradores, entre ellos las Fuerzas Armadas de Eslovenia y las fuerzas de operaciones especiales belgas. En cualquier caso, no cabe duda de que es un arma única y con aspecto futurista que parece sacada de una película de ciencia ficción.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FN Herstal
+		\n</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble">
+		<text>FN F2000 «Competidor»</text>
+	</string>
+	<string id="st_wpn_fn2000e_nimble_descr">
+		<text>El objetivo del FN F2000 era producir un arma modular que ofreciera todas las características populares del fusil de asalto moderno, como una disposición bullpup compacta, un cajón de mecanismos ambidiestro y un diseño con todo lujo de opciones y complementos. Por ahora, el fusil FN F2000 solo ha tenido unos pocos compradores, entre ellos las Fuerzas Armadas de Eslovenia y las fuerzas de operaciones especiales belgas. En cualquier caso, no cabe duda de que es un arma única y con aspecto futurista que parece sacada de una película de ciencia ficción. Dotada de una mira EOTech y modificada expresamente para alcanzar una mayor cadencia de fuego, el «Competidor» solo conoce la competición.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FN Herstal
+		\n</text>
+	</string>
+
+</string_table>

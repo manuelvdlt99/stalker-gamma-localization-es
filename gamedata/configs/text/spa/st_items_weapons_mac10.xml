@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="st_wpn_mac10">
+		<text>MAC-10</text>
+	</string>
+	<string id="st_wpn_mac10_descr">
+		<text>El MAC-10 es un subfusil compacto y emblemático conocido por su diseño ligero y su impresionante cadencia de tiro. Desarrollada originalmente en los años sesenta por Gordon B. Ingram, esta arma ganó notoriedad por su uso por parte de agencias militares y policiales, así como por sus apariciones en la cultura popular. El MAC-10, que dispara diversos calibres, es valorado por su portabilidad y versatilidad, lo que lo convierte en una opción preferida para el combate en espacios cerrados. Su característico funcionamiento de retroceso simple con cerrojo abierto y su culatín extensible contribuyen a su compactibilidad, mientras que su reputación por su capacidad de tiro rápido ha consolidado su lugar en los anales de la historia de las armas de fuego.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Military Armament Corporation
+		\n</text>
+	</string>
+	
+	<string id="st_mag_mac10_9x19_standard">
+		<text>Cargador de 32 cartuchos de MAC-10</text>
+	</string>
+	<string id="st_mag_mac10_9x19_standard_descr">
+		<text>Cargador para el subfusil MAC-10, adaptado para munición 9 x 19 Parabellum. Este cargador tiene capacidad para 32 cartuchos.\n</text>
+	</string>
+	
+	<string id="st_mag_mac10_9x19_ext">
+		<text>Cargador de 50 cartuchos de MAC-10</text>
+	</string>
+	<string id="st_mag_mac10_9x19_ext_descr">
+		<text>Cargador para el subfusil MAC-10, adaptado para munición 9 x 19 Parabellum. Este cargador tiene capacidad para 50 cartuchos.\n</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+ 
+ 	<string id="st_mag_k98_7.92x33">
+		<text>Cargador estándar de 7,92 x 33 mm de Kar 98</text>
+	</string>
+	<string id="st_mag_k98_7.92x33_descr">
+		<text>Cargador estándar de Kar 98 con capacidad para 7 cartuchos.</text>
+	</string>		
+	<string id="st_mag_k98_7.62x51">
+		<text>Cargador modificado de 7,62 x 51 mm de Kar 98</text>
+	</string>
+	<string id="st_mag_k98_7.62x51_descr">
+		<text>Cargador modificado de Kar 98 con capacidad para 7 cartuchos.</text>
+	</string>
+	<string id="st_mag_k98_7.62x54">
+		<text>Cargador modificado de 7,62 x 54 mm de Kar 98</text>
+	</string>	
+	<string id="st_mag_k98_7.62x54_descr">
+		<text>Cargador modificado de Kar 98 con capacidad para 7 cartuchos.</text>
+	</string>		
+</string_table>

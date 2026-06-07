@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+    <string id="st_placeable_piano">
+		<text>Teclado portátil</text>
+	</string>
+	<string id="st_placeable_piano_descr">
+		<text>Una instalación de lujo que no se suele ver en la Zona. Aunque no ofrece protección contra mutantes o stalkers hostiles, puede ofrecer un breve respiro contra las hostilidades de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Apto para tocar
+		\n</text>
+	</string>
+	
+</string_table>

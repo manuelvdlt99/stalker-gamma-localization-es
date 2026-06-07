@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_fort12">
+		<text>Fort-12</text>
+	</string>
+	
+	<string id="st_wpn_fort12_descr">
+		<text>La Fort-12 es un intento de la Ucrania recién independizada (a partir de agosto de 1991) de crear su propia pistola policial para sustituir a la Makárov PM de la era soviética, sin dejar de utilizar el mismo calibre de 9 x 18 mm. Diseñada en 1995 y desarrollada en 1998 por la diseñadora ucraniana de armas RPC Fort, esta es una pistola formidable considerada una mejora de la propia PM. Aunque tenga problemas de fiabilidad, sobre todo debido a la falta de una función de desamartillado segura, lo compensa con su puntería, cargador y ergonomía. Este modelo viene con un cañón roscado para poder acoplarle silenciadores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RPC Fort
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_fort17">
+		<text>Fort-17</text>
+	</string>
+	
+	<string id="st_wpn_fort17_descr">
+		<text>La Fort-17 es una mejora de la Fort-12 lograda reemplazando el armazón de acero por uno de polímero, lo que reduce el peso, aunque puede que el retroceso sea algo peor. Viene con cargadores de 13 cartuchos de serie, en lugar de 12 o 13. También tiene una agarradera posterior de quita y pon que puede mejorar la ergonomía.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RPC Fort
+		\n</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+    
+
+
+
+	<string id="ext_mag_colt1911_11.43x23_fmj">
+		<text>Cargador ampliado de .45 ACP de Colt 1911</text>
+	</string>
+	<string id="ext_mag_colt1911_11.43x23_fmj_descr">
+		<text>Cargador ProMag ampliado de 15 cartuchos de Colt 1911. Fabricado en acero ligero pavonado con polímero resistente a los impactos.</text>
+	</string>
+	
+	<string id="ext_mag_ppp_1911_357_fmj">
+		<text>Cargador ampliado de Coonan .357</text>
+	</string>
+	<string id="ext_mag_ppp_1911_357_fmj_descr">
+		<text>Cargador ampliado modificado para adaptarse al cartucho .357 Magnum, mucho más largo. Solo funciona en la pistola Coonan .357, que ofrece todo el poder de parada del cartucho .357 Magnum en un paquete compacto. Contiene 12 cartuchos.</text>
+	</string>
+
+</string_table>

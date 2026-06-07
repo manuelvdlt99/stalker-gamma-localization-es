@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	
+	<string id="st_wpn_pp2000n">
+		<text>PP-2000</text>
+	</string>
+	<string id="st_wpn_pp2000n_descr">
+		<text>Un subfusil ligero y muy maniobrable diseñado para el despliegue rápido y la defensa personal. Su diseño compacto, su elevada cadencia de tiro y su facilidad de manejo lo convierten en una excelente opción para las fuerzas del orden y las fuerzas especiales. Permite acoplar silenciadores y miras ópticas, lo que le confiere una gran adaptabilidad a diversos escenarios tácticos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n</text>
+	</string>
+
+</string_table>

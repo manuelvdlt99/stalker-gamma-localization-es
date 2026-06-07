@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="ui_mcm_menu_dii_custom_layers_3dssg">
+		<text>3DSS for GAMMA Optics</text>
+	</string>
+	<string id="ui_mcm_dii_3dssg_scopes_show">
+		<text>Alternar etiquetas de nombre para miras y visores</text>
+	</string>
+	<string id="ui_mcm_dii_3dssg_scopes_small_show">
+		<text>Alternar etiquetas secundarias</text>
+	</string>	
+</string_table>

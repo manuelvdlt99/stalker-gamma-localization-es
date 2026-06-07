@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="ui_mcm_menu_customsquadsize">
+		<text>Custom Companion Squad Size</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize">
+		<text>Cantidad máxima normal de compañeros</text>
+	</string>
+
+	<string id="ui_mcm_customsquadsize_maxsquadsize_folkhero">
+		<text>Máximo de compañeros con el logro «Héroe popular»</text>
+	</string>
+
+</string_table>

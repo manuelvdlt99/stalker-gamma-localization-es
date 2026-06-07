@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+  
+  
+  <string id="consequence:alpha_promote">
+    <text>Ascender macho alfa</text>
+  </string>
+  <string id="consequence:alphakill_targeted">
+    <text>Eliminar alfa dirigido</text>
+  </string>
+  <string id="consequence:massacre_scavenge">
+    <text>Saquear masacre</text>
+  </string>
+  <string id="consequence:massacre_investigate">
+    <text>Investigar masacre</text>
+  </string>
+  <string id="consequence:massacre_loot">
+    <text>Saquear masacre</text>
+  </string>
+  <string id="consequence:stash_ambush">
+    <text>Emboscar alijo</text>
+  </string>
+  <string id="consequence:stash_loot">
+    <text>Saquear alijo</text>
+  </string>
+  <string id="consequence:stash_fill">
+    <text>Rellenar alijo</text>
+  </string>
+  <string id="consequence:squadkill_revenge">
+    <text>Venganza por muerte de escuadrón</text>
+  </string>
+  <string id="consequence:basekill_support">
+    <text>Apoyo a matar base</text>
+  </string>
+  <string id="consequence:basekill_flee">
+    <text>Huir de matar base</text>
+  </string>
+  <string id="consequence:wounded_hunt">
+    <text>Cazar herido</text>
+  </string>
+  <string id="consequence:wounded_help">
+    <text>Ayudar herido</text>
+  </string>
+  <string id="consequence:area_conquer">
+    <text>Conquistar área</text>
+  </string>
+  <string id="consequence:area_swarm">
+    <text>Invadir área</text>
+  </string>
+  <string id="consequence:area_infest">
+    <text>Infestar área</text>
+  </string>
+  <string id="consequence:harvest_rob">
+    <text>Robar cosecha</text>
+  </string>
+  <string id="consequence:harvest_haunt">
+    <text>Acechar cosecha</text>
+  </string>
+  <string id="consequence:hunger_campfire">
+    <text>Hambre en hoguera</text>
+  </string>
+  <string id="consequence:sleep_campfire">
+    <text>Dormir en hoguera</text>
+  </string>
+  <string id="consequence:rest_campfire">
+    <text>Descansar en hoguera</text>
+  </string>
+  <string id="consequence:heal_shelter">
+    <text>Curar en refugio</text>
+  </string>
+  <string id="consequence:shelter_indoor">
+    <text>Dentro de refugio</text>
+  </string>
+  <string id="consequence:shelter_outdoor">
+    <text>Fuera de refugio</text>
+  </string>
+  <string id="consequence:money_harvest">
+    <text>Cosechar dinero</text>
+  </string>
+  <string id="consequence:money_hunt">
+    <text>Cazar dinero</text>
+  </string>
+  <string id="consequence:supply_trader">
+    <text>Comerciante de suministros</text>
+  </string>
+  <string id="consequence:job_outpost">
+    <text>Puesto de trabajo</text>
+  </string>
+  <string id="consequence:job_explore">
+    <text>Explorar trabajo</text>
+  </string>
+  <string id="consequence:job_research">
+    <text>Investigar trabajo</text>
+  </string>
+  <string id="consequence:social_campfire">
+    <text>Hoguera social</text>
+  </string>
+  <string id="consequence:social_base">
+    <text>Base social</text>
+  </string>
+  <string id="consequence:feed">
+    <text>Alimentar</text>
+  </string>
+  <string id="consequence:slumber_field">
+    <text>Sueño en campo</text>
+  </string>
+  <string id="consequence:slumber_lair">
+    <text>Sueño en guarida</text>
+  </string>
+  <string id="consequence:slumber_surge">
+    <text>Sueño en emisión</text>
+  </string>
+  <string id="consequence:roam">
+    <text>Merodear</text>
+  </string>
+  <string id="consequence:pack">
+    <text>Manada</text>
+  </string>
+  <string id="consequence:scatter">
+    <text>Dispersar</text>
+  </string>
+  
+  <string id="action:alpha_promote">
+    <text>Se ha convertido en el mutante alfa</text>
+  </string>
+  <string id="action:alphakill_targeted">
+    <text>Persiguiendo al asesino del alfa</text>
+  </string>
+  <string id="action:massacre_scavenge">
+    <text>Saqueando un lugar de masacre</text>
+  </string>
+  <string id="action:massacre_investigate">
+    <text>Investigando un lugar de masacre</text>
+  </string>
+  <string id="action:massacre_loot">
+    <text>Saqueando un lugar de masacre</text>
+  </string>
+  <string id="action:stash_ambush">
+    <text>Ojeando un alijo</text>
+  </string>
+  <string id="action:stash_loot">
+    <text>Saqueando un alijo</text>
+  </string>
+  <string id="action:stash_fill">
+    <text>Rellenando un alijo</text>
+  </string>
+  <string id="action:squadkill_revenge">
+    <text>Persiguiendo al asesino del escuadrón</text>
+  </string>
+  <string id="action:basekill_support">
+    <text>Reforzando base atacada</text>
+  </string>
+  <string id="action:basekill_flee">
+    <text>Evacuando base atacada</text>
+  </string>
+  <string id="action:wounded_hunt">
+    <text>Cazando al herido</text>
+  </string>
+  <string id="action:wounded_help">
+    <text>Ayudando al herido</text>
+  </string>
+  <string id="action:area_conquer">
+    <text>Conquistando una zona</text>
+  </string>
+  <string id="action:area_swarm">
+    <text>Invadiendo una zona</text>
+  </string>
+  <string id="action:area_infest">
+    <text>Infestando zona</text>
+  </string>
+  <string id="action:harvest_rob">
+    <text>Persiguiendo a cazador de artefactos</text>
+  </string>
+  <string id="action:harvest_haunt">
+    <text>Acechando lugar de artefactos</text>
+  </string>
+  <string id="action:hunger_campfire">
+    <text>Dirigiéndose a una hoguera para comer</text>
+  </string>
+  <string id="action:sleep_campfire">
+    <text>Dirigiéndose a una hoguera para dormir</text>
+  </string>
+  <string id="action:rest_campfire">
+    <text>Dirigiéndose a una hoguera para descansar</text>
+  </string>
+  <string id="action:heal_shelter">
+    <text>Dirigiéndose a una hoguera para curarse</text>
+  </string>
+  <string id="action:shelter_indoor">
+    <text>Dirigiéndose a un refugio de interior</text>
+  </string>
+  <string id="action:shelter_outdoor">
+    <text>Dirigiéndose a un refugio de exterior</text>
+  </string>
+  <string id="action:money_harvest">
+    <text>Cosechando artefactos</text>
+  </string>
+  <string id="action:money_hunt">
+    <text>Cazando mutantes</text>
+  </string>
+  <string id="action:supply_trader">
+    <text>Reabasteciéndose en comerciante</text>
+  </string>
+  <string id="action:job_outpost">
+    <text>Vigilando un puesto de avanzada</text>
+  </string>
+  <string id="action:job_explore">
+    <text>Explorando</text>
+  </string>
+  <string id="action:job_research">
+    <text>Investigando anomalías</text>
+  </string>
+  <string id="action:social_campfire">
+    <text>Buscando hoguera para socializar</text>
+  </string>
+  <string id="action:social_base">
+    <text>Buscando base para socializar</text>
+  </string>
+  <string id="action:feed">
+    <text>Buscando comida</text>
+  </string>
+  <string id="action:slumber_field">
+    <text>Instalándose al aire libre</text>
+  </string>
+  <string id="action:slumber_lair">
+    <text>Regresando a la guardia</text>
+  </string>
+  <string id="action:slumber_surge">
+    <text>Refugiándose para dormir</text>
+  </string>
+  <string id="action:roam">
+    <text>Merodeando por el territorio</text>
+  </string>
+  <string id="action:pack">
+    <text>Uniéndose a una manada</text>
+  </string>
+  <string id="action:scatter">
+    <text>Dispersándose de los depredadores</text>
+  </string>
+  <string id="action:job_explore_offmap">
+    <text>Explorando otra región</text>
+  </string>
+  <string id="action:social_offmap">
+    <text>Visitando una base fuera de la región</text>
+  </string>
+  <string id="action:supply_trader_offmap">
+    <text>Reabasteciéndose en otra región</text>
+  </string>
+  <string id="consequence:job_explore_offmap">
+    <text>Explorar trabajos fuera de la región</text>
+  </string>
+  <string id="consequence:social_offmap">
+    <text>Social fuera de la región</text>
+  </string>
+  <string id="consequence:supply_trader_offmap">
+    <text>Comerciante de suministros fuera de la región</text>
+  </string>
+</string_table>

@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+    <string id="st_placeable_trophie9">
+		<text>Trofeo (jabalí)</text>
+	</string>
+	<string id="st_placeable_trophie9_descr">
+		<text>Un trofeo de un jabalí, un animal mutado enorme que se suele ver en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+    <string id="st_placeable_trophie1">
+		<text>Trofeo (cabeza de jabalí)</text>
+	</string>
+	<string id="st_placeable_trophie1_descr">
+		<text>La cabeza montada de un jabalí, un animal mutado enorme que se suele ver en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+    <string id="st_placeable_trophie7">
+		<text>Trofeo (perro ciego)</text>
+	</string>
+	<string id="st_placeable_trophie7_descr">
+		<text>Un trofeo de un perro ciego, el representante más conocido de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie5">
+		<text>Trofeo (cabeza de chupasangre)</text>
+	</string>
+	<string id="st_placeable_trophie5_descr">
+		<text>La cabeza montada de un temido chupasangre.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie6">
+		<text>Trofeo (chupasangre)</text>
+	</string>
+	<string id="st_placeable_trophie6_descr">
+		<text>Un trofeo de un chupasangre, una bestia semilegendaria temida en toda la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+    <string id="st_placeable_trophie4">
+		<text>Trofeo (gato)</text>
+	</string>
+	<string id="st_placeable_trophie4_descr">
+		<text>Un trofeo de un gato de la Zona. Los gastos de la Zona son gatos salvajes muy mutados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+    <string id="st_placeable_trophie2">
+		<text>Trofeo (quimera)</text>
+	</string>
+	<string id="st_placeable_trophie2_descr">
+		<text>Un trofeo de una quimera, monstruos sin pelo casi del tamaño de un león adulto.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_trophie8">
+		<text>Trofeo (carne)</text>
+	</string>
+	<string id="st_placeable_trophie8_descr">
+		<text>Un trofeo de un carne, un cerdo muy mutado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+    <string id="st_placeable_trophie3">
+		<text>Trofeo (pseudoperro)</text>
+	</string>
+	<string id="st_placeable_trophie3_descr">
+		<text>Un trofeo de un pseudoperro, una de las especies mutantes más peligrosas de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+
+
+    <string id="st_placeable_documents_1">
+		<text>Resma de papel</text>
+	</string>
+	<string id="st_placeable_documents_1_descr">
+		<text>Una resma de folios desgarrados repletos de notas crítpicas y diagramas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_cabinet">
+		<text>Alacenas</text>
+	</string>
+	<string id="st_placeable_cabinet_descr">
+		<text>Un conjunto de alacenas, que normalmente se colocan en una cocina.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_ashtray">
+		<text>Cenicero</text>
+	</string>
+	<string id="st_placeable_ashtray_descr">
+		<text>Un sencillo cenicero donde echar las cenizas de cigarrillos y puros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+    <string id="st_placeable_barrel_metal">
+		<text>Barril de metal</text>
+	</string>
+	<string id="st_placeable_barrel_metal_descr">
+		<text>Un barril de metal vacío. Es un misterio lo que contenía.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_shelves_b">
+		<text>Estantes de baño</text>
+	</string>
+	<string id="st_placeable_shelves_b_descr">
+		<text>Un conjunto de estantes robustos probablemente sacados de un baño.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+    <string id="st_placeable_biliard">
+		<text>Mesa de billar</text>
+	</string>
+	<string id="st_placeable_biliard_descr">
+		<text>Una mesa de billar desgastada. Sin embargo, es poco probable encontrar un buen juego de tacos, y mucho menos un juego completo de bolas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_pot">
+		<text>Olla</text>
+	</string>
+	<string id="st_placeable_pot_descr">
+		<text>Una olla de hierro colado. Claramente usada, pero todavía en muy buen estado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_countertop">
+		<text>Encimera</text>
+	</string>
+	<string id="st_placeable_countertop_descr">
+		<text>Una robusta encimera soviética aún en condiciones de usarse.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_cuttingboard">
+		<text>Tabla para cortar</text>
+	</string>
+	<string id="st_placeable_cuttingboard_descr">
+		<text>Una tabla de cortar de abedul, marcada tras años cortando patatas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_fchair">
+		<text>Silla moderna</text>
+	</string>
+	<string id="st_placeable_fchair_descr">
+		<text>Una silla con aspecto moderno que parece estar en un estado excelente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_game">
+		<text>Juego de mesa</text>
+	</string>
+	<string id="st_placeable_game_descr">
+		<text>Un viejo juego de mesa al que le faltan la mayoría de las piezas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_fuel">
+		<text>Bidón</text>
+	</string>
+	<string id="st_placeable_fuel_descr">
+		<text>Un bidón vacío que huele ligeramente a gasolina.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_shooting_target_1">
+		<text>Diana</text>
+	</string>
+	<string id="st_placeable_shooting_target_1_descr">
+		<text>Una diana de madera para cuando necesites ajustar la mira antes de salir al terreno o descargar frustración acumulada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_bidon">
+		<text>Lechera</text>
+	</string>
+	<string id="st_placeable_bidon_descr">
+		<text>Una vieja lechera que huele sospechosamente a vodka.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_gaz_balon">
+		<text>Bombona vieja</text>
+	</string>
+	<string id="st_placeable_gaz_balon_descr">
+		<text>Una bombona vieja que se solía usar para cocinar o calentar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_radiola">
+		<text>Radio</text>
+	</string>
+	<string id="st_placeable_radiola_descr">
+		<text>Una radio funcional.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_kartina03">
+		<text>Marco</text>
+	</string>
+	<string id="st_placeable_kartina03_descr">
+		<text>Una foto enmarcada de un grupo de militares con las caras nubladas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_dev_guitar">
+		<text>Guitarra decorativa</text>
+	</string>
+	<string id="st_placeable_dev_guitar_descr">
+		<text>Con el alma rota y el mástil suelto, la única utilidad de esta guitarra es ornamental.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_stool">
+		<text>Taburete</text>
+	</string>
+	<string id="st_placeable_stool_descr">
+		<text>Un taburete de madera pequeño pero robusto. El acabado ha visto mejores tiempos, pero es perfectamente funcional.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_metal_table1">
+		<text>Mesa de metal</text>
+	</string>
+	<string id="st_placeable_metal_table1_descr">
+		<text>Una vieja mesa de metal. Si ignoras el óxido, funciona a la perfección.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_metal_table2">
+		<text>Mesa de metal grande</text>
+	</string>
+	<string id="st_placeable_metal_table2_descr">
+		<text>Una vieja mesa de metal que se usó originalmente en una especie de fábrica. Aunque está oxidada, sigue funcionando perfectamente como mesa. Los indicadores y medidores se dieron por inservibles hace mucho tiempo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_stalker_outfit">
+		<text>Conjunto de stalker</text>
+	</string>
+	<string id="st_placeable_stalker_outfit_descr">
+		<text>Un traje «Amanecer» de stalker harapiento. Solo se puede usar como decoración.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_merc_outfit">
+		<text>Conjunto de mercenario</text>
+	</string>
+	<string id="st_placeable_merc_outfit_descr">
+		<text>Un traje LC de mercenario harapiento. Solo se puede usar como decoración.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_exoskelet">
+		<text>Conjunto de exoesqueleto</text>
+	</string>
+	<string id="st_placeable_exoskelet_descr">
+		<text>Un exoesqueleto con un sistema eléctrico totalmente destrozado. Solo se puede usar como decoración.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_stretcher">
+		<text>Camilla</text>
+	</string>
+	<string id="st_placeable_stretcher_descr">
+		<text>Una vieja camilla soviética seguramente robada de una clínica o un hospital. Si ignoras las manchas, también puede valer como sitio donde descansar si no hay mejores opciones disponibles.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_gun_parts">
+		<text>Piezas de arma</text>
+	</string>
+	<string id="st_placeable_gun_parts_descr">
+		<text>Un montón de piezas de un AKS-74 roto.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_teapot">
+		<text>Tetera</text>
+	</string>
+	<string id="st_placeable_teapot_descr">
+		<text>Una tetera vieja y oxidada de antes del incidente de Chernóbil. No se recomienda usarse debido a la posible contaminación.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_psi_helmet">
+		<text>Psicocasco</text>
+	</string>
+	<string id="st_placeable_psi_helmet_descr">
+		<text>Un psicocasco experimental averiado sacado de un stalker zombificado. Resultados anotados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_documents_2">
+		<text>Documentos</text>
+	</string>
+	<string id="st_placeable_documents_2_descr">
+		<text>Un montón de documentos militares demasiado mundanos como para ser valiosos para los interesados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_notes_writing_book">
+		<text>Cuaderno espiral</text>
+	</string>
+	<string id="st_placeable_notes_writing_book_descr">
+		<text>Un cuaderno espiral vacío que podría usarse como diario para registrar hallazgos en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_survivalguide">
+		<text>Guía de supervivencia</text>
+	</string>
+	<string id="st_placeable_survivalguide_descr">
+		<text>Una copia en ruso del «Manual de supervivencia del SAS», de John «Lofty» Wiseman.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_guidebook1">
+		<text>Guía de diseño de armas</text>
+	</string>
+	<string id="st_placeable_guidebook1_descr">
+		<text>Una obra en ruso titulada «Conceptos básicos del diseño de cartuchos para armas pequeñas».
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_guidebook2">
+		<text>Guía del maquinista</text>
+	</string>
+	<string id="st_placeable_guidebook2_descr">
+		<text>Una obra en ruso titulada «La fabricación de engranajes».
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_lead_box_open">
+		<text>Contenedor de metal revestido de plomo decorativo</text>
+	</string>
+	<string id="st_placeable_lead_box_open_descr">
+		<text>Un sello roto ha hecho que este CMRP solo sea útil como decoración.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_suit">
+		<text>Expositor de traje SSP-99M</text>
+	</string>
+	<string id="st_placeable_suit_descr">
+		<text>Un soporte con un traje científico de alta resistencia SSP-99M. Solo para exposición.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_poster1">
+		<text>Póster de propaganda soviético</text>
+	</string>
+	<string id="st_placeable_poster1_descr">
+		<text>Un viejo póster soviético que reza «¡PAZ Y AMISTAD!» y «¡NUESTRA EXPERIENCIA ES COMPARTIDA CON NUESTROS AMIGOS!».
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_poster2">
+		<text>Póster «Humanidad: degradada»</text>
+	</string>
+	<string id="st_placeable_poster2_descr">
+		<text>Un póster promocional de una película.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_poster3">
+		<text>Póster «Ametralladora»</text>
+	</string>
+	<string id="st_placeable_poster3_descr">
+		<text>Un póster promocional de una película.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_poster4">
+		<text>Póster de propaganda soviético</text>
+	</string>
+	<string id="st_placeable_poster4_descr">
+		<text>Un viejo póster soviético que reza «¡GOLPEAMOS A LOS HOLGAZANES!».
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_poster5">
+		<text>Póster «Infectado»</text>
+	</string>
+	<string id="st_placeable_poster5_descr">
+		<text>Un póster promocional de una película.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_poster6">
+		<text>Póster «Pensamientos infestados»</text>
+	</string>
+	<string id="st_placeable_poster6_descr">
+		<text>Un póster promocional de una película.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_poster7">
+		<text>Póster «No puedes huir del cielo»</text>
+	</string>
+	<string id="st_placeable_poster7_descr">
+		<text>Un póster promocional de una película.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_sink">
+		<text>Fregadero</text>
+	</string>
+	<string id="st_placeable_sink_descr">
+		<text>Un fregadero probablemente sacado de una casa vieja o de un cuarto de baño en algún lugar de la Zona. Los bandidos son saqueadores despiadados y se sabe que se llevan hasta el fregadero de la cocina.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_sidetable1">
+		<text>Mesilla alta</text>
+	</string>
+	<string id="st_placeable_sidetable1_descr">
+		<text>Una mesilla desgastada sacada de un edificio abandonado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_sidetable2">
+		<text>Mesilla baja</text>
+	</string>
+	<string id="st_placeable_sidetable2_descr">
+		<text>Una mesilla desgastada sacada de un edificio abandonado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_shelves">
+		<text>Estantes de metal</text>
+	</string>
+	<string id="st_placeable_shelves_descr">
+		<text>Una pila de tres grandes estantes de metal.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_box_wood">
+		<text>Caja de madera reforzada</text>
+	</string>
+	<string id="st_placeable_box_wood_descr">
+		<text>Aunque la mayoría de las cajas de madera de la Zona se pueden romper con relativa facilidad, algunas demuestran ser casi imposibles de destruir.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_box_paper">
+		<text>Caja de cartón</text>
+	</string>
+	<string id="st_placeable_box_paper_descr">
+		<text>La humilde caja de cartón, en la que llegan muchos suministros de contrabando a la Zona, suele conservarse en caso de necesidad en el futuro. Un método extremadamente ligero y barato de almacenar unos cuantos objetos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+    <string id="st_placeable_microscope">
+		<text>Microscopio</text>
+	</string>
+	<string id="st_placeable_microscope_descr">
+		<text>Un microscopio óptico robusto y de gran calidad que resulta útil para los científicos que estudian la Zona. Las microestructuras de los artefactos anómalos han demostrado ser increíblemente interesantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_map1">
+		<text>Mapa de los Grandes Pantanos</text>
+	</string>
+	<string id="st_placeable_map1_descr">
+		<text>Un gran mapa de la zona de los Grandes Pantanos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_map2">
+		<text>Mapa de la zona de exclusión</text>
+	</string>
+	<string id="st_placeable_map2_descr">
+		<text>Un gran mapa del centro de la zona de exclusión de Chernóbil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_grave1">
+		<text>Lápida de un stalker</text>
+	</string>
+	<string id="st_placeable_grave1_descr">
+		<text>Una lápida improvisada con forma de cruz ortodoxa. Incluye la mascarilla de un stalker.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_grave2">
+		<text>Lápida de cruz</text>
+	</string>
+	<string id="st_placeable_grave2_descr">
+		<text>Una lápida improvisada con forma de cruz.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_junk">
+		<text>Proyecto eléctrico</text>
+	</string>
+	<string id="st_placeable_junk_descr">
+		<text>Un dispositivo ingenioso o un incendio eléctrico en ciernes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_money_5000">
+		<text>Montón de dinero</text>
+	</string>
+	<string id="st_placeable_money_5000_descr">
+		<text>Un montón de varios fajos de billetes de 5000 rublos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_plant2">
+		<text>«Planta anómala»</text>
+	</string>
+	<string id="st_placeable_plant2_descr">
+		<text>Una tosca planta artificial creada por un stalker con tela aislante eléctrica. Se desconoce si fue hecha como obra de arte o para venderla a un comprador de objetos ingenuo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_plant3">
+		<text>Maceta</text>
+	</string>
+	<string id="st_placeable_plant3_descr">
+		<text>Una pequeña planta en una lata de alubias de aluminio. Para todos los seres vivos en la Zona, la vida siempre encuentra su camino.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_plant4">
+		<text>Maceta grande</text>
+	</string>
+	<string id="st_placeable_plant4_descr">
+		<text>Una planta en una vieja lata soviética. Para todos los seres vivos en la Zona, la vida siempre encuentra su camino.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_rug">
+		<text>Alfombra</text>
+	</string>
+	<string id="st_placeable_rug_descr">
+		<text>Una alfombra soviética desgastada y andrajosa. Necesita una buena limpieza, pero puede ser justo lo que necesitas para darle un toque final a una habitación.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		
+		\n \n %c[ui_red]ADVERTENCIA: NO SOLTAR DEL INVENTARIO; PROVOCARÁ UN CIERRE DEL JUEGO
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_clinic_equipments">
+		<text>Equipo clínico</text>
+	</string>
+	<string id="st_placeable_clinic_equipments_descr">
+		<text>Una vieja parte de equipo clínico soviético. Ya es poco probable que funcione, pero sigue pareciendo sofisticada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+   <string id="st_placeable_wall_divider">
+		<text>Biombo 2 x 2 m</text>
+	</string>
+	<string id="st_placeable_wall_divider_descr">
+		<text>Una delgada barrera de contrachapado que puede usarse para separar dos áreas de una habitación.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>	
+	
+   <string id="st_placeable_storage01">
+		<text>Contenedor de metal</text>
+	</string>
+	<string id="st_placeable_storage01_descr">
+		<text>Un contenedor útil para organizar tus cosas y almacenar tu botín.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_storage02">
+		<text>Contenedor de metal grande</text>
+	</string>
+	<string id="st_placeable_storage02_descr">
+		<text>Un contenedor grande útil para organizar tus cosas y almacenar tu botín.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_storage03">
+		<text>Caja de metal verde</text>
+	</string>
+	<string id="st_placeable_storage03_descr">
+		<text>Una pequeña caja de metal, seguramente de origen militar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_storage04">
+		<text>Caja fuerte pequeña</text>
+	</string>
+	<string id="st_placeable_storage04_descr">
+		<text>Una caja fuerte pequeña que puede usarse para almacenar algunos objetos de valor.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_storage05">
+		<text>Caja de herramientas</text>
+	</string>
+	<string id="st_placeable_storage05_descr">
+		<text>Una caja de herramientas de metal desgastada pero utilizable. Si se lee el lateral, parece que proviene de una fábrica de coches.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_storage06">
+		<text>Cofre verde</text>
+	</string>
+	<string id="st_placeable_storage06_descr">
+		<text>Un baúl metálico reforzado pintado de verde. Posiblemente sacado de una instalación militar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_storage07">
+		<text>Taquilla</text>
+	</string>
+	<string id="st_placeable_storage07_descr">
+		<text>Un contenedor delgado y alto de un gimnasio o una escuela. Perfecto para guardar trajes de stalker, pero se puede usar para cualquier cosa.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_storage08">
+		<text>Caja fuerte grande</text>
+	</string>
+	<string id="st_placeable_storage08_descr">
+		<text>Una caja fuerte muy grande que se puede usar para almacenar muchos objetos de valor.
+		
+		\n \n%c[ui_gray_1]PROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_wooden_board">
+		<text>Panel de madera</text>
+	</string>
+	<string id="st_placeable_wooden_board_descr">
+		<text>Un panel ensamblado a partir de tablones de madera. Útil para tapiar una ventana.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]bloquear ventanas/entradas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_wooden_plank">
+		<text>Tablón de madera</text>
+	</string>
+	<string id="st_placeable_wooden_plank_descr">
+		<text>Un tablón de madera. Se puede usar para bloquear entradas y fortificar un lugar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]bloquear ventanas/entradas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_metal_plate">
+		<text>Chapa de metal</text>
+	</string>
+	<string id="st_placeable_metal_plate_descr">
+		<text>Un trozo de un tejado de hojalata que podría usarse para tapiar una ventana.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]bloquear ventanas/entradas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_shield">
+		<text>Barrera de metal</text>
+	</string>
+	<string id="st_placeable_shield_descr">
+		<text>Una barrera construida toscamente con chatarra. Aunque claramente no es a prueba de balas, puede proteger de los mutantes o, por lo menos, ofrecer cobertura.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_toilet">
+		<text>Retrete</text>
+	</string>
+	<string id="st_placeable_toilet_descr">
+		<text>Un retrete de cerámica al que le falta la tapa. Sin agua corriente en la Zona, solo sirve como recordatorio de los lujos del mundo exterior.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_shower">
+		<text>Ducha</text>
+	</string>
+	<string id="st_placeable_shower_descr">
+		<text>Una alcachofa de ducha muy oxidada. Podría conectarse a un depósito de agua o a una ducha en funcionamiento.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_tv_box">
+		<text>Televisor de tubo</text>
+	</string>
+	<string id="st_placeable_tv_box_descr">
+		<text>Un televisor de tubo muy antiguo. Aún funciona, pero en la Zona no hay señal de televisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+   <string id="st_placeable_light1">
+		<text>Aplique</text>
+	</string>
+	<string id="st_placeable_light1_descr">
+		<text>Una lámpara que cuelga de la pared. Útil para iluminar zonas exteriores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_light2">
+		<text>Luz de teatro</text>
+	</string>
+	<string id="st_placeable_light2_descr">
+		<text>Un foco de luz de un teatro o auditorio.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_light3">
+		<text>Lámpara de techo</text>
+	</string>
+	<string id="st_placeable_light3_descr">
+		<text>Una lámpara de techo pequeña pero sorprendentemente potente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_light4">
+		<text>Bombilla colgante</text>
+	</string>
+	<string id="st_placeable_light4_descr">
+		<text>Un sencillo arreglo que consiste en una bombilla alimentada por pilas que cuelga de una cuerda.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_light5">
+		<text>Luz de tres tubos</text>
+	</string>
+	<string id="st_placeable_light5_descr">
+		<text>Una caja montada en el techo con tres tubos fluorescentes y un paquete de pilas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_light6">
+		<text>Bombilla de pared</text>
+	</string>
+	<string id="st_placeable_light6_descr">
+		<text>Una bombilla en una jaula protectora.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_light7">
+		<text>Bombilla de pared amarilla</text>
+	</string>
+	<string id="st_placeable_light7_descr">
+		<text>Una gran bombilla amarilla en una jaula protectora.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+   <string id="st_placeable_light8">
+		<text>Luz de tubo</text>
+	</string>
+	<string id="st_placeable_light8_descr">
+		<text>Una única luz de tubo fluorescente conectada toscamente a una pila.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+	
+</string_table>

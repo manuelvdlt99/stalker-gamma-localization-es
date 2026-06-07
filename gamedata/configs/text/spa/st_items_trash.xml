@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="st_guitar_name">
+		<text>Guitarra</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>Una guitarra, que normalmente utilizan los stalkers para pasar el rato y subir la moral alrededor de una hoguera.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Recreativo
+		\n %c[d_orange] • %c[ui_gray_2] Apto para tocar
+		\n</text>
+	</string>
+
+	<string id="st_harmonica_name">
+		<text>Armónica</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>Un instrumento sencillo y portátil, muy apreciado por los stalkers por su facilidad de uso y sus melodías melancólicas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Recreativo
+		\n %c[d_orange] • %c[ui_gray_2] Apto para tocar
+		\n</text>
+	</string>
+
+	<string id="st_survival_kit">
+		<text>Kit de supervivencia</text>
+	</string>
+	<string id="st_survival_kit_descr">
+		<text>Un kit compacto multiusos que contiene tela, agujas de coser y algunas tiras de cuero, utilizado principalmente para detener hemorragias y tratar laceraciones.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_green] • %c[ui_gray_2] Poscuración: %c[ui_gray_1]Torso%c[pda_white]•••••••• %c[ui_gray_1]Brazos%c[pda_white]••• %c[ui_gray_1]Piernas%c[pda_white]•••
+		\n</text>
+	</string>
+
+	<string id="st_hand_watch">
+		<text>Reloj de pulsera</text>
+	</string>
+	<string id="st_hand_watch_descr">
+		<text>Un viejo reloj soviético clásico en el que se puede confiar para ver la hora en momentos en los que una PDA podría no ser fiable debido a fuertes ondas electromagnéticas de emisiones o campos anómalos cercanos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]ver la hora
+		\n</text>
+	</string>
+
+
+
+	<string id="st_ball_hammer">
+		<text>Martillo de bola</text>
+	</string>
+	<string id="st_ball_hammer_descr">
+		<text>Un tipo de martillo de granallado que se emplea principalmente en la industria metalúrgica
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_duct_tape">
+		<text>Cinta americana</text>
+	</string>
+	<string id="st_duct_tape_descr">
+		<text>Muy utilizada en situaciones que requieren una cinta fuerte y flexible; suele ser una solución fácil pero temporal para reparaciones rápidas.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_e_syringe">
+		<text>Jeringuilla</text>
+	</string>
+	<string id="st_e_syringe_descr">
+		<text>Una jeringuilla médica reutilizable. Con el equipo y el conocimiento adecuados, podría ser útil para la creación de diversos tipos de fármacos.
+		\n</text>
+	</string>
+
+	<string id="st_cutlery">
+		<text>Cubiertos de campaña</text>
+	</string>
+	<string id="st_cutlery_descr">
+		<text>Un juego compacto de utensilios diseñado para comer sobre el terreno, reduciendo la necesidad de depender de manos sucias o herramientas rapiñadas. Es básico, pero todos los stalkers agradecen una comida limpia.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_grease">
+		<text>Grasa industrial</text>
+	</string>
+	<string id="st_grease_descr">
+		<text>Un lubricante semisólido que se suele aplicar para mantener equipos, armas o maquinaria expuestos a la suciedad u otros residuos.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_jar">
+		<text>Tarro de plástico</text>
+	</string>
+	<string id="st_jar_descr">
+		<text>Un contenedor ligero y sellado ideal para almacenar líquidos, comida o materiales saqueados. Es ideal para mantener el contenido libre de humedad u otros contaminantes presentes en el aire.
+		\n</text>
+	</string>
+	
+	<string id="st_rope">
+		<text>Cuerda</text>
+	</string>
+	<string id="st_rope_descr">
+		<text>Un trozo de cuerda resistente. Estas cuerdas tienen muchos usos, especialmente en un lugar como la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_radio2">
+		<text>Radio (rota)</text>
+	</string>
+	<string id="st_radio2_descr">
+		<text>Un dispositivo de comunicación portátil. La música es una buena forma de calmar los nervios, pero de poco vale esta radio con una antena rota.
+		\n</text>
+	</string>
+
+	<string id="st_steel_wool">
+		<text>Estropajo</text>
+	</string>
+	<string id="st_steel_wool_descr">
+		<text>Un haz de filamentos de acero muy finos que se utiliza como abrasivo en trabajos de acabado y reparación.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_mirror">
+		<text>Espejo telescópico</text>
+	</string>
+	<string id="st_mirror_descr">
+		<text>Un espejo pequeño montado en un tubo telescópico de hierro que se suele usar para asomarse por las esquinas.
+		\n</text>
+	</string>
+
+	<string id="st_welding_goggles">
+		<text>Gafas de soldar</text>
+	</string>
+	<string id="st_welding_goggles_descr">
+		<text>Gafas de soldar con una cinta de cuero vieja. Diseñadas para proteger los ojos al soldar o cortar, aunque su desgaste da a entender que no sirven para ninguna de las dos.
+		\n</text>
+	</string>
+
+
+
+	<string id="st_batteries_empty">
+		<text>Pilas viejas</text>
+	</string>
+	<string id="st_batteries_empty_descr">
+		<text>Una colección de pilas usadas que antes alimentaban dispositivos, pero que ahora están agotadas e inservibles. Aunque ya no funcionen, aún podrían reciclarse o reaprovecharse.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_shovel_mili">
+		<text>Pala de campaña vieja</text>
+	</string>
+	<string id="st_shovel_mili_descr">
+		<text>Una pala plegable compacta utilizada en exteriores o en entornos militares, que muestra signos de óxido, suciedad y desgaste. Pese a su estado, aún podría ser funcional o reaprovecharse.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+
+	<string id="st_hammer">
+		<text>Martillo viejo</text>
+	</string>
+	<string id="st_hammer_descr">
+		<text>Una herramienta de mano muy utilizada con un mango de madera desgastado y una cabeza abollada. Aunque sea viejo, aún podría ser funcional o reaprovecharse.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_boots">
+		<text>Botas de cuero viejas</text>
+	</string>
+	<string id="st_boots_descr">
+		<text>Un par de botes resistentes y raídas hechas de cuero grueso, con superficies peladas y suelas desgastadas por un uso considerable.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_gloves">
+		<text>Guantes de cuero viejos</text>
+	</string>
+	<string id="st_gloves_descr">
+		<text>Un par de guantes desgastados hechos de cuero duradero, con arrugas, manchas e indicios de uso intensivo.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_shovel_old">
+		<text>Pala de metal vieja</text>
+	</string>
+	<string id="st_shovel_old_descr">
+		<text>Una herramienta de excavación desgastada con una robusta hoja de metal, que muestra signos de uso prolongado. A pesar de su antigüedad, aún podría ser funcional o reaprovecharse.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+
+	<string id="st_batteries_ccell_empty">
+		<text>Unidad de batería militar vieja</text>
+	</string>
+	<string id="st_batteries_ccell_empty_descr">
+		<text>Un dispositivo de almacenamiento de energía fuera de servicio o caducado, utilizado anteriormente en equipos militares. Aunque ya no funcione, aún podría tener valor para su restauración o reciclaje.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_wpn_spareparts">
+		<text>Piezas de repuesto de armas viejas</text>
+	</string>
+	<string id="st_wpn_spareparts_descr">
+		<text>Piezas de repuesto de armas desgastadas y muy avejentadas. En este estado, apenas sirven, y mucho menos son utilizables.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_underwear">
+		<text>Ropa interior vieja</text>
+	</string>
+	<string id="st_underwear_descr">
+		<text>Unos calzoncillos extra podrían aumentar considerablemente tu comodidad. Lamentablemente, se desconoce su historial.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_broken_detector">
+		<text>Detector roto</text>
+	</string>
+	<string id="st_broken_detector_descr">
+		<text>Un detector Oso averiado. Aunque ya no está operativo, aún puede ser valioso por sus piezas de repuesto y componentes.
+		\n</text>
+	</string>
+
+	<string id="st_flashlight_broken">
+		<text>Linterna rota</text>
+	</string>
+	<string id="st_flashlight_broken_descr">
+		<text>Una linterna dañada que ya no está operativa, pero sigue siendo valiosa para obtener componentes de repuesto.
+		\n</text>
+	</string>
+
+	<string id="st_headlamp">
+		<text>Linterna frontal rota</text>
+	</string>
+	<string id="st_headlamp_descr">
+		<text>Una linterna frontal vieja y averiada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+
+	<string id="st_radio">
+		<text>Radio rota</text>
+	</string>
+	<string id="st_radio_descr">
+		<text>Una radio pequeña en mal estado. El interior, sucio y deteriorado por la humedad, parece estar en bastante mal estado.
+		\n</text>
+	</string>
+
+	<string id="st_walkie">
+		<text>Walkie-talkie roto</text>
+	</string>
+	<string id="st_walkie_descr">
+		<text>La pantalla no funciona y el altavoz emite un silbido constante que indica que no sirve para nada.
+		\n</text>
+	</string>
+
+
+
+	<string id="st_drugnotes">
+		<text>Notas de distribución de drogas</text>
+	</string>
+	<string id="st_drugnotes_descr">
+		<text>Registros que detallan la distribución, tarificación y logística de sustancias ilícitas. Estas notas contienen contactos e historiales de transacciones para operaciones de tráfico.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_book2">
+		<text>Manual de ingeniería</text>
+	</string>
+	<string id="st_book2_descr">
+		<text>Una exhaustiva guía de referencia que aporta detalles técnicos, cálculos y metodologías para aplicaciones de ingeniería. Debido a ello, se suele usar más como lectura recreativa que como algo de valor en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_maps_kit">
+		<text>Kit de cartografía</text>
+	</string>
+	<string id="st_maps_kit_descr">
+		<text>Un juego de herramientas y materiales empleados para crear mapas detallados y precisos. Suele incluir brújulas, reglas, papeles especializados e instrumentos de dibujo, todo ello en una funda impermeable y camuflada.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_book1">
+		<text>Manual de mecánica</text>
+	</string>
+	<string id="st_book1_descr">
+		<text>Una guía técnica que contiene instrucciones para mantener, reparar y operar maquinaria o vehículos. Incluye diagramas, pasos para resolver problemas y especificaciones para ayudar a los usuarios a mantener el equipo operativo. Debido a ello, se suele usar más como lectura recreativa que como algo de valor en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_meinkampf">
+		<text>«Mi lucha»</text>
+	</string>
+	<string id="st_meinkampf_descr">
+		<text>Un manifiesto político escrito por Adolf Hitler que resume su ideología y sus planes para el futuro de Alemania bajo el dominio nazi. El libro desempeñó un papel significativo en la definición de las políticas nazis y se suele considerar un documento histórico del extremismo.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_mili_maps">
+		<text>Mapas militares</text>
+	</string>
+	<string id="st_mili_maps_descr">
+		<text>Representaciones geográficas detalladas utilizadas para la planificación estratégica y las operaciones en contextos militares. Se incluyen datos topográficos, posiciones enemigas, rutas de suministro y objetivos tácticos.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_journal">
+		<text>Diario personal</text>
+	</string>
+	<string id="st_journal_descr">
+		<text>Una libreta parcialmente rellena que contiene escritos personales, reflexiones o notas, con páginas en blanco o poco usadas. Podría tener valor sentimental y, al mismo tiempo, ser un espacio práctico para nuevos pensamientos o anotaciones.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_picture_woman">
+		<text>Foto de un ser querido</text>
+	</string>
+	<string id="st_picture_woman_descr">
+		<text>Una imagen entrañable que captura un momento significativo con un amigo cercano o un familiar. Se desconoce quién es y dónde está esta persona ahora.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+
+	<string id="st_porn">
+		<text>Playboy rusa</text>
+	</string>
+	<string id="st_porn_descr">
+		<text>Edición regional de la revista Playboy, reconocida internacionalmente, que incluye artículos sobre estilo de vida, entrevistas y fotografía para adultos, adaptada al público ruso. Combina entretenimiento, moda y análisis cultural con su característico estilo visual provocativo.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+
+	<string id="st_porn2">
+		<text>Maxim ucraniana</text>
+	</string>
+	<string id="st_porn2_descr">
+		<text>Una edición ucraniana de Maxim, una popular revista de estilo de vida masculina conocida por su mezcla de entrevistas a famosos, humor, moda y fotografía. Está dirigida a lectores interesados &#x200B;&#x200B;en el entretenimiento, el fitness y las tendencias modernas.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_survivalguide">
+		<text>Guía de supervivencia de las fuerzas especiales ucranianas</text>
+	</string>
+	<string id="st_survivalguide_descr">
+		<text>Un manual muy desgastado que contiene técnicas de supervivencia expertas, que oscilan desde la orientación hasta la medicina de campaña. Sus páginas ofrecen conocimientos que pueden salvar vidas a cualquiera que se aventure en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+
+
+	<string id="st_beadspread">
+		<text>Colcha</text>
+	</string>
+	<string id="st_beadspread_descr">
+		<text>Un objeto de lujo en la Zona. Tener un saco de dormir y una colcha puede resultar esencial si no quieres quedarte sin gas en las circunstancias más inoportunas.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_cards">
+		<text>Baraja de cartas</text>
+	</string>
+	<string id="st_cards_descr">
+		<text>Jugar a las cartas es un pasatiempo popular. La funda muestra el imponente diseño arquitectónico del Metro de Moscú.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Recreativo
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]pasar el rato
+		\n</text>
+	</string>
+
+	<string id="st_jewelry_box">
+		<text>Joyero decorado</text>
+	</string>
+	<string id="st_jewelry_box_descr">
+		<text>Una caja ornamentada y bien elaborada, probablemente saqueada de una casa antes de la Zona, que a veces se usa para guardar objetos de valor o recuerdos pequeños. Su valor sentimental suele pesar más que su valor práctico.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+
+	<string id="st_synthrope">
+		<text>Cuerdas sintéticas</text>
+	</string>
+	<string id="st_synthrope_descr">
+		<text>Una cuerda sintética de unos 5 metros de longitud. Una buena cuerda tiene muchas utilidades, sobre todo en un lugar como la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_tarpaulin">
+		<text>Lona</text>
+	</string>
+	<string id="st_tarpaulin_descr">
+		<text>Una sábana grande de material resistente, flexible e impermeable o resistente al agua, con ojales reforzados en las esquinas y a lo largo de los laterales para formar puntos de sujeción para cuerdas.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+</string_table>

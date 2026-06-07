@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+    <string id="ui_mcm_menu_hideout_cat_settings">
+        <text>Hideout Cat</text>
+    </string>
+
+    <string id="ui_hideout_cat_mcm_sld">
+        <text>Hideout Cat</text>
+    </string>
+
+    <string id="ui_mcm_hideout_cat_sld_text">
+        <text>Hideout Cat</text>
+    </string>
+
+    <string id="ui_mcm_hideout_cat_color_help">
+        <text>Aquí podrás seleccionar el color de tu(s) gato(s).</text>
+    </string>
+
+    <string id="ui_mcm_hideout_cat_settings_hideout_cat_color">
+        <text>Color del pelaje:</text>
+    </string>
+
+    <string id="ui_mcm_lst_color_orange">
+        <text>Naranja</text>
+    </string>
+
+    <string id="ui_mcm_lst_color_black">
+        <text>Negro</text>
+    </string>
+
+    <string id="ui_mcm_lst_color_white">
+        <text>Blanco</text>
+    </string>
+
+    <string id="ui_mcm_lst_color_black_spots">
+        <text>Negro con manchas blancas</text>
+    </string>
+
+    <string id="ui_mcm_lst_color_white_spots">
+        <text>Blanco con manchas negras</text>
+    </string>
+
+    <string id="ui_mcm_lst_color_brown">
+        <text>Marrón atigrado</text>
+    </string>
+	<string id="ui_mcm_hideout_cat_settings_hideout_cat_fur_hidden">
+        <text>Desactivar pelaje con textura alfa:</text>
+    </string>
+	<string id="ui_mcm_hideout_cat_settings_hideout_cat_fur_hidden_descr">
+        <text>Desactiva el pelaje con textura alfa cuando el sombreado causa problemas con la iluminación.</text>
+    </string>
+	<string id="st_hideout_cat">
+        <text>Gato de escondite</text>
+    </string>
+    <string id="st_hideout_cat_descr">
+		<text>Un gato medio domesticado que se ha colado en la Zona sabe Dios cómo. Duerme mientras hay emisiones, ronronea como si fuera una anomalía y recuerda a los stalkers cómo se siente, casi, estar en «casa».
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+	<string id="st_hideout_cat_bed">
+        <text>Cama para gato</text>
+    </string>
+    <string id="st_hideout_cat_bed_descr">
+		<text>Una cómoda cama para tu gato.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+</string_table>

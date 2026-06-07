@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="as_sub_characters_voice_scenario_bar_barman_barman_hello1">
+		<text>Hola, stalker. Ven a hablar conmigo.</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_barman_hello2">
+		<text>¡Hola! ¡Me alegro de verte!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_hello_1">
+		<text>¡Eso es genial!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_hello_2">
+		<text>Y, socio, ¿cómo le va?</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_hello_3">
+		<text>¿Vive? Sí, eso es genial.</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_hello_4">
+		<text>¡Ka-ka-na!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_hello_5">
+		<text>¿Qué pasa, eh?</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_wait_1">
+		<text>¿Por qué has tardado tanto, eh?</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_wait_2">
+		<text>¡Ven para acá!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_wait_3">
+		<text>¿Qué haces ahí parado? ¡Ven aquí!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_bar_barman_bar_barman_wait_4">
+		<text>Ven aquí, no hay mucho tiempo.</text>
+	</string>
+</string_table>

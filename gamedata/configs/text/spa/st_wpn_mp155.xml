@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_mp155">
+		<text>MP-155</text>
+	</string>
+	<string id="st_wpn_mp155_descr">
+		<text>Una versátil escopeta semiautomática conocida por su fiabilidad, asequibilidad y capacidad de tolerar todo tipo de cargas. Es popular entre los cazadores y los tiradores deportivos. Su diseño ligero, opciones de culata ajustable y construcción robusta la hacen apta para diversos entornos y estilos de tiro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n</text>
+	</string>
+
+</string_table>

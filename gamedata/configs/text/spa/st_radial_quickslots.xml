@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+
+
+
+
+
+
+
+<string_table>
+
+    
+    <string id="st_rq_empty_slot">
+        <text>Nada</text>
+    </string>
+
+    <string id="st_rq_unknown_slot">
+        <text>Desconocido</text>
+    </string>
+
+    
+    <string id="st_rq_knife_title">
+        <text>Cuchillo</text>
+    </string>
+
+    <string id="st_rq_secondary_title">
+        <text>Secundaria</text>
+    </string>
+
+    <string id="st_rq_primary_title">
+        <text>Primaria</text>
+    </string>
+
+    <string id="st_rq_grenade_title">
+        <text>Granada</text>
+    </string>
+
+    <string id="st_rq_binoculars_title">
+        <text>Prismáticos</text>
+    </string>
+
+    <string id="st_rq_bolts_title">
+        <text>Pernos</text>
+    </string>
+
+    <string id="st_rq_pda_title">
+        <text>PDA</text>
+    </string>
+
+    
+    <string id="ui_mcm_menu_radial_quickslots">
+        <text>Radial Quickslots</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_title">
+        <text>Radial Quickslots</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_general_title">
+        <text>GENERAL</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion">
+        <text>Activar cámara lenta</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_desc">
+        <text>Activar esta opción ralentizará el tiempo cuando se abra el menú radial.</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_factor">
+        <text>Factor de ralentización</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_slow_motion_factor_desc">
+        <text>Si la opción «Activar cámara lenta» está activada, esta opción determina el factor de tiempo que se usará cuando se abra el menú radial.</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_keybindings_title">
+        <text>TECLAS ASIGNADAS</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_open_menu_key">
+        <text>Abrir menú radial</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_open_menu_key_desc">
+        <text>Tecla para abrir el menú radial.</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_technical_settings_title">
+        <text>AJUSTES TÉCNICOS</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_debug_mode">
+        <text>Modo de depuración</text>
+    </string>
+
+    <string id="ui_mcm_radial_quickslots_debug_mode_desc">
+        <text>Hace que el mod imprima información en la consola/registro como referencia a la hora de identificar problemas.</text>
+    </string>
+
+</string_table>

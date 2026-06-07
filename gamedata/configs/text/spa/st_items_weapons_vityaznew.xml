@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_vityaznew">
+		<text>PP-19-01 Vitiaz</text>
+	</string>
+	<string id="st_wpn_vityaznew_descr">
+		<text>El «Vitiaz» («caballero») es un subfusil ruso moderno diseñado para las fuerzas del orden y las fuerzas especiales que ofrece una alta cadencia de tiro y una excelente fiabilidad en el combate en espacios cerrados. Inspirado en la plataforma AK, cuenta con un armazón ligero y compacto y una culata plegable para una mayor maniobrabilidad. Su compatibilidad con silenciadores y diversos accesorios tácticos lo convierte en una opción versátil para operaciones urbanas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Corporación Kaláshnikov
+		\n</text>
+	</string>
+
+</string_table>

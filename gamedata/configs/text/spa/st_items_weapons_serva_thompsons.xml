@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_thompson_m1a1">
+		<text>Thompson M1A1</text>
+	</string>
+	<string id="st_wpn_thompson_m1a1_descr">
+		<text>Una versión simplificada del emblemático subfusil, diseñado para la producción en cadena y el uso militar durante la Segunda Guerra Mundial. Con un sistema de retroceso simple y un cargador de petaca, conserva la potencia de fuego de sus predecesores a la vez que resulta más rentable y fácil de fabricar. Su durabilidad y poder de parada la convirtieron en un arma preferida de los soldados en primera línea de combate.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Birmingham Small Arms
+		\n</text>
+	</string>
+
+	<string id="st_wpn_thompson_1921">
+		<text>Thompson M1921</text>
+	</string>
+	<string id="st_wpn_thompson_1921_descr">
+		<text>Una variante antigua y de gran calidad del famoso subfusil Thompson, conocido por su funcionamiento suave, su alta cadencia de tiro y su clásico cargador de tambor. Pensado originalmente para los mercados policial y civil, el «Chicago Typewriter» se hizo tristemente célebre durante la época de la ley seca por ser el arma predilecta tanto de mafiosos como de agentes de la ley. Sus componentes finamente mecanizados y su diseño distintivo la convierten en un arma muy codiciada por los coleccionistas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Auto-Ordnance Company
+		\n</text>
+	</string>
+
+	<string id="st_up_m1a1_b8_name">
+		<text>Cañón más pesado</text>
+	</string>
+	<string id="st_up_m1a1_b8_descr">
+		<text>Instalación de un cañón más pesado para mejorar el retroceso.</text>
+	</string>
+	<string id="st_up_m1a1_b5_name">
+		<text>Culata de polímero</text>
+	</string>
+	<string id="st_up_m1a1_b5_descr">
+		<text>Instalación de una culata de polímero para reducir el peso.</text>
+	</string>
+	<string id="st_up_m1a1_b6_name">
+		<text>Guardamanos de polímero</text>
+	</string>
+	<string id="st_up_m1a1_b6_descr">
+		<text>Instalación de un guardamanos de polímero para reducir el peso.</text>
+	</string>
+		<string id="st_up_m1a1_b7_name">
+		<text>Piezas anticorrosivas</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Instalación de componentes anticorrosivos para reducir la degradación del arma.</text>
+	</string>
+
+	<string id="st_up_1921_b8_name">
+		<text>Piezas importadas de buena calidad</text>
+	</string>
+	<string id="st_up_1921_b8_descr">
+		<text>Instalación de piezas importadas de mejor calidad para aumentar la fiabilidad.</text>
+	</string>
+	<string id="st_up_1921_b5_name">
+		<text>Culata de polímero</text>
+	</string>
+	<string id="st_up_1921_b5_descr">
+		<text>Instalación de una culata de polímero para reducir el peso.</text>
+	</string>
+	<string id="st_up_1921_b6_name">
+		<text>Guardamanos de polímero</text>
+	</string>
+	<string id="st_up_1921_b6_descr">
+		<text>Instalación de un guardamanos de polímero para reducir el peso.</text>
+	</string>
+		<string id="st_up_1921_b7_name">
+		<text>Piezas anticorrosivas</text>
+	</string>
+	<string id="st_up_1921_b7_descr">
+		<text>Instalación de componentes anticorrosivos para reducir la degradación del arma.</text>
+	</string>
+
+	<string id="st_up_1921_b9_name">
+		<text>Mecanismo de cerrojo Blish rediseñado</text>
+	</string>
+	<string id="st_up_1921_b9_descr">
+		<text>Instalación de un mecanismo de acerrojado afinado para aumentar considerablemente la fiabilidad.</text>
+	</string>
+
+</string_table>

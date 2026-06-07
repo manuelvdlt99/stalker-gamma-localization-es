@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_box_box_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_joke_reaction_joke_1">
+		<text>Chicos, ¿soy el único imbécil o es que nadie más lo ha pillado? ¿De qué iba?</text>// changed &apos;only one dumb here&apos; to &apos;only dumbass here&apos; to better reflect rough bandit tone, &apos;is everyone else didn&apos;t get it&apos; to &apos;did nobody else get it&apos; to better flow / &apos;nobody&apos; for more informal tone, replaced &apos;,&apos; after &apos;get it&apos; to &apos;?&apos; to better tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_joke_reaction_joke_2">
+		<text>¡Vaya, qué viejo eres! ¡Podrías haberme hablado de Stirlitz!</text>// &apos;mould&apos; to &apos;geezer&apos; to better reflect &apos;old joker&apos;. replaced &apos;,&apos; after geezer with &apos;!&apos; to better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_joke_reaction_joke_3">
+		<text>Ja, ja. Qué gracioso. Me parto y me mondo.</text>// &apos;I just can&apos;t&apos; to &apos;that&apos;s a real knee-slapper&apos; to reinforce sarcasm</string>
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_music_reaction_music_1">
+		<text>Mm, te llega al alma...</text>// replaced &apos;ugh&apos; with &apos;mn&apos; to reinforce contemplative tone, added &apos;the&apos; before &apos;soul&apos; for emphasis, ellipsis after &apos;soul&apos; to further reinforce contemplative tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_music_reaction_music_2">
+		<text>Sí, Bombón. Si te portaras así en la cárcel, ya te habrían follado hace tiempo.</text>// removed &apos;the&apos; before &apos;prison&apos; and replaced &apos;have been&apos; with &apos;be&apos; to reinforce bandit colloquial tone</string>
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_music_reaction_music_3">
+		<text>Con eso deberían formarse cascadas...</text>// idk what &apos;forestfall&apos; means. if it&apos;s to evoke sadness, then i replaced the whole statement to reflect that</string>
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_music_reaction_music_4">
+		<text>Cuando estábamos en el reformatorio no teníamos nada con qué entretenernos.</text>// im assumming he meant he was in prison as a kid, replaced with us-central slang for juvenile-detention called &apos;juvie.&apos; open to edits on this to make it less us-centric</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_music_reaction_music_5">
+		<text>¡Lavanda! ¡Lavanda de la montaña!</text> 
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_music_reaction_music_6">
+		<text>¡No, no, no! ¡No es eso, ni de cerca! ¡No, estás de broma!</text>// replaced &apos;,&apos; after last &apos;no&apos; in trio for emphasis and edited capitalized subsequent &apos;that&apos; to make seperate clause, replaced &apos;,&apos; after inch with &apos;!&apos; to reinforce tone, capitalized &apos;no&apos; subsequently for seperate clause. contracted &apos;you&apos; and &apos;are&apos; to reinforce bandit colloquial tone.</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_music_reaction_music_7">
+		<text>No, no, bueno... chicos, esperad. Está claro que no lo he pillado, ¿era una canción? ¡Que le den a esa música!</text>// replaced &apos;,&apos; after second &apos;no&apos; to &apos;-&apos;, replaced &apos;,&apos; after &apos;well&apos; with ellipsis, replaced &apos;,&apos; after wait with &apos;.&apos; to better convey pause. replaced &apos;music&apos; with song&apos; in first instance to better differentiate dislike this particular song. replaced &apos;it&apos; with &apos;that&apos; before &apos;song&apos; to better convey that the songs not still occuring in conversation</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_story_laughter_1">
+		<text>¡Gha-ga-ga-ga-gaaa-ja-ja-jaja-ja! ¡Buena esa, Nudillos, de verdad, jurado!</text>// removed &apos;,&apos; before &apos;pal&apos; to better flow, replaced &apos;pal&apos; with &apos;knuckles&apos; to better convey rough-and-tumble, positive nickname</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_story_laughter_2">
+		<text>¡Ja, ja, ja! ¡No, eres todo un comediante, de verdad!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_story_laughter_3">
+		<text>¡Gha-gag-agha-gA-gah, chico malo, joder, chico muy malo!</text>// changed &apos;demon&apos; to &apos;bad-boy&apos; to reinforce rough-and-tumble tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_story_laughter_4">
+		<text>¡Me estoy partiendo el culo, chicos! ¡Jaaaaa, ja, ja, ja, ja, ja, jaaaa, jaa!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_story_laughter_5">
+		<text>¡Ja, ja, ja, ja, ja, ja, ja!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_story_laughter_6">
+		<text>AAJAJAJAJAJAAJAJAJAJAJAJAJAJA JAJAJAJAJAJAJ</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_reactions_story_laughter_7">
+		<text>¡Gha-jajajajajaj-jaaa!</text>
+	</string>
+</string_table>

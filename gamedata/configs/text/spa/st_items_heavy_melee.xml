@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_sledge_hammer">
+		<text>Almádena</text>
+	</string>
+	<string id="st_sledge_hammer_descr">
+		<text>Una herramienta de impacto pesada y de dos manos diseñada para propinar golpes potentes, muy utilizada para demoliciones, incursiones y combate cuerpo a cuerpo en situaciones extremas. Su enorme peso y su firme construcción le permiten destruir obstáculos, lo que la convierte en un arma o herramienta formidable en escenarios tácticos y de supervivencia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n %c[d_green] • %c[ui_gray_2] Mayor alcance
+		\n</text>
+	</string>
+
+</string_table>

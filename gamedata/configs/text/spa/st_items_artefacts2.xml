@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_af_atom_name">
+		<text>Átomo</text>
+	</string>
+	<string id="st_af_atom_descr">
+		<text>Un artefacto precioso que consta de cuatro pequeñas esferas multicolores que orbitan alrededor de un centro translúcido más grande. Emite una pequeña cantidad de calor y puede convertir pequeñas dosis de radiación en el cuerpo en energía utilizable.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_ball_name">
+		<text>Bola</text>
+	</string>
+	<string id="st_af_ball_descr">
+		<text>Un artefacto esférico formado en anomalías eléctricas en condiciones desconocidas. Rebota mucho. Si una persona se lo equipa y le pega una patada a un mutante de la Zona, el artefacto destrozará al mutante, usando su energía potencial para enviarlo volando.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_bat_name">
+		<text>Murciélago</text>
+	</string>
+	<string id="st_af_bat_descr">
+		<text>Una visión desconcertante, pero inconfundible, en la Zona. Consta de dos «alas» brillantes, de color púrpura, parecidas a las de un murciélago, que aparentemente protegen una esfera interna. Cuando se coloca frente a otro artefacto, el Murciélago lo transmuta en un artefacto similar más poderoso. El Murciélago se destruye en el proceso, aparentemente convertido en energía pura.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_lighthouse_name">
+		<text>Baliza</text>
+	</string>
+	<string id="st_af_lighthouse_descr">
+		<text>La Baliza, o Faro, es una masa fibrosa con forma de yoyó que contiene una bola muy densa que orbita sin cesar. Si su usuario mata a otro ser vivo, será teletransportado al instante al lugar exacto donde perdió la vida la víctima.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_black_angel_name">
+		<text>Ángel Negro</text>
+	</string>
+	<string id="st_af_black_angel_descr">
+		<text>Este artefacto se asemeja a un cúmulo luminoso de raíces. Si no se le molesta, comenzará a liberar vapor de agua pura. Cuando lo utiliza una persona, existe una pequeña posibilidad de que cualquier daño o dolor que se le inflija se le inflija al atacante.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_chelust_name">
+		<text>Cadena</text>
+	</string>
+	<string id="st_af_chelust_descr">
+		<text>Un conjunto de pequeños discos brillantes que generan un campo gravitatorio desproporcionadamente mayor que su masa real, lo que hace que el artefacto sea, en efecto, bastante pesado. Este artefacto parece estar vinculado a un grupo de sectarios de la Zona conocidos como el Pecado, que mejoran su salud cuando se lo equipan.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_cocoon_name">
+		<text>Capullo</text>
+	</string>
+	<string id="st_af_cocoon_descr">
+		<text>Una estructura entramada con una película que cubre los agujeros, formada en anomalías gravitatorias. Cuando se equipa, hace que la piel se endurezca temporalmente en respuesta a traumatismos físicos, impidiendo la movilidad, pero reduciendo el daño.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_cell_name">
+		<text>Célula</text>
+	</string>
+	<string id="st_af_cell_descr">
+		<text>Una esfera porosa con una formación estrellada que gira en el centro. Se origina en anomalías gravitatorias. Si el usuario de este artefacto recibiera un golpe de un objeto veloz, la Célula atomizaría al intante parte de su masa, protegiendo a su portador, pero provocando una ligera exposición a la radiación.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_kogot_name">
+		<text>Garra</text>
+	</string>
+	<string id="st_af_kogot_descr">
+		<text>Una preciosa formación vidriosa de anomalías eléctricas. A pesar de lo que su delicada apariencia pueda dar a entender, imbuye a su usuario de una sed de sangre primigenia, fortaleciéndolo en el combate cuerpo a cuerpo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_dragon_eye_name">
+		<text>Ojo de Dragón</text>
+	</string>
+	<string id="st_af_dragon_eye_descr">
+		<text>Se encuentra cerca de anomalías ígneas y tiene aspecto de un ojo de reptil. Si su usuario mata a otro ser vivo, existe una pequeña posibilidad de que su cuerpo explote violentamente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_elektron_name">
+		<text>Electrón</text>
+	</string>
+	<string id="st_af_elektron_descr">
+		<text>Un superconductor a temperatura ambiente generado en anomalías eléctricas. Cuando se lleva, un Electrón redirige el exceso de energía eléctrica a pilas, condensadores y similares cercanos. También permite que el usuario emplee físicamente esta energía.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_fountain_name">
+		<text>Fuente</text>
+	</string>
+	<string id="st_af_fountain_descr">
+		<text>Un artefacto de naturaleza presuntamente gravitatoria con una forma peculiar. Bajo el microscopio, la superficie del objeto parece fractal, con microestructuras de una complejidad inimaginable hasta el nivel atómico. Si se equipa, repondrá una pequeña parte del dinero perdido.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_generator_name">
+		<text>Generador</text>
+	</string>
+	<string id="st_af_generator_descr">
+		<text>Genera débiles corrientes eléctricas y un pequeño campo electromagnético. Cuando su portador ejerce energía, el Generador captura parte de esa energía y la distribuye a las pilas cercanas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_grapes_name">
+		<text>Uvas</text>
+	</string>
+	<string id="st_af_grapes_descr">
+		<text>Una masa ambarina con un ligero tono amarillo verdoso. Quien la consuma se sentirá más satisfecho y saludable después de comerla.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_ear_name">
+		<text>Corazón</text>
+	</string>
+	<string id="st_af_ear_descr">
+		<text>Artefacto con una forma extraña. En su nucleo se vislumbra una pequeña estructura con forma de cuerpo humano. Concede al usuario unas ganas inquebrantables de vivir, lo que permite la supervivencia y la recuperación después de lesiones o pérdidas de sangre que, en otras circunstancias, serían fatales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_fonar_name">
+		<text>Lámpara</text>
+	</string>
+	<string id="st_af_fonar_descr">
+		<text>Un artefacto con la apariencia de una pirámide de hielo derritiéndose; formado en anomalías eléctricas. Al equiparlo, el artefacto «muestra» a su portador la ubicación de objetos de valor, utilizando luz visible y ondas de radiofrecuencia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_medallion_name">
+		<text>Medalla</text>
+	</string>
+	<string id="st_af_medallion_descr">
+		<text>Un artefacto único en tanto que parece casi artificial. Es un anillo verde con cuatro lóbulos que girAan en torno a un núcleo central. A veces, cuando el portador de la Medalla resulta herido, su herida se transferirá por completo a otra persona cercana.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_peas_name">
+		<text>Luna</text>
+	</string>
+	<string id="st_af_peas_descr">
+		<text>La Luna, o Vaina, es una masa con forma de media luna que emite un brillo tenue. Bajo la cubierta exterior gomosa, se aprecian tres esferas nacaradas con estructuras cristalinas únicas. Quienes utilizan este artefacto informan que su ritmo circadiano se invierte rápida y completamente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_moh_name">
+		<text>Musgo</text>
+	</string>
+	<string id="st_af_moh_descr">
+		<text>Este artefacto eléctrico, que a veces se asemeja a un artefacto Comezón y otras veces se descompone en una forma más nebulosa, emite una carga pequeña pero perceptible, similar a tocar con la lengua ambos polos de una pila. Cuando se equipa, el usuario se verá imbuido de ciertas fortalezas al consumir carne cruda.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_star_phantom_name">
+		<text>Estrella Fantasma</text>
+	</string>
+	<string id="st_af_star_phantom_descr">
+		<text>Una sustancia plasmática púrpura encerrada en una vaina transparente y palpitante. Al activarse, sumerge al usuario en un estado fantasmal durante un breve periodo de tiempo: completamente imperceptible, pero incapaz de interactuar con el mundo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_sandstone_name">
+		<text>Arenisca</text>
+	</string>
+	<string id="st_af_sandstone_descr">
+		<text>Formado en anomalías a temperaturas extremas, este artefacto se asemeja de alguna manera a una roca sedimentaria vista al microscopio. En las pequeñas esferas que componen el artefacto se encuentran pequeñas cantidades de oro. Equiparlo otorga un gran poder tras matar a otros seres vivos, pero también conlleva una pérdida de constitución física y tolerancia al dolor.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_zhelch_name">
+		<text>Cicatriz</text>
+	</string>
+	<string id="st_af_zhelch_descr">
+		<text>Un artefacto elipsoidal con propiedades psíquicas interesantes. Al principio, su usuario se sentirá en calma y relajado, pero, a medida que pase el tiempo, perderá la cabeza. Este estado de locura es completamente reversible y el usuario volverá a la normalidad cuando se desprenda del artefacto.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_serofim_name">
+		<text>Serafín</text>
+	</string>
+	<string id="st_af_serofim_descr">
+		<text>Un artefacto eléctrico que genera un campo magnético. Está compuesto por varias capas azules translúcidas que rodean un centro brillante. Si su portador resultara muerto repentinamente, este artefacto ocuparía su lugar y permitiría al usuario seguir viviendo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_signet_name">
+		<text>Sello</text>
+	</string>
+	<string id="st_af_signet_descr">
+		<text>El Sello, o Amuleto, aprece ser una simple piedra con varios agujeros precisos perforados. Algunos stalkers creen que da buena suerte. En realidad, proporciona al usuario un mayor sentido del bienestar y permite que el cuerpo sane más rápido cerca del fuego.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_kislushka_name">
+		<text>Amargado</text>
+	</string>
+	<string id="st_af_kislushka_descr">
+		<text>Una formación esférica hueca que se asemeja a un pergamino transparente cubierto por una película. Agradable al tacto. Este artefacto acelerará drásticamente el proceso de la coagulación sanguínea, aunque también hará que el usuario necesite más comida para reponer la energía que consume.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_spaika_name">
+		<text>Pincho</text>
+	</string>
+	<string id="st_af_spaika_descr">
+		<text>Un artefacto gravitatorio que se asemeja a una Bola de Carne y una Medusa fusionadas. Si su portador acierta de forma continuada con un arma, los impactos se volverán cada vez más eficaces. Sin embargo, si el usuario falla, su sistema nervioso sufrirá una descarga eléctrica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_sun_name">
+		<text>Sol</text>
+	</string>
+	<string id="st_af_sun_descr">
+		<text>Un espécimen raro que genera una fuente inextinguible de luz. Permite una forma de fotosíntesis solar en su portador.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_tapeworm_name">
+		<text>Tenia</text>
+	</string>
+	<string id="st_af_tapeworm_descr">
+		<text>Si bien su estructura parece imposiblemente frágil, este artefacto, compuesto de cuarzo puro, es bastante resistente en realidad. Si su usuario es atacado, el artefacto paralizará temporalmente a la amenaza.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+
+
+	<string id="st_af_vaselisk_name">
+		<text>Basilisco</text>
+	</string>
+	<string id="st_af_vaselisk_descr">
+    <text>Si has encontrado esto, eso es que algo ha ido muy mal.
+	
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_arty_save">
+		<text>Ojo de la Noosfera</text>
+	</string>
+	<string id="st_arty_save_descr">
+		<text>El Ojo de la Noosfera, uno de los artefactos más misteriosos de la Zona, puede transportar a su portador atrás en el tiempo, incluso para zafarse de la muerte. Un apretón fuerte del artefacto activa su habilidad, creando un punto de restauración al que volver en caso de activación o muerte. El uso frecuente puede hacer que el artefacto cambie de color, pero, si se descarga con demasiada frecuencia, puede dejar de funcionar por completo. El Ojo restaura gradualmente su poder con el tiempo, supuestamente impulsado por la energía anómala de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_af_gimlet_name">
+		<text>Barrena</text>
+	</string>
+	<string id="st_af_gimlet_descr">
+		<text>Los pétalos en forma de cuenco del artefacto liberan un potente estimulante gaseoso que produce un cambio positivo en las hormonas humanas. Si has encontrado esto, eso es que algo ha ido muy mal.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_af_geliy_name">
+		<text>Helio</text>
+	</string>
+	<string id="st_af_geliy_descr">
+		<text>Un producto de anomalías eléctricas. Emite una sustancia gaseosa. Si has encontrado esto, eso es que algo ha ido muy mal.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_af_fire_loop_name">
+		<text>Nudo</text>
+	</string>
+	<string id="st_af_fire_loop_descr">
+		<text>Creado en una anomalía térmica. Tiene un extraño aspecto tetraédrico. Solo rumores de desapariciones, traiciones y muerte rodean a este artefacto infernal.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_skull_miser_name">
+		<text>Cráneo de Avaro</text>
+	</string>
+	<string id="st_af_skull_miser_descr">
+		<text>Los restos de una cabeza humana, desfigurados y fosilizados por la Zona. Los dientes parecen estar hechos de una piedra de cristal puro. Si su portador mata a otra persona, su dinero podría duplicarse.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+	<string id="st_af_repei_name">
+		<text>Cardo</text>
+	</string>
+	<string id="st_af_repei_descr">
+		<text>Este artefacto, relativamente común en anomalías gravitatorias, se asemeja a la Espina, un artefacto que no se ha descubierto en muchos años. Mientras que la Espina provocaba hemorragias en quien la usaba, el Cardo las causa en sus enemigos, impidiendo la coagulación y diluyendo la sangre.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Artefacto con ventaja
+		
+		\n \n</text>
+	</string>
+
+</string_table>

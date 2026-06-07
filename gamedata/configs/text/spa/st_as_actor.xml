@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    
+    <string id="as_sub_actor_awr_fail_1">
+        <text>Sí, no pasó</text>
+    </string>
+    <string id="as_sub_actor_awr_fail_2">
+        <text>¡Dios mío!</text>
+    </string>
+    <string id="as_sub_actor_awr_fail_3">
+        <text>Así son las cosas</text>
+    </string>
+    <string id="as_sub_actor_awr_fail_4">
+        <text>Bida, en una palabra</text>
+    </string>
+    <string id="as_sub_actor_awr_fail_5">
+        <text>Subtitle Missing_Subtitle</text>
+    </string>
+    
+    <string id="as_sub_actor_radiation_1">
+        <text>Blin, voy a tener que alumbrar la noche</text>
+    </string>
+    <string id="as_sub_actor_radiation_2">
+        <text>Mierda, estoy embarrado. Si pudiera conseguir medicamentos antirradiación</text>
+    </string>
+    <string id="as_sub_actor_radiation_3">
+        <text>Joder, idiota, has perdido la oreja</text>
+    </string>
+    <string id="as_sub_actor_radiation_4">
+        <text>Así que tenemos que ir al agua, pero no debemos tumbarnos mucho</text>
+    </string>
+    
+    <string id="as_sub_actor_psy_1">
+        <text>¿Qué ha sido eso?</text>
+    </string>
+    <string id="as_sub_actor_psy_2">
+        <text>¡Dios mío, qué coñazo!</text>
+    </string>
+    <string id="as_sub_actor_psy_3">
+        <text>¡No puedo más con esa voz!</text>
+    </string>
+    <string id="as_sub_actor_psy_4">
+        <text>¿Por qué a mí? ¡Dios mío, qué horror!</text>
+    </string>
+    <string id="as_sub_actor_psy_5">
+        <text>¡Dios, cómo me duele la cabeza! ¡Ah, se me está derritiendo el cerebro, no lo soporto!</text>
+    </string>
+    <string id="as_sub_actor_psy_6">
+        <text>¿A qué vienen estos susurros? El susurro se desvanece y el columpio cruje.</text>
+    </string>
+    <string id="as_sub_actor_psy_7">
+        <text>Ni en broma. Está muy oscuro.</text>
+    </string>
+    <string id="as_sub_actor_psy_8">
+        <text>Falta subtítulo</text>
+    </string>
+    <string id="as_sub_actor_psy_9">
+        <text>No pasa nada. Todo da vueltas y vueltas. Todo gira y gira.</text>
+    </string>
+    <string id="as_sub_actor_psy_10">
+        <text>Por qué es esto tan importante</text>
+    </string>
+    <string id="as_sub_actor_psy_11">
+        <text>No lo entiendo... No lo entiendo...</text>
+    </string>
+    <string id="as_sub_actor_psy_12">
+        <text>Está en mi cabeza y me está hablando.</text>
+    </string>
+    <string id="as_sub_actor_psy_13">
+        <text>¡O sea que no está en mi casa!</text>
+    </string>
+    
+        
+    <string id="as_sub_actor_breath">
+        <text>Respiras</text>
+    </string>    
+    <string id="as_sub_actor_breath_shallow">
+        <text>Respiras superficialmente</text>
+    </string>
+    <string id="as_sub_actor_breath_quick">
+        <text>Respiras rápidamente</text>
+    </string>
+    <string id="as_sub_actor_breath_heavy">
+        <text>Respiras hondo</text>
+    </string>
+    <string id="as_sub_actor_breath_deep">
+        <text>Respiras profundamente</text>
+    </string>
+        
+    <string id="as_sub_actor_breath_gasmask">
+        <text>Respiras a través de tu máscara antigás</text>
+    </string>
+     <string id="as_sub_actor_breath_gasmask_shallow">
+        <text>Respiras superficialmente a través de tu máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_breath_gasmask_quick">
+        <text>Respiras rápidamente a través de tu máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_breath_gasmask_exertion">
+        <text>Respiras con dificultad a través de tu máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_breath_gasmask_struggle">
+        <text>Te cuesta respirar a través de tu máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_breath_gasmask_heavy">
+        <text>Respiras hondo a través de tu máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_breath_gasmask_deep">
+        <text>Respiras profundamente a través de tu máscara antigás</text>
+    </string>
+    
+    <string id="as_sub_actor_gasmask_off">
+        <text>Te quitas la máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_gasmask_on">
+        <text>Te pones la máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_gasmask_filter_replace">
+        <text>Reemplazas el filtro de tu máscara antigás</text>
+    </string>
+    <string id="as_sub_actor_consume_drink">
+        <text>Das un trago</text>
+    </string>
+    
+    <string id="as_sub_actor_damage_mortal">
+        <text>Has muerto</text>
+    </string>
+        
+    <string id="as_sub_actor_damage_bullet">
+        <text>Te han disparado</text>
+    </string>
+    <string id="as_sub_actor_damage_bullet_pain">
+        <text>Estás recibiendo daño por los disparos</text>
+    </string>
+        
+    <string id="as_sub_actor_damage_fall_low">
+        <text>Has caído desde una altura pequeña</text>
+    </string>
+    <string id="as_sub_actor_damage_fall_high">
+        <text>Has caído desde una altura grande</text>
+    </string>
+        
+    <string id="as_sub_actor_damage_mutant_melee">
+        <text>Recibes daños de un mutante</text>
+    </string>
+    <string id="as_sub_actor_damage_mutant_psy">
+        <text>Recibes daño psíquico de un mutante</text>
+    </string>
+    <string id="as_sub_actor_damage_pain_grunt">llorar gemir gritar sollozar aullar<text>Gruñes de dolor</text>
+    </string>
+        
+    <string id="as_sub_actor_damage_pain_cry">
+        <text>Gritas de dolor</text>
+    </string>
+    <string id="as_sub_actor_damage_pain_moan">
+        <text>Gimes de dolor</text>
+    </string>
+    <string id="as_sub_actor_damage_pain_scream">
+        <text>Chillas de dolor</text>
+    </string>
+    <string id="as_sub_actor_damage_pain_whimper">
+        <text>Gimoteas de dolor</text>
+    </string>
+    <string id="as_sub_actor_damage_pain_howl">
+        <text>Aúllas de dolor</text>
+    </string>  
+    
+    <string id="as_sub_actor_health_mortal">
+        <text>Estás mortalmente herido</text>
+    </string>
+    <string id="as_sub_actor_health_heavy">
+        <text>Estás gravemente herido</text>
+    </string>
+    <string id="as_sub_actor_health_medium">
+        <text>Estás muy herido</text>
+    </string>
+    <string id="as_sub_actor_health_light">
+        <text>Apenas estás herido</text>
+    </string>
+    <string id="as_sub_actor_health_nonzero">
+        <text>Tienes algunos rasguños y moratones</text>
+    </string>
+    
+    <string id="as_sub_actor_movement_run_start">
+        <text>Empiezas a correr</text>
+    </string>
+    <string id="as_sub_actor_movement_run_end">
+        <text>Dejas de correr</text>
+    </string>
+    
+    <string id="as_sub_actor_sleep_short">
+        <text>Decides echarte una siesta</text>
+    </string>
+    <string id="as_sub_actor_sleep_long">
+        <text>Estás cansado y decides irte a dormir</text>
+    </string>
+    <string id="as_sub_actor_sleep_short_wakeup">
+        <text>Te despiertas de la siesta</text>
+    </string>
+    <string id="as_sub_actor_sleep_long_wakeup">
+        <text>Te despiertas descansado</text>
+    </string>
+    <string id="as_sub_actor_state_tired">
+        <text>Te sientes cansado</text>
+    </string>
+</string_table>

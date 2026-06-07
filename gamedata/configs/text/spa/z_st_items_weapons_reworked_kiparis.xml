@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+
+	<string id="st_wpn_kiparis">
+		<text>OTs-02 Kiparis</text>
+	</string>
+	<string id="st_wpn_kiparis_descr">
+		<text>El OTs-02 Kiparis («ciprés» en español) es un subfusil desarrollado en 1972 a instancias del Ministerio de Defensa de la URSS por diseñadores de TsKIB SOO, en Tula. El diseño está basado en el del subfusil checoslovaco Skorpion vz. 61 (variante de 1961). El mecanismo automático del OTs-02 Kiparis está accionado por un retroceso de cerrojo libre. Dispara con el cerrojo cerrado, lo que aumenta la precisión de los disparos. Para aumentar la estabilidad del arma, se usa una culata plegable que, en posición compacta, se pliega en la parte superior del cajón del mecanismos. En la Zona, esta arma no es infrecuente y la suelen usar bandidos y solitarios que no pueden permitirse un arma mejor.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n</text>
+	</string>
+
+	<string id="st_wpn_kiparis_upgraded">
+		<text>OTs-02 Kiparis mejorado</text>
+	</string>
+	<string id="st_wpn_kiparis_upgraded_descr">
+		<text>El OTs-02 Kiparis («ciprés» en español) es un subfusil desarrollado en 1972 a instancias del Ministerio de Defensa de la URSS por diseñadores de TsKIB SOO, en Tula. El diseño está basado en el del subfusil checoslovaco Skorpion vz. 61 (variante de 1961). El mecanismo automático del OTs-02 Kiparis está accionado por un retroceso de cerrojo libre. Dispara con el cerrojo cerrado, lo que aumenta la precisión de los disparos. Para aumentar la estabilidad del arma, se usa una culata plegable que, en posición compacta, se pliega en la parte superior del cajón del mecanismos. En la Zona, esta arma no es infrecuente y la suelen usar bandidos y solitarios que no pueden permitirse un arma mejor.
+		\nEsta versión modificada del subfusil está dotada de un kit táctico producido por el técnico de Deber Potryko (alias Mangun). Utiliza un cañón extendido para mejorar la precisión del disparo, así como un portacerrojo y un mecanismo de disparo ligeros, lo que ha mejorado la cadencia de tiro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n</text>
+	</string>
+
+</string_table>

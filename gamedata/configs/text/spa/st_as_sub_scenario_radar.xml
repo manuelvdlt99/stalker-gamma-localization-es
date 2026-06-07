@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="as_sub_characters_voice_scenario_radar_rad_hat_1">
+		<text>¡Atención! ¡Radiación crítica! ¡Abandone la zona de peligro inmediatamente!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_radar_rad_hat_2">
+		<text>¡Atención! ¡La defensa está desactivada!</text>
+	</string>
+</string_table>

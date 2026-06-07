@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>PSO-1</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>Introducida a principios de los años sesenta, la PSO-1 se convirtió en la mira emblemática de los tiradores soviéticos. Entregada junto al fusil SVD, tuvo un uso generalizado en Europa del Este y diversos conflictos de la Guerra Fría. Su retícula distintiva combina un chevrón para apuntar con una escala telemétrica integrada, lo que permite a los tiradores estimar rápidamente las distancias sin equipo adicional.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n%c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica de Instrumentos Ópticos NPZ
+		\n%c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>POSP 6x24</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>La POSP 6x24, una versión con mayor aumento de la clásica fórmula PSO, se diseñó tanto para cazadores y tiradores deportivos como para usuarios militares. Su familiar retícula en forma de chevrón y su escala estadimétrica facilitan la estimación rápida de distancias en la caza, y su tubo ligeramente más largo permite disparos más limpios a objetivos pequeños y medianos. Diseñado para la exportación, la POSP encontró un amplio mercado civil, donde se le valora por su robustez, controles sencillos y ayudas balísticas al estilo PSO que se adaptan perfectamente tanto al terreno como a la caza.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bielorrusia
+		\n%c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]BelOMO
+		\n%c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n	
+		</text>
+	</string>
+	
+	<string id="st_addon_scope_pso2">
+		<text>PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso2_descr">
+		<text>Una versión modernizada y compacta de la clásica familia PSO, adaptada para plataformas de francotirador especiales (en particular, el VSS/AS Val) y distancias cortas a medias. La retícula y las marcas estadimétricas están optimizadas para enfrentamientos a corta distancia (las marcas del telémetro no llegan a la escala original de 1000 m) y el cuerpo se beneficia de recubrimientos actualizados y mejoras de fabricación para una mayor nitidez de la lente y un mejor rendimiento en condiciones de poca luz. Resulta útil donde el compensador de caída de bala de largo alcance del PSO original es innecesario: una mira práctica y lista para el campo de batalla para fusiles especializados y más silenciosos.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n%c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica de Instrumentos Ópticos NPZ
+		\n%c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]4,0x
+		\n
+		</text>
+	</string>
+		
+	<string id="st_addon_scope_1p59">
+		<text>1P59 Guiperon</text>
+	</string>
+	<string id="st_addon_scope_1p59_descr">
+		<text>Una mira telescópica rusa de aumentos variables, introducida alrededor del año 2001 para los fusiles modernos de la clase SVD. Cuenta con una retícula nítida y delgada, una imagen brillante e iluminación alimentada por pilas.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n%c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Fábrica de Instrumentos Ópticos NPZ
+		\n%c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]3,0x - 10,0x
+		\n
+		</text>
+	</string>	
+
+</string_table>

@@ -1,0 +1,27 @@
+<string_table>
+    <string id="st_placeable_weapon_rack">
+        <text>Expositor para armas</text>
+    </string>
+    <string id="st_placeable_weapon_rack_descr">
+		<text>Un estante viejo para armas que puedes usar para reunir y exponer tus fusiles y escopetas favoritos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_cyan] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]exponer fusiles, subfusiles y escopetas
+		\n</text>
+	</string>
+	
+	<string id="st_placeable_pistol_shelf">
+        <text>Estante para pistolas</text>
+    </string>
+    <string id="st_placeable_pistol_shelf_descr">
+		<text>Un estante viejo que puedes usar para presumir de tus pistolas favoritas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_cyan] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]exponer pistolas
+		\n</text>
+	</string>
+</string_table>

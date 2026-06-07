@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_mine_name">
+		<text>Mina antipersona dispersante PFM-1</text>
+	</string>
+	<string id="st_mine_descr">
+		<text>Una pequeña mina de dispersión aérea diseñada para incapacitar al personal enemigo mediante la detonación por presión (o proximidad). Su diseño ligero permite un despliegue amplio, lo que la convierte en un peligro persistente en zonas de conflicto.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Mecanismo de activación: %c[ui_gray_1]proximidad
+		\n</text>
+	</string>
+	
+	<string id="st_ied_rpg">
+		<text>Artefacto explosivo improvisado (granada OG-7V)</text>
+	</string>
+	<string id="st_ied_rpg_descr">
+		<text>Un artefacto explosivo improvisado que utiliza una granada OG-7V modificada para producir efectos de fragmentación devastadores contra personal y vehículos ligeros. Su naturaleza improvisada permite su colocación oculta o detonación remota, lo que lo convierte en una amenaza peligrosa e impredecible en el campo de batalla.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n %c[d_cyan] • %c[ui_gray_2] Mecanismo de activación: %c[ui_gray_1]proximidad
+		\n</text>
+	</string>
+	
+	<string id="st_ied">
+		<text>Artefacto explosivo improvisado (químico)</text>
+	</string>
+	<string id="st_ied_descr">
+		<text>Un artefacto explosivo improvisado diseñado para dispersar agentes químicos peligrosos tras detonar, creando un área de contaminación tóxica. Su uso conlleva amenazas tanto inmediatas como a largo plazo, lo que lo convierte en un arma sumamente peligrosa en la guerra no convencional.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n %c[d_cyan] • %c[ui_gray_2] Mecanismo de activación: %c[ui_gray_1]proximidad
+		\n</text>
+	</string>
+	
+	<string id="st_balon_gas">
+		<text>Bombona de gas</text>
+	</string>
+	<string id="st_balon_gas_descr">
+		<text>Un contenedor de metal presurizado lleno de gas comprimido, principalmente empleado como fuente de combustible portátil para cocinar y calentar. Sin embargo, debido a su naturaleza inflamable, a veces se readapta como un artefacto explosivo improvisado, lo que lo convierte en un peligro potencial en zonas de conflicto.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible para cocinar
+		\n %c[d_cyan] • %c[ui_gray_2] Mecanismo de activación: %c[ui_gray_1]impacto
+		\n</text>
+	</string>
+
+	<string id="st_balon_gas_empty">
+		<text>Bombona de gas (vacía)</text>
+	</string>
+	<string id="st_balon_gas_empty_descr">
+		<text>Un recipiente de metal vacío que antes contenía gas comprimido, ahora inservible a menos que se rellene. Algunos comerciantes o técnicos podrían aceptarlo para reciclarlo o reutilizarlo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+	
+	<string id="st_metalcan_powder">
+		<text>Bidón de pólvora</text>
+	</string>
+	<string id="st_metalcan_powder_descr">
+		<text>Un recipiente metálico pequeño y de peso moderado lleno de una mezcla de productos químicos industriales explosivos, pernos y tuercas metálicas, así como pólvora negra extraída de munición vieja. Al recibir un impacto directo, explotará instantáneamente, lanzando pernos metálicos y productos químicos corrosivos en todas direcciones.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n %c[d_cyan] • %c[ui_gray_2] Mecanismo de activación: %c[ui_gray_1]impacto
+		\n</text>
+	</string>
+	
+	<string id="st_jerrycan_item">
+		<text>Bidón de gasolina</text>
+	</string>
+	
+	<string id="st_jerrycan_fuel">
+		<text>Bidón de gasolina</text>
+	</string>
+	<string id="st_jerrycan_fuel_descr">
+		<text>Un gran recipiente de metal relleno de gasolina E95. Este combustible es esencial para alimentar vehículos y generadores o se puede usar como combustible para cocinar de categoría, aunque hay quienes han encontrado formas alternativas de usarlo, a saber, como explosivos improvisados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible para cocinar
+		\n %c[d_cyan] • %c[ui_gray_2] Mecanismo de activación: %c[ui_gray_1]impacto
+		\n</text>
+	</string>
+
+	<string id="st_jerrycan_fuel_empty">
+		<text>Bidón de gasolina (vacío)</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty_descr">
+		<text>Un bidón vacío que antes contenía combustible líquido, ahora inservible a menos que se rellene. Algunos comerciantes o técnicos podrían aceptarlo para reciclarlo o reutilizarlo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+	
+</string_table>

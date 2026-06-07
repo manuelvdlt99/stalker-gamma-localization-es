@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_ground_coffee">
+		<text>Café molido</text>
+	</string>
+	<string id="st_ground_coffee_descr">
+		<text>Un paquete de granos de café finamente molidos, listos para preparar. Aunque a menudo esté rancio o se rapiñe de reservas antiguas, una taza caliente puede mantener a un stalker alerta durante las largas noches.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida
+		\n %c[d_green] • %c[ui_gray_2] Estimulante
+		\n</text>
+	</string>
+	
+</string_table>

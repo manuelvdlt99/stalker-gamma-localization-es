@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_1">
+		<text>Habla, ¿qué quieres?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_2">
+		<text>Bien, te escucho.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_3">
+		<text>¿Qué miras, qué quieres?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_4">
+		<text>Bien, ¿de qué querías hablar?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_5">
+		<text>¿Tienes la lengua metida en el culo?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_6">
+		<text>¿Qué eres, imbécil, defectuoso?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_7">
+		<text>Eh, ¿a lo mejor eres gilipollas?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_8">
+		<text>¡Joder, no aguanto a los tontos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_9">
+		<text>¿Estás poniendo a prueba mi paciencia?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_10">
+		<text>¡Eres un impresentable! ¡Habla de una vez!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_11">
+		<text>Escucha, estás empezando a ponerme de los nervios.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_12">
+		<text>Escucha, estoy nervioso. ¿Por qué pones caras raras?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_wait_13">
+		<text>Y ¿quieres algo? ¿O no? ¡Pues vete a tomar por culo!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_1">
+		<text>Habla, ¿qué quieres?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_2">
+		<text>Bien, digamos que te escucho.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_3">
+		<text>¡Vaya, hola!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_4">
+		<text>¿Qué hay de nuevo, eh?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_5">
+		<text>Bien, ¿de qué querías hablar?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_6">
+		<text>¿Qué miras? ¿Qué quieres?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_7">
+		<text>¿Qué? ¿Qué haces yendo de un lado para otro?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hello_8">
+		<text>¡Dichosos los ojos! ¿Quién ha venido a nosotros?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hide_weapon_1">
+		<text>¡No camines con el arma, no hay necesidad!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hide_weapon_2">
+		<text>¡Guarda el arma, rápido!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hide_weapon_3">
+		<text>Te crees guay, ¿eh? ¡Guarda el arma!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_hide_weapon_4">
+		<text>¿Qué eres, imbécil? Guarda la puta arma.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_stop_1">
+		<text>¡Eres misterioso!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_stop_2">
+		<text>Escúchame, eres un error de la naturaleza. No hables, aparta de mi vista. ¿Entiendes o no?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_stop_3">
+		<text>Cuando llegue el fiscal, haré que te calles delante de él.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_stop_4">
+		<text>¡ERES UN CAPULLO!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_stop_5">
+		<text>Nah, la primera vez que veo a alguien tan jodido.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_stop_6">
+		<text>Ojalá las chicas te hicieran el mismo caso que yo a ti aquí, idiota.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_default_1">
+		<text>¡Eh, ve a hablar con los demás, yo paso!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_default_2">
+		<text>Hermano, no tengo tiempo para hablar.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_default_3">
+		<text>¡Déjame en paz!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_fight_1">
+		<text>¿Te has vuelto loco?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_fight_2">
+		<text>¡Pírate, luego hablamos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_fight_3">
+		<text>¿Por qué abres la boca? ¡Luego hablamos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_talk_leader_1">
+		<text>Ve al jefe con todas las preguntas, je, je.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_talk_leader_2">
+		<text>¡Cómele la oreja al jefe, a mí no!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_talk_leader_3">
+		<text>Si tienes que hablar de algo, el jefe está ahí.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_weapon_1">
+		<text>Con un arma en las pezuñas no habrá conversación. Guárdala.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_weapon_2">
+		<text>Guarda el arma y entonces hablamos.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_weapon_3">
+		<text>O guardas el arma o te vas.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_meet_meet_use_no_weapon_4">
+		<text>Eh, tú, roedor, me estás cansando moviendo esa arma.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_human_panic_human_1">
+		<text>¡No disparéis, chicos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_human_panic_human_2">
+		<text>¡Me rindo, chicos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_human_panic_human_3">
+		<text>¡Ya está, ya está, no tengo un arma!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_human_panic_human_4">
+		<text>¡Me rindo! ¡No tengo un arma!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_human_panic_human_5">
+		<text>¡Chicos, no disparéis!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_sleep_sleep_1">
+		<text>¡Tío! ¡Tío, no lo hagas!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_sleep_sleep_2">
+		<text>¡Ah, ah, ah!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_sleep_sleep_3">
+		<text>¡Muchachos, no disparéis!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_sleep_sleep_4">
+		<text>Sillent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_sleep_sleep_5">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_sleep_sleep_6">
+		<text>Sillent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_sleep_sleep_7">
+		<text>Sillent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_trade_buy_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_trade_sell_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_monster_panic_monster_1">
+		<text>¡Aah, so bestia!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_monster_panic_monster_2">
+		<text>¡CABRÓN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_panic_monster_panic_monster_3">
+		<text>¡Aparta eso de mí! ¡Aparta a ese bicho de mí!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_1">
+		<text>Joder, qué hambre tengo.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_2">
+		<text>Mierda, se me va a retorcer pronto el estómago de hambre.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_3">
+		<text>Su puta madre, no puedes seguir así sin pisar algo.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_4">
+		<text>Qué cocinar, quiero comer tanto, ¡no puedo!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_5">
+		<text>Mierda, tengo los bolsillos completamente vacíos; ojalá pudiera encontrar a algún pringado con algo de botín o, mejor aún, con dinero.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_6">
+		<text>Joder, me apetece tomarme una ampolla para dos o ir a ver a una prostituta.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_7">
+		<text>Ahora me apetece un vodka con algo de picar.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_8">
+		<text>Me gustaría disparar a algunas caras graciosas, esto es un coñazo.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_9">
+		<text>Estoy harto de estar aquí, no hay calefacción que valga, nada de nada.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_10">
+		<text>¡Joder, estoy harto de ir de un lado para otro muerto de hambre! ¡Tengo hambre!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_11">
+		<text>¿Qué pasa con los jefes? No les pasa nada. ¡Están bien! ¡Sentados con sus móviles, dirigiendo el cotarro!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_12">
+		<text>Ya estoy harto de todo esto y de estos fanfarrones, somos como stalkers, somos guays.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_13">
+		<text>¿Por qué vine aquí? Me dedicaba a dar vueltas por el barrio y todo eso.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_14">
+		<text>La naturaleza, joder; a mi ropa no le da tiempo de secarse, tengo los pies siempre mojados. Puta Zona, quiero ir a la ciudad.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_15">
+		<text>Ya no hay puta vida en ninguna parte. En la ciudad, redadas policiales constantes, aquí peleles por todas partes. El arma es genial, pero me la dio el jefe, así que también me la puede quitar.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_16">
+		<text>¿Qué tipo de ordenes policiales son estas? Hay poco dinero, botín, esos artep... ¡Ay, joder!, no sé cómo se pronuncia. Del botín no nos toca nada. Si te encuentras un arma en el trabajo, hasta eso te lo quitan, cabrones. No, hay que largarse, largarse.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_17">
+		<text>¡Eh, mujer! Amaría a cualquiera, siempre y cuando tenga todo en su sitio.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_18">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_19">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_20">
+		<text>Cof, cof, cof</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_21">
+		<text>¡Uhh!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_22">
+		<text>¡Ughhh!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_23">
+		<text>¡Mm!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_25">
+		<text>Khm, Khm.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_26">
+		<text>Silvent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_27">
+		<text>Silvent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_28">
+		<text>Tenía que haberle presionado más a ese maricón, para que no soltara ninguna tontería. Porque hay tanta gente que, si hace falta, no te puedes esconder.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_idle_idle_29">
+		<text>Nada, pasaré un rato más, me compraré un arma de verdad y allí formaré mi propia brigada, me convertiré en jefe y estaré al mando.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_bad_1">
+		<text>Joder, bueno, está sin blanca.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_bad_2">
+		<text>No, tú fuiste realmente estúpido en vida, ¡sin reservas para una mierda!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_bad_3">
+		<text>¡Solo nos encontramos con mendigos, mendigos de verdad!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_begin_1">
+		<text>¡Opa! ¿Qué tenemos aquí?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_begin_2">
+		<text>Vamos a echar un vistazo, el muerto ya no lo va a necesitar.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_begin_3">
+		<text>Este tipo es un buen hombre, ¿verdad? ¿Me va a dejar un poco?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_good_1">
+		<text>¡Opanki! ¡No es una mala situación!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_good_2">
+		<text>¡Genial, genial, bien hecho, muerto, lo apruebo!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_2_states_loot_loot_good_3">
+		<text>¡Vaya, nada mal, el tío era todo un ahorrador!</text>
+	</string>
+</string_table>

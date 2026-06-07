@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_g36c_spec">
+		<text>G36C Spec. Op</text>
+	</string>
+	<string id="st_wpn_g36c_spec_descr">
+		<text>Esta arma ha sido modificada con un nuevo cajón de mecanismos superior, guardamanos, cañón y sistema de gases. Se ha modificado el cajón de mecanismos inferior para aceptar cargadores de tipo STANAG. Se ha mejorado la cadencia de tiro y su tamaño compacto la hace ideal para el combate urbano. Los accesorios incluyen un puntero láser, un kit Devo modificado en la Zona que permite la visión térmica y una mira de punto rojo Holosun 510.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n</text>
+	</string>
+	
+	<string id="st_addon_cut_kit">
+		<text>Kit especial de G36C</text>
+	</string>
+	<string id="st_addon_cut_descr">
+		<text>Este kit incluye todas las piezas necesarias para convertir un G36 en un G36C. Las piezas incluidas son un nuevo cajón de mecanismos superior, guardamanos, cañón y sistema de gases. Se ha modificado el cajón de mecanismos inferior para aceptar cargadores de tipo STANAG. Se ha mejorado la cadencia de tiro y su tamaño compacto la hace ideal para el combate urbano. Los accesorios incluyen un puntero láser, un kit Devo modificado en la Zona que permite la visión térmica y una mira de punto rojo Holosun 510.</text>
+	</string>
+</string_table>

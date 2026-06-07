@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    <string id="ui_mcm_menu_xlibs">
+        <text>xlibs</text>
+    </string>
+    <string id="ui_mcm_xlibs_title">
+        <text>xlibs</text>
+    </string>
+    <string id="ui_mcm_xlibs_desc">
+        <text>Biblioteca de utilidades compartida para la modificación de S.T.A.L.K.E.R. Anomaly mediante Lua. Módulos que abarcan consultas de entidades, operaciones de escuadrón, lógica de terreno inteligente, manipulación de alijos, registro de actividad, creación de perfiles, sistemas de eventos y estructuras de datos.</text>
+    </string>
+</string_table>

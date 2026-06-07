@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    
+    <string id="as_sub_anomalies_acid_rain">
+        <text>Las salpicaduras y los chisporroteos brotan como un aspersor</text>
+    </string>
+    <string id="as_sub_anomalies_body_tear">
+        <text>Ves cómo algo explota y se convierte en un charco de sangre</text>
+    </string>
+    <string id="as_sub_anomalies_psy_voices">
+        <text>Por qué oigo voces en mi cabeza...</text>
+    </string>
+    <string id="as_sub_anomalies_psy_polter">
+        <text>Solo tu presencia enfada a este ser espectral</text>
+    </string>
+    <string id="as_sub_anomalies_psy_antenna_voices">
+        <text>Susurros lejanos y estáticos repiquetean tus tímpanos</text>
+    </string>
+    <string id="as_sub_anomalies_psy_voices">
+        <text>Susurros en lenguas desconocidas resuenan entre los huesos de tu cráneo</text>
+    </string>
+    <string id="as_sub_anomalies_stancia_thunder">
+        <text>Cae una lluvia torrencial acompañada de relámpagos</text>
+    </string>
+    <string id="as_sub_anomalies_steam_idle">
+        <text>El vapor se escapa lentamente por las grietas del hormigón</text>
+    </string>
+    <string id="as_sub_anomalies_steam_blast">
+        <text>Ráfagas de vapor brotan de las paredes</text>
+    </string>
+    <string id="as_sub_anomalies_teleport">
+        <text>Se oye cómo la energía se agita, converge y se condensa</text>
+    </string>
+    <string id="as_sub_anomalies_telsa">
+        <text>Una gran espiral de energía pasa a toda velocidad a tu lado</text>
+    </string>
+    
+    <string id="as_sub_anomalies_gravi_idle">
+        <text>Se oyen los ritmos pulsantes de un Gravi cercano</text>
+    </string>
+    <string id="as_sub_anomalies_whirligig_idle">
+        <text>Se oye el zumbido de un Remolino cercano</text>
+    </string>
+    <string id="as_sub_anomalies_fruit_punch_idle">
+        <text>Una anomalía Ponche de frutas burbujea sin prisa</text>
+    </string>
+    <string id="as_sub_anomalies_electro_idle">
+        <text>Se oye un zumbido constante de electricidad</text>
+    </string>
+    <string id="as_sub_anomalies_burner_idle">
+        <text>Crepitaciones y chispas de calor se elevan del suelo</text>
+    </string>
+    <string id="as_sub_anomalies_comet_idle">
+        <text>Una gran bola de fuego pasa flotando</text>
+    </string>
+    <string id="as_sub_anomalies_vortex_idle">
+        <text>Oyes el retumbar de un vórtice cerca</text>
+    </string>
+    <string id="as_sub_anomalies_monolith_idle">
+        <text>Embriagador, te invita a acercarte</text>
+    </string>
+    
+    <string id="as_sub_anomalies_gravi_hit">
+        <text>Chocas contra un Gravi</text>
+    </string>
+    <string id="as_sub_anomalies_whirligig_hit">
+        <text>Chocas contra un Remolino</text>
+    </string>
+    <string id="as_sub_anomalies_burnt_fuzz_hit">
+        <text>Sientes una sensación de ardor en el cuello y los brazos</text>
+    </string>
+    <string id="as_sub_anomalies_fruit_punch_hit">
+        <text>La carne se convierte en papilla mientras el ácido devora la piel</text>
+    </string>
+    <string id="as_sub_anomalies_electro_hit">
+        <text>Algo recibe una descarga de miles de amperios, derritiendo la carne e hirviendo la sangre desde dentro hacia fuera</text>
+    </string>
+    <string id="as_sub_anomalies_fire_hit">
+        <text>Tu ropa se incendia, abrasándote la piel</text>
+    </string>
+    <string id="as_sub_anomalies_vortex_hit">
+        <text>Como si estuvieras atrapado en arenas movedizas, tus pies son arrastrados hacia el suelo</text>
+    </string>
+    
+    <string id="as_sub_anomalies_gravi_blast">
+        <text>Se ha activado un Gravi cerca</text>
+    </string>
+    <string id="as_sub_anomalies_electro_blast">
+        <text>El racimo de electrones se agita con excitación</text>
+    </string>
+    <string id="as_sub_anomalies_psy_storm_blast">
+        <text>El aire se agita, puedes sentir su intensidad, el cielo emite ondas de energía</text>
+    </string>
+    
+    <string id="as_sub_anomalies_mincer_blowout">
+        <text>Ves cómo algo queda atrapado en una nube de polvo y es lanzado al aire</text>
+    </string>
+    <string id="as_sub_anomalies_burnt_fuzz_blowout">
+        <text>Inhalas pesadas motas de fibra vegetal marrón</text>
+    </string>
+    <string id="as_sub_anomalies_surge_blowout">
+        <text>Una repentina bola de electricidad aparece sobre ti, destellando rápidamente y desapareciendo poco después</text>
+    </string>
+    <string id="as_sub_anomalies_burner_blowout">
+        <text>El quemador cobra vida, creando una columna de fuego</text>
+    </string>
+</string_table>

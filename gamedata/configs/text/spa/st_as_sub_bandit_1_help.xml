@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_combat_coming_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_combat_coming_1_pda">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_kill_wounded_1">
+		<text>¡CÓMETE ESTA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_kill_wounded_2">
+		<text>¡Venga, voy a arreglarte!</text>// grammatical edits</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_kill_wounded_3">
+		<text>¡Pilla plomo, perdedor!</text>// grammatical edits, changed &apos;deadly&apos; to lead&apos;, sounds kinda generic rough tone i know</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_kill_wounded_4">
+		<text>¡Ja, ja! ¡Tómate una pastilla, chulo!</text>// grammatical edits</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_medkit_1">
+		<text>¡Aguanta, amigo, todo irá bien pronto!</text>// grammatical edits</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_medkit_2">
+		<text>¡Eres un auténtico perdedor, tío, por exponerte así!</text>// grammatical edits</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_medkit_3">
+		<text>Agáchate, agáchate, voy a arreglarte ahora.</text> 
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_heavy_help_1">
+		<text>¡Me han disparado, chicos!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_heavy_help_2">
+		<text>¡Joder, me ha dado una bala!</text>// idk what &apos;maslina&apos; means, bullet?</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_heavy_help_3">
+		<text>¡Amigo, ayuda!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_heavy_help_4">
+		<text>¡Chicos, ayudadme!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_heavy_help_5">
+		<text>¡Ah, ah, ah!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_heavy_help_6">
+		<text>¡Ay, joder!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_heavy_help_7">
+		<text>¡Ooohhhh, jodeeer...!</text>// reinforced wounded drawl</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_thanx_thanx_1">
+		<text>¡Vaya, ese sí que es un tipo de verdad! ¡Gracias, tío!</text>// grammatical edits</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_thanx_thanx_2">
+		<text>¡Vaya, este sí que es un hombre de verdad! ¡Choca esos cinco!</text>// going under assumption &apos;real topic&apos; means something like &apos;real man&apos;.</string>
+	<string id="as_sub_characters_voice_human_bandit_1_help_wounded_thanx_thanx_3">
+		<text>¡Oh, sí, gracias, tío!</text>// grammatical edits</string>
+</string_table>

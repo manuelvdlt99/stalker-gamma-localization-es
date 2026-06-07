@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="st_up_cal_1143_descr">
+		<text>Una alteración compleja e integrada de las partes mecánicas y automatizadas del arma que permite cambiar su calibre a costa de la fiabilidad.</text>
+	</string>
+	<string id="st_up_cal_1143_name">
+		<text>Cambio de calibre a 9 x 19 mm</text>
+	</string>
+</string_table>

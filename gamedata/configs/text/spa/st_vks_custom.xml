@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_cortex_scope">
+		<text>Mira Cortex</text>
+	</string>
+	<string id="st_cortex_scope_desc">
+		<text>Un visor óptico de alto rendimiento diseñado para el fusil VKS que ofrece precisión a larga distancia y localización de objetivos mejoradas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]varios
+		\n %c[d_cyan] • %c[ui_gray_2] Aumentos: %c[ui_gray_1]1,0x - 8,0x
+		\n</text>
+	</string>
+
+</string_table>

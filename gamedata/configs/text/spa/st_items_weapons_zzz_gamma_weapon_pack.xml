@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_sr25">
+		<text>SR-25</text>
+	</string>
+	<string id="st_wpn_sr25_descr">
+		<text>Un fusil AR-15 agrandado para disparar cartuchos mayores, el 60 % de las piezas del SR-25 con intercambiables con componentes de AR-15. Este fusil, que tuvo gran acogida entre los tiradores civiles que necesitaban un fusil semiautomático preciso para la caza o el tiro al blanco, también se hizo un hueco en las Fuerzas Armadas de los Estados Unidos. El SR-25 ofrece una construcción robusta de grado militar y un rendimiento eficiente, tanto contra objetivos cercanos como lejanos.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen:  %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Knight’s Armament Company
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_bm16_full_alt_23">
+		<text>TOZ-34 «Oso»</text>
+	</string>
+	<string id="st_wpn_bm16_full_alt_23_descr">
+		<text>Diseñada para la caza profesional y aficionada, la TOZ-34 es una escopeta de dos cañones superpuestos que obtuvo el sello de calidad estatal de la URSS. Es pesada, fiable y pega fuerte. Esta peculiar TOZ-34 fue modificada para disparar cartuchos más grandes.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen:  %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_toz34_mark4_23">
+		<text>TOZ-34 «Cazador de Quimeras»</text>
+	</string>
+	<string id="st_wpn_toz34_mark4_23_descr">
+		<text>Diseñada para la caza profesional y aficionada, la TOZ-34 es una escopeta de dos cañones superpuestos que obtuvo el sello de calidad estatal de la URSS. Es pesada, fiable y pega fuerte. Esta peculiar TOZ-34 fue modificada para disparar cartuchos más grandes y cuenta con una mira de punto rojo.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n</text>
+	</string>
+
+</string_table>

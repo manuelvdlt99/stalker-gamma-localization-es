@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_addon_ots2_upgr_kit">
+		<text>Kit de mejora para OTs-02 Kiparis</text>
+	</string>
+	<string id="st_addon_ots2_upgr_kit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] OTs-02 Kiparis
+		
+		\n \n%c[ui_gray_1]Kit de mejora para el subfusil OTs-02 Kiparis. Contiene un portacerrojo ligero y un mecanismo de disparo que aumenta la cadencia de tiro. Miras de tritio verdes, montura táctica y mira láser.
+		
+		\n \nINCLUYE:
+		\n %c[d_green] • %c[ui_gray_2] Mayor cadencia de tiro
+		\n %c[d_green] • %c[ui_gray_2] Mayor precisión
+		\n %c[d_green] • %c[ui_gray_2] Cargador de tambor de 50 balas de 9 mm
+		\n %c[d_green] • %c[ui_gray_2] Nueva alza de mira con tritio
+		\n %c[d_green] • %c[ui_gray_2] Láser rojo táctico
+		\n</text>
+	</string>
+
+	<string id="st_addon_vorkutakit">
+		<text>Kit de mejora Vorkutá</text>
+	</string>
+	<string id="st_addon_vorkutakit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] KS-23
+		
+		\n \n%c[ui_gray_1]El kit de mejora Vorkutá para la KS-23 añade un cañón roscado para acoplarle un silenciador y una mira PU acoplable para combates a mayor distancia. El nombre del kit sugiere que su origen podría estar relacionado con la ciudad homónima.
+		\n</text>
+	</string>
+
+	<string id="st_addon_bd_upgr_kit">
+		<text>Kit de mejora Diamante de Sangre</text>
+	</string>
+	<string id="st_addon_bd_upgr_kit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] CAR-15
+		
+		\n \n%c[ui_gray_1]Kit de mejora Diamante de Sangre para el CAR-15. Reproduce el aspecto de un fusil clásico de Hollywood para aquellos que quieran vivir su fantasía rodesiana en la Zona.
+		\n</text>
+	</string>
+
+	<string id="st_addon_admin_upgr_kit">
+		<text>Kit de mejora Administrador</text>
+	</string>
+	<string id="st_addon_admin_upgr_kit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] CAR-15
+		
+		\n \n%c[ui_gray_1]Kit de mejora Administrador para el CAR-15. Mejora el fusil clásico para acercarlo más a los fusiles estilo M4 modernos. Este kit añade un Aimpoint T-2 con un magnificador G33 y cambia la culata y el guardamanos por piezas más contemporáneas. También se han acoplado un módulo láser y un silenciador en la parte delantera para ayudar en la localización de objetivos en entornos oscuros y de poca luz.
+		\n</text>
+	</string>
+	
+</string_table>

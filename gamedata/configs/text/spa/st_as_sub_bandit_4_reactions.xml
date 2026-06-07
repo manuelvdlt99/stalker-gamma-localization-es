@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_box_box_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_joke_reaction_joke_1">
+		<text>¿A qué viene eso?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_joke_reaction_joke_2">
+		<text>¡Ja, ja! ¡Me parto!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_joke_reaction_joke_3">
+		<text>¡Deberías haberme contado más, comediante!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_music_reaction_music_1">
+		<text>¡Eh, es desolador!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_music_reaction_music_2">
+		<text>¡No sabes tocar una mierda!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_music_reaction_music_3">
+		<text>Ni siquiera teníamos una guitarra cuando éramos niños.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_music_reaction_music_4">
+		<text>No, no es eso, no es bueno.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_music_reaction_music_5">
+		<text>No, no lo pillo, ¿no hay secuela?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_music_reaction_music_6">
+		<text>Eres bueno, eres bueno. Eres bueno. Eres bueno.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_story_laughter_1">
+		<text>¡Ja, ja, ja!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_story_laughter_2">
+		<text>¡Ja, ja, ja, ja, ja, ja, ja, ja, ja! Me parto contigo, así te lo digo.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_story_laughter_3">
+		<text>¡¡¡Ja, ja, ja, ja, ja, ja, ja, ja, ja!!! Eres una persona increíble, ¿lo sabías?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_story_laughter_4">
+		<text>JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJA. Oh, menudo personaje estás hecho.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_story_laughter_5">
+		<text>¡Je, je, je, je!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_story_laughter_6">
+		<text>Ajajajajajajajajajajajaja Jajajajajajajajayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_4_reactions_story_laughter_7">
+		<text>Hee hee hee hee hee hee hee hee hee hee hee hee hee....</text>
+	</string>
+</string_table>

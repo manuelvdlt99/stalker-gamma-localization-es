@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_casing_pistol">
+		<text>Casquillo de pistola</text>
+	</string>
+	<string id="st_casing_pistol_desc">
+		<text>Pequeños casquillos de latón con cápsulas fulminantes para munición de pistola.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_casing_shotgun">
+		<text>Vaina de escopeta</text>
+	</string>
+	<string id="st_casing_shotgun_desc">
+		<text>Casquillos de plástico con cápsulas fulminantes de latón empleados para fabricar munición de escopeta.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_casing_r5">
+		<text>Casquillo de fusil pequeño</text>
+	</string>
+	<string id="st_casing_r5_desc">
+		<text>Casquillos medianos de latón con cápsulas fulminantes para munición de fusil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_casing_r7">
+		<text>Casquillo de fusil grande</text>
+	</string>
+	<string id="st_casing_r7_desc">
+		<text>Casquillos grandes de latón con cápsulas fulminantes para munición de potencia plena de fusil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_powder_pistol">
+		<text>Carga propulsora de pistola/escopeta</text>
+	</string>
+	<string id="st_powder_pistol_desc">
+		<text>Carga propulsora de doble base de combustión rápida para su uso en cartuchos de escopetas y armas cortas. Esta variante de la pólvora blanca produce menos energía en general que las pólvoras más lentas, pero arde más limpia y rápidamente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_powder_rifle">
+		<text>Carga propulsora de fusil pequeño</text>
+	</string>
+	<string id="st_powder_rifle_desc">
+		<text>Carga propulsora IMR para cartuchos ligeros de fusil y algunos cartuchos pesados de pistola. Esta carga propulsora arde a una velocidad media y produce bastante energía, pero no se puede usar en pistolas de retroceso simple y escopetas, ya que presiones insuficientes darán lugar a combustiones incompletas y obstrucciones.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_powder_mag">
+		<text>Carga propulsora de fusil grande</text>
+	</string>
+	<string id="st_powder_mag_desc">
+		<text>Propulsor de alto rendimiento y combustión lenta para balas de fusil de gran tamaño. Esta pólvora produce la mayor cantidad de energía y arde la más lenta, por lo que solo es adecuada para su uso en munición de fusil de gran calibre para armas de cañón largo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_handgun_rounds">
+		<text>Bala de pistola</text>
+	</string>
+	<string id="st_handgun_rounds_desc">
+		<text>Balas de arma corta de diversos tamaños recuperadas de la munición. Serán útiles para fabricar munición nueva.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_handgun_ap_rounds">
+		<text>Bala de pistola perforante</text>
+	</string>
+	<string id="st_handgun_ap_rounds_desc">
+		<text>Balas de arma corta de diversos tamaños recuperadas de la munición. Estas tienen penetradores de aleación incrustados en la bala.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_shotgun_rounds">
+		<text>Perdigones de plomo</text>
+	</string>
+	<string id="st_shotgun_rounds_desc">
+		<text>Pequeños perdigones de plomo usados en escopetas de caza. Se pueden fundir y moldear en postas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_shotgun_ap_rounds">
+		<text>Dardo en sabot</text>
+	</string>
+	<string id="st_shotgun_ap_rounds_desc">
+		<text>Dardo de acero templado encerrado en un sabot. Aunque se diseñaron para escopetas de policía para inutilizar bloques de motor, funcionan decentemente bien contra blindajes personales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_rifle5_rounds">
+		<text>Bala de fusil pequeño</text>
+	</string>
+	<string id="st_rifle5_rounds_desc">
+		<text>Balas de fusil de bajo calibre de diversos tamaños usadas en fusiles de asalto. De fabricación militar y cubiertas por una camisa metálica, optimizadas para ser precisas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_rifle5_ap_rounds">
+		<text>Bala de fusil pequeño perforante</text>
+	</string>
+	<string id="st_rifle5_ap_rounds_desc">
+		<text>Balas de fusil de bajo calibre de diversos tamaños con penetradores de aleación usadas en fusiles de asalto. Estas son balas especiales diseñadas para destruir blindajes a distancias de combate estándar, a costa de la eficacia contra la carne.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_rifle7_rounds">
+		<text>Bala de fusil grande</text>
+	</string>
+	<string id="st_rifle7_rounds_desc">
+		<text>Balas de fusil de potencia plena cubiertas por una camisa metálica. Se suelen usar en la fabricación de cartuchos para cazadores y francotiradores militares.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+
+	<string id="st_rifle7_ap_rounds">
+		<text>Bala de fusil grande perforante</text>
+	</string>
+	<string id="st_rifle7_ap_rounds_desc">
+		<text>Balas de fusil de potencia plena con penetradores de aleación incrustados. Se suelen ver en cartuchos especiales usados por ejércitos y fuerzas especiales para destruir blindajes corporales a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Parte de munición
+		\n</text>
+	</string>
+	
+	<string id="st_batch_breakdown">
+		<text>Desmontar en lote [!]</text>
+	</string>
+
+</string_table>

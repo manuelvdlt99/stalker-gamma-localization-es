@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+	<string id="st_wpn_glock17">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_short">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>Una pistola semiautomática muy utilizada conocida por su armazón de polímero ligero, su gran capacidad del cargador y su fiabilidad excepcional. Su diseño simple pero eficaz la convierte en una favorita de los militares, las fuerzas del orden y los stalkers por igual. Con un gatillo suave y poco retroceso, es una pistola de fiar para situaciones tanto ofensivas como defensivas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Glock
+		\n</text>
+	</string>
+
+	<string id="st_up_glock17_45acp_name">
+		<text>Cambio de calibre a .45 ACP</text>
+	</string>
+
+
+
+</string_table>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_addon_scope_mauser_kit">
+		<text>Kit táctico</text>
+	</string>
+	<string id="st_addon_scope_mauser_kit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_orange] • %c[ui_gray_2] Karabiner 98k
+		
+		\n \n%c[ui_gray_1]Un paquete de mejora integral que incluye empuñaduras, rieles, culatas y otras mejoras para optimizar la ergonomía, el control y la efectividad general del arma en combate.
+		
+		\n \nINCLUYE:
+		\n %c[d_cyan] • %c[ui_gray_2] Culata y cajón de mecanismos de polímero
+		\n %c[d_cyan] • %c[ui_gray_2] Visor variable de alta potencia
+		\n %c[d_cyan] • %c[ui_gray_2] Mira ELCAN SpecterDR DFOV14-C2
+		\n</text>
+	</string>
+	
+</string_table>

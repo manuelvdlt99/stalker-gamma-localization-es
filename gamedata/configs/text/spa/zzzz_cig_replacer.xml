@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+<string id="st_cigar3">
+	<text>Cigarrillos (Camel Yellow)</text>
+</string>
+<string id="st_cigar3_descr">
+	<text>Sabor Camel clásico con un acabado suave. Una opción sólida para los stalkers que quieren dar un toquecito de clase a sus quemaduras por radiación. No se importa con frecuencia en la Zona, por lo que su precio es bastante elevado.
+	
+	\n \nPROPIEDADES:
+	\n %c[d_green] • %c[ui_gray_2] Estimulante
+	\n %c[d_green] • %c[ui_gray_2] Efecto desintoxicante del alcohol
+	\n</text>
+</string>
+</string_table>

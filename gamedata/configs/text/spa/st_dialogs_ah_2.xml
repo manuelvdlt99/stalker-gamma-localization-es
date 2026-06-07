@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    <string id="kvartet_1">
+        <text>Aquí Cuarteto, ausencia de emisiones confirmada, no se han detectado grandes concentraciones enemigas. He solicitado que se despliegue un escuadrón en el Radar para efectuar un reconocimiento. ¡Comienza la operación para tomar el centro de la Zona! ¡A todas las unidades de stalkers militares y fuerzas especiales, reagrupaos y preparaos para avanzar a la central nuclear de Chernóbil!</text>
+    </string>
+    <string id="kvartet_2">
+        <text>¡Aquí Cuarteto, iniciamos el ataque! El enemigo está concentrado en tres lugares: la entrada del Sarcófago, la carretera al lado de las vías y la entrada principal de la central. ¡A todas las unidades, dispersaos!</text>
+    </string>
+    <string id="kvartet_3">
+        <text>Aquí Cuarteto, controlamos la sección sur de la central nuclear. Ahora tenemos que avanzar al norte y tomar los Generadores. Estad alerta, los soldados del Monolito han tomado posiciones de francotirador ocultas en la parte norte de la central.</text>
+    </string>
+    <string id="kvartet_4">
+        <text>¡Aquí Cuarteto, hemos tomado los Generadores! ¡Objetivo cumplido! A todas las unidades, mantened la posición y manteneos a la espera de órdenes. En cuanto a ti, soldado, recoge toda la información que puedas de los laboratorios e informa al mando.</text>
+    </string>
+    <string id="kvartet_5">
+        <text>¡Aquí Cuarteto, iniciamos el ataque!</text>
+    </string>
+    <string id="st_cherep_1">
+        <text>Misión cumplida, vuelve con el general Voronin. Nosotros nos encargaremos de todo aquí.</text>
+    </string>
+    <string id="cs_task1_news">
+        <text>Espora: Oye, colega, necesito tu ayuda. Nuestro explorador, Kostyl, ha enviado una señal de auxilio y ha dejado de dar señales de vida. Espero que no, pero... deberías esperar lo peor. El último SOS que hemos recibido venía del norte de los Pantanos, en algún lugar cerca de la carretera entre la granja y el patio de máquinas. ¿Puedes buscarlo? Si no lo encontramos para la mañana, probablemente ya no quedará nada que encontrar.</text>
+    </string>
+    <string id="cs_task1_news1">
+        <text>Yo: Haré lo que pueda para encontrarlo.</text>
+    </string>
+    <string id="cs_task1_news2">
+        <text>Cold: ¡Eh! Hemos conseguido descifrar la PDA de Kostyl. Tengo una oferta de trabajo para ti, ya que estás metido de lleno en todo esto. ¡Pásate por aquí!</text>
+    </string>
+    <string id="cs_task8_news3">
+        <text>Gamayun: ¡Los fanáticos se están preparando para atacar! ¡Dadles caña!</text>
+    </string>
+</string_table>

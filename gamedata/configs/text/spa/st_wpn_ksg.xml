@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+	<string id="st_wpn_ksg">
+		<text>KSG-23</text>
+	</string>
+	<string id="st_wpn_ksg_descr">
+		<text>La KSG-23 es una escopeta de corredera que contiene 13 cartuchos de 23 x 75. Es ligera y muy útil en el combate a corta distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Kel-Tec
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_ksg_nimble">
+		<text>KSG-25</text>
+	</string>
+	<string id="st_wpn_ksg_nimble_descr">
+		<text>La KSG-25 es una variante mayor de la KSG-12 que contiene 24 cartuchos de calibre 12. Es ligera y muy útil en el combate a corta distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Kel-Tec
+		\n</text>
+	</string>
+</string_table>

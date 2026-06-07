@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_addon_scope_lazup_generic">
+		<text>Módulo de puntería láser</text>
+	</string>
+	<string id="st_addon_scope_lazup_generic_descr">
+		<text>Un accesorio táctico que emite un haz láser focalizado, lo que mejora la precisión al disparar desde la cadera y permitiendo una localización de objetivos más rápida, especialmente en entornos con poca luz. Preferido por quienes valoran los disparos rápidos y reactivos, resulta inestimable en el combate en espacios cerrados, donde apuntar con la mira es demasiado lento. En la mayoría de las situaciones, el dispositivo puede incluso usarse con gafas de visión nocturna.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+</string_table>

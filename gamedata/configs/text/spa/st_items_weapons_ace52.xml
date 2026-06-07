@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_wpn_ace52">
+		<text>Galil ACE 52</text>
+	</string>
+	<string id="st_wpn_ace52_descr">
+		<text>Diseñado para satisfacer las necesidades del campo de batalla moderno, el ACE 52 es una opción ideal para ejércitos y agentes que buscan un fusil avanzado. Considerado el arma de asalto definitiva, ha demostrado su eficacia en combate en las condiciones más adversas y extremas. Aunque está asado en los IMI Galil de antaño, los mecanismos de diseño y rendimiento avanzados han convertido el ACE 52 en un arma más precisa y fiable para la guerra urbana.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Weapon Industries
+		\n</text>
+	</string>
+
+	<string id="st_up_ace52_a5_name">
+		<text>Cañón más pesado</text>
+	</string>
+	<string id="st_up_ace52_a5_descr">
+		<text>Instalación de un cañón más pesado para mejorar el retroceso.</text>
+	</string>
+	<string id="st_up_ace52_b1_name">
+		<text>Carrillera</text>
+	</string>
+	<string id="st_up_ace52_b1_descr">
+		<text>Instalación de una carrillera para apuntar más cómodamente.</text>
+	</string>
+	<string id="st_up_ace52_c1_name">
+		<text>Cambio de calibre a 7,62 x 54 mm</text>
+	</string>
+	<string id="st_up_ace52_c1_descr">
+		<text>Cambia el calibre del arma a 7,62 x 54 mm.</text>
+	</string>
+</string_table>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+  
+  <string id="st_ap_macros_ago_recent">
+    <text>ahora mismo</text>
+  </string>
+  <string id="st_ap_macros_ago_hours">
+    <text>hace unas horas</text>
+  </string>
+  
+  <string id="st_ap_macros_species_bloodsucker"><text>chupasangres</text></string>
+  <string id="st_ap_macros_species_boar"><text>jabalíes</text></string>
+  <string id="st_ap_macros_species_burer"><text>sepultureros</text></string>
+  <string id="st_ap_macros_species_chimera"><text>quimeras</text></string>
+  <string id="st_ap_macros_species_controller"><text>controladores</text></string>
+  <string id="st_ap_macros_species_dog"><text>perros salvajes</text></string>
+  <string id="st_ap_macros_species_flesh"><text>mutantes de carne</text></string>
+  <string id="st_ap_macros_species_gigant"><text>gigantes</text></string>
+  <string id="st_ap_macros_species_psy_dog"><text>psicoperros</text></string>
+  <string id="st_ap_macros_species_pseudodog"><text>pseudoperros</text></string>
+  <string id="st_ap_macros_species_snork"><text>snorks</text></string>
+  <string id="st_ap_macros_species_tushkano"><text>tushkanos</text></string>
+  <string id="st_ap_macros_species_cat"><text>gatos</text></string>
+  <string id="st_ap_macros_species_fracture"><text>fracturas</text></string>
+  <string id="st_ap_macros_species_zombie"><text>zombis</text></string>
+  <string id="st_ap_macros_species_poltergeist"><text>poltergeists</text></string>
+  <string id="st_ap_macros_species_rat"><text>ratas</text></string>
+  <string id="st_ap_macros_species_karlik"><text>karliks</text></string>
+  <string id="st_ap_macros_species_psysucker"><text>psicovampiros</text></string>
+  <string id="st_ap_macros_species_lurker"><text>merodeadores</text></string>
+</string_table>

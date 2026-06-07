@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+			<string id="st_wpn_eft_mts_255">
+		<text>MTs-255</text>
+	</string>
+	<string id="st_wpn_eft_mts_255_descr">
+		<text>La MTs-255 es una escopeta rusa única de estilo revólver desarrollada por TsKIB SOO en 1993. Cuenta con un tambor basculante de 5 cartuchos, gatillo de doble acción y está disponible en varios calibres, incluidos el 12 y el .410. Diseñada para el uso tanto civil como policial, incluye modelos con accesorios tácticos, como culatas plegables y rieles. Aunque es innovadora, su producción fue limitada debido a costes elevados de fabricación.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n</text>
+	</string>
+</string_table>

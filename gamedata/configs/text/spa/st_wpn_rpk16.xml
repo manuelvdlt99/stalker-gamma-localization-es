@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_rpk16">
+		<text>RPK-16</text>
+	</string>
+	<string id="st_wpn_rpk16_descr">
+		<text>Una ametralladora ligera potente perfecta para fuego de contención. Su elevada cadencia de tiro y su construcción robusta la convierten en una opción fiable para cualquiera que necesite enfrentarse a grandes grupos de enemigos. Con un diseño modular que permite personalización, la RPK-16 ofrece tanto precisión como movilidad, garantizando que puedas dominar el campo de batalla sin perder el control en tiroteos intensos. Ideal para enfrentamientos prolongados, es una herramienta versátil para la supervivencia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Viátskiye Poliani
+		\n</text>
+	</string>
+
+</string_table>

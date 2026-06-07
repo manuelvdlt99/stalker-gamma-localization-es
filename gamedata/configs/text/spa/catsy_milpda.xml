@@ -6,9 +6,9 @@
     <string id="st_pda_mil_descr">
         <text>Un dispositivo electrónico de bolsillo concebido para englobar las funciones básicas y más esenciales de un ordenador. La PDA es esencial para intercambiar información a diario. Viene con un módulo GPS preinstalado para proporcionar al usuario información sobre la geolocalización y la hora. Este sofisticado modelo fue diseñado por una entidad desconocida para su uso por militares encubiertos u agentes de ONG, e incluye un módulo criptográfico que permite al usuario infiltrarse en muchas de las redes privadas seguras de la Zona, desvelando la ubicación aproximada de los escuadrones enemigos que operan en la zona.
 		
-		\n \n%c[ui_gray_3]PROPIEDADES:
-		\n%c[d_blue] • %c[ui_gray_2] Alto consumo energético
-		\n%c[d_purple] • %c[ui_gray_2] Muestra la ubicación de todos los escuadrones cercanos
+		\n \nPROPIEDADES:
+		\n %c[d_blue] • %c[ui_gray_2] Alto consumo energético
+		\n %c[d_purple] • %c[ui_gray_2] Muestra la ubicación de todos los escuadrones cercanos
 		\n</text>
     </string>
 
@@ -474,11 +474,11 @@
 
     <string id="ui_mcm_milpda_header_main_plaintext">
         <text>
-		\n• Permite la personalización detallada de los puntos cartográficos de escuadrones y cuerpos que admite cada nivel de PDA
-		\n• Añade la PDA militar: un nuevo dispositivo de nivel 4 que no se vende ni se suelta, y que es difícil de fabricar
-		\n• Incluye Kill Tracker: rastreo de cadáveres personalizable con soporte opcional para iconos de mapa PAW
-		\n• El potente sistema de progresión permite al jugador desbloquear el acceso a los datos GPS de las facciones saqueando PDA de stalkers
-		\n• La lista negra te permite impedir que ciertas facciones aparezcan en cualquier PDA, independientemente de sus capacidades
+		\n • Permite la personalización detallada de los puntos cartográficos de escuadrones y cuerpos que admite cada nivel de PDA
+		\n • Añade la PDA militar: un nuevo dispositivo de nivel 4 que no se vende ni se suelta, y que es difícil de fabricar
+		\n • Incluye Kill Tracker: rastreo de cadáveres personalizable con soporte opcional para iconos de mapa PAW
+		\n • El potente sistema de progresión permite al jugador desbloquear el acceso a los datos GPS de las facciones saqueando PDA de stalkers
+		\n • La lista negra te permite impedir que ciertas facciones aparezcan en cualquier PDA, independientemente de sus capacidades
 		
 		\n \nTodas las funciones son opcionales y configurables en el MCM.
 		\nPara más información, visita la página de ModDB:
@@ -543,7 +543,7 @@
     </string>
 
     <string id="encyclopedia_addons">
-        <text>Complementos</text>
+        <text>Mods</text>
     </string>
 
     <string id="encyclopedia_addons_milspec_pda">
@@ -643,10 +643,10 @@
 		
 		\n \nCon los ajustes de configuración correctos, el dispositivo puede revelar la ubicación de escuadrones enemigos que operen cerca, siempre que el usuario haya roto la seguridad de la red de esa facción y haya accedido a sus datos GPS.
 		
-		\n \n• La PDA consume %c[pda_white]0,2 mAh%c[ui_gray_1] por segundo de uso continuo.
+		\n \n • La PDA consume %c[pda_white]0,2 mAh%c[ui_gray_1] por segundo de uso continuo.
 		
 		\n \nVéase también: 
-		\nGuía de la PDA: %c[255,0,200,220]Complementos &gt; Milspec PDA%c[ui_gray_1] 
+		\nGuía de la PDA: %c[255,0,200,220]Mods &gt; Milspec PDA%c[ui_gray_1] 
 		\nAjustes: %c[pda_yellow]Menú de configuración de mods &gt; Milspec PDA%c[ui_gray_1]</text>
     </string>
 

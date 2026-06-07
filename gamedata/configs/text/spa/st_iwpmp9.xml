@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_mp9">
+		<text>MP9</text>
+	</string>
+	<string id="st_wpn_mp9_descr">
+		<text>Un subfusil ligero y compacto diseñado para enfrentamientos de tiro rápido en combates en espacios cerrados. Con una culata plegable, compatibilidad con silenciadores integrados y una alta cadencia de tiro, es ideal para las fuerzas especiales, las fuerzas del orden y la defensa personal. Su moderna construcción en polímero y sus controles ambidiestros la convierten en un arma ágil y fiable para escenarios tácticos dinámicos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suiza
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Brügger &amp; Thomet
+		\n</text>
+	</string>
+
+</string_table>

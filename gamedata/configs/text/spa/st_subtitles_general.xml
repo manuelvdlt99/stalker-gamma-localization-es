@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="st_noise">
+        <text>Ruido</text>
+    </string>
+	<string id="ui_mcm_menu_subtitles">
+        <text>Subtítulos</text>
+    </string>
+	<string id="ui_mcm_subtitles_title">
+        <text>Subtítulos</text>
+    </string>
+	<string id="ui_mcm_subtitles_hear_dist">
+        <text>Distancia máxima de audición (metros)</text>
+    </string>
+	<string id="ui_mcm_subtitles_enable_fight_subs">
+        <text>Activar subtítulos de combate</text>
+    </string>
+    
+    
+    
+    <string id="ui_mcm_subtitles_title_accessibility">
+        <text>Opciones de accesibilidad</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_background">
+        <text>Activar fondo</text>
+    </string>
+    <string id="ui_mcm_subtitles_background_colour">
+        <text>Color del fondo</text>
+    </string>
+    <string id="ui_mcm_subtitles_subtitle_colour">
+        <text>Color de los subtítulos</text>
+    </string>
+    <string id="ui_mcm_subtitles_subtitle_font">
+        <text>Fuente de los subtítulos</text>
+    </string>
+    <string id="ui_mcm_subtitles_subtitle_alignment">
+        <text>Alineación de los subtítulos</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_faction_clr">
+        <text>Activar color de facción</text>
+    </string>
+    <string id="ui_mcm_subtitles_colour_blind_type">
+        <text>Tipo de daltonismo</text>
+    </string>
+    
+    
+    <string id="ui_mcm_lst_normal">
+        <text>Normal</text>
+    </string>
+    <string id="ui_mcm_lst_achromatopsia">
+        <text>Acromatopsia</text>
+    </string>
+    <string id="ui_mcm_lst_achromatomaly">
+        <text>Acromatomalía</text>
+    </string>
+    <string id="ui_mcm_lst_deuteranopia">
+        <text>Deuteranopia</text>
+    </string>
+    <string id="ui_mcm_lst_deuteranomaly">
+        <text>Deuteranomalía</text>
+    </string>
+    <string id="ui_mcm_lst_protanopia">
+        <text>Protanopia</text>
+    </string>
+    <string id="ui_mcm_lst_protanomaly">
+        <text>Protanomalía</text>
+    </string>
+    <string id="ui_mcm_lst_tritanopia">
+        <text>Tritanopia</text>
+    </string>
+    <string id="ui_mcm_lst_tritanomaly">
+        <text>Tritanomalía</text>
+    </string>
+
+
+    <string id="ui_mcm_lst_di">
+        <text>DI</text>
+    </string>
+    <string id="ui_mcm_lst_medium">
+        <text>Medio</text>
+    </string>
+     <string id="ui_mcm_lst_small">
+        <text>Pequeño</text>
+    </string>
+     <string id="ui_mcm_lst_letterica16">
+        <text>Letterica 16</text>
+    </string>
+     <string id="ui_mcm_lst_letterica18">
+        <text>Letterica 18</text>
+    </string>
+     <string id="ui_mcm_lst_letterica25">
+        <text>Letterica 25</text>
+    </string>
+     <string id="ui_mcm_lst_graffiti19">
+        <text>Graffiti 19</text>
+    </string>
+     <string id="ui_mcm_lst_graffiti22">
+        <text>Graffiti 22</text>
+    </string>
+     <string id="ui_mcm_lst_graffiti32">
+        <text>Graffiti 32</text>
+    </string>
+     <string id="ui_mcm_lst_graffiti50">
+        <text>Graffiti 50</text>
+    </string>
+    <string id="ui_mcm_lst_left">
+        <text>Izquierda</text>
+    </string>
+    <string id="ui_mcm_lst_center">
+        <text>Centro</text>
+    </string>
+    <string id="ui_mcm_lst_right">
+        <text>Derecha</text>
+    </string>
+
+    
+    <string id="ui_mcm_lst_player">
+        <text>Jugador</text>
+    </string>
+     <string id="ui_mcm_lst_dev">
+        <text>Desarrollador</text>
+    </string>
+     <string id="ui_mcm_lst_all">
+        <text>Todos</text>
+    </string>
+
+    
+    <string id="ui_mcm_subtitles_title_additional">
+        <text>Opciones adicionales</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_subs">
+        <text>Activar subtítulos</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_mutant_subs">
+        <text>Activar subtítulos de mutantes (sin implementar)</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_debug">
+        <text>Activar depuración</text>
+    </string>
+    <string id="ui_mcm_subtitles_debug_level">
+        <text>Seleccionar nivel de depuración</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_faction_icon">
+        <text>Mostrar icono de facción</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_speaker_icon">
+        <text>Mostrar icono de emisor</text>
+    </string>
+    <string id="ui_mcm_subtitles_enable_news_manager">
+        <text>Mostrar subtítulos mediante gestor de noticias</text>
+    </string>
+    <string id="ui_mcm_subtitles_use_localization">
+        <text>Usar localización como icono de emisor</text>
+    </string>
+    <string id="ui_mcm_enable_news_manager">
+        <text>Activar gestor de noticias (desactiva el HUD de los subtítulos)</text>
+    </string>
+    <string id="ui_mcm_enable_news_manager_desc">
+        <text>Habilita o deshabilita las opciones de accesibilidad, haz clic en «Aplicar» y luego reabre esta pantalla.</text>
+    </string>
+</string_table>

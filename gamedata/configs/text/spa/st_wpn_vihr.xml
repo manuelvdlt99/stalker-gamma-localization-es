@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_vihrn">
+		<text>SR-3M Vijr</text>
+	</string>
+	<string id="st_wpn_vihrn_descr">
+		<text>Basado en el fusil de asalto silenciado AS Val y diseñado para la portación oculta por equipos especiales de protección de personalidades y agentes de Seguridad del Estado, el SR-3M Vijr («torbellino») es el resultado de la combinación de las cualidades del SR-3, el AS Val y el VSS Vintorez. El SR-3M cuenta con un cargador de mayor capacidad que proporciona una alimentación más fiable durante el tiro automático.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n</text>
+	</string>
+
+</string_table>

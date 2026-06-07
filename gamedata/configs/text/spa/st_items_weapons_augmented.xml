@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_aug_a1">
+		<text>Steyr AUG A1</text>
+	</string>
+	<string id="st_wpn_aug_a1_descr">
+		<text>El AUG (Armee-Universal-Gewehr) es un fusil de asalto bullpup con visor integrado diseñado para un manejo compacto y una precisión superior. Su diseño futurista y su construcción de polímero resistente lo convierten en una opción ligera pero poderosa para el combate moderno. Con su diseño modular, puede adaptarse a diversas funciones, desde el uso estándar en la infantería hasta operaciones especializadas. La variante A1 incluye un visor integrado de 1,5x.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Arms
+		\n</text>
+	</string>
+
+	<string id="st_wpn_aug_a2">
+		<text>Steyr AUG A2</text>
+	</string>
+	<string id="st_wpn_aug_a2_descr">
+		<text>El AUG A2 (Armee-Universal-Gewehr) es un fusil de asalto bullpup modernizado conocido por su diseño compacto, su durabilidad y sus capacidades modulares. A diferencia de su antecesor, incluye un riel Picatinny en lugar del visor fijo, lo que permite a los usuarios personalizar sus sistemas de apuntado para diversos escenarios de combate. Conservando la facilidad de manejo y la fiabilidad de la plataforma AUG, sigue siendo una opción versátil para las fuerzas militares y policiales de todo el mundo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Arms
+		\n</text>
+	</string>
+
+	<string id="st_wpn_aug_a3">
+		<text>Steyr AUG A3</text>
+	</string>
+	<string id="st_wpn_aug_a3_descr">
+		<text>El AUG A3 (Armee-Universal-Gewehr) es una versión mejorada del fusil bullpup, que incluye un sistema de rieles de longitud completa para visores y accesorios. Mejora el modelo original con una modularidad optimizada, una mejor ergonomía y una mayor adaptabilidad a las necesidades del combate moderno. Conservandosu diseño compacto y ligero, sigue siendo una opción popular para las fuerzas militares y policiales de todo el mundo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Arms
+		\n</text>
+	</string>
+
+	<string id="st_wpn_aug_thales">
+		<text>Thales EF88</text>
+	</string>
+	<string id="st_wpn_aug_thales_descr">
+		<text>Desarrollado como una mejora del F88 Austeyr australiano, el EF88 es el AUG más moderno en el mercado. Con mejor ergonomía y una fiabilidad, control del retroceso y precisión mayores, el EF88 es un arma increíblemente inusual y peculiar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Australia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Thales Australia
+		\n</text>
+	</string>
+
+	<string id="st_wpn_aug_9mm">
+		<text>Steyr AUG A3 9 mm</text>
+	</string>
+	<string id="st_wpn_aug_9mm_descr">
+		<text>El AUG (Armee-Universal-Gewehr) es el arma reglamentaria de muchas fuerzas armadas y unidades especiales de todo el mundo desde 1977. Es famoso por su diseño bullpup modular, que se traduce en un fusil corto y equilibrado con buena puntería y fiabilidad. La variante A3 de 9 mm incluye un riel Picatinny en la parte superior del cajón de mecanismos, un retén del cerrojo externo y se ha reconfigurado para su uso con munición de 9 mm Parabellum.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Steyr Arms
+		\n</text>
+	</string>
+
+</string_table>

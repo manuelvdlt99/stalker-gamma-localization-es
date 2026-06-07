@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    
+    <string id="as_sub_ambient_crowd">
+        <text>Gritos y chillidos hacen vibrar los barrotes de hierro de la arena. El público ruge de anticipación</text>
+    </string>
+    <string id="as_sub_ambient_crowd_wave">
+        <text>Desde lo alto, unos rostros destrozados te saludan, celebrando tu victoria</text>
+    </string>
+    
+        
+    <string id="as_sub_ambient_background">
+        <text>El agua fluye suavemente a tu lado, creando una tranquila quietud</text>
+    </string>
+    <string id="as_sub_ambient_background_bike">
+        <text>El retumbar lejano de los motores de las motos se impone al repiqueteo de las gotas de lluvia</text>
+    </string>
+    <string id="as_sub_ambient_background_day">
+        <text>El bosque resuena con un coro de pájaros, cuyos cantos melódicos dan la bienvenida al nuevo día.</text>
+    </string>
+    <string id="as_sub_ambient_background_morning">
+        <text>La tierra emerge serena de entre las sombras, y su aura se llena de esperanza a medida que amanece</text>
+    </string>
+    <string id="as_sub_ambient_background_evening">
+        <text>Un velo de colores pinta el paisaje, reduciendo la sinfonía de los pájaros a susurros</text>
+    </string>
+    <string id="as_sub_ambient_background_night_loud">
+        <text>En medio de la oscuridad de la noche, los aullidos del viento se ven ahogados por el incesante chirrido de los grillos</text>
+    </string>
+    <string id="as_sub_ambient_background_night_quiet">
+        <text>En lo más profundo de la noche, un vacío impenetrable lo envolvía todo, haciendo que la vista resultara inútil, y una presencia siniestra parecía acechar, invisible y premonitoria.</text>
+    </string>
+        
+    <string id="as_sub_ambient_background_marsh">
+        <text>En las turbias aguas del pantano, el aire vibra con los chirridos y croares de los anfibios</text>
+    </string>
+    <string id="as_sub_ambient_background_pripyat_day">
+        <text>Sombras imponentes se extienden en cascada por este páramo olvidado</text>
+    </string>
+    <string id="as_sub_ambient_background_pripyat_evening">
+        <text>Al caer el crepúsculo, las estructuras en ruinas se suavizan con el suave resplandor de las anomalías</text>
+    </string>
+    <string id="as_sub_ambient_background_pripyat_night">
+        <text>La noche cae sobre esta selva de hormigón, envolviéndola en la oscuridad</text>
+    </string>
+    <string id="as_sub_ambient_background_pripyat_morning">
+        <text>La luz de la mañana te deslumbra mientras esa quietud que antes reinaba en el aire se llena de energía</text>
+    </string>
+    <string id="as_sub_ambient_background_underground">
+        <text>En las profundidades subterráneas, una atmósfera ominosa de pasadizos titilantes y tenuemente iluminados envolvía al explorador en un inquietante manto de oscuridad.</text>
+    </string>
+    <string id="as_sub_ambient_background_urban">
+        <text>Los chirridos prolongados de los equipos en descomposición susurran entre el viento</text>
+    </string>
+    
+    <string id="as_sub_ambient_bar_kitchen">
+        <text>El ambiente resultaba opresivo, cargado del olor acre del borscht quemado</text>
+    </string>
+    
+    <string id="as_sub_ambient_blowout_near">
+        <text>Te invade una inquietante sensación de peligro inminente</text>
+    </string>
+    <string id="as_sub_ambient_blowout_far">
+        <text>Ráfagas de energía intensas e impredecibles golpean el suelo en la distancia</text>
+    </string>
+    <string id="as_sub_ambient_blowout_rumble">
+        <text>La tierra tiembla con fuerza bajo tus pies</text>
+    </string>
+    <string id="as_sub_ambient_blowout_begin">
+        <text>Empieza una emisión</text>
+    </string>
+    <string id="as_sub_ambient_blowout_boom">
+        <text>El cielo estalla en un millón de tonos rojos</text>
+    </string>
+    <string id="as_sub_ambient_blowout_flare">
+        <text>Rápidos destellos de luz atraviesan las nubes</text>
+    </string>
+    <string id="as_sub_ambient_blowout_lightning">
+        <text>Rayos de electricidad de color naranja sangre y magenta crepitan entre las nubes</text>
+    </string>
+    <string id="as_sub_ambient_blowout_end">
+        <text>Las nubes comienzan a asentarse, parece que todo ha terminado</text>
+    </string>
+    <string id="as_sub_ambient_blowout_particle_wave">
+        <text>Grupos de partículas que se mueven rápidamente se precipitan en tu dirección</text>
+    </string>
+    <string id="as_sub_ambient_blowout_siren">
+        <text>Sirenas a todo volumen suenan en la distancia, preparándote para tu inminente perdición</text>
+    </string>
+    <string id="as_sub_ambient_blowout_wind">
+        <text>Ráfagas de viento cargado bailan por encima y a tu alrededor</text>
+    </string>
+    
+    <string id="as_sub_ambient_indoors_small_fan">
+        <text>Un pequeño ventilador a pilas zumba de fondo</text>
+    </string>
+    
+    <string id="as_sub_ambient_juipter_oasis">
+        <text>Corrientes eléctricas se entrecruzan</text>
+    </string>
+    <string id="as_sub_ambient_juipter_steam">
+        <text>El vapor caliente se eleva desde los respiraderos cercanos</text>
+    </string>
+    <string id="as_sub_ambient_juipter_underpass">
+        <text>Se abre una puerta eléctrica</text>
+    </string>
+    
+    <string id="as_sub_ambient_labx8_crying">
+        <text>Se oye el llanto de lo que parece un bebé pequeño cerca</text>
+    </string>
+    
+        
+    <string id="as_sub_ambient_nature_growl_small">
+        <text>Oyes el gruñido de un mutante pequeño</text>
+    </string>
+    <string id="as_sub_ambient_nature_growl_large">
+        <text>Oyes el gruñido de un mutante grande</text>
+    </string>
+    <string id="as_sub_ambient_nature_mutant">
+        <text>Oyes gritos de mutantes cercanos</text>
+    </string>
+        
+    <string id="as_sub_ambient_nature_call_ancient">
+        <text>El antiguo espera tu respuesta</text>
+    </string>
+    <string id="as_sub_ambient_nature_call_mysterious">
+        <text>Un ser misterioso te llama desde lejos</text>
+    </string>
+    <string id="as_sub_ambient_nature_call_distant">
+        <text>Escuchas susurros en tus oídos, como si algo te estuviera llamando desde un lugar lejano</text>
+    </string>
+        
+    <string id="as_sub_ambient_nature_crow_circle">
+        <text>Una parvada de cuervos da vueltas cerca</text>
+    </string>
+    <string id="as_sub_ambient_nature_crow_target">
+        <text>Pareces llamar la atención de cuervos cercanos</text>
+    </string>
+    <string id="as_sub_ambient_nature_crow_call">
+        <text>Los cuervos graznan cerca</text>
+    </string>
+        
+    <string id="as_sub_ambient_nature_dog_bark_single">
+        <text>Un perro solitario ladra persistentemente</text>
+    </string>
+    <string id="as_sub_ambient_nature_dog_bark_pack">
+        <text>Una jauría de perros estalla en aullidos y ladridos al unísono</text>
+    </string>
+    <string id="as_sub_ambient_nature_dog_howl">
+        <text>Un perro aúlla cerca</text>
+    </string>
+    <string id="as_sub_ambient_nature_dog_startled">
+        <text>Sobresaltado por un ruido repentino, un perro da un grito y ladra a algo que hay cerca</text>
+    </string>
+    <string id="as_sub_ambient_nature_frog_single">
+        <text>Escuchas el croar de una rana cerca</text>
+    </string>
+    <string id="as_sub_ambient_nature_frog_group">
+        <text>Una congregación de anfibios croan al unísono</text>
+    </string>
+        
+    <string id="as_sub_ambient_nature_ghost_near">
+        <text>Fuera del campo de visión, un fantasma permanece</text>
+    </string>
+    <string id="as_sub_ambient_nature_ghosts_far">
+        <text>En la lejanía, los débiles ecos espectrales de una figura se mueven en soledad</text>
+    </string>
+        
+    <string id="as_sub_ambient_howled">
+        <text>Cada paso provocaba resonancias melancólicas en las viejas vigas, mientras la fragancia persistente de la historia permanecía en el aire, un recuerdo intangible de una época pasada.</text>
+    </string>
+        
+    <string id="as_sub_ambient_nature_owl">
+        <text>Se oyen graznidos breves pero oportunos de búhos en la lejanía</text>
+    </string>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    <string id="as_sub_ambient_mine_fall">
+        <text>Caen piedras sueltas y escombros de las paredes de la mina</text>
+    </string>
+    <string id="as_sub_ambient_mine_hit">
+        <text>Oyes golpes metálicos en la lejanía</text>
+    </string>
+    <string id="as_sub_ambient_mine_squeak">
+        <text>Un escalofrío te recorre la espalda...</text>
+    </string>
+    <string id="as_sub_ambient_mine_wind">
+        <text>Un aire viciado y húmedo se filtra por todo el túnel</text>
+    </string>
+    
+    <string id="as_sub_ambient_outdoors_gunfire">
+        <text>Se oyen ráfagas de disparos en la lejanía</text>
+    </string>
+    <string id="as_sub_ambient_outdoors_wind">
+        <text>Soplan ráfagas de viento</text>
+    </string>
+    <string id="as_sub_ambient_outdoors_organism_moan">
+        <text>Gemidos de mutantes desconocidos resuenan en cascada por el horizonte</text>
+    </string>
+    <string id="as_sub_ambient_outdoors_swamp_wind">
+        <text>Un viento húmedo y pesado te azota</text>
+    </string>
+    <string id="as_sub_ambient_outdoors_wings">
+        <text>Se oye el aleteo rápido y sucesivo de unas plumas</text>
+    </string>
+    
+    <string id="as_sub_ambient_pripyat_gates">
+        <text>Las puertas salen disparadas de sus bisagras</text>
+    </string>
+    <string id="as_sub_ambient_pripyat_generator_start">
+        <text>El generador cobra vida, llenando el aire de olor a gasolina</text>
+    </string>
+    <string id="as_sub_ambient_pripyat_generator_running">
+        <text>El generador emite un zumbido rítmico y persistente, un ruido mecánico que llena el entorno de una energía constante e inquebrantable.</text>
+    </string>
+    
+    
+    
+        
+            
+    <string id="as_sub_ambient_trx_nature_storm_begin">
+        <text>El cielo se oscureció de forma amenazante a medida que se acercaba el inicio de la tormenta, con nubes pesadas y plomizas acumulándose en el horizonte.</text>
+    </string>
+    <string id="as_sub_ambient_trx_nature_storm_middle">
+        <text>El viento aullaba como un coro fantasmal, doblando los árboles y haciendo vibrar las ventanas, mientras los truenos retumbaban, sacudiendo la tierra a medida que la tormenta desataba su furia.</text>
+    </string>
+    <string id="as_sub_ambient_trx_nature_storm_end">
+        <text>El cielo se despejó, revelando un mundo limpio y reluciente tras el paso de la tormenta</text>
+    </string>
+            
+    <string id="as_sub_ambient_trx_nature_wind_dark_one">
+        <text>Con cada ráfaga, el viento parecía traer consigo historias no contadas, una narración fantasmal susurrada a quienes quisieran escucharla.</text>
+    </string>
+    <string id="as_sub_ambient_trx_nature_wind_dark_two">
+        <text>El aire se sentía denso de expectación, mientras el viento levantaba polvo y escombros en una danza caótica.</text>
+    </string>
+            
+    <string id="as_sub_ambient_trx_nature_wind_forest_one">
+        <text>Salvaje y desenfrenado, el viento traía consigo una energía impredecible</text>
+    </string>
+    <string id="as_sub_ambient_trx_nature_wind_forest_two">
+        <text>sus susurros entre los árboles teñidos de un toque de misterio.</text>
+    </string>
+            
+    <string id="as_sub_ambient_trx_nature_wind_gust_one">
+        <text>Los árboles se inclinan y crujen bajo las implacables ráfagas de viento</text>
+    </string>
+    <string id="as_sub_ambient_trx_nature_wind_gust_two">
+        <text>Ráfagas prolongadas de viento azotan los escombros de hormigón</text>
+    </string>
+            
+    <string id="as_sub_ambient_trx_nature_wind_heavy">
+        <text>El viento silba al pasar, entonando una melodía triste</text>
+    </string>
+            
+    <string id="as_sub_ambient_trx_nature_wind_normal_one">
+        <text>La sutil influencia del viento agita las hojas sueltas, guiándolas por las calles.</text>
+    </string>
+    <string id="as_sub_ambient_trx_nature_wind_normal_two">
+        <text>El aire se llenó de la caricia de la suave brisa.</text>
+    </string>
+            
+        
+            
+    <string id="as_sub_ambient_trx_spooks_above_amb_dark_call">
+        <text>La oscuridad te llama...</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_amb_dark_void">
+        <text>Te sientes minúsculo en este inmenso vacío</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_amb_dark_emerge">
+        <text>Tonos ominosos emergen de la oscuridad</text>
+    </string>
+            
+    <string id="as_sub_ambient_trx_spooks_above_amb_night_cloak">
+        <text>Bajo el manto de la noche, el mundo se transformó en este entorno tan familiar</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_amb_night_silence">
+        <text>Un silencio opresivo se cernía sobre el mundo, interrumpido únicamente por el ritmo melancólico del susurro de las hojas</text>
+    </string>
+            
+    <string id="as_sub_ambient_trx_spooks_above_drone_roar">
+        <text>En las profundidades de la tierra, surgió un rugido inexplicable, un recordatorio de que los misterios de la Zona estaban lejos de estar dormidos</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_drone_crackle">
+        <text>Extrañas anomalías bailan en el paisaje, crepitando de energía</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_drone_resonate">
+        <text>El corazón de la Zona resuena, sus secretos esconden cicatrices</text>
+    </string>    
+            
+    <string id="as_sub_ambient_trx_spooks_above_mutant_underground">
+        <text>¿Ese ruido viene de arriba o de abajo...?</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_mutant_stalking">
+        <text>Los arbustos se agitan de repente cerca de ti, ¿podría ser un mutante?</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_mutant_threatened">
+        <text>Los chillidos de los mutantes te llenan los oídos, algo los ha cabreado</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_mutant_howl">
+        <text>Oyes aullidos lejanos</text>
+    </string>
+    <string id="as_sub_ambient_trx_spooks_above_mutant_mating_call">
+        <text>Gritos melódicos y agudos resuenan en el aire</text>
+    </string>
+            
+    <string id="as_ambient_spooks_above_screams_dissociate">
+        <text>Tu vista empieza a nublarse, mientras los gritos distorsionados y desconocidos llenan el aire</text>
+    </string>
+    <string id="as_ambient_spooks_above_screams_tortured">
+        <text>Como si hubieran sido convocados a través de un portal al infierno, se oyen gritos humanoides en la distancia</text>
+    </string>
+    <string id="as_ambient_spooks_above_screams_reverb">
+        <text>Chillidos y alaridos que resuenan por las colinas y los valles</text>
+    </string>
+    <string id="as_ambient_spooks_above_screams_omnious">
+        <text>Algo acecha en la oscuridad, escuchas gritos de dentro</text>
+    </string>
+    <string id="as_ambient_spooks_above_screams_haunting">
+        <text>Gritos espeluznantes resuenan en el aire a tu alrededor</text>
+    </string>
+            
+    <string id="as_ambient_spooks_above_shooting_repeating">
+        <text>Se oyen ráfagas continuas de disparos a lo lejos</text>
+    </string>
+    <string id="as_ambient_spooks_above_shooting_bang">
+        <text>De vez en cuando se oyen disparos de francotirador a lo lejos</text>
+    </string>
+    <string id="as_ambient_spooks_above_shooting_fight">
+        <text>Se oyen disparos constantes, que parecen provenir de varios frentes, no muy lejos de aquí</text>
+    </string>
+    <string id="as_ambient_spooks_above_shooting_ambush">
+        <text>Una repentina ráfaga de disparos sacude el aire a tu alrededor y cesa casi tan rápido como empezó</text>
+    </string>
+    <string id="as_ambient_spooks_above_shooting_fading">
+        <text>Oyes disparos desvaneciéndose en la distancia</text>
+    </string>
+    <string id="as_ambient_spooks_above_shooting_execution">
+        <text>Se oye una ráfaga corta de disparos y gritos a lo lejos de fondo</text>
+    </string>
+            
+    <string id="as_ambient_spooks_above_spooks_whispers">
+        <text>No hay nada a tu alrededor, pero oyes susurros</text>
+    </string>
+    <string id="as_ambient_spooks_above_spooks_wind">
+        <text>Voces inundan tu entorno, pero nadie habla</text>
+    </string>
+    <string id="as_ambient_spooks_above_spooks_wish_granter">
+        <text>Un zumbido interno te llama desde lejos</text>
+    </string>
+</string_table>

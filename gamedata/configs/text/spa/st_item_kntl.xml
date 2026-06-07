@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_wpn_streetsweeper">
+		<text>Armsel Protecta</text>
+	</string>
+	<string id="st_wpn_streetsweeper_aim">
+		<text>Armsel Protecta</text>
+	</string>
+	<string id="st_wpn_streetsweeper_nimble">
+		<text>Armsel Protecta Custom</text>
+	</string>
+
+	<string id="st_wpn_streetsweeper_descr">
+		<text>Una escopeta de combate (también conocida como Striker) diseñada para disparar rápidamente, que cuenta con un tambor giratorio único que permite realizar disparos seguidos rápidos. Su robusta construcción y funcionamiento sencillo la hacen muy eficaz para enfrentamientos en espacios cerrados y el control de masas. Gracias a su mecanismo de carga rápida y su accionamiento semiautomático, es una opción preferida para aplicaciones militares, policiales y de seguridad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Sudáfrica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Varios
+		\n</text>
+	</string>
+
+	<string id="st_wpn_streetsweeper_aim_descr">
+		<text>Una escopeta de combate (también conocida como Striker) diseñada para disparar rápidamente, que cuenta con un tambor giratorio único que permite realizar disparos seguidos rápidos. Su robusta construcción y funcionamiento sencillo la hacen muy eficaz para enfrentamientos en espacios cerrados y el control de masas. Gracias a su mecanismo de carga rápida y su accionamiento semiautomático, es una opción preferida para aplicaciones militares, policiales y de seguridad.
+		\nEsta variante incluye una mira colimadora Aimpoint AB y una energía de salida y un poder de parada considerablemente mayores, a costa de una menor cadencia de tiro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Sudáfrica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Varios
+		\n</text>
+	</string>
+
+	<string id="st_wpn_streetsweeper_nimble_descr">
+		<text>Una escopeta de combate (también conocida como Striker) diseñada para disparar rápidamente, que cuenta con un tambor giratorio único que permite realizar disparos seguidos rápidos. Su robusta construcción y funcionamiento sencillo la hacen muy eficaz para enfrentamientos en espacios cerrados y el control de masas. Gracias a su mecanismo de carga rápida y su accionamiento semiautomático, es una opción preferida para aplicaciones militares, policiales y de seguridad.
+		\nSegún ciertas fuentes, este modelo antes pertenecía a Tanque, pero se sabe poco de él o si esto es siquiera verdad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Sudáfrica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Varios
+		\n</text>
+	</string>
+
+</string_table>

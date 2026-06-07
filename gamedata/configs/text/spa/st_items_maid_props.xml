@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="st_use_stove">
+		<text>Usar cocina</text>
+	</string>
+
+
+
+	<string id="st_prop_dish2">
+		<text>Cuenco de cerámica</text>
+	</string>
+	<string id="st_prop_dish2_descr">
+		<text>Un cuenco de cerámica simple pero duradero.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_dish1">
+		<text>Plato de cerámica</text>
+	</string>
+	<string id="st_prop_dish1_descr">
+		<text>Un plato de cerámica de la variedad no bélica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_bong">
+		<text>Cachimba</text>
+	</string>
+	<string id="st_prop_bong_descr">
+		<text>También conocida como narguile o pipa de agua, este instrumento se usa para fumar tabaco de shisha, en el que el humo se enfría mediante agua contenida en su base.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_keyboard">
+		<text>Teclado</text>
+	</string>
+	<string id="st_prop_keyboard_descr">
+		<text>Un viejo teclado que ha adquirido un ligero tono amarillo debido al paso del tiempo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_laptop_item">
+		<text>Portátil</text>
+	</string>
+	<string id="st_prop_laptop_item_descr">
+		<text>Un portátil moderno.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_monitor">
+		<text>Monitor</text>
+	</string>
+	<string id="st_prop_monitor_descr">
+		<text>Un monitor viejo en un estado decente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_mice">
+		<text>Ratón</text>
+	</string>
+	<string id="st_prop_mice_descr">
+		<text>Un ratón de PC viejo y básico. Bienvenido de nuevo a finales de los 90.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_mice_pad">
+		<text>Ratón con alfombrilla</text>
+	</string>
+	<string id="st_prop_mice_pad_descr">
+		<text>Un ratón de PC viejo y básico con una alfombrilla. Bienvenido de nuevo a finales de los 90.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_mug">
+		<text>Taza</text>
+	</string>
+	<string id="st_prop_mug_descr">
+		<text>Una taza básica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_couch_1">
+		<text>Sofá viejo</text>
+	</string>
+	<string id="st_prop_couch_1_descr">
+		<text>Un sofá viejo en sorprendentemente buen estado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_case">
+		<text>Torre de PC</text>
+	</string>
+	<string id="st_prop_case_descr">
+		<text>Una torre de PC vieja. El ordenador que contiene no funciona. Pero da gusto mirarla.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_poster_vertical_item">
+		<text>Póster (vertical)</text>
+	</string>
+	<string id="st_prop_poster_vertical_item_descr">
+		<text>Un sencillo póster vertical.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_fan">
+		<text>Ventilador pequeño</text>
+	</string>
+	<string id="st_prop_fan_descr">
+		<text>Un ventilador pequeño y funcional. Útil para esos inusuales días calurosos en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_bed_3">
+		<text>Cama de madera</text>
+	</string>
+	<string id="st_prop_bed_3_descr">
+		<text>Una robusta cama de madera. El colchón es suave y cómodo. Incluye un juego doble de sábanas para arroparte durante las noches frías.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]dormir
+		\n</text>
+	</string>
+
+	<string id="st_prop_chair">
+		<text>Silla de madera</text>
+	</string>
+	<string id="st_prop_chair_descr">
+		<text>Una sencilla y robusta silla de madera con un asiento suave.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_counter_1">
+		<text>Encimera de madera</text>
+	</string>
+	<string id="st_prop_counter_1_descr">
+		<text>Una simple encimera de madera aún en buen estado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_table_1">
+		<text>Escritorio de madera</text>
+	</string>
+	<string id="st_prop_table_1_descr">
+		<text>Un escritorio de madera robusto aún en buen estado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_shelf_1">
+		<text>Estante de madera</text>
+	</string>
+	<string id="st_prop_shelf_1_descr">
+		<text>Un simple estante hecho de madera.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_shelf_2">
+		<text>Estante de madera (grande)</text>
+	</string>
+	<string id="st_prop_shelf_2_descr">
+		<text>Un estante robusto hecho de madera.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_table_2">
+		<text>Mesa de madera</text>
+	</string>
+	<string id="st_prop_table_2_descr">
+		<text>Una mesa de madera robusta aún en buen estado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+	<string id="st_prop_board_map">
+		<text>Mapa de la Zona</text>
+	</string>
+	<string id="st_prop_board_map_descr">
+		<text>Mapa topográfico de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+
+
+	<string id="st_placeable_ammo_box">
+		<text>Caja de munición</text>
+	</string>
+	<string id="st_placeable_ammo_box_descr">
+		<text>Una espaciosa caja de madera empleada por los militares para almacenar munición.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Almacena: %c[ui_gray_1]munición
+		\n</text>
+	</string>
+
+	<string id="st_prop_cans_tuna">
+		<text>Caja de comida enlatada</text>
+	</string>
+	<string id="st_prop_cans_tuna_descr">
+		<text>Una caja de madera que suelen utilizar los comerciantes para exponer su mercancía. Solo es apta para comida enlatada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Almacena: %c[ui_gray_1]comida enlatada
+		\n</text>
+	</string>
+
+	<string id="st_prop_lamp1">
+		<text>Flexo</text>
+	</string>
+	<string id="st_prop_lamp1_descr">
+		<text>Una pequeña lámpara que proporciona luz en una salita.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+
+	<string id="st_prop_lamp2">
+		<text>Flexo (grande)</text>
+	</string>
+	<string id="st_prop_lamp2_descr">
+		<text>Una lámpara grande que proporciona luz en una salita.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]pilas
+		\n</text>
+	</string>
+
+	<string id="st_prop_prop_clock_1">
+		<text>Reloj digital</text>
+	</string>
+	<string id="st_prop_prop_clock_1_descr">
+		<text>Un reloj digital nuevo. Algo digno de ver en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Muestra el tiempo
+		\n</text>
+	</string>
+
+	<string id="st_prop_med_case_1">
+		<text>Estuche médico</text>
+	</string>
+	<string id="st_prop_med_case_1_descr">
+		<text>Un robusto estuche de plástico pensado para almacenar objetos médicos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Almacena: %c[ui_gray_1]objetos médicos
+		\n</text>
+	</string>
+
+	<string id="st_prop_bed_2">
+		<text>Cama de metal</text>
+	</string>
+	<string id="st_prop_bed_2_descr">
+		<text>Una vieja cama de metal con un colchón y una manta básicos. Mejor que dormir tirado en el suelo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]dormir
+		\n</text>
+	</string>
+
+	<string id="st_prop_fridge">
+		<text>Nevera vieja</text>
+	</string>
+	<string id="st_prop_fridge_descr">
+		<text>Una nevera pesada empleada para ayudar a conservar la carne mutante y demás objetos perecederos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Almacenamiento de objetos
+		\n %c[d_orange] • %c[ui_gray_2] Utilizable como alijo
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] La carne mutante no se pudrirá mientras esté guardada aquí
+		\n</text>
+	</string>
+
+	<string id="st_prop_bed_1">
+		<text>Cama enrollable</text>
+	</string>
+	<string id="st_prop_bed_1_descr">
+		<text>Un colchón y una manta sencillos. Ligera y portátil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]dormir
+		\n</text>
+	</string>
+
+	<string id="st_prop_stove2">
+		<text>Cocina (grande)</text>
+	</string>
+	<string id="st_prop_stove2_descr">
+		<text>Una cocina grande y funcional que se ha reacondicionado para que funcione con todos los combustibles.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cocinar
+		\n</text>
+	</string>
+
+	<string id="st_prop_stove1">
+		<text>Cocina (pequeña)</text>
+	</string>
+	<string id="st_prop_stove1_descr">
+		<text>Una cocina pequeña y funcional que se ha reacondicionado para que funcione con todos los combustibles.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cocinar
+		\n</text>
+	</string>
+
+	<string id="st_prop_tv">
+		<text>Televisor</text>
+	</string>
+	<string id="st_prop_tv_descr">
+		<text>Un viejo televisor que sintoniza los mismos canales disponibles en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n</text>
+	</string>
+
+</string_table>

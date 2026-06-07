@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+<string_table>
+
+	<string id="st_mag_lancer">
+		<text>Cargador de 25 cartuchos de 7,62 x 51 mm Lancer L7AWM</text>
+	</string>
+	<string id="st_mag_lancer_descr">
+		<text>Un cargador de 25 cartuchos L7AWM de doble hilera de munición de 7,62 x 51 mm OTAN. Fabricado por Lancer Systems.</text>
+	</string>
+	
+</string_table>

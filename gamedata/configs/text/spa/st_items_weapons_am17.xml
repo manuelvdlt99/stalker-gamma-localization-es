@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_am17">
+		<text>AM-17</text>
+	</string>
+	<string id="st_wpn_am17_descr">
+		<text>Un fusil de asalto compacto diseñado para el combate urbano y los enfrentamientos en espacios cerrados que cuenta con un armazón ligero de polímero para obtener una mayor maniobrabilidad. Su diseño modular incluye un riel Picatinny de longitud completa para acoplar visores y accesorios, lo que permite una mayor adaptabilidad en escenarios tácticos. Con una combinación equilibrada de potencia de fuego y portabilidad, es idóneo para fuerzas especiales, fuerzas del orden y personal militar que operan en entornos confinados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Corporación Kaláshnikov
+		\n</text>
+	</string>
+	
+</string_table>

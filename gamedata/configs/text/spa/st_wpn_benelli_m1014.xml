@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_benelli_m1014">
+		<text>M1014</text>
+	</string>
+	<string id="st_wpn_benelli_m1014_descr">
+		<text>Una escopeta semiautomática diseñada para uso militar y policial producida por Benelli y basada en su reputado diseño M4. Dispara el calibre 12 y cuenta con un accionamiento por gas, lo que permite disparos seguidos rápidos con un retroceso mínimo. La M1014 es muy valorada por su durabilidad, versatilidad y rendimiento en situaciones de combate en espacios cerrados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Italia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Benelli
+		\n</text>
+	</string>
+
+</string_table>

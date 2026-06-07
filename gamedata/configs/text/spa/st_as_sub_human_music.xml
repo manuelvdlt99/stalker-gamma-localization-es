@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+    <string id="as_sub_characters_voice_human_music_harmonica">
+        <text>Hora de tocar la armónica</text>
+    </string>
+    <string id="as_sub_characters_voice_human_music_guitar">
+        <text>Hora de tocar la guitarra</text>
+    </string>
+</string_table>

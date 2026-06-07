@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_pba_sacrifice">
+		<text>Sacrificar</text>
+	</string>
+
+	<string id="st_pba_transmutate">
+		<text>Transmutar</text>
+	</string>
+
+	<string id="st_af_lucifer_name">
+		<text>Lucifer</text>
+	</string>
+	<string id="st_af_lucifer_descr">
+		<text>Has firmado un pacto con la Zona. Serás recompensado con habilidades increíbles a cambio de tu fuerza vital. Para evitar tu defunción y prolongar tu existencia, tienes la oportunidad de sacrificar las demás riquezas de la Zona. La calidad de la oferta determinará la recompensa que recibirás. Lucifer concede una fuerza y habilidades inmensas que convierten a su portador en una especie de semidiós, pero recuerda: el tiempo corre.
+		
+		\n \n%c[0,209,172,56]Ventaja: %c[d_orange]El efecto Lucifer
+		\n %c[pda_white] • %c[ui_gray_2]ESTADO DE 100 %-51 %:
+		\n %c[d_green] - %c[ui_gray_2]Reducción de daño: %c[ui_gray_1]15 %
+		\n %c[d_green] - %c[ui_gray_2]Aumento de velocidad: %c[ui_gray_1]35 %
+		\n %c[d_green] - %c[ui_gray_2]Regeneración de salud: %c[ui_gray_1]1 %/s
+		\n %c[d_green] - %c[ui_gray_2]Regeneración psíquica: %c[ui_gray_1]3 %/s
+		\n %c[d_green] - %c[ui_gray_2]Peso transportable: %c[ui_gray_1]+50 kg
+		\n %c[pda_white] • %c[ui_gray_2]ESTADO DE 50 %-40 %:
+		\n %c[ui_red] - %c[ui_gray_2] NINGUNA bonificación
+		\n %c[ui_red] - %c[ui_gray_2] Pérdida de resistencia
+		\n %c[pda_white] • %c[ui_gray_2]ESTADO DE 39%-0 %:
+		\n %c[ui_red] - %c[ui_gray_2] NINGUNA bonificación
+		\n %c[ui_red] - %c[ui_gray_2] Pérdida de salud y resistencia
+		
+		\n \n %c[pda_white] • %c[ui_gray_2] Sacrificar artefactos
+		\n %c[d_cyan] - %c[ui_gray_2]Artefacto de nivel 1: %c[ui_gray_1]3 %-5 %
+		\n %c[d_cyan] - %c[ui_gray_2]Artefacto de nivel 2: %c[ui_gray_1]6 %-9 %
+		\n %c[d_cyan] - %c[ui_gray_2]Artefacto de nivel 3: %c[ui_gray_1]10 %-13 %
+		\n %c[d_cyan] - %c[ui_gray_2]Artefacto Nudo: %c[ui_gray_1]20 %-30 %
+		\n %c[d_cyan] - %c[ui_gray_2]Artefacto Lámpara de la Muerte: %c[ui_gray_1]recarga el artefacto al 100 %
+		\n %c[d_cyan] - %c[ui_gray_2]Artefacto Serafín: %c[ui_gray_1]no puede sacrificarse
+		
+		\n \n %c[d_cyan] • %c[ui_gray_2]NOTA: %c[ui_gray_1]Lucifer funciona desde la mochila.
+		
+		\n \n%c[ui_red]NO PUEDES DESHACERTE DE LUCIFER DE NINGUNA MANERA\n</text>
+	</string>
+
+</string_table>

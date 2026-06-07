@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>Un Asistente Digital Personal (PDA) es la principal herramienta del stalker para la navegación y la comunicación en la Zona. Equipada con mapas, registros de misiones y funciones de mensajería, ayuda a coordinar las actividades y rastrear los objetivos. Su diseño compacto garantiza la portabilidad, lo que la hace indispensable para las operaciones cotidianas.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_pda_1_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_pda_1_descr">
+		<text>Un Asistente Digital Personal (PDA) es la principal herramienta del stalker para la navegación y la comunicación en la Zona. Equipada con mapas, registros de misiones y funciones de mensajería, ayuda a coordinar las actividades y rastrear los objetivos. Su diseño compacto garantiza la portabilidad, lo que la hace indispensable para las operaciones cotidianas.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_pda_2_name">
+		<text>PDA v2.0 KilTrak™</text>
+	</string>
+	<string id="st_pda_2_descr">
+		<text>Un Asistente Digital Personal (PDA) es la principal herramienta del stalker para la navegación y la comunicación en la Zona. Equipada con mapas, registros de misiones y funciones de mensajería, ayuda a coordinar las actividades y rastrear los objetivos. Su diseño compacto garantiza la portabilidad, lo que la hace indispensable para las operaciones cotidianas.\nEste modelo incluye una versión pirateada del software IMI KilTrak, lo que lo convierte en un hallazgo atractivo entre los stalkers.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_pda_3_name">
+		<text>PDA v3.1</text>
+	</string>
+	<string id="st_pda_3_descr">
+		<text>Un Asistente Digital Personal (PDA) es la principal herramienta del stalker para la navegación y la comunicación en la Zona. Equipada con mapas, registros de misiones y funciones de mensajería, ayuda a coordinar las actividades y rastrear los objetivos. Su diseño compacto garantiza la portabilidad, lo que la hace indispensable para las operaciones cotidianas.\nEste modelo se ha mejorado sobremanera para recuperar y procesar la posición de otros módulos conectados a la red, aunque requiere una serie de códigos para adquirir funciones superiores, como privilegios especiales incorporados.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_detector1">
+		<text>Detector Eco</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Un dispositivo básico y desfasado de detección de artefactos que utiliza electrónica anticuada para identificar anomalías. Emite señales auditivas que aumentan de frecuencia a medida que el usuario se acerca a un artefacto. Si bien es asequible, su alcance y funcionalidad limitados lo hacen apto principalmente para stalkers novatos.
+		
+		\n \nPROPIEDADES:
+		\n %c[pda_white] • %c[ui_gray_2] Categoría I
+		\n %c[d_orange] • %c[ui_gray_2] Detecta artefactos comunes
+		\n</text>
+	</string>
+	
+	<string id="st_detector2">
+		<text>Detector Oso</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Un detector de artefactos de primera generación mejorado, el detector Oso cuenta con una pantalla radar intuitiva y componentes electrónicos mejorados. Ofrece señas direccionales, ayudando a los stalkers a ubicar los artefactos con mayor precisión. Este dispositivo es preferido por su equilibrio entre funcionalidad y accesibilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[pda_white] • %c[ui_gray_2] Categoría II
+		\n %c[d_orange] • %c[ui_gray_2] Detecta artefactos comunes y raros
+		\n</text>
+	</string>
+	
+	<string id="st_detector3">
+		<text>Detector Veles</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>El detector Veles es un dispositivo de segunda generación avanzado reputado por su eficiencia y fiabilidad. Ofrece una interfaz visual detallada que muestra tanto la posición de los artefactos como la de las anomalías, lo que mejora la seguridad durante las expediciones. Su coste más elevado refleja su rendimiento superior, lo que lo convierte en la opción preferida de los stalkers experimentados.
+		
+		\n \nPROPIEDADES:
+		\n %c[pda_white] • %c[ui_gray_2] Categoría III
+		\n %c[d_orange] • %c[ui_gray_2] Detecta todos los artefactos
+		\n</text>
+	</string>
+	
+	<string id="st_detector4">
+		<text>Detector Svarog</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>Como prototipo de detector de anomalías y artefactos, el detector Svarog representa el culmen de la tecnología de detección en la Zona. No solo localiza los artefactos, sino que también mapea las zonas anómalas estáticas, proporcionando una visión integral de la situación. Su sofisticado diseño y funcionalidad lo convierten en una herramienta inestimable para expediciones científicas y misiones de recuperación de artefactos de alto riesgo.
+		
+		\n \nPROPIEDADES:
+		\n %c[pda_white] • %c[ui_gray_2] Categoría IV
+		\n %c[d_orange] • %c[ui_gray_2] Detecta todos los artefactos y artefactos científicamente desconocidos
+		\n</text>
+	</string>
+	
+	<string id="st_detector9">
+		<text>Receptor de RF</text>
+	</string>
+	<string id="st_detector9_descr">
+		<text>El receptor de radiofrecuencias (RF) es un dispositivo empleado para interceptar y monitorizar comunicaciones en la Zona. Permite a los stalkers poner la oreja en diversas transmisiones, lo que les permite, potencialmente, obtener información valiosa sobre los movimientos de las facciones o alijos ocultos. Su efectividad depende de la intensidad de la señal y la proximidad del usuario a las fuentes de transmisión.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_detector8">
+		<text>Dispositivo de medición de anomalías</text>
+	</string>
+	<string id="st_detector8_descr">
+		<text>Un dispositivo empleado para realizar y registrar mediciones de campos anómalos. Su estructura mejorada y sus sensores de alta sensibilidad garantizan un funcionamiento fiable incluso en los entornos más hostiles. El primer prototipo fue diseñado en 2008 bajo la supervisión del profesor Sájarov en el laboratorio móvil de Yantar. Desde entonces, se han fabricado más copias tras su éxito demostrado en los estudios de campo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Detecta ubicaciones de anomalías
+		\n</text>
+	</string>
+	
+	<string id="st_broken_pda">
+		<text>PDA rota</text>
+	</string>
+	<string id="st_broken_pda_descr">
+		<text>Un Asistente Digital Personal averiado o dañado, que a menudo se encuentra tirado o en manos de stalkers caídos. Aunque no es funcional en su estado actual, podría contener datos o componentes salvables.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+	
+	<string id="st_device_torch_name">
+		<text>Linterna frontal</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>Una fuente de luz portátil que se fija al casco del stalker; la linterna frontal proporciona iluminación con manos libres en entornos oscuros. Imprescindible para operaciones nocturnas o para explorar interiores oscuros, mejora la visibilidad a la vez que mantiene las manos del usuario libres para otras tareas.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_device_torch_nv_1_name">
+		<text>Linterna frontal con visión nocturna 1PN93-1</text>
+	</string>
+	<string id="st_device_torch_nv_1_descr">
+		<text>Una fuente de luz portátil que se fija al casco del stalker; la linterna frontal proporciona iluminación con manos libres en entornos oscuros. Imprescindible para operaciones nocturnas o para explorar interiores oscuros, mejora la visibilidad a la vez que mantiene las manos del usuario libres para otras tareas.\nEste modelo cuenta con un dispositivo de visión nocturna 1PN93-1 que ofrece amplificación de imagen de segunda generación o superior, lo que lo hace especialmente útil para operaciones nocturnas o en condiciones de poca luz.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_device_torch_nv_2_name">
+		<text>Linterna frontal con visión nocturna PN21KL</text>
+	</string>
+	<string id="st_device_torch_nv_2_descr">
+		<text>Una fuente de luz portátil que se fija al casco del stalker; la linterna frontal proporciona iluminación con manos libres en entornos oscuros. Imprescindible para operaciones nocturnas o para explorar interiores oscuros, mejora la visibilidad a la vez que mantiene las manos del usuario libres para otras tareas.\nEste modelo cuenta con un dispositivo de visión nocturna PN21KL que ofrece amplificación de imagen de segunda generación o superior, lo que lo hace especialmente útil para operaciones nocturnas con iluminación natural y en completa oscuridad con el iluminador infrarrojo.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_device_torch_nv_3_name">
+		<text>Linterna frontal con psicoestimulador Oracle</text>
+	</string>
+	<string id="st_device_torch_nv_3_descr">
+		<text>Una fuente de luz portátil que se fija al casco del stalker; la linterna frontal proporciona iluminación con manos libres en entornos oscuros. Imprescindible para operaciones nocturnas o para explorar interiores oscuros, mejora la visibilidad a la vez que mantiene las manos del usuario libres para otras tareas.\nEste modelo incorpora un software de procesamiento de imágenes que elimina el ruido y mejora las capacidades de amplificación de imagen de las unidades PN21K, convirtiéndolo así en un dispositivo de visión nocturna IIT de tercera generación o superior en toda regla.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_device_flashlight">
+		<text>Linterna</text>
+	</string>
+	<string id="st_device_flashlight_descr">
+		<text>Una fuente de luz portátil, la linterna es infaltable en el inventario de todo stalker. Ofrece iluminación focalizada, lo que es útil para inspeccionar áreas concretas o hacer señales a otras personas. Si bien es eficaz, ocupa una mano, lo que puede suponer una limitación durante ciertas actividades.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_batteries_dead">
+		<text>Pilas viejas</text>
+	</string>
+	<string id="st_batteries_dead_descr">
+		<text>Pilas desechadas cuya capa exterior está corroída y cubierta de tierra. En el entorno de escasez de recursos de la Zona, incluso las baterías descargadas podrían ser útiles, ya que a veces se pueden recargar o reutilizar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Chatarra
+		\n</text>
+	</string>
+	
+	<string id="st_batteries">
+		<text>Paquete de pilas</text>
+	</string>
+	<string id="st_batteries_descr">
+		<text>Una fuente de energía indispensable en la Zona. Se suelen utilizar en diversos dispositivos electrónicos portátiles. Los stalkers dependen de estas células de energía para hacer funcionar equipos esenciales como linternas de mano, linternas frontales y detectores portátiles. Recuerda llevar de repuesto en caso de emergencia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Fuente de energía
+		\n</text>
+	</string>
+	
+	<string id="st_batteries_ccell">
+		<text>Unidad de batería militar</text>
+	</string>
+	<string id="st_batteries_ccell_descr">
+		<text>Una fuente de energía robusta y de alta capacidad utilizada principalmente para equipos de grado militar. Diseñadas para soportar condiciones extremas, estas unidades proporcionan energía fiable para armamento y dispositivos de comunicación avanzados. Oficiales militares corruptos las suministran a menudo a comerciantes que buscan ganar un dinero extra en la Zona, lo que las convierte en bienes valiosos entre los stalkers.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Fuente de energía
+		\n</text>
+	</string>
+	
+	<string id="st_geiger_dead">
+		<text>Contador Geiger</text>
+	</string>
+	<string id="st_geiger_dead_descr">
+		<text>El contador Geiger, un dispositivo portátil que mide los niveles de radiación ionizante, es indispensable para detectar peligros radiactivos. Alerta a los usuarios de áreas peligrosas, lo que les permite recorrer la Zona con mayor seguridad. La monitorización constante ayuda a evitar la exposición prolongada a la radiación nociva.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Mide la contaminación radiactiva
+		\n</text>
+	</string>
+	
+	<string id="st_electric power">
+		<text>Dispositivo Energético Universal (eléctrico)</text>
+	</string>
+	<string id="st_electric power_descr">
+		<text>Unidad de energía de la época de la Guerra Fría del tamaño de un walkie-talkie pequeño. Acepta casi cualquier tipo de pila. Utiliza toda la energía de las pilas insertadas y suministra energía a los dispositivos electrónicos en un flujo mejorado a través de un conjunto de microcables. Estos cables pueden conectarse a cualquier equipo, independientemente de su complejidad o antigüedad, lo que permite a los stalkers usar y manipular numerosos dispositivos electrónicos, aunque solo tengan una pila.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Fuente de energía portátil
+		\n</text>
+	</string>
+	
+	<string id="extension_pda">
+		<text>PDA multimedia</text>
+	</string>
+	<string id="exten_sion_pda">
+		<text>Una versión mejorada de la PDA estándar, la PDA multimedia ofrece funciones mejoradas, como reproducción de vídeo y audio. Es compatible con un abanico más amplio de aplicaciones, incluidas herramientas de análisis de datos e interfaces de comunicación avanzadas. Esta versatilidad la convierte en un recurso valioso para los stalkers con conocimientos tecnológicos.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_gps_tracker">
+		<text>Módulo GPS militar</text>
+	</string>
+	<string id="st_gps_tracker_descr">
+		<text>Un prototipo de la siguiente generación de dispositivos de navegación por GPS del que solo existen unos pocos ejemplares. Aunque se distribuyen exclusivamente entre los altos rangos militares, algunos se han filtrado a otros bandos. Este módulo, que cuenta con una estructura mejorada y sensores de alta sensibilidad, garantiza un funcionamiento fiable incluso en los entornos más hostiles. A diferencia de los módulos GPS habituales, este se basa en series de códigos que permiten al módulo adquirir privilegios especiales en el canal conectado.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+
+	<string id="st_musicplayer">
+		<text>Radio</text>
+	</string>
+	<string id="st_musicplayer_desc">
+		<text>Una radio modificada, diseñada para poder comunicarse con otras radios y, al mismo tiempo, filtrar el mayor número posible de interferencias. Estas mejoras facilitan la comunicación y la recopilación de información en la Zona.
+		
+		\n \nPROPIEDADES:
+		\n</text>
+	</string>
+	
+	<string id="st_weather_radar">
+		<text>Kit de radar meteorológico Doppler</text>
+	</string>
+	<string id="st_weather_radar_descr">
+		<text>Un sistema portátil diseñado para monitorizar las condiciones atmosféricas, proporcionando datos en tiempo real sobre los patrones climáticos. Este modelo ha sido modificado y funciona con un artefacto Bola de Carne. Considerado un milagro en el ámbito de la meteorología, emite pulsos direccionales de radiación de microondas para recopilar datos meteorológicos.
+		\n</text>
+	</string>
+	
+	<string id="st_dosimeter_mode">
+		<text>Dosímetro</text>
+	</string>
+	<string id="st_actor_rads">
+		<text>Radiación corporal</text>
+	</string>
+	<string id="st_environment_rads">
+		<text>Radiación ambiental</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_akm_isg">
+		<text>RD 706 «ISG»</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text>Un ejemplar personalizado y hecho a medida del RD 706, de la empresa estadounidense Rifle Dynamics. RD es conocida por especializarse en fusiles de tipo AK modernizados y de gran calidad, reputados por su ingeniería de precisión y su ergonomía mejorada. Con sede en los Estados Unidos, la empresa se centra en mejorar la fiabilidad, precisión y modularidad de los diseños clásicos, lo que los convierte en una opción predilecta para aficionados, fuerzas del orden y operadores profesionales.
+		\nModificada en gran medida con una mezcla de accesorios occidentales y orientales, solo se encuentra entre los escuadrones del ISG clandestino.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Rifle Dynamics
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_ak74_isg">
+		<text>RD 5.45 Custom «ISG»</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>Un AK en 5,45 de longitud completa personalizado y hecho a medida por Rifle Dynamics. RD es conocida por especializarse en fusiles de tipo AK modernizados y de gran calidad, reputados por su ingeniería de precisión y su ergonomía mejorada. Con sede en los Estados Unidos, la empresa se centra en mejorar la fiabilidad, precisión y modularidad de los diseños clásicos, lo que los convierte en una opción predilecta para aficionados, fuerzas del orden y operadores profesionales.
+		\nModificada en gran medida con una mezcla de accesorios occidentales y orientales, solo se encuentra entre los escuadrones del ISG clandestino.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Rifle Dynamics
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_ak74u_isg">
+		<text>RD Quickhatch 5.45 «ISG»</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text>Un ejemplar personalizado y hecho a medida del Quickhatch de 5,45 x 39, de la empresa estadounidense Rifle Dynamics. RD es conocida por especializarse en fusiles de tipo AK modernizados y de gran calidad, reputados por su ingeniería de precisión y su ergonomía mejorada. Con sede en los Estados Unidos, la empresa se centra en mejorar la fiabilidad, precisión y modularidad de los diseños clásicos, lo que los convierte en una opción predilecta para aficionados, fuerzas del orden y operadores profesionales.
+		\nModificada en gran medida con una mezcla de accesorios occidentales y orientales, solo se encuentra entre los escuadrones del ISG clandestino.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Rifle Dynamics
+		\n</text>
+	</string>
+
+	<string id="st_wpn_ak74u_m1_isg">
+		<text>RD Quickhatch 7.62 «ISG»</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text>Un ejemplar personalizado y hecho a medida del Quickhatch de 7,62 x 39, de la empresa estadounidense Rifle Dynamics. RD es conocida por especializarse en fusiles de tipo AK modernizados y de gran calidad, reputados por su ingeniería de precisión y su ergonomía mejorada. Con sede en los Estados Unidos, la empresa se centra en mejorar la fiabilidad, precisión y modularidad de los diseños clásicos, lo que los convierte en una opción predilecta para aficionados, fuerzas del orden y operadores profesionales.
+		\nModificada en gran medida con una mezcla de accesorios occidentales y orientales, solo se encuentra entre los escuadrones del ISG clandestino.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Rifle Dynamics
+		\n</text>
+	</string>
+
+</string_table>

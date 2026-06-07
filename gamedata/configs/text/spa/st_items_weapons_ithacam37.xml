@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_ithacam37">
+		<text>Ithaca 37 «Riot»</text>
+	</string>
+	<string id="st_wpn_ithacam37_descr">
+		<text>La Ithaca 37, una de las escopetas de corredera más reconocidas de los Estados Unidos y la que cuenta con el periodo de producción más largo de la historia en su categoría, fue diseñada para uso policial, militar y civil en general. Incorpora una innovadora combinación de portilla de eyección y recarga en la parte inferior del arma, lo que permite mantener los laterales protegidos de las inclemencias del tiempo. Con un cañón acortado y un pistolete, el modelo «Riot» se considera generalmente la versión estándar de la M37.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ithaca Gun Company
+		\n</text>
+	</string>
+		
+	<string id="st_wpn_ithacam37_trench">
+		<text>Ithaca 37 «Trench Gun»</text>
+	</string>
+	<string id="st_wpn_ithacam37_trench_descr">
+		<text>La Ithaca 37, una de las escopetas de corredera más reconocidas de los Estados Unidos y la que cuenta con el periodo de producción más largo de la historia en su categoría, fue diseñada para uso policial, militar y civil en general. Incorpora una innovadora combinación de portilla de eyección y recarga en la parte inferior del arma, lo que permite mantener los laterales protegidos de las inclemencias del tiempo. El modelo «Trench Gun» incluye un adaptador de bayoneta y disipador para ayudar con la refrigeración del arma.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos 
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ithaca Gun Company
+		\n</text>
+	</string>
+		
+	<string id="st_wpn_ithacam37_extmag">
+		<text>Ithaca 37 «Defense»</text>
+	</string>
+	<string id="st_wpn_ithacam37_extmag_descr">
+		<text>La Ithaca 37, una de las escopetas de corredera más reconocidas de los Estados Unidos y la que cuenta con el periodo de producción más largo de la historia en su categoría, fue diseñada para uso policial, militar y civil en general. Incorpora una innovadora combinación de portilla de eyección y recarga en la parte inferior del arma, lo que permite mantener los laterales protegidos de las inclemencias del tiempo. El modelo «Defense» incluye un cargador de 7 cartuchos y utiliza polímero en lugar de madera, con un acabado en acero inoxidable para reducir el peso y mejorar la fiabilidad.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos 
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ithaca Gun Company
+		\n</text>
+	</string>
+		
+	<string id="st_wpn_ithacam37_stakeout">
+		<text>Ithaca 37 «Stakeout»</text>     
+	</string>
+	<string id="st_wpn_ithacam37_stakeout_descr">
+		<text>La Ithaca 37, una de las escopetas de corredera más reconocidas de los Estados Unidos y la que cuenta con el periodo de producción más largo de la historia en su categoría, fue diseñada para uso policial, militar y civil en general. Incorpora una innovadora combinación de portilla de eyección y recarga en la parte inferior del arma, lo que permite mantener los laterales protegidos de las inclemencias del tiempo. El modelo «Stakeout» incluye un cañón acortado de 330 mm y un pistolete.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos 
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ithaca Gun Company
+		\n</text>
+	</string>
+		
+	<string id="st_wpn_ithacam37_sawnoff">
+		<text>Ithaca 37 (recortada)</text>
+	</string>
+	<string id="st_wpn_ithacam37_sawnoff_descr">
+		<text>La Ithaca 37, una de las escopetas de corredera más reconocidas de los Estados Unidos y la que cuenta con el periodo de producción más largo de la historia en su categoría, fue diseñada para uso policial, militar y civil en general. Incorpora una innovadora combinación de portilla de eyección y recarga en la parte inferior del arma, lo que permite mantener los laterales protegidos de las inclemencias del tiempo. Esta culata se ha recortado de manera extraoficial para reducir el peso.
+		
+		\n \nPROPIEDADES: 
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos 
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ithaca Gun Company
+		\n</text>
+	</string>
+	
+</string_table>

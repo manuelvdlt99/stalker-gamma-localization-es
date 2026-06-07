@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<string_table>
+	<string id="ui_mcm_menu_laser_settings">
+		<text>Ajustes de láser</text>
+	</string>
+	<string id="ui_mcm_title_laser_settings">
+		<text>Ajustes de láser</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_no_laser_primary_aim">
+		<text>Ocultar láser al apuntar (primaria)</text>
+	</string>
+	<string id="ui_mcm_laser_settings_no_laser_primary_aim_desc">
+		<text>Oculta el láser al apuntar.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_no_laser_alt_aim">
+		<text>Ocultar láser al apuntar (alternativa)</text>
+	</string>
+	<string id="ui_mcm_laser_settings_no_laser_alt_aim_desc">
+		<text>Oculta el láser al usar la mira alternativa.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_dist_bright">
+		<text>Escalado de brillo con la distancia</text>
+	</string>
+	<string id="ui_mcm_laser_settings_dist_bright_desc">
+		<text>La intensidad del láser disminuye con la distancia. Desactívalo para mantener una intensidad constante a cualquier distancia.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_dist_size">
+		<text>Escalado de tamaño con la distancia</text>
+	</string>
+	<string id="ui_mcm_laser_settings_dist_size_desc">
+		<text>El tamaño del punto láser disminuye con la distancia. Desactívalo para mantener un tamaño de punto constante a cualquier distancia.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_config_key">
+		<text>Abrir panel de ajustes</text>
+	</string>
+	<string id="ui_mcm_laser_settings_config_key_desc">
+		<text>Tecla para acceder a los ajustes del láser de cada arma. Empuña un arma con láser y pulsa esta tecla.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_debug_mode">
+		<text>Modo de depuración</text>
+	</string>
+	<string id="ui_mcm_laser_settings_debug_mode_desc">
+		<text>Activa el botón «Exportar a valores predeterminados» en la configuración de cada arma. Para que los creadores de paquetes de mods puedan guardar los ajustes en el archivo de configuración distribuible.</text>
+	</string>
+	<string id="ui_mcm_laser_settings_use_mcm_defaults">
+		<text>Usar ajustes por defecto globales</text>
+	</string>
+	<string id="ui_mcm_laser_settings_use_mcm_defaults_desc">
+		<text>Aplica los controles deslizantes a continuación como apariencia láser predeterminada para todas las armas. La configuración individual de cada arma seguirá anulando estos valores.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_mcm_brightness">
+		<text>Brillo del punto</text>
+	</string>
+	<string id="ui_mcm_laser_settings_mcm_brightness_desc">
+		<text>Intensidad del punto láser que se proyecta sobre las superficies.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_mcm_dot_size">
+		<text>Tamaño del punto</text>
+	</string>
+	<string id="ui_mcm_laser_settings_mcm_dot_size_desc">
+		<text>Tamaño del punto láser que se proyecta sobre las superficies.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_mcm_beam_brightness">
+		<text>Brillo del rayo</text>
+	</string>
+	<string id="ui_mcm_laser_settings_mcm_beam_brightness_desc">
+		<text>Intensidad del rayo láser visible en el aire.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_mcm_beam_size">
+		<text>Tamaño del rayo</text>
+	</string>
+	<string id="ui_mcm_laser_settings_mcm_beam_size_desc">
+		<text>Grosor del rayo láser visible en el aire.</text>
+	</string>
+
+	<string id="ui_mcm_laser_settings_mcm_hue">
+		<text>Tono</text>
+	</string>
+	<string id="ui_mcm_laser_settings_mcm_hue_desc">
+		<text>Tonalidad de color del láser (0 = rojo, 33 = verde, 66 = azul).</text>
+	</string>
+	<string id="ui_laser_panel_title">
+		<text>Ajustes del láser</text>
+	</string>
+	<string id="ui_laser_panel_brightness">
+		<text>Brillo del punto</text>
+	</string>
+	<string id="ui_laser_panel_dot_size">
+		<text>Tamaño del punto</text>
+	</string>
+	<string id="ui_laser_panel_beam_brightness">
+		<text>Brillo del rayo</text>
+	</string>
+	<string id="ui_laser_panel_beam_size">
+		<text>Tamaño del rayo</text>
+	</string>
+	<string id="ui_laser_panel_hue">
+		<text>Color del láser (tono)</text>
+	</string>
+	<string id="ui_laser_panel_hide_primary">
+		<text>Ocultar láser en apuntado principal</text>
+	</string>
+	<string id="ui_laser_panel_hide_alt">
+		<text>Ocultar láser en apuntado alternativo</text>
+	</string>
+	<string id="ui_laser_panel_reset">
+		<text>Restablecer valores por defecto</text>
+	</string>
+	<string id="ui_laser_panel_export">
+		<text>Exportar valores por defecto</text>
+	</string>
+	<string id="ui_laser_panel_close">
+		<text>Cerrar</text>
+	</string>
+	<string id="ui_laser_panel_exported">
+		<text>Se han exportado los ajustes del láser en [%s]</text>
+	</string>
+</string_table>

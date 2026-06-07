@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+	<string id="st_wpn_fort12">
+		<text>Fort-12</text>
+	</string>
+	<string id="st_wpn_fort12_descr">
+		<text>Una pistola semiautomática diseñada para las fuerzas militares y del orden, conocida por su durabilidad, fiabilidad y facilidad de manejo. Su empuñadura ergonómica y su funcionamiento simple la convierten en una opción práctica para usuarios tanto profesionales como civiles. Extensamente adoptada por su equilibrio entre precisión y asequibilidad, sigue siendo un arma de mano básica en las fuerzas de seguridad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RPC Fort
+		\n</text>
+	</string>
+	
+	<string id="st_wpn_fort17">
+		<text>Fort-17</text>
+	</string>
+	<string id="st_wpn_fort17_descr">
+		<text>Una pistola modernizada con armazón de polímero que ofrece un diseño ligero con un control del retroceso y durabilidad mejorados. Diseñada para aplicaciones tácticas, cuenta con un seguro ambidiestro y un cargador de gran capacidad para una mayor potencia de fuego. Su diseño ergonómico y su bajo mantenimiento la convierten en un arma de mano fiable tanto para la defensa personal como para uso profesional.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RPC Fort
+		\n</text>
+	</string>
+
+
+	<string id="st_wpn_fort21">
+		<text>Fort-21</text>
+	</string>
+	<string id="st_wpn_fort21_descr">
+		<text>La Fort-21, una copia de la Jericho 941, basada en el prestigioso sistema de retroceso corto de la CZ 75, es una pistola de alto rendimiento desarrollada para fuerzas especiales y del orden que cuenta con un armazón modular de polímero y un sistema avanzado de gestión del retroceso. Diseñada para una rápida localización de objetivos, es compatible con diversos accesorios tácticos, como silenciadores y miras. Su combinación de fiabilidad, bajo peso y adaptabilidad la convierte en una pistola eficaz en escenarios de alto riesgo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RPC Fort
+		\n</text>
+	</string>
+
+	<string id="st_up_fort21_45acp_name">
+		<text>Cambio de calibre a .45 ACP</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+
+<string_table>
+
+	<string id="st_mag_mp9iwp">
+		<text>Cargador de 40 cartuchos de 9 x 19</text>
+	</string>
+	<string id="st_mag_mp9iwp_descr">
+		<text>Cargador de 40 cartuchos de munición de 9 x 19 mm.</text>
+	</string>
+	
+</string_table>

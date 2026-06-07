@@ -1,0 +1,2325 @@
+<?xml version="1.0" encoding="windows-1252"?>
+
+<string_table>
+
+
+	<string id="st_wpn_aps">
+		<text>Stechkin APS</text>
+	</string>
+	<string id="st_wpn_aps_descr">
+		<text>La Stechkin APS es una pistola ametralladora de tiro selectivo rusa bautizada en honor a su diseñador, Ígor Stechkin. La pistola, que originalmente disparaba el cartucho 7,62 x 25 mm Tókarev, se cambió para que usase 9 x 18 mm, ya que quedó claro que este último cartucho iba a ser la munición de dotación para las pistolas del Ejército soviético. En 1951 se introdujo la Stechkin en el arsenal militar soviético, reemplazando a la envejecida TT-33.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_beretta">
+		<text>Beretta 92F</text>
+	</string>
+	<string id="st_wpn_beretta_alt">
+		<text>Beretta 92F</text>
+	</string>
+	<string id="st_wpn_beretta_modern">
+		<text>Beretta 92F</text>
+	</string>
+	<string id="st_wpn_beretta_descr">
+		<text>Quizás por lo que más se conozca a la Beretta es por sustituir a la legendaria M1911 como la pistola reglamentaria de las Fuerzas Armadas de los Estados Unidos. Conocida por ser precisa, duradera y fiable, ha sido adoptada por varios países y lleva más de un cuarto de siglo sentando las bases de las pistolas militares, policiales y tácticas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Italia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Beretta
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_hpsa">
+		<text>Browning Hi-Power</text>
+	</string>
+	<string id="st_wpn_hpsa_alt">
+		<text>Browning Hi-Power</text>
+	</string>
+	<string id="st_wpn_hpsa_descr">
+		<text>Una pistola semiautomática de acción simple basada en las ideas del inventor de armas estadounidense John Browning. Browning murió en 1926 antes de terminar una versión de producción, pero el diseñador de armas de FN Dieudonné Saive terminó el desarrollo de la pistola. La pistola Hi-Power destaca por su cargador de 13 balas, el doble de diseños coetáneos, como la Luger o la Mauser 1910. A pesar de su venerable edad, la Browning HP goza de popularidad en todo el mundo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos, Bélgica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Browning, FN Herstal
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_colt1911">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_alt">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_modern">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_new">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_descr">
+		<text>Diseñada por John Browning, la M1911 es una pistola extremadamente fiable y robusta que fue el arma de mano reglamentaria de las Fuerzas Armadas de los EE. UU. desde 1911 hasta 1985. A día de hoy, sigue siendo muy popular para uso militar, policial y civil en todo el mundo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_colt1911_duty">
+		<text>Colt M1911 «Aries»</text>
+	</string>
+	<string id="st_wpn_colt1911_duty_descr">
+		<text>Diseñada por John Browning, la M1911 es una pistola extremadamente fiable y robusta que fue el arma de mano reglamentaria de las Fuerzas Armadas de los EE. UU. desde 1911 hasta 1985. A día de hoy, sigue siendo muy popular para uso militar, policial y civil en todo el mundo. La «Aries» se ha modificado con un gatillo al pelo para disparos más rápidos, piezas ligeras para una portación oculta más sencilla y miras de tritio.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_colt1911_merc">
+		<text>Colt M1911 «Orión»</text>
+	</string>
+	<string id="st_wpn_colt1911_merc_descr">
+		<text>Diseñada por John Browning, la M1911 es una pistola extremadamente fiable y robusta que fue el arma de mano reglamentaria de las Fuerzas Armadas de los EE. UU. desde 1911 hasta 1985. A día de hoy, sigue siendo muy popular para uso militar, policial y civil en todo el mundo. La «Orión» se ha modificado con miras de tritio y un cañón y armazón más pesados, lo que aumenta considerablemente su precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_cz75">
+		<text>CZ 75</text>
+	</string>
+	<string id="st_wpn_cz75_descr">
+		<text>Desarrollada por los hermanos Koucký, esta pistola semiautomática estaba pensada para el mercado de exportación. La CZ 75 acumulaba las mejores características de muchos diseños anteriores, por lo que la pistola resultante es estéticamente atractiva, cómoda, precisa y fiable.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Checoslovaquia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ceská zbrojovka
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_fnp45">
+		<text>FNP-45</text>
+	</string>
+	<string id="st_wpn_fnp45_custom">
+		<text>FNP-45</text>
+	</string>
+	<string id="st_wpn_fnp45_descr">
+		<text>Una pistola de armazón de polímero accionada por retroceso que ofrece buena puntería, una fiabilidad extraordinaria y versatilidad en un arma que es cómoda de manejar. Creada como homenaja John Browning y su M1911 en calibre .45 ACP, ofrece una impresionante cantidad de características ambidiestras, incluso en comparación con las pistolas modernas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica, Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FNH USA
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_fnx45">
+		<text>FNX-45</text>
+	</string>
+	<string id="st_wpn_fnx45_alt">
+		<text>FNX-45</text>
+	</string>
+	<string id="st_wpn_fnx45_custom">
+		<text>FNX-45</text>
+	</string>
+	<string id="st_wpn_fnx45_descr">
+		<text>La FNX-45, una mejora de la FNP-45, representa lo último en avances tecnológicos en la ingeniería de pistolas, ofreciendo el rendimiento del calibre .45 ACP y una serie de características únicas que ninguna otra pistola puede igualar. El cañón de acero inoxidable forjado en frío cuenta con una boca roscada para el silenciador integrado, y la corredera de acero inoxidable incluye miras nocturnas de combate de alto perfil para una localización de objetivos más sencilla.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica, Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FNH USA
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_glock">
+		<text>Glock 19</text>
+	</string>
+	<string id="st_wpn_glock_descr">
+		<text>La fiabilidad, la durabilidad y la simpleza han convertido a la Glock 19 en una de las pistolas más utilizadas en las fuerzas del orden. Debido a sus dimensiones reducidas en comparación con la Glock 17, es ideal como arma de respaldo o para portación oculta.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Austria
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Glock
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_glock_modern">
+		<text>Glock 19 «Avispón»</text>
+	</string>
+	<string id="st_wpn_glock_modern_descr">
+		<text>La fiabilidad, la durabilidad y la simpleza han convertido a la Glock 19 en una de las pistolas más utilizadas en las fuerzas del orden. Debido a sus dimensiones reducidas en comparación con la Glock 17, es ideal como arma de respaldo o para portación oculta. La «Avispón» viene equipada con un cargador ampliado de 40 balas y modo automático para una cantidad sin precedentes de potencia de fuego en un paquete reducido.\n \n
+		%c[0,255,255,255]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,255,255] origin: %c[ui_gray_2]Austria\n
+		%c[d_cyan] • %c[0,255,255,255] manufacturer: %c[ui_gray_2]Glock Ges.m.b.H.\n
+		</text>
+	</string>
+
+	<string id="st_wpn_gsh18">
+		<text>GSh-18</text>
+	</string>
+	<string id="st_wpn_gsh18_custom">
+		<text>GSh-18</text>
+	</string>
+	<string id="st_wpn_gsh18_descr">
+		<text>A principios de los 2000, el Ejército ruso buscaba una nueva pistola ligera, eficaz y fácil de ocultar que reemplazase a la Makárov. Diseñada por Griázev y Shipunov, el resultado fue la GSh-18: una pistola accionada por retroceso, de percutor lanzado, cierre de recámara y, en el momento de su producción, la pistola más ligera del mundo. Fue adoptada de inmediato por todas las ramas de las Fuerzas Armadas rusas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_hs2000">
+		<text>HS2000</text>
+	</string>
+	<string id="st_wpn_hs2000_descr">
+		<text>La HS2000, el arma de mano predilecta del Ejército y las fuerzas del orden croatas, es una pistola semiautomática de percusión por aguja, conocida por su excelente ergonomía y sus extraordinarias características de seguridad. Hoy en día, la familia de pistolas HS, basada en la HS2000, ha evolucionado hasta abarcar más de 50 modelos diferentes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Croacia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]HS Produkt
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_pm">
+		<text>Makárov PM</text>
+	</string>
+	<string id="st_wpn_pm_custom">
+		<text>Makárov PM</text>
+	</string>
+	<string id="st_wpn_pm_descr">
+		<text>Este legado soviético es una de las mejores pistolas compactas de autodefensas disponibles. Pequeña, muy fiable, fácil de usar y de mantener, la Pistolet Makárova fue seleccionada por su simpleza, facilidad de producción, precisión y poder de parada razonable. Por desgracia, sin embargo, pierde frente a las pistolas modernas de su clase en términos de peso, capacidad del cargador y rendimiento general.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pm_actor">
+		<text>Makarov PM «Ceremonial»</text>
+	</string>
+	<string id="st_wpn_pm_actor_descr">
+		<text>Este legado soviético es una de las mejores pistolas compactas de autodefensas disponibles. Pequeña, muy fiable, fácil de usar y de mantener, la Pistolet Makárova fue seleccionada por su simpleza, facilidad de producción, precisión y poder de parada razonable. Por desgracia, sin embargo, pierde frente a las pistolas modernas de su clase en términos de peso, capacidad del cargador y rendimiento general. La «Ceremonial» se concedió originalmente a Alexander Degtiariov como recompensa por la «ejecución satisfactoria de órdenes estatales sumamente peligrosas, así como valor y coraje demostrados en el cumplimiento del deber». Aparte de las miras de tritio, las diferencias de la pistola apenas son reseñables.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_pmm">
+		<text>Makárov PMM</text>
+	</string>
+	<string id="st_wpn_pmm_descr">
+		<text>Un rediseño de la legendaria Makárov, la PMM utiliza un aumento del 25 % de la presión del gas para aumentar considerablemente la velocidad de salida y cuenta con un cargador mayor de 12 balas. No obstante, aunque estos cambios reduzcan ligeramente la brecha con las pistolas modernas, sigue perdiendo en términos de peso y rendimiento general.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp412">
+		<text>MP-412 REX</text>
+	</string>
+	<string id="st_wpn_mp412_descr">
+		<text>Un revólver de doble acción ruso en .357 notorio por su apertura vertical y su eyector automático. Aunque se diseñó para exportarse («REvólver para eXportación»), nunca se produjo en cadena debido a la falta de mercado y a las restrictivas leyes de importación de armas en los Estados Unidos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_grach">
+		<text>MP-443 Grach</text>
+	</string>
+	<string id="st_wpn_grach_descr">
+		<text>Una de las pistolas reglamentarias de Rusia, la MP-443 Grach es una pistola semiautomática de doble acción y retroceso corto conocida por su fiabilidad y versatilidad en el terreno. Es muy reconocida por su movimiento del gatillo suave y diseño simplificado, lo que hace que sea fácil de desmontar y mantener.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_oc33">
+		<text>OTs-33 Pernach</text>
+	</string>
+	<string id="st_wpn_oc33_descr">
+		<text>Desarrollada para reemplazar a la Stechkin APS en unidades paramilitares especiales, la OTs-33 es una pistola de retroceso simple capaz de disparar en modo automático y semiautomático. La Pernach fue diseñada específicamente para resolver la dificultad de controlar el retroceso en modo automático presente en la pistola Stechkin APS y simplificarla para su uso en combate. Es más barata de fabricar, más controlable y presume de un retroceso mejorado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pb">
+		<text>PB</text>
+	</string>
+	<string id="st_wpn_pb_custom">
+		<text>PB</text>
+	</string>
+	<string id="st_wpn_pb_descr">
+		<text>La PB (Pistolet Besshumnyi o «pistola silenciosa» en español) se desarrolló en 1967 para las unidades Spetsnaz del Ejército soviético y operativos del KGB. La pistola está basada en una Makárov PM modificada y cuenta un silenciador integrado de dos partes que reduce la velocidad de salida a niveles subsónicos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Mecánica de Izhevsk
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig220">
+		<text>SIG P220</text>
+	</string>
+	<string id="st_wpn_sig220_custom">
+		<text>SIG P220</text>
+	</string>
+	<string id="st_wpn_sig220_descr">
+		<text>Considerada a menudo la mejor pistola de doble acción de calibre .45 disponible de serie, la P220 es conocida por una precisión comparable a la de las pistolas de competición. Un éxito instantáneo, ha sido adoptada por las Fuerzas Armadas de Suiza y Japón, así como por numerosas organizaciones policiales europeas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suiza, Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG-Sauer
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig220_nimble">
+		<text>SIG P220 «Alpina»</text>
+	</string>
+	<string id="st_wpn_sig220_nimble_descr">
+		<text>Considerada a menudo la mejor pistola de doble acción de calibre .45 disponible de serie, la P220 es conocida por una precisión comparable a la de las pistolas de competición. Un éxito instantáneo, ha sido adoptada por las Fuerzas Armadas de Suiza y Japón, así como por numerosas organizaciones policiales europeas. Este modelo de edición limitada se ha ajustado para obtener un mejor rendimiento.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suiza, Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG-Sauer
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_tt33">
+		<text>TT-33</text>
+	</string>
+	<string id="st_wpn_tt33_modern">
+		<text>TT-33</text>
+	</string>
+	<string id="wpn_tt33_descr">
+		<text>Una pistola semiautomática soviética desarrollada como pistola de dotación para el Ejército soviético para reemplazar al revólver Nagant M1895. Durante su vida útil, muchos países comunistas o del bloque soviético crearon variaciones de la pistola TT-33, hasta que terminó siendo reemplazada por la Makárov PM en 1952.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_usp">
+		<text>USP45</text>
+	</string>
+	<string id="st_wpn_usp_custom">
+		<text>USP45</text>
+	</string>
+	<string id="st_wpn_usp_descr">
+		<text>Diseñada originalmente para el mercado estadounidense, la USP siguió en gran medida las directricas de diseño de las fuerzas del orden y las Fuerzas Armadas de los Estados Unidos. Utilizada por numerosas unidades policiales y de fuerzas especiales de todo el mundo, la Pistola de Autocarga Universal es conocida por ser un arma de mano precisa y fiable, capaz de soportar castigos extremos y condiciones adversas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_usp_match">
+		<text>USP Match</text>
+	</string>
+	<string id="st_wpn_usp_match_descr">
+		<text>Una pistola semiautomática diseñada como una mejora de la USP, con una extensión de cañón con peso, estriado poligonal y gatillo ajustable que mejora la precisión y el rendimiento del arma. Utilizada por fuerzas especiales y tiradores deportivos de todo el mundo, la USP Match se considera un arma de primera línea capaz de competir con la élite.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_usp_nimble">
+		<text>USP Match «Perrolobo»</text>
+	</string>
+	<string id="st_wpn_usp_nimble_descr">
+		<text>Una pistola semiautomática diseñada como una mejora de la USP, con una extensión de cañón con peso, estriado poligonal y gatillo ajustable que mejora la precisión y el rendimiento del arma. Utilizada por fuerzas especiales y tiradores deportivos de todo el mundo, la USP Match se considera un arma de primera línea capaz de competir con la élite. La «Perrolobo» es una USP Match muy modificada que perteneció a un mercenario del mismo nombre.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_walther">
+		<text>Walther P99</text>
+	</string>
+	<string id="st_wpn_walther_custom">
+		<text>Walther P99</text>
+	</string>
+	<string id="st_wpn_walther_descr">
+		<text>La tradición y la innovación se unen para crear una de las pistolas más emblemáticas e influyentes de la historia de Walther. De alto rendimiento y con numerosas funcionalidades, la P99 no tardó en convertirse en una de las pistolas más fiables para los agentes de las fuerzas del orden de todo el mundo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Walther
+		\n
+		</text>
+	</string>
+
+
+	<string id="st_wpn_protecta">
+		<text>Armsel Protecta</text>
+	</string>
+	<string id="st_wpn_protecta_camo">
+		<text>Armsel Protecta</text>
+	</string>
+	<string id="st_wpn_protecta_custom">
+		<text>Armsel Protecta</text>
+	</string>
+	<string id="st_wpn_protecta_descr">
+		<text>La escopeta Armsel Protecta (también conocida como Striker), de diseño único y alimentada por un tambor giratorio, es una escopeta de calibre 12 desarrollada para el control de multitudes y el combate de infantería, concebida para proporcionar una potencia de fuego extrema a las unidades militarizadas. Aunque ahora está obsoleta frente a la Saiga-12 rusa y la AA-12 estadounidense, la Protecta fue un arma revolucionaria en su época, gracias a su gran cargador y su alta cadencia de tiro efectiva. Sin embargo, su tamaño, peso considerable y largo tiempo de recarga son las contrapartidas de estas ventajas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Sudáfrica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Armsel
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_protecta_aim">
+		<text>Armsel Protecta Custom</text>
+	</string>
+	<string id="st_wpn_protecta_aim_descr">
+		<text>La escopeta Armsel Protecta (también conocida como Striker), de diseño único y alimentada por un tambor giratorio, es una escopeta de calibre 12 desarrollada para el control de multitudes y el combate de infantería, concebida para proporcionar una potencia de fuego extrema a las unidades militarizadas. Aunque ahora está obsoleta frente a la Saiga-12 rusa y la AA-12 estadounidense, la Protecta fue un arma revolucionaria en su época, gracias a su gran cargador y su alta cadencia de tiro efectiva. Sin embargo, su tamaño, peso considerable y largo tiempo de recarga son las contrapartidas de estas ventajas. Este modelo cuenta con una mira Aimpoint integrada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Sudáfrica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Armsel
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_protecta_nimble">
+		<text>Armsel Protecta «Tanque»</text>
+	</string>
+	<string id="st_wpn_protecta_nimble_descr">
+		<text>La escopeta Armsel Protecta (también conocida como Striker), de diseño único y alimentada por un tambor giratorio, es una escopeta de calibre 12 desarrollada para el control de multitudes y el combate de infantería, concebida para proporcionar una potencia de fuego extrema a las unidades militarizadas. Aunque ahora está obsoleta frente a la Saiga-12 rusa y la AA-12 estadounidense, la Protecta fue un arma revolucionaria en su época, gracias a su gran cargador y su alta cadencia de tiro efectiva. Sin embargo, su tamaño, peso considerable y largo tiempo de recarga son las contrapartidas de estas ventajas. Este modelo antes pertenecía a un mercenario llamado «Tanque» que se tomó la molestia de modificar el arma para alcanzar una mayor velocidad de salida y cadencia de tiro.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Sudáfrica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Armsel
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_fort500">
+		<text>Fort-500</text>
+	</string>
+	<string id="st_wpn_fort500_descr">
+		<text>Una escopeta de ánima lisa y corredera pensada para dotar al Ministerio de Asuntos Interiores, a los servicios de seguridad de Ucrania y a civiles para la caza aficionada y el uso general. Actualmente, la escopeta Fort-500 está descatalogada en favor de modelos más nuevos diseñados específicamente para el uso policial.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Ucrania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RPC Fort
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_remington870">
+		<text>Remington 870</text>
+	</string>
+	<string id="st_wpn_remington870_descr">
+		<text>Muy utilizada por el público para deportes, caza y defensa personal, así como por las fuerzas del orden y organizaciones militares de todo el mundo, la Remington 870 es una de las escopetas de corredera más famosas e icónicas del mundo debido a su característica recarga.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Remington
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_toz34">
+		<text>TOZ-34</text>
+	</string>
+	<string id="st_wpn_toz34_custom">
+		<text>TOZ-34</text>
+	</string>
+	<string id="st_wpn_toz34_decor">
+		<text>TOZ-34</text>
+	</string>
+	<string id="st_wpn_toz34_descr">
+		<text>Diseñada para la caza profesional y aficionada, la TOZ-34 es una escopeta de dos cañones superpuestos que obtuvo el sello de calidad estatal de la URSS. Es pesada, fiable y pega fuerte.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_toz34_obrez">
+		<text>TOZ-34 (recortada)</text>
+	</string>
+	<string id="st_wpn_toz34_obrez_custom">
+		<text>TOZ-34 (recortada)</text>
+	</string>
+	<string id="st_wpn_toz34_obrez_decor">
+		<text>TOZ-34 (recortada)</text>
+	</string>
+	<string id="st_wpn_toz34_obrez_descr">
+		<text>Diseñada para la caza profesional y aficionada, la TOZ-34 es una escopeta de dos cañones superpuestos que obtuvo el sello de calidad estatal de la URSS. Se han recortado manualmente los cañones y la culata para hacer el arma más ligera y compacta. Aunque es rápida de manejar, su alcance y precisión se ven afectados, pero es un arma devastadora a corta distancia, eso sí.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_toz34_mark4">
+		<text>TOZ-34 «Bisonte»</text>
+	</string>
+	<string id="st_wpn_toz34_mark4_descr">
+		<text>Diseñada para la caza profesional y aficionada, la TOZ-34 es una escopeta de dos cañones superpuestos que obtuvo el sello de calidad estatal de la URSS. Es pesada, fiable y pega fuerte. La «Bisonte» cuenta con un cañón reforzado y una mira Leupold Mark 4 para la caza mayor a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+
+	<string id="st_wpn_toz34_bull">
+		<text>TOZ-34 «Toro»</text>
+	</string>
+	<string id="st_wpn_toz34_bull_descr">
+		<text>Diseñada para la caza profesional y aficionada, la TOZ-34 es una escopeta de dos cañones superpuestos que obtuvo el sello de calidad estatal de la URSS. Es pesada, fiable y pega fuerte. La «Toro» se diseñó con la localización de objetivos en mente e incorpora una mira de punto rojo. Si buscas un fusil de caza que esté a la altura de los mejores, esta podría ser tu mejor opción.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_bm16_full">
+		<text>TOZ-66</text>
+	</string>
+	<string id="st_wpn_bm16_full_descr">
+		<text>Una escopeta de doble cañón de acción basculante, diseñada para la caza aficionada y el uso civil general. Aunque pesada y aparatosa, tiene una potencia innegable.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_bm16_full_alt">
+		<text>TOZ-66</text>
+	</string>
+	<string id="st_wpn_bm16_full_descr">
+		<text>Una escopeta de doble cañón de acción basculante, diseñada para la caza aficionada y el uso civil general. Aunque pesada y aparatosa, tiene una potencia innegable.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_bm16">
+		<text>TOZ-66 (recortada)</text>
+	</string>
+	<string id="st_wpn_bm16_descr">
+		<text>Una escopeta de doble cañón de acción basculante, diseñada para la caza aficionada y el uso civil general. Se han recortado manualmente los cañones y la culata para hacer el arma más ligera y compacta. Aunque es rápida de manejar, su alcance y precisión se ven afectados, pero es un arma devastadora a corta distancia, eso sí.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_bm16_alt">
+		<text>TOZ-66 (recortada)</text>
+	</string>
+	<string id="st_wpn_bm16_alt_descr">
+		<text>Una escopeta de doble cañón de acción basculante, diseñada para la caza aficionada y el uso civil general. Se han recortado manualmente los cañones y la culata para hacer el arma más ligera y compacta. Aunque es rápida de manejar, su alcance y precisión se ven afectados, pero es un arma devastadora a corta distancia, eso sí.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_toz194">
+		<text>TOZ-194</text>
+	</string>
+	<string id="st_wpn_toz194_descr">
+		<text>Una escopeta convencional de corredera destinada a la caza aficionada y al uso civil general. Su característica principal es su cañón inusualmente largo de 540 mm; una característica necesaria para cumplir con el requisito de 805 mm para la posesión civil legal en Rusia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_usas12">
+		<text>USAS-12</text>
+	</string>
+	<string id="st_wpn_usas12_descr">
+		<text>Una escopeta automática accionada por gas de tiro selectivo diseñada para ofrecer potencia de fuego sostenida en supuestos de combate en espacios cerrados. Aunque las escopetas semiautomáticas son comunes en el uso militar y policial, las escopetas automáticas son un nicho de mercado. En ese nicho de mercado, la USAS-12 es uno de los modelos más comunes y exitosos disponibles.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Corea del Sur
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Daewoo Precision Industries
+		\n
+		</text>
+	</string>
+
+
+	<string id="st_wpn_p90">
+		<text>FN P90</text>
+	</string>
+	<string id="st_wpn_p90_descr">
+		<text>Desarrollado a finales de los años ochenta como arma de defensa personal, el P90 es un subfusil poco convencional con aspecto futurista que cuenta con un diseño bullpup compacto y una mira réflex integrada, un cargador único montado en la parte superior y controles totalmente ambidiestros. El arma, que dispara el cartucho SS90, se desarrolló específicamente para lograr una alta penetración contra objetivos blindados manteniendo un retroceso bajo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FN Herstal
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5">
+		<text>MP5A3</text>
+	</string>
+	<string id="st_wpn_mp5_descr">
+		<text>Una de las armas más famosas y generalizadas de su clase, la compactibilidad, precisión y fiabilidad del MP5 lo han convertido en un favorito de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La variante A3 incluye una culata metálica retráctil, lo que aumenta las capacidades de combate en espacios cerrados del arma.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5_alt">
+		<text>MP5A3</text>
+	</string>
+	<string id="st_wpn_mp5_alt_descr">
+		<text>Una de las armas más famosas y generalizadas de su clase, la compactibilidad, precisión y fiabilidad del MP5 lo han convertido en un favorito de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La variante A3 incluye una culata metálica retráctil, lo que aumenta las capacidades de combate en espacios cerrados del arma.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5_custom">
+		<text>MP5A3</text>
+	</string>
+	<string id="st_wpn_mp5_custom_descr">
+		<text>Una de las armas más famosas y generalizadas de su clase, la compactibilidad, precisión y fiabilidad del MP5 lo han convertido en un favorito de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La variante A3 incluye una culata metálica retráctil, lo que aumenta las capacidades de combate en espacios cerrados del arma.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5_nimble">
+		<text>MP5A3 «Frasier»</text>
+	</string>
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>Una de las armas más famosas y generalizadas de su clase, la compactibilidad, precisión y fiabilidad del MP5 lo han convertido en un favorito de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La variante A3 incluye una culata metálica retráctil, lo que aumenta las capacidades de combate en espacios cerrados del arma. El «Frasier» cuenta con una empuñadura vertical y dispara el cartucho más potente de .45 ACP.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_mp5sd">
+		<text>MP5SD6</text>
+	</string>
+	<string id="st_wpn_mp5sd_descr">
+		<text>Una de las armas más famosas y generalizadas de su clase, la compactibilidad, precisión y fiabilidad del MP5 lo han convertido en un favorito de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La variante A3 incluye una culata metálica retráctil, lo que aumenta las capacidades de combate en espacios cerrados del arma. La variante SD6 viene con una culata retráctil, un silenciador integrado y selector de tiro en ráfaga de 3 disparos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5sd_custom">
+		<text>MP5SD6</text>
+	</string>
+	<string id="st_wpn_mp5sd_custom_descr">
+		<text>Una de las armas más famosas y generalizadas de su clase, la compactibilidad, precisión y fiabilidad del MP5 lo han convertido en un favorito de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La variante A3 incluye una culata metálica retráctil, lo que aumenta las capacidades de combate en espacios cerrados del arma. La variante SD6 viene con una culata retráctil, un silenciador integrado y selector de tiro en ráfaga de 3 disparos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp5sd_new">
+		<text>MP5SD6</text>
+	</string>
+	<string id="st_wpn_mp5sd_new_descr">
+		<text>Una de las armas más famosas y generalizadas de su clase, la compactibilidad, precisión y fiabilidad del MP5 lo han convertido en un favorito de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La variante A3 incluye una culata metálica retráctil, lo que aumenta las capacidades de combate en espacios cerrados del arma. La variante SD6 viene con una culata retráctil, un silenciador integrado y selector de tiro en ráfaga de 3 disparos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mp7">
+		<text>MP7</text>
+	</string>
+
+	<string id="st_wpn_kiparis">
+		<text>OTs-02 Kiparis</text>
+	</string>
+	<string id="st_wpn_kiparis_descr">
+		<text>Basado en el Skorpion vz. 61 checoslovaco, el OTs-02 es un subfusil accionado por retroceso simple utilizado por el Ministerio del Interior ruso como arma policial de uso especial. Impulsada por retroceso libre del cerrojo con disparos desde cerrojo cerrado, la precisión del arma es sorprendentemente buena, incluso en tiro automático. Para aumentar aún más la estabilidad del arma, incluye un culatín abatible que se pliega sobre el cajón de mecanismos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_bizon">
+		<text>PP-19 Bizon</text>
+	</string>
+	<string id="st_wpn_bizon_descr">
+		<text>Desarrollado a instancias del Ministerio del Interior ruso para unidades antiterroristas y policiales que necesitaban un arma ligera capaz de disparar de forma rápida y precisa a corta distancia. El Bizon destaca por su distintivo cargador helicoidal bajo el cañón.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pp2000">
+		<text>PP-2000</text>
+	</string>
+	<string id="st_wpn_pp2000_descr">
+		<text>Utilizada por unidades de operaciones especiales y personal policial, el arma de defensa personal PP-2000 suele considerarse una de las mejores de su clase. Es compacta, ligera y de diseño sencillo para una mayor fiabilidad y un mantenimiento simplificado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ump45">
+		<text>UMP45</text>
+	</string>
+	<string id="st_wpn_ump45_descr">
+		<text>Desarrollado como un sucesor más potente, ligero y barato que el MP5, el UMP45 ofrece un mayor poder de parada, pero también genera más retroceso. Para paliar este problema, se redujo considerablemente la cadencia de tiro cíclica del UMP. Aunque se creó para reemplazar al MP5, ambos subfusiles se siguen produciendo a día de hoy, y el UMP se usa en más de 20 países.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ump45_custom">
+		<text>UMP45</text>
+	</string>
+	<string id="st_wpn_ump45_custom_descr">
+		<text>Desarrollado como un sucesor más potente, ligero y barato que el MP5, el UMP45 ofrece un mayor poder de parada, pero también genera más retroceso. Para paliar este problema, se redujo considerablemente la cadencia de tiro cíclica del UMP. Aunque se creó para reemplazar al MP5, ambos subfusiles se siguen produciendo a día de hoy, y el UMP se usa en más de 20 países.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vz61">
+		<text>Skorpion vz. 68</text>
+	</string>
+	<string id="st_wpn_vz61_descr">
+		<text>Originalmente diseñado para el calibre .32 ACP (vz. 61), fue desarrollado para su uso por las fuerzas de seguridad y adoptado por el Ejército checoslovaco en 1961 como arma de mano personal para el personal militar de menor rango, conductores de vehículos, personal de vehículos blindados y fuerzas especiales. Aunque la producción en cadena del modelo vz. 68 nunca se llevó a cabo, un gran número de modelos vz. 68 de preproducción llegaron a la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Checoslovaquia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ceská zbrojovka
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vz61_alt">
+		<text>Skorpion vz. 68</text>
+	</string>
+	<string id="st_wpn_vz61_alt_descr">
+		<text>Desarrollado para su uso por las fuerzas de seguridad y adoptada por el Ejército checoslovaco como arma de mano personal para el personal militar de menor rango, el vz. 68 es una versión más pesada del vz. 61, que dispara el cartucho más grande de 9 x 19 mm. Dado que este modelo nunca se produjo en cadena, se considera una pieza única para cualquier coleccionista.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Checoslovaquia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ceská zbrojovka
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vz61_camo">
+		<text>Skorpion vz. 68</text>
+	</string>
+	<string id="st_wpn_vz61_camo_descr">
+		<text>Desarrollado para su uso por las fuerzas de seguridad y adoptada por el Ejército checoslovaco como arma de mano personal para el personal militar de menor rango, el vz. 68 es una versión más pesada del vz. 61, que dispara el cartucho más grande de 9 x 19 mm. Dado que este modelo nunca se produjo en cadena, se considera una pieza única para cualquier coleccionista.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Checoslovaquia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ceská zbrojovka
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vz61_freedom">
+		<text>Skorpion vz. 68 «Libertad»</text>
+	</string>
+	<string id="st_wpn_vz61_freedom_descr">
+		<text>Desarrollado para su uso por las fuerzas de seguridad y adoptada por el Ejército checoslovaco como arma de mano personal para el personal militar de menor rango, el vz. 68 es una versión más pesada del vz. 61, que dispara el cartucho más grande de 9 x 19 mm. Dado que este modelo nunca se produjo en cadena, se considera una pieza única para cualquier coleccionista. El «Libertad» ha sufrido modificaciones internas importantes para un mejor rendimiento.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Checoslovaquia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Ceská zbrojovka
+		\n
+		</text>
+	</string>
+
+
+
+	<string id="st_wpn_9a91">
+		<text>9A-91</text>
+	</string>
+
+	<string id="st_wpn_aek971">
+		<text>AEK-971</text>
+	</string>
+	<string id="st_wpn_aek971_descr">
+		<text>Desarrollado para participar en una competición anunciada por el Ministerio de Defensa de la URSS, el diseño interno y el formato están basados en fusiles AK anteriores y está dotado de un mecanismo de compensación de retroceso, lo que se traduce en un tiro automático más controlable. Se fabricaron pequeñas tandas de este fusil para el Ministerio del Interior ruso.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_aek973">
+		<text>AEK-973</text>
+	</string>
+	<string id="st_wpn_aek973_descr">
+		<text>El AEK-973 es una versión en 7,62 x 39 mm del AEK-971, cuyo diseño interno y formato están basados en fusiles AK anteriores. También está dotado de un mecanismo de compensación de retroceso, lo que se traduce en un tiro automático más controlable. Se fabricaron pequeñas tandas de este fusil para el Ministerio del Interior ruso.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak">
+		<text>AK-47</text>
+	</string>
+	<string id="st_wpn_ak_descr">
+		<text>El Avtomat Kaláshnikova es un fusil de asalto accionado por gas desarrollado por el diseñador de armas ruso Mijaíl Kaláshnikov. Después de más de siete décadas desde su creación, el AK-47 y sus variantes siguen siendo las armas más populares y utilizadas del mundo gracias a su fiabilidad en condiciones adversas, escasos costes de producción y facilidad de uso.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74_old">
+		<text>AK-74</text>
+	</string>
+	<string id="st_wpn_ak74_old_descr">
+		<text>Desarrollado a principios de los años setenta por Mijaíl Kaláshnikov para reemplazar al AKM, el AK-74 es una adaptación del fusil de asalto AKM de 7,62 x 39 mm y cuenta con varias mejoras de diseño importantes, como el uso del nuevo cartucho de alta velocidad de 5,45 x 39 mm. En comparación con el AKM que lo precedió, tiene un alcance de tiro eficaz, precisión y fiabilidad mejores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74m">
+		<text>AK-74M</text>
+	</string>
+	<string id="st_wpn_ak74m_alt">
+		<text>AK-74M</text>
+	</string>
+	<string id="st_wpn_ak74m_camo">
+		<text>AK-74M</text>
+	</string>
+	<string id="st_wpn_ak74m_custom">
+		<text>AK-74M</text>
+	</string>
+	<string id="st_wpn_ak74m_duty">
+		<text>AK-74M</text>
+	</string>
+	<string id="st_wpn_ak74m_descr">
+		<text>Una versión mejorada del AK-74 y el fusil reglamentario de la Federación Rusa, diseñado con materiales compuestos modernos para reducir considerablemente el peso y mejorar la precisión. Cada AK-74M cuenta con un riel lateral para acoplar visores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74m_pk-a">
+		<text>AK-74M</text>
+	</string>
+	<string id="st_wpn_ak74m_pk-a_descr">
+		<text>Una versión mejorada del AK-74 y el fusil reglamentario de la Federación Rusa, diseñado con materiales compuestos modernos para reducir considerablemente el peso y mejorar la precisión. Este modelo tiene una mira PK-A acoplada en el riel lateral.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74">
+		<text>AK-74N</text>
+	</string>
+	<string id="st_wpn_ak74_alt">
+		<text>AK-74N</text>
+	</string>
+	<string id="st_wpn_ak74_custom">
+		<text>AK-74N</text>
+	</string>
+	<string id="st_wpn_ak74_modern">
+		<text>AK-74N</text>
+	</string>
+	<string id="st_wpn_ak74_descr">
+		<text>Desarrollado a principios de los años setenta por Mijaíl Kaláshnikov para reemplazar al AKM, el AK-74 es una adaptación del fusil de asalto AKM de 7,62 x 39 mm y cuenta con varias mejoras de diseño importantes, como el uso del nuevo cartucho de alta velocidad de 5,45 x 39 mm. En comparación con el AKM que lo precedió, tiene un alcance de tiro eficaz, precisión y fiabilidad mejores. La variante AK-74N viene con un riel de cola de milano lateral para acoplar visores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74_eot">
+		<text>AK-74N</text>
+	</string>
+	<string id="st_wpn_ak74_eot_descr">
+		<text>Desarrollado a principios de los años setenta por Mijaíl Kaláshnikov para reemplazar al AKM, el AK-74 es una adaptación del fusil de asalto AKM de 7,62 x 39 mm y cuenta con varias mejoras de diseño importantes, como el uso del nuevo cartucho de alta velocidad de 5,45 x 39 mm. En comparación con el AKM que lo precedió, tiene un alcance de tiro eficaz, precisión y fiabilidad mejores. Esta variante especial viene con una mira EOTech.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak101">
+		<text>AK-101</text>
+	</string>
+	<string id="st_wpn_ak101_camo">
+		<text>AK-101</text>
+	</string>
+	<string id="st_wpn_ak101_descr">
+		<text>Un fusil de asalto de la serie Kaláshnikov comercializado para aquellos que buscan un arma que combine la compatibilidad logística y la familiaridad del cartucho 5,56 x 45 mm OTAN con la fiabilidad de un Kaláshnikov. El diseño de este fusil es similar al del AK-74 y está diseñado con materiales compuestos modernos, incluidos plásticos que reducen el peso y mejoran la precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_ak102">
+		<text>AK-102</text>
+	</string>
+	<string id="st_wpn_ak102_descr">
+		<text>Diseñado exclusivamente para la exportación, el AK-102 es una versión de carabina acortada del fusil AK-101, combinando la compatibilidad logística y la familiaridad del cartucho 5,56 x 45 mm OTAN con la fiabilidad de un Kaláshnikov. El diseño de este fusil es similar al del AK-74 y está diseñado con materiales compuestos modernos, incluidos plásticos que reducen el peso y mejoran la precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_ak103">
+		<text>AK-103</text>
+	</string>
+	<string id="st_wpn_ak103_camo">
+		<text>AK-103</text>
+	</string>
+	<string id="st_wpn_ak103_descr">
+		<text>El AK-103 es un derivado AK-100 del AK-74M que dispara el cartucho de 7,62 x 39 mm. El fusil está diseñado con materiales compuestos modernos para reducir el peso y mejorar la precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_ak104">
+		<text>AK-104</text>
+	</string>
+	<string id="st_wpn_ak104_descr">
+		<text>Una versión compacta del fusil AK-103 que cuenta con un cañón acortado. El fusil está diseñado con materiales compuestos modernos para reducir el peso y mejorar la precisión.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aks">
+		<text>AKS-47</text>
+	</string>
+	<string id="st_wpn_aks_descr">
+		<text>El Avtomat Kaláshnikova es un fusil de asalto accionado por gas desarrollado por el diseñador de armas ruso Mijaíl Kaláshnikov. Después de más de siete décadas desde su creación, el AK-47 y sus variantes siguen siendo las armas más populares y utilizadas del mundo gracias a su fiabilidad en condiciones adversas, escasos costes de producción y facilidad de uso. Todos los fusiles AKS-47 contaban con una culata metálica plegable hacia abajo.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_aks74">
+		<text>AKS-74</text>
+	</string>
+	<string id="st_wpn_aks74_new">
+		<text>AKS-74</text>
+	</string>
+	<string id="st_wpn_aks74_descr">
+		<text>Desarrollado a principios de los años setenta por Mijaíl Kaláshnikov para reemplazar al AKM, el AK-74 es una adaptación del fusil de asalto AKM de 7,62 x 39 mm y cuenta con varias mejoras de diseño importantes, como el uso del nuevo cartucho de alta velocidad de 5,45 x 39 mm. En comparación con el AKM que lo precedió, tiene un alcance de tiro eficaz, precisión y fiabilidad mejores. Todos los fusiles AKS-74 venían con una culata metálica plegable lateralmente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74u_old">
+		<text>AKS-74U</text>
+	</string>
+	<string id="st_wpn_ak74u_old_descr">
+		<text>El AKS-74U cierra la brecha de despliegue táctico entre un subfusil y un fusil de asalto, y fue concebido como una alternativa automática compacta pero relativamente potente al AKS-74. Es considerablemente más ligero y maniobrable en espacios reducidos, sin dejar de ofrecer la fiabilidad de un Kaláshnikov.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74u">
+		<text>AKS-74UN</text>
+	</string>
+	<string id="st_wpn_ak74u_descr">
+		<text>El AKS-74U cierra la brecha de despliegue táctico entre un subfusil y un fusil de asalto, y fue concebido como una alternativa automática compacta pero relativamente potente al AKS-74. Es considerablemente más ligero y maniobrable en espacios reducidos, sin dejar de ofrecer la fiabilidad de un Kaláshnikov. Cada AKS-74UN cuenta con un riel lateral para acoplar visores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74u_camo">
+		<text>AKS-74UN</text>
+	</string>
+	<string id="st_wpn_ak74u_camo_descr">
+		<text>El AKS-74U cierra la brecha de despliegue táctico entre un subfusil y un fusil de asalto, y fue concebido como una alternativa automática compacta pero relativamente potente al AKS-74. Es considerablemente más ligero y maniobrable en espacios reducidos, sin dejar de ofrecer la fiabilidad de un Kaláshnikov. Cada AKS-74UN cuenta con un riel lateral para acoplar visores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74u_custom">
+		<text>AKS-74UN</text>
+	</string>
+	<string id="st_wpn_ak74u_custom_descr">
+		<text>El AKS-74U cierra la brecha de despliegue táctico entre un subfusil y un fusil de asalto, y fue concebido como una alternativa automática compacta pero relativamente potente al AKS-74. Es considerablemente más ligero y maniobrable en espacios reducidos, sin dejar de ofrecer la fiabilidad de un Kaláshnikov. Cada AKS-74UN cuenta con un riel lateral para acoplar visores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ak74u_snag">
+		<text>AK-74UNB</text>
+	</string>
+	<string id="st_wpn_ak74u_snag_descr">
+		<text>El AKS-74U cierra la brecha de despliegue táctico entre un subfusil y un fusil de asalto, y fue concebido como una alternativa automática compacta pero relativamente potente al AKS-74. Es considerablemente más ligero y maniobrable en espacios reducidos, sin dejar de ofrecer la fiabilidad de un Kaláshnikov. Esta variante especial viene con un cargador RPK de 45 balas y una mira Kobra y silenciador integrados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_akm">
+		<text>AKM</text>
+	</string>
+	<string id="st_wpn_akm_descr">
+		<text>Una versión mejorada del fusil AK-47 que incluye mejoras detalladas que optimizaron el fusil para la producción en cadena. Entre esos cambios, se redujo el peso del AKM, se aumentó la precisión en el tiro automático y se trataron varios problemas de fiabilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_akms">
+		<text>AKMS</text>
+	</string>
+	<string id="st_wpn_akms_alt">
+		<text>AKMS</text>
+	</string>
+	<string id="st_wpn_akms_descr">
+		<text>Una versión mejorada del fusil AK-47 que incluye mejoras detalladas que optimizaron el fusil para la producción en cadena. Entre esos cambios, se redujo el peso del AKM, se aumentó la precisión en el tiro automático y se trataron varios problemas de fiabilidad. Todos los fusiles AKMS venían equipados con una culata metálica plegable en lugar de la culata fija de madera.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_abakan">
+		<text>AN-94</text>
+	</string>
+	<string id="st_wpn_abakan_camo">
+		<text>AN-94</text>
+	</string>
+	<string id="st_wpn_abakan_descr">
+		<text>Diseñado como un posible reemplazo para la serie de fusiles AK-74, no logró cumplir su función prevista debido a su complejo diseño y precio. Aún en uso como arma de uso especial limitada, el AN-94 ofrece una función única de ráfaga de dos disparos a una velocidad declarada de 1800 disparos por minuto con la característica única de retrasar el retroceso para los dos primeros disparos. Capaz de un modo de tiro en hiperráfaga.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_val">
+		<text>AS Val</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>Diseñado para las unidades de operaciones especiales soviéticas, el AS Val es un arma accionada por gas con silenciador integrado que estaba destinada a reemplazar a los fusiles AK-47 y AKM. Es fácil de desmontar y ocultar, ligero y cómodo de disparar, y el silenciador reduce la velocidad de la bala a niveles subsónicos. Hoy en día, el AS Val es muy utilizado por las fuerzas especiales rusas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+	<string id="st_wpn_val_modern">
+		<text>AS Val</text>
+	</string>
+	<string id="st_wpn_val_modern_descr">
+		<text>Diseñado para las unidades de operaciones especiales soviéticas, el AS Val es un arma accionada por gas con silenciador integrado que estaba destinada a reemplazar a los fusiles AK-47 y AKM. Es fácil de desmontar y ocultar, ligero y cómodo de disparar, y el silenciador reduce la velocidad de la bala a niveles subsónicos. Hoy en día, el AS Val es muy utilizado por las fuerzas especiales rusas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+    <string id="st_wpn_famas3">
+        <text>FAMAS F1</text>
+    </string>
+    <string id="st_wpn_famas3_descr">
+        <text>Adoptado por los franceses en 1978, el FAMAS es desde entonces el fusil reglamentario del Ejército francés. El arma cuenta con un diseño bullpup único, es muy preciso y fácil de controlar en modo de tiro de ráfagas. Es de destacar que la longitud del arma permite utilizarla en funciones que normalmente requerirían un subfusil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Francia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]GIAT Industries
+		\n
+		</text>
+    </string>
+
+
+	<string id="st_wpn_fn2000">
+		<text>FN F2000</text>
+	</string>
+	<string id="st_wpn_fn2000_camo">
+		<text>FN F2000</text>
+	</string>
+	<string id="st_wpn_fn2000_custom">
+		<text>FN F2000</text>
+	</string>
+
+	<string id="st_wpn_fal">
+		<text>FN FAL</text>
+	</string>
+	<string id="st_wpn_fal_descr">
+		<text>Uno de los fusiles automáticos más utilizados, reconocidos y populares de la historia, el FN FAL ha estado en servicio en más de 90 países. Gracias a su prevalencia y uso generalizado entre las fuerzas armadas de muchos países de la OTAN y del primer mundo durante la Guerra Fría, recibió el apodo de «el brazo derecho del mundo libre».
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FN Herstal
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_fnc">
+		<text>FN FNC</text>
+	</string>
+	<string id="st_wpn_fnc_descr">
+		<text>Un fusil de asalto de tiro selectivo y accionado por gas desarrollado como una alternativa menos cara al M16. El FN FNC, que principalmente emplea componentes de acero prensado y plásticos, es sorprendentemente ligero y controlable y, si se compara su coste con importaciones similares, el verdadero valor del fusil se hace aún más evidente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FN Herstal
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_scar">
+		<text>FN SCAR-H</text>
+	</string>
+	<string id="st_wpn_scar_custom">
+		<text>FN SCAR-H</text>
+	</string>
+	<string id="st_wpn_scar_new">
+		<text>FN SCAR-H</text>
+	</string>
+	<string id="st_wpn_scar_descr">
+		<text>A principios de 2004, el USSOCOM emitió una solicitud de diseño para una familia de fusiles de asalto que utilizaran dos calibres diferentes, manteniendo las piezas y la ergonomía prácticamente idénticas; de ahí nació el Special Operations Forces Combat Assault Rifle, o SCAR. Disparando el cartucho 7,62 x 51 mm OTAN de largo alcance y gran potencia, el innovador sistema de pistón de carrera corta accionado por gas del FN SCAR-H reduce la acumulación de residuos para una mayor fiabilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FN Herstal
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_g3">
+		<text>G3A3</text>
+	</string>
+	<string id="st_wpn_g3_descr">
+		<text>En el mundo de los fusiles de combate, el Heckler &amp; Koch G3 es una importante parte de la historia armamentística, conocido por ser increíblemente duradero, fiable y con una precisión decente.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>	
+
+	<string id="st_wpn_g3sg1">
+		<text>G3SG/1</text>
+	</string>
+	<string id="st_wpn_g3sg1_descr">
+		<text>En el mundo de los fusiles de combate, el Heckler &amp; Koch G3 es una importante parte de la historia armamentística, conocido por ser increíblemente duradero, fiable y con una precisión decente. El G3SG/1 es un G3A3 escogido a dedo y modificado para ser preciso. Adoptado por varias naciones como fusil de tirador designado para uso militar, su similitud con el G3 facilita el entrenamiento de soldados que ya tienen experiencia con el G3 estándar.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ace21">
+		<text>Galil ACE 21</text>
+	</string>
+	<string id="st_wpn_ace21_descr">
+		<text>La serie Galil ACE está basada en el diseño original del IMI Galil, pero con un diseño moderno que aumenta la precisión y reduce el peso, manteniendo la ergonomía, la facilidad de mantenimiento y la fiabilidad en condiciones de combate. Desde entonces, ha sido adoptado como fusil reglamentario en varios países, como el Ejército de Chile y el Ejército Popular de Vietnam.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Weapon Industries
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_galil">
+		<text>Galil AR</text>
+	</string>
+	<string id="st_wpn_galil_custom">
+		<text>Galil AR</text>
+	</string>
+	<string id="st_wpn_galil_modern">
+		<text>Galil AR</text>
+	</string>
+	<string id="st_wpn_galil_descr">
+		<text>Diseñado para operar en condiciones áridas, el Galil destaca por su fiabilidad en combate y su facilidad de mantenimiento. Cuenta con una línea para 5,56 x 45 mm y otra para 7,62 x 51 mm.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_hk416">
+		<text>HK416</text>
+	</string>
+	<string id="st_wpn_hk416_descr">
+		<text>Desarrollado para las fuerzas de operaciones especiales estadounidenses como una importante mejora respecto al M4, el HK416 utiliza el sistema de pistón de gases patentado del G36 y, por lo tanto, no introduce gases propulsores ni residuos de carbono en el interior del arma, lo que lo convierte en el más fiable de todos los fusiles de tipo M4/M16. El fusil ha demostrado su eficacia en combate y ha captado merecidamente la atención mundial de las fuerzas militares y policiales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_hk417">
+		<text>HK417</text>
+	</string>
+	<string id="st_wpn_hk417_descr">
+		<text>Un fusil de tiro selectivo fiable y accionado por gas con un cerrojo rotativo pensado para su uso en funciones donde se requieren el mayor poder de penetración, poder de parada y alcance del cartucho de 7,62 x 51 mm. Ha sido adoptado por varias fuerzas armadas, fuerzas especiales y organizaciones policiales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &amp; Koch
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_l85">
+		<text>L85A1</text>
+	</string>
+	<string id="st_wpn_l85_alt">
+		<text>L85A1</text>
+	</string>
+	<string id="st_wpn_l85_custom">
+		<text>L85A1</text>
+	</string>
+	<string id="st_wpn_l85_modern">
+		<text>L85A1</text>
+	</string>
+	<string id="st_wpn_l85_descr">
+		<text>El L85A1, que antaño fue el arma reglamentaria de las Fuerzas Armadas británicas y que ahora ha sido sustituido por el L85A2 y A3, comparte el mismo rendimiento general que sus hermanos pequeños, pero tenía numerosos problemas de fiabilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Reino Unido
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RSAF Enfield
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_l85a2">
+		<text>L85A2</text>
+	</string>
+	<string id="st_wpn_l85a2_alt">
+		<text>L85A2</text>
+	</string>
+	<string id="st_wpn_l85a2_custom">
+		<text>L85A2</text>
+	</string>
+	<string id="st_wpn_l85a2_modern">
+		<text>L85A2</text>
+	</string>
+	<string id="st_wpn_l85a2_descr">
+		<text>Reconocido por su extrema fiabilidad y precisión, el L85A2 es el arma reglamentaria de las Fuerzas Armadas británicas y una mejora respecto al L85A1, al corregir muchos de sus defectos de diseño. Es de destacar que el A2 es extremadamente fiable en diversos climas y condiciones adversas, lo que permite su uso en distintos escenarios operativos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Reino Unido
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]RSAF Enfield
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_lr300">
+		<text>LR-300ML</text>
+	</string>
+	<string id="st_wpn_lr300_camo">
+		<text>LR-300ML</text>
+	</string>
+	<string id="st_wpn_lr300_custom">
+		<text>LR-300ML</text>
+	</string>
+	<string id="st_wpn_lr300_descr">
+		<text>Basado en el AR-15, el LR-300 es un excelente sistema armamentístico idóneo para el uso militar en combates en espacios cerrados. Su culatín plegable lo hace ideal para entradas rápidas y agresivas a edificios que requieren un arma de tiro selectivo compacta pero potente. Ergonómico y ligero, es muy preciso, pero es sensible a la suciedad y, por lo tanto, no es ideal para condiciones de terreno adversas. La variante ML cuenta con un riel Picatinny para acoplar accesorios.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Z-M Weapons
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_mossberg590">
+		<text>Mossberg 590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590_descr">
+		<text>Desarrollada como una modificación de la escopeta Mossberg Modelo 500 para su adopción por el Ejército estadounidense, fue la escopeta estándar de las Fuerzas Armadas de EE. UU. hasta que fue reemplazada oficialmente por la Benelli M1014. Algunas de las modificaciones eran el refuerzo del cajón de mecanismos, la instalación de un disipador alrededor del cañón, un soporte para bayoneta, un cargador ampliado y un guardamonte de aluminio. Desde 1987, las escopetas Mossberg 590A1 siguen siendo utilizadas por la Armada y el Cuerpo de Marines de EE. UU.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Mossberg &amp; Sons
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_groza">
+		<text>OTs-14 Groza</text>
+	</string>
+	<string id="st_wpn_groza_descr">
+		<text>El fusil de asalto modular Groza («trueno») estaba pensado para diversas fuerzas especiales del Ejército y del Ministerio del Interior rusos como arma especializada para el combate urbano. Presenta un diseño bullpup con un lanzagranadas de 40 mm ubicado en lugar de la empuñadura delantera extraíble.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_m4">
+		<text>M4</text>
+	</string>
+	<string id="st_wpn_m4_descr">
+		<text>La carabina M4 proviene de una familia de armas que se remonta al AR-15 original de Armalite. Es un fusil de tiro selectivo accionado por gas y refrigerado por aire que comparte el 80 % de sus piezas con el fusil de asalto M16, aunque es notablemente más corto y ligero. Ha sido adoptado por el Mando de Operaciones Especiales de los Estados Unidos (USSOCOM) y es el arma preferida de las Fuerzas Especiales de los Estados Unidos y los Navy SEAL.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_m4a1">
+		<text>M4A1</text>
+	</string>
+	<string id="st_wpn_m4a1_camo">
+		<text>M4A1</text>
+	</string>
+	<string id="st_wpn_m4a1_custom">
+		<text>M4A1</text>
+	</string>
+	<string id="st_wpn_m4a1_freedom">
+		<text>M4A1</text>
+	</string>
+	<string id="st_wpn_m4a1_descr">
+		<text>La carabina M4 proviene de una familia de armas que se remonta al AR-15 original de Armalite. Es un fusil de tiro selectivo accionado por gas y refrigerado por aire que comparte el 80 % de sus piezas con el fusil de asalto M16, aunque es notablemente más corto y ligero. Ha sido adoptado por el Mando de Operaciones Especiales de los Estados Unidos (USSOCOM) y es el arma preferida de las Fuerzas Especiales de los Estados Unidos y los Navy SEAL. La variante A1 reforzó el cañón y cambió el modo de tiro de ráfagas por una opción automática.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m16a2">
+		<text>M16A2</text>
+	</string>
+	<string id="st_wpn_m16a2_descr">
+		<text>«M16» es la designación militar estadounidense de una familia de fusiles derivados del Armalite AR-15, que ha sido el fusil de infantería principal de las Fuerzas Armadas de los Estados Unidos desde los años sesenta. Es un fusil de asalto ligero, refrigerado por aire, accionado por gas y con un cerrojo rotativo. La variante A2 es la segunda generación de la serie M16 y una mejora considerable respecto al A1, con mejoras reseñables como un selector de tiro semiautomático y de ráfaga de tres disparos, el uso del cartucho de 5,56 x 45 mm mejorado y un guardamanos, pistolete, culata y cañón pesado mejorados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m16">
+		<text>M16A4</text>
+	</string>
+	<string id="st_wpn_m16_descr">
+		<text>«M16» es la designación militar estadounidense de una familia de fusiles derivados del Armalite AR-15, que ha sido el fusil de infantería principal de las Fuerzas Armadas de los Estados Unidos desde los años sesenta. Es un fusil de asalto ligero, refrigerado por aire, accionado por gas y con un cerrojo rotativo. La variante A4 es la cuarta generación de la serie M16 y viene con un asa de transporte extraíble y un riel Picatinny para acoplar visores y otros dispositivos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m60">
+		<text>M60</text>
+	</string>
+	<string id="st_wpn_m60_descr">
+		<text>Procedente de una familia de ametralladoras estadounidenses de uso general que disparaban desde una cinta desintegrable de eslabones M13, la M60 ha prestado servicio en todas las ramas de las Fuerzas Armadas estadounidenses y su fabricación y continua modernización para compras militares y comerciales prosiguen en el siglo XXI. Aunque ha sido reemplazada o complementada en la mayoría de sus funciones por otros diseños, sobre todo la ametralladora M240, sigue siendo un arma antipersona
+		de fuego de contención, de gran consumo de munición y de eficacia demostrada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Saco Defense
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_m249">
+		<text>M249 SAW</text>
+	</string>
+	<string id="st_wpn_m249_descr">
+		<text>La M249 es una adaptación estadounidense, alimentada por cintas, de la ametralladora belga FN Minimi, que ha visto combate en todos los conflictos importantes en los que ha intervenido Estados Unidos desde la invasión estadounidense de Panamá en 1989. La ametralladora ligera M249 proporciona a los pelotones de infantería una alta cadencia de tiro, combinada con la precisión y la portabilidad de un fusil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Bélgica, Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]FN Herstal
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mk14">
+		<text>Mk. 14 EBR</text>
+	</string>
+	<string id="st_wpn_mk14_descr">
+		<text>El Mk. 14 Enhanced Battle Rifle es un fusil de combate militar de tiro selectivo estadounidense y un fusil de tirador designado fabricado originalmente para el USSOCOM. Conocido por su increíble precisión a larga distancia, modularidad y retroceso controlable, el EBR es el favorito de muchos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Naval Surface Warfare Center Crane Division
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rp">
+		<text>PKM</text>
+	</string>
+	<string id="st_wpn_rp_descr">
+		<text>Una versión modernizada y mejorada de la PK, las mejoras de la PKM se centraron principalmente en reducir el peso, facilitar su manejo y simplificar la producción. Una ametralladora muy fiable que sigue en uso como arma de infantería de primera línea y montada en vehículos por las Fuerzas Armadas rusas. Este modelo se ha modificado manualmente para incluir una caja de munición ampliada.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_pkm_zulus">
+		<text>PKM «Zulú»</text>
+	</string>
+	<string id="st_wpn_pkm_zulus_descr">
+		<text>Una versión modernizada y mejorada de la PK, las mejoras de la PKM se centraron principalmente en reducir el peso, facilitar su manejo y simplificar la producción. Una ametralladora muy fiable que sigue en uso como arma de infantería de primera línea y montada en vehículos por las Fuerzas Armadas rusas. Dotada de un cañón más pesado y una mira Kobra, la «Zulú» también se ha modificado manualmente para lograr una mayor cadencia de tiro y una mayor velocidad de salida del proyectil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_pkp">
+		<text>PKP Pecheneg</text>
+	</string>
+	<string id="st_wpn_pkp_descr">
+		<text>Una ametralladora PKM modernizada que dispara el cartucho 7,62 x 54 mm, considerada más precisa que todas sus predecesoras gracias a un cañón más pesado, no extraíble, con refrigeración por aire forzado, aletas radiales de refrigeración y una manija especial que elimina el efecto de bruma de los gases calientes. Actualmente en uso por las fuerzas especiales Spetsnaz del Ejército ruso y, aunque se desarrolló principalmente para uso de infantería, a menudo se instala en vehículos ligeros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_ppsh41">
+		<text>PPSh-41</text>
+	</string>
+	<string id="st_wpn_ppsh41_camo">
+		<text>PPSh-41</text>
+	</string>
+	<string id="st_wpn_ppsh41_new">
+		<text>PPSh-41</text>
+	</string>
+	<string id="st_wpn_ppsh41_old">
+		<text>PPSh-41</text>
+	</string>
+	<string id="st_wpn_ppsh41_descr">
+		<text>El PPSh, un subfusil de tiro selectivo, cerrojo abierto y retroceso simple conocido por su alta cadencia de tiro, tuvo un gran uso en combate durante la Segunda Guerra Mundial, convirtiéndose en una de las armas de infantería más comunes de las Fuerzas Armadas soviéticas; se fabricaron aproximadamente seis millones de unidades, lo que lo convierte en el subfusil más producido de la guerra. Un PPSh con cargador de tambor se ha convertido en uno de los símbolos del soldado soviético en el frente oriental de la Segunda Guerra Mundial en Europa.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Unión Soviética
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rpd">
+		<text>RPD</text>
+	</string>
+	<string id="st_wpn_rpd_descr">
+		<text>Una ametralladora ligera desarrollada en la Unión Soviética por Vasili Degtiariov y creada para reemplazar a la ametralladora ligera DP-27. La nueva RPD, de cerrojo abierto, accionada por gas y percutor lanzado, era, en ese momento, 4,5 kg más ligera que cualquier otra arma de su tipo en servicio y utilizaba un cartucho que producía un retroceso considerablemente menor en tiro automático.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rpk">
+		<text>RPK</text>
+	</string>
+	<string id="st_wpn_rpk_descr">
+		<text>La RPK, una ametralladora ligera desarrollada por Mijaíl Kaláshnikov como parte de los esfuerzos soviéticos para estandarizar el armamento del Ejército Rojo, reemplazó a la RPD y todavía se utiliza en la actualidad. Con un diseño similar al de la serie de fusiles Kaláshnikov, cuenta con modificaciones para aumentar su alcance efectivo y precisión. También cuenta con un cañón mejorado para optimizar su capacidad de tiro sostenido, un problema común en la RPD.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta de construcción de maquinaria de Viátskiye Poliani
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rpk74">
+		<text>RPK-74</text>
+	</string>
+	<string id="st_wpn_rpk74_descr">
+		<text>La RPK, una ametralladora ligera desarrollada por Mijaíl Kaláshnikov como parte de los esfuerzos soviéticos para estandarizar el armamento del Ejército Rojo, reemplazó a la RPD y todavía se utiliza en la actualidad. La RPK-74 presenta numerosas mejoras, entre las que se incluyen un cañón mejorado, un nuevo bloque de gases para una mayor velocidad de salida del proyectil y un bípode.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta de construcción de maquinaria de Viátskiye Poliani
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_ash12">
+		<text>ShAK-12</text>
+	</string>
+	<string id="st_wpn_ash12_descr">
+		<text>Un fusil específico para combate en espacios cerrados y operaciones urbanas, desarrollado a petición del FSB ruso para unidades especiales que operan en entornos urbanos contra objetivos fuertemente armados y organizados que deben ser abatidos de un solo disparo. Por lo tanto, el ShAK-12 está diseñado pensando en un poder de parada extremo a corta distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_type63">
+		<text>Tipo 63</text>
+	</string>
+	<string id="st_wpn_type63_descr">
+		<text>Un fusil de asalto automático de cerrojo rotativo con un parecido asombroso al SKS de fabricación soviética. El Tipo 63 se concibió para reemplazar a la carabina semiautomática Tipo 56 en servicio en China cuando la infantería militar necesitaba un punto medio entre potencia de fuego y precisión a larga distancia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]China
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]arsenales del Gobierno de la RPC
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vepr12">
+		<text>Vepr-12</text>
+	</string>
+	<string id="st_wpn_vepr12_descr">
+		<text>Concebida para el mercado militar y policial ruso, con aplicaciones civiles que oscilan desde la caza hasta la autodefensa y la competición, la Vepr-12 es una escopeta semiautomática polivalente inspirada en los fusiles Kaláshnikov y construida a partir del robusto cajón de mecanismos de la ametralladora ligera RPK. Gracias a su sistema de gases de puerto abierto fijo, la Vepr-12 puede disparar un amplio abanico de cartuchos de calibre 12, lo que la convierte en una escopeta semiautomática muy versátil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Molot Oruzhie
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vsk94">
+		<text>VSK-94</text>
+	</string>
+	
+	<string id="st_wpn_vintorez">
+		<text>VSS Vintorez</text>
+	</string>
+	<string id="st_wpn_vintorez_alt">
+		<text>VSS Vintorez</text>
+	</string>
+	<string id="st_wpn_vintorez_descr">
+		<text>Pensado para las diversas tropas Spetsnaz del Ejército soviético, el KGB y el MVD, el VSS es bastante popular entre sus usuarios gracias a sus capacidades de sigilo, silenciador integrado y la gran letalidad del pesado cartucho de 9 x 39 mm.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vintorez_1pn93">
+		<text>VSS Vintorez</text>
+	</string>
+	<string id="st_wpn_vintorez_1pn93_descr">
+		<text>Pensado para las diversas tropas Spetsnaz del Ejército soviético, el KGB y el MVD, el VSS es bastante popular entre sus usuarios gracias a sus capacidades de sigilo, silenciador integrado y la gran letalidad del pesado cartucho de 9 x 39 mm. Este modelo tiene un visor 1PN93 integrado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_vintorez_nimble">
+		<text>VSS Vintorez «Marea»</text>
+	</string>
+	<string id="st_wpn_vintorez_nimble_descr">
+		<text>Pensado para las diversas tropas Spetsnaz del Ejército soviético, el KGB y el MVD, el VSS es bastante popular entre sus usuarios gracias a sus capacidades de sigilo, silenciador integrado y la gran letalidad del pesado cartucho de 9 x 39 mm. El «Marea» se ha modificado exhaustivamente y dotado de un visor 1PN93.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_umirotvoritel">
+		<text>Arma no identificada</text>
+	</string>
+	<string id="st_wpn_umirotvoritel_descr">
+		<text>Un arma desconocida. Parece defectuosa, ya que al apretar el gatillo no ocurre nada. Tras una inspección minuciosa, no parece disparar proyectiles por ignición, sino por fuerza electromagnética.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]desconocido
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]desconocido
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_xm8">
+		<text>XM8</text>
+	</string>
+	<string id="st_wpn_xm8_descr">
+		<text>Un sistema de fusil de asalto ligero que comparte diseño e ingeniería con el fusil G36, originalmente parte del programa Objective Individual Combat Weapon para el desarrollo de un sistema lanzagranadas «inteligente» con un fusil de carabina acoplado. Incapaz de cumplir con los requisitos de rendimiento y peso, el programa se terminó cancelando y separando, dando como resultado el proyecto XM8.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania, Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Heckler &#38;amp; Koch, Alliant Technosystems
+		\n
+		</text>
+	</string>
+
+
+	<string id="st_wpn_l96a1m">
+		<text>AWSM</text>
+	</string>
+	<string id="st_wpn_l96a1m_descr">
+		<text>El Arctic Warfare Super Magnum es una variante del L96A1 con recámara para .338 Lapua Magnum, que cuenta con un anillo de bloqueo, extractor y cargador revisados ??para funcionar con el mayor tamaño y las presiones de funcionamiento de los cartuchos de fusil Magnum.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Reino Unido
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Accuracy International
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m82">
+		<text>Barrett M82</text>
+	</string>
+	<string id="st_wpn_m82_descr">
+		<text>El M82 es un fusil de francotirador antimaterial semiautomático, accionado por retroceso, diseñado como la primera arma semiautomática portátil capaz de disparar .50 BMG. Ha demostrado su eficacia en combate en todo tipo de entornos, desde montañas nevadas hasta desiertos baldíos. Su bajo retroceso y potencia fiable garantizan la precisión con cada disparo. A pesar de catalogarse como fusil antimaterial, el M82 se utiliza frecuentemente como sistema antipersona. Más que un mero fusil, el M82 es un icono estadounidense.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Barrett Firearms Manufacturing
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m98b">
+		<text>Barrett M98B</text>
+	</string>
+	<string id="st_wpn_m98b_descr">
+		<text>Barrett quería crear un arma táctica que disparara el cartucho .338 Lapua Magnum, pero en lugar de modificar un fusil de caza, crearon un diseño original para el M98B. Con un diseño sencillo, es fácil de desmontar y limpiar y, gracias a su durabilidad, versatilidad y precisión, es popular entre quienes exigen un rendimiento óptimo con una fiabilidad inigualable.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Barrett Firearms Manufacturing
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_g43">
+		<text>Gewehr 43</text>
+	</string>
+	<string id="st_wpn_g43_descr">
+		<text>En 1940, los alemanes implementaron un programa para dotar a su infantería de un fusil semiautomático estándar y así mejorar sus anticuados fusiles de cerrojo. Dado que el Gewehr 41 era demasiado caro para la producción en cadena durante la guerra, se creó el Gewehr 43, que incorporaba varias mejoras respecto a su predecesor, como un sistema de gases rediseñado, un cargador extraíble y una montura lateral mecanizada. Este modelo incluye un visor ZF4.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania nazi
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Walther
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_k98">
+		<text>Karabiner 98k</text>
+	</string>
+	<string id="st_wpn_k98_descr">
+		<text>El Kar 98, uno de los últimos desarrollos de la larga línea de fusiles militares Mauser y fusil reglamentario de la Wehrmacht alemana, fue seleccionado por la Alemania nazi por su excepcional precisión y eficacia a larga distancia. En manos expertas y con una mira telescópica ZF39, estos fusiles tenían un alcance efectivo de hasta 1000 metros. Este modelo ha sido equipado con una mira telescópica de francotirador de March, Japón.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania nazi
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Mauser
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_l96a1">
+		<text>AW</text>
+	</string>
+	<string id="st_wpn_l96a1_descr">
+		<text>El fusil Accuracy International Arctic Warfare ha demostrado ser popular como fusil civil, policial y militar desde su introducción en los años ochenta y es el fusil de francotirador reglamentario del Ejército británico. Sus impresionantes modificaciones de rendimiento permiten que el arma se utilice a temperaturas tan bajas como -40 °C, sin que ello afecte a su funcionamiento en condiciones menos extremas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Reino Unido
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Accuracy International
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m24">
+		<text>M24 SWS</text>
+	</string>
+	<string id="st_wpn_m24_descr">
+		<text>Conocido como el «Dragón Verde», el M24 Sniper Weapon System es la versión militar y policial del fusil Remington Modelo 700, empleado actualmente por el Ejército de los Estados Unidos. Posee el cerrojo de acción larga del cajón de mecanismos del Remington 700, pero utiliza munición 7,62 x 51 mm OTAN y está equipado con una mira telescópica Leupold de 10 x 40 mm.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Remington Arms
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_mosin">
+		<text>Mosin-Nagant</text>
+	</string>
+	<string id="st_wpn_mosin_descr">
+		<text>El M1891 es un fusil militar de cerrojo y cargador interno empleado por las Fuerzas Armadas del Imperio ruso, la Unión Soviética y muchos otros Estados. Es uno de los fusiles militares de cerrojo más producidos de la historia, con más de 37 millones de unidades fabricadas desde 1891. A pesar de su antigüedad, se ha utilizado en diversos conflictos de todo el mundo hasta el día de hoy. Si bien el Mosin no soporta la mayor presión del cañón de las municiones perforantes, esto no le impidió ser extremadamente eficaz en la Segunda Guerra Mundial como fusil de francotirador cuando estaba equipado con una mira telescópica de 4,0x PE o 3,5x PU.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_svu">
+		<text>OTs-03 SVU</text>
+	</string>
+	<string id="st_wpn_svu_alt">
+		<text>OTs-03 SVU</text>
+	</string>
+	<string id="st_wpn_svu_descr">
+		<text>Una versión compacta y poco común del fusil de francotirador SVD, creada para la infantería aerotransportada, pero empleada posteriormente principalmente por el Ministerio del Interior ruso. La principal diferencia con el SVD radica en su tamaño compacto y, por consiguiente, en su mejor manejo, gracias a su configuración bullpup y cañón acortado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_svu_nimble">
+		<text>OTs-03A SVU-A</text>
+	</string>
+	<string id="st_wpn_svu_nimble_descr">
+		<text>Una versión compacta, poco común y automática del fusil de francotirador SVD, creada para la infantería aerotransportada, pero empleada posteriormente principalmente por el Ministerio del Interior ruso. La principal diferencia con el SVD radica en su tamaño compacto y, por consiguiente, en su mejor manejo, gracias a su configuración bullpup y cañón acortado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Oficina de Diseño de Instrumentos KBP
+		\n
+		</text>
+	</string>
+
+	<string id="st_trg_sako">
+		<text>Sako TRG-42</text>
+	</string>
+	<string id="st_wpn_trg_descr">
+		<text>Un arma de fuego diseñada para competiciones de tiro de largo alcance de alto nivel, que puede equiparse con una amplia gama de accesorios para satisfacer las exigencias más rigurosas. Su precisión y fiabilidad constantes la han hecho popular tanto en competiciones de tiro de largo alcance como en operaciones de francotiradores militares.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Finlandia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Sako
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sig550_sniper">
+		<text>SIG SG 550-1</text>
+	</string>
+	<string id="st_wpn_sig550_sniper_descr">
+		<text>El 550-1, una variante de tirador selecto del popular fusil SG 550, constituye un punto intermedio perfecto entre un fusil de francotirador y un fusil de asalto, conservando las ventajas de ambos tipos de armamento. Si bien carece algo de poder de parada y precisión en comparación con un fusil de francotirador especializado, conserva la fiabilidad y la calidad de fabricación del SG 550.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Suiza
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]SIG Arms
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sks">
+		<text>SKS</text>
+	</string>
+	<string id="st_wpn_sks_modern">
+		<text>SKS</text>
+	</string>
+	<string id="st_wpn_sks_descr">
+		<text>Una carabina semiautomática, accionada por gas y de autocarga utilizada principalmente durante la Guerra Fría. Todavía está en servicio hoy en día en unidades de segunda línea y de reserva del Ejército. Como carecía de selector de tiro y estaba limitada a 10 cartuchos, quedó obsoleta con la llegada del AK-47.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sks_b">
+		<text>SKS</text>
+	</string>
+	<string id="st_wpn_sks_b_descr">
+		<text>Una carabina semiautomática, accionada por gas y de autocarga utilizada principalmente durante la Guerra Fría. Todavía está en servicio hoy en día en unidades de segunda línea y de reserva del Ejército. Como carecía de selector de tiro y estaba limitada a 10 cartuchos, quedó obsoleta con la llegada del AK-47.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Arsenal de Tula
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_sv98">
+		<text>SV-98</text>
+	</string>
+	<string id="st_wpn_sv98_custom">
+		<text>SV-98</text>
+	</string>
+	<string id="st_wpn_sv98_descr">
+		<text>El Snáiperskaya Vintovka Modelo 1998, un fusil de francotirador ruso de cerrojo, sumamente ergonómico y de gran precisión, fue diseñado como un arma de precisión para que los francotiradores del Ejército y las fuerzas del orden rusas pudieran atacar eficazmente al personal enemigo a distancias de hasta 1000 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_svd">
+		<text>SVD</text>
+	</string>
+	<string id="st_wpn_svd_custom">
+		<text>SVD</text>
+	</string>
+	<string id="st_wpn_svd_descr">
+		<text>El SVD, uno de los fusiles de francotirador más emblemáticos a pesar de no ser técnicamente un fusil de francotirador, se diseñó para proporcionar fuego de contención preciso sobre posiciones enemigas, así como para eliminar objetivos de alto valor. Sin embargo, este fusil de tirador designado de nivel de escuadrón acabó utilizándose como fusil de francotirador por quienes no tenían acceso a otra cosa. Relativamente ligero, preciso y bien equilibrado, lamentablemente, su rendimiento es inferior al de los fusiles de francotirador especializados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_svd_nimble">
+		<text>SVD «Lynx»</text>
+	</string>
+	<string id="st_wpn_svd_nimble_descr">
+		<text>El SVD, uno de los fusiles de francotirador más emblemáticos a pesar de no ser técnicamente un fusil de francotirador, se diseñó para proporcionar fuego de contención preciso sobre posiciones enemigas, así como para eliminar objetivos de alto valor. Sin embargo, este fusil de tirador designado de nivel de escuadrón acabó utilizándose como fusil de francotirador por quienes no tenían acceso a otra cosa. Relativamente ligero, preciso y bien equilibrado, lamentablemente, su rendimiento es inferior al de los fusiles de francotirador especializados. Equipado con un visor 1P59 «Hyperon», el «Lynx» es una obra maestra hecha a medida, digna de un tirador de igual prestigio.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_svt40">
+		<text>SVT-40</text>
+	</string>
+	<string id="st_wpn_svt40_modern">
+		<text>SVT-40</text>
+	</string>
+	<string id="st_wpn_svt40_descr">
+		<text>Un fusil semiautomático que estuvo en servicio generalizado durante y después de la Segunda Guerra Mundial. Originalmente concebido como el nuevo fusil reglamentario del Ejército soviético, su producción se vio interrumpida por la invasión alemana en 1941, lo que provocó un cambio de nuevo al Mosin-Nagant durante el resto de la Segunda Guerra Mundial. Después de la guerra, la Unión Soviética adoptó nuevos fusiles, como el SKS y el AK-47.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle">
+		<text>Desert Eagle</text>
+	</string>
+	<string id="st_wpn_desert_eagle_descr">
+		<text>La IMI Desert Eagle es una pistola semiautomática notoria por disparar el cartucho de percusión central más grande de cualquier pistola semiautomática con cargador, además de ser la más pesada y voluminosa de su tipo. Su peso y robustez pueden ser suficientes para abatir a los enemigos a golpes. Dicen las malas lenguas que un stalker con una palanca anda suelto por la Zona con una versión modificada de esta pistola.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos, Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n</text>
+	</string>
+
+	<string id="st_wpn_desert_eagle_nimble">
+		<text>Desert Eagle «Águila de Estepa»</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble_descr">
+		<text>Esta arma la trajo a la Zona un stalker llamado Logan Williams. Disfrazado de fotógrafo de la revista Time, consiguió entrar él solito en el centro de Prípiat. Se desconoce su paradero actual, pero se rumorea que trabaja como comerciante de información especializado en todos los asuntos relativos a la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos, Israel
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Israel Military Industries
+		\n</text>
+	</string>
+	
+
+	<string id="st_wpn_vssk">
+		<text>VSSK Vyjlop</text>
+	</string>
+	<string id="st_wpn_vssk_descr">
+		<text>Un fusil de francotirador bullpup de cerrojo recto y con silenciador integrado ruso que dispara cartuchos subsónicos. Pensado para operaciones especiales de sigilo, los blancos típicos del VSSK son combatientes con blindajes pesados o detrás de coberturas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_wa2000">
+		<text>WA 2000</text>
+	</string>
+	<string id="st_wpn_wa2000_descr">
+		<text>El Walther WA 2000 es un fusil de francotirador bullpup semiautomático producido por la empresa Carl Walther GmbH Sportwaffen desde 1982 hasta 1988. Se produjo en tres calibres distintos. La producción del fusil fue limitada y se detuvo poco después de comenzar porque era demasiado caro como para salir rentable y no era lo bastante robusto para un fusil de francotirador de uso militar. Solo se fabricaron 176, lo que lo convierte en una de las armas de producción más raras y codiciadas de la historia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Alemania Occidental
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Walther
+		\n %c[d_orange] • %c[d_orange] Penetración aumentada: +5
+		\n
+		</text>
+	</string>
+
+
+	<string id="st_grenade_launcher">
+		<text>Lanzagranadas GP-25</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>Un lanzagranadas monotiro, de avancarga y estriado para fusiles de asalto fabricados en los países del Pacto de Varsovia. Diseñado para aumentar considerablemente la potencia de fuego de un pelotón de infantería básico. El mecanismo de disparo es de autoamartillado, con seguro manual y sistema automático de prevención de disparo si se acopla incorrectamente a un fusil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Izhmash
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_m79">
+		<text>M79</text>
+	</string>
+	<string id="st_wpn_m79_descr">
+		<text>Un lanzagranadas de un tiro, portátil y con cañón basculante que apareció por primera vez durante la guerra de Vietnam. El retroceso se mantiene bajo mediante un «Sistema de Propulsión Alta-Baja», donde la carga propulsora se almacena en una recámara de alta presión, lo que permite lanzar proyectiles mucho más grandes sin el equipo pesado que normalmente se requiere. Cuando se enciende la carga propulsora, los gases se liberan a través de orificios de ventilación a presión reducida hacia una recámara de baja presión mucho mayor para impulsar el proyectil hacia adelante. El sistema de propulsión alta-baja permite reducir considerablemente el peso del arma y su munición.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Springfield Armory
+		\n
+		</text>
+	</string>
+
+	<string id="st_grenade_launcher_m203">
+		<text>Lanzagranadas M203</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>Un M203 modificado más corto que puede acoplarse a un riel Picatinny. Aunque es moderno, tiene propiedades similares a su homólogo soviético, el GP-25.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Colt
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rg6">
+		<text>Lanzagranadas RG-6</text>
+	</string>
+	<string id="st_wpn_rg6_descr">
+		<text>El lanzagranadas RG-6 autónomo, de disparo rápido y multitiro fue diseñado para aumentar la potencia de fuego de la infantería en el combate urbano debido a los recientes conflictos a pequeña escala, como las guerras de Chechenia. El RG-6 entró en producción limitada a mediados de los años noventa y actualmente es utilizado por diversos elementos del Ejército ruso y las fuerzas especiales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]TsKIB SOO
+		\n
+		</text>
+	</string>
+
+	<string id="st_wpn_rpg7">
+		<text>RPG-7</text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>Considerado uno de los lanzagranadas antitanque más prósperos jamás creados, el RPG-7 es un lanzador de ánima lisa, monotiro y de hombro. Las granadas se cargan desde la parte delantera y la parte trasera del cañón utiliza una boquilla Venturi para que el arma prácticamente no tenga retroceso.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Planta Degtiariov
+		\n
+		</text>
+	</string>
+
+	<string id="st_grenade_f1">
+		<text>Granada F-1</text>
+	</string>
+	<string id="st_grenade_f1_descr">
+		<text>Una granada de fragmentación antipersona soviética basada en la granada F1 francesa con un radio de acción de aproximadamente 4 metros. Contiene una carga de 60 gramos de TNT y una carcasa exterior de acero con muescas para favorecer la fragmentación, capaz de perforar blindajes de nivel medio.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n
+		</text>
+	</string>
+	
+	<string id="st_grenade_rgd5">
+		<text>RGD-5 Grenade</text>
+	</string>
+	<string id="st_grenade_rgd5_descr">
+		<text>Una granada de fragmentación antipersona soviética posterior a la Segunda Guerra Mundial con un radio de acción de unos 3 metros. Contiene una carga de 110 gramos de TNT con un revestimiento interno de fragmentación que produce fragmentos capaces de perforar blindajes de nivel medio.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n
+		</text>
+	</string>
+	
+	<string id="st_grenade_smoke">
+		<text>Granada de humo</text>
+	</string>
+	<string id="st_grenade_smoke_descr">
+		<text>Una granada que se usa como dispositivo de señalización o de protección para el movimiento de unidades.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n
+		</text>
+	</string>
+	
+	<string id="st_grenade_thermite">
+		<text>Granada de termita</text>
+	</string>
+	<string id="st_grenade_thermite_descr">
+		<text>Una granada rellena con entre 600 y 800 gramos de termita que produce calor intenso mediante una reacción química en la que el aluminio en polvo y el óxido de hierro reaccionan para producir un chorro de óxido de hierro y aluminio fundido.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n
+		</text>
+	</string>
+	
+	<string id="st_grenade_light">
+		<text>Granada M68</text>
+	</string>
+	<string id="st_grenade_light_descr">
+		<text>Una granada de fragmentación antipersona con un pequeño radio de acción de unos 5 metros. Contiene una carga de 180 gramos de TNT que produce fragmentos capaces de perforar blindajes de nivel medio. La M68 es una variante de la granada M67 con una espoleta de impacto.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Explosivo
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n
+		</text>
+	</string>
+
+
+	<string id="st_knife_6x4">
+		<text>Bayoneta 6H4</text>
+	</string>
+	<string id="st_knife_6x4_descr">
+		<text>Adoptada por primera vez en 1972 para su uso con fusiles AK. Aunque es muy duradera, es mucho mejor para apuñalar que para cortar o rajar.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_red]NO
+		\n
+		</text>
+	</string>
+	
+	<string id="st_knife_hunting">
+		<text>Cuchillo de caza</text>
+	</string>
+	<string id="st_knife_hunting_descr">
+		<text>Un cuchillo de caza moderno y muy resistente con una gran hoja de acero inoxidable. Al no estar diseñado para el combate, los blindajes le cuestan, pero es ideal para faenar.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_green]SÍ
+		\n
+		</text>
+	</string>
+
+	<string id="st_knife_combat">
+		<text>Bayoneta M9</text>
+	</string>
+	<string id="st_knife_combat_descr">
+		<text>Un cuchillo grande y multiusos con mango de goma resistente y hoja de 18 centímetros, adoptado oficialmente en 1986. Muy utilizado por los soldados estadounidenses como bayoneta.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_green]SÍ
+		\n
+		</text>
+	</string>
+	
+	<string id="st_knife_m">
+		<text>Cuchillo militar</text>
+	</string>
+	<string id="st_knife_m_descr">
+		<text>Cuchillo militar reglamentario.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_green]SÍ
+		\n
+		</text>
+	</string>
+	
+	<string id="st_knife_needle">
+		<text>Cuchillo de explorador NR-40</text>
+	</string>
+	<string id="st_knife_needle_descr">
+		<text>Diseñado oficialmente para uso utilitario, el NR-40 carece de una potencia de corte significativa. Una característica única de la hoja es la guarda en forma de S invertida, diseñada para mantener el filo del cuchillo hacia arriba, lo que compensa sus deficiencias con una considerable capacidad de perforación.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_red]NO
+		\n
+		</text>
+	</string>
+	
+	<string id="st_knife_nr40">
+		<text>Cuchillo de explorador NR-40</text>
+	</string>
+	<string id="st_knife_nr40_descr">
+		<text>Diseñado oficialmente para uso utilitario, el NR-40 carece de una potencia de corte significativa. Una característica única de la hoja es la guarda en forma de S invertida, diseñada para mantener el filo del cuchillo hacia arriba, lo que compensa sus deficiencias con una considerable capacidad de perforación.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Unión Soviética
+		\n%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_red]NO
+		\n
+		</text>
+	</string>
+	
+	<string id="st_knife_swat">
+		<text>Navaja automática de Spetsnaz</text>
+	</string>
+	<string id="st_knife_swat_descr">
+		<text>Una hoja ideal para operadores de fuerzas especiales. Es eficaz para perforar blindajes y causar daños tisulares graves, y a menudo se la considera la herramienta de combate definitiva.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n%c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n%c[d_green] • %c[ui_gray_2] ¿Corta pieles gruesas?: %c[ui_green]SÍ
+		\n
+		</text>
+	</string>	
+
+
+	<string id="st_axe">
+		<text>Hacha de caza</text>
+	</string>
+	<string id="st_axe2_descr">
+		<text>Herramienta utilizada durante milenios para dar forma, partir, cortar y cosechar madera, como arma y como símbolo ceremonial o heráldico. El hacha tiene muchas formas, es versátil y peligrosa cuando se usa de forma ofensiva.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Arma cuerpo a cuerpo
+		\n %c[d_green] • %c[ui_gray_2] Mayor alcance
+		\n
+		</text>
+	</string>
+
+
+	<string id="st_wpn_flamewerfer">
+		<text>Lanzallamas</text>
+	</string>
+	<string id="st_wpn_flamewerfer_descr">
+		<text>NO SE USA.
+		
+		\n \n</text>
+	</string>
+	
+	<string id="st_dynamo_hand_name">
+		<text>Dinamo portátil</text>
+	</string>
+	<string id="st_dynamo_hand_name_descr">
+		<text>Un generador eléctrico portátil casero con accionamiento manual, basado en un motor asíncrono monofásico de un electrodoméstico viejo. Debido a su diseño, es pesado, pero aun así es muy apreciado en la Zona. Algunos artesanos pueden perfeccionar este dispositivo.
+		
+		\n \nPROPIEDADES:
+		\n%c[d_cyan] • %c[ui_gray_2] Generador eléctrico portátil
+		\n%c[d_cyan] • %c[ui_gray_2] Motor de 40 W de potencia
+		\n
+		</text>
+	</string>
+
+</string_table>

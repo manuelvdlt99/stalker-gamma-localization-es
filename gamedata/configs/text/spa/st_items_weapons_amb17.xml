@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+	<string id="st_wpn_amb17">
+		<text>AMB-17</text>
+	</string>
+	<string id="st_wpn_amb17_descr">
+		<text>Un fusil de asalto compacto y con silenciador integrado diseñado para operaciones de sigilo y el combate en espacios cerrados. Su sistema de silenciador avanzado minimiza tanto el ruido como el fogonazo, lo que lo hace muy eficaz para fuerzas especiales y misiones encubiertas. Con un armazón ligero de polímero y un sistema de rieles modular, permite una fácil personalización con visores y accesorios tácticos a la par que conserva una excelente maniobrabilidad.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Rusia
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]Corporación Kaláshnikov
+		\n</text>
+	</string>
+	
+</string_table>

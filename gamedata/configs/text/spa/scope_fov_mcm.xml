@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+
+
+	<string id="ui_mcm_scop_title">
+		<text>Ajustes del HUD de la mira</text>
+	</string>	
+	<string id="ui_mcm_menu_scop">
+		<text>Ajustar HUD de la mira</text>
+	</string>
+
+	<string id="ui_mcm_scop_iron_fov">
+		<text>Miras de hierro</text>
+	</string>
+	<string id="ui_mcm_scop_iron_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses miras de hierro.</text>
+	</string>
+
+	<string id="ui_mcm_scop_scope_fov">
+		<text>Visores integrados</text>
+	</string>
+	<string id="ui_mcm_scop_scope_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores integrados.</text>
+	</string>
+
+	<string id="ui_mcm_scop_grenade_fov">
+		<text>Lanzagranadas</text>
+	</string>
+	<string id="ui_mcm_scop_grenade_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses lanzagranadas acoplados.</text>
+	</string>
+
+	<string id="ui_mcm_scop_1p78_fov">
+		<text>1P78</text>
+	</string>
+	<string id="ui_mcm_scop_1p78_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores 1P78.</text>
+	</string>
+	<string id="ui_mcm_scop_1pn93hv_fov">
+		<text>1PN93-1</text>
+	</string>
+	<string id="ui_mcm_scop_1pn93hv_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores 1PN93-1.</text>
+	</string>
+	<string id="ui_mcm_scop_1p29_fov">
+		<text>1p29</text>
+	</string>
+	<string id="ui_mcm_scop_1p29_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores 1p29.</text>
+	</string>
+	<string id="ui_mcm_scop_ps01_fov">
+		<text>PS01</text>
+	</string>
+	<string id="ui_mcm_scop_ps01_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores PS01.</text>
+	</string>
+	<string id="ui_mcm_scop_pso2_fov">
+		<text>PS02</text>
+	</string>
+	<string id="ui_mcm_scop_pso2_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores PS02.</text>
+	</string>
+	<string id="ui_mcm_scop_1pn93_fov">
+		<text>1PN93-4</text>
+	</string>
+	<string id="ui_mcm_scop_1pn93_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores 1PN93-4.</text>
+	</string>
+	<string id="ui_mcm_scop_pgo7gs_fov">
+		<text>PGO-7</text>
+	</string>
+	<string id="ui_mcm_scop_pgo7gs_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores PGO-7.</text>
+	</string>
+	<string id="ui_mcm_scop_1p59_fov">
+		<text>1P59</text>
+	</string>
+	<string id="ui_mcm_scop_1p59_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores 1P59.</text>
+	</string>
+	<string id="ui_mcm_scop_pu_fov">
+		<text>PU</text>
+	</string>
+	<string id="ui_mcm_scop_pu_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores PU.</text>
+	</string>
+	<string id="ui_mcm_scop_zf4_fov">
+		<text>ZF4</text>
+	</string>
+	<string id="ui_mcm_scop_zf4_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores ZF4.</text>
+	</string>
+	<string id="ui_mcm_scop_g43_fov">
+		<text>G43</text>
+	</string>
+	<string id="ui_mcm_scop_g43_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores G43.</text>
+	</string>
+	<string id="ui_mcm_scop_po4_fov">
+		<text>PO 4x34</text>
+	</string>
+	<string id="ui_mcm_scop_po4_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores PO 4x34.</text>
+	</string>
+	<string id="ui_mcm_scop_monstrum_fov">
+		<text>Monstrum</text>
+	</string>
+	<string id="ui_mcm_scop_monstrum_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Monstrum.</text>
+	</string>
+	<string id="ui_mcm_scop_acog_fov">
+		<text>ACOG</text>
+	</string>
+	<string id="ui_mcm_scop_acog_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores ACOG.</text>
+	</string>
+	<string id="ui_mcm_scop_trihawk_fov">
+		<text>Trihawk</text>
+	</string>
+	<string id="ui_mcm_scop_trihawk_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Trihawk.</text>
+	</string>
+	<string id="ui_mcm_scop_g36_fov">
+		<text>G36</text>
+	</string>
+	<string id="ui_mcm_scop_g36_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores de Picatinny para G36.</text>
+	</string>
+	<string id="ui_mcm_scop_side_fov">
+		<text>Mira lateral de Winchester</text>
+	</string>
+	<string id="ui_mcm_scop_side_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con miras laterales de Winchester.</text>
+	</string>
+	<string id="ui_mcm_scop_vulcan_fov">
+		<text>Vulcan</text>
+	</string>
+	<string id="ui_mcm_scop_vulcan_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Vulcan.</text>
+	</string>
+	<string id="ui_mcm_scop_susat_fov">
+		<text>SUSAT</text>
+	</string>
+	<string id="ui_mcm_scop_susat_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores SUSAT.</text>
+	</string>
+	<string id="ui_mcm_scop_bravo_fov">
+		<text>Bravo4</text>
+	</string>
+	<string id="ui_mcm_scop_bravo_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Bravo4.</text>
+	</string>
+	<string id="ui_mcm_scop_hamr_fov">
+		<text>HAMR</text>
+	</string>
+	<string id="ui_mcm_scop_hamr_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores HAMR.</text>
+	</string>
+	<string id="ui_mcm_scop_specter_fov">
+		<text>Specter</text>
+	</string>
+	<string id="ui_mcm_scop_specter_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Specter.</text>
+	</string>
+	<string id="ui_mcm_scop_tac30_fov">
+		<text>Tac30</text>
+	</string>
+	<string id="ui_mcm_scop_tac30_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Tac30.</text>
+	</string>
+	<string id="ui_mcm_scop_uh1_fov">
+		<text>Magnificador UH1</text>
+	</string>
+	<string id="ui_mcm_scop_uh1_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con magnificadores UH1.</text>
+	</string>
+	<string id="ui_mcm_scop_e0t2_fov">
+		<text>Magnificador XPS3</text>
+	</string>
+	<string id="ui_mcm_scop_e0t2_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con magnificadores XPS3.</text>
+	</string>
+	<string id="ui_mcm_scop_devo_fov">
+		<text>D-Evo</text>
+	</string>
+	<string id="ui_mcm_scop_devo_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores D-Evo.</text>
+	</string>
+	<string id="ui_mcm_scop_pn23_fov">
+		<text>PN23</text>
+	</string>
+	<string id="ui_mcm_scop_pn23_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores PN23.</text>
+	</string>
+	<string id="ui_mcm_scop_razorhd_fov">
+		<text>Razor HD</text>
+	</string>
+	<string id="ui_mcm_scop_razorhd_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Razor HD.</text>
+	</string>
+	<string id="ui_mcm_scop_ps320_fov">
+		<text>PS320</text>
+	</string>
+	<string id="ui_mcm_scop_ps320_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores PS320.</text>
+	</string>
+	<string id="ui_mcm_scop_leupold_fov">
+		<text>CQBSS</text>
+	</string>
+	<string id="ui_mcm_scop_leupold_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores CQBSS.</text>
+	</string>
+	<string id="ui_mcm_scop_march_fov">
+		<text>March Shorty</text>
+	</string>
+	<string id="ui_mcm_scop_march_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores March Shorty.</text>
+	</string>
+	<string id="ui_mcm_scop_ado_fov">
+		<text>Ado</text>
+	</string>
+	<string id="ui_mcm_scop_ado_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Ado.</text>
+	</string>
+	<string id="ui_mcm_scop_gauss_fov">
+		<text>Mira Gauss</text>
+	</string>
+	<string id="ui_mcm_scop_gauss_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con miras Gauss.</text>
+	</string>	
+		<string id="ui_mcm_scop_cortex_fov">
+		<text>Cortex</text>
+	</string>
+	<string id="ui_mcm_scop_cortex_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores Cortex.</text>
+	</string>
+	<string id="ui_mcm_scop_marchf_fov">
+		<text>March F Tactical</text>
+	</string>
+	<string id="ui_mcm_scop_marchf_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con visores March F Tactical.</text>
+	</string>
+	<string id="ui_mcm_scop_skeet_fov">
+		<text>Skeet X IR</text>
+	</string>
+	<string id="ui_mcm_scop_skeet_fov_desc">
+		<text>Los valores más bajos acercan la mira cuando uses armas con el accesorio térmico Skeet X IR acoplado. Este ajuste debería dejarse igual que el de los visores integrados.</text>
+	</string>
+	
+	<string id="ui_mcm_scop_keybind_add">
+		<text>Alejar el arma</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_add_desc">
+		<text>Aleja el arma que estés sujetando aumentando el campo visual.</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_subtract">
+		<text>Acercar el arma</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_subtract_desc">
+		<text>Acerca el arma que estés sujetando disminuyendo el campo visual.</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_reset">
+		<text>Restablecer arma actual</text>
+	</string>
+	<string id="ui_mcm_scop_keybind_reset_desc">
+		<text>Ajusta el campo visual de arma que estés sujetando a sus valores normales.</text>
+	</string>
+
+	<string id="ui_mcm_scop_snk_update_mcm">
+		<text>Actualiza el MCM para ver esta función. Las teclas predeterminadas son + y - del teclado numérico y Retroceso para restablecer el arma actual.</text>
+	</string>
+</string_table>

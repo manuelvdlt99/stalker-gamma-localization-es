@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_wpn_mossberg590a1_rail">
+		<text>Mossberg 590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_rail_s">
+		<text>M590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_rail_descr">
+		<text>Una escopeta de corredera diseñada para uso militar y policial que cuenta con un cañón grueso y durabilidad aumentada para condiciones extremas. Su diseño ergonómico y su capacidad para aceptar varios tipos de munición la convierten en una opción versátil y fiable para el combate en espacios cerrados. Con una reputación de fiabilidad y construcción robusta, sigue siendo fundamental en aplicaciones tácticas y defensivas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]O.F. Mossberg &amp; Sons
+		\n</text>
+	</string>
+
+	<string id="st_wpn_mossberg590a1">
+		<text>Mossberg 590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_s">
+		<text>M590A1</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_descr">
+		<text>Una escopeta de corredera diseñada para uso militar y policial que cuenta con un cañón grueso y durabilidad aumentada para condiciones extremas. Su diseño ergonómico y su capacidad para aceptar varios tipos de munición la convierten en una opción versátil y fiable para el combate en espacios cerrados. Con una reputación de fiabilidad y construcción robusta, sigue siendo fundamental en aplicaciones tácticas y defensivas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]O.F. Mossberg &amp; Sons
+		\n</text>
+	</string>
+
+	<string id="st_wpn_mossberg590a1_wood">
+		<text>Mossberg 590A1 Retrograde</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_wood_s">
+		<text>M590A1 Retrograde</text>
+	</string>
+	<string id="st_wpn_mossberg590a1_wood_descr">
+		<text>La Mossberg 590A1 es una escopeta de bombeo sin martillo diseñada por Carl Benson. Modificada a instancias de la Armada, este modelo mejorado tiene un guardamonte y seguro de aluminio, un cañón más pesado y un soporte para bayoneta. Pensado para su uso en condiciones extremas, esta arma se convirtió en la escopeta reglamentaria de las Fuerzas Armadas de los Estados Unidos. La Retrograde combina un rendimiento moderno con partes de nogal al estilo clásico, lo que la convierte en una opción muy eficaz para la defensa del hogar, el combate y para coleccionistas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Origen: %c[ui_gray_1]Estados Unidos
+		\n %c[d_cyan] • %c[ui_gray_2] Fabricante: %c[ui_gray_1]O.F. Mossberg &amp; Sons
+		\n</text>
+	</string>
+
+</string_table>

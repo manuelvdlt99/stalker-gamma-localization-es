@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+<string_table>
+
+	
+	
+	<string id="st_af_sandstone_descr">
+		<text>Este artefacto, formado en anomalías de temperaturas extremas, produce un leve tictac constante que parece acelerarse cuando algo muere cerca. No es radiactivo y carece de propiedades útiles.</text>
+	</string>
+	
+	<string id="st_pba_af_sandstone_perk">
+		<text>%c[0,209,172,56]Ventaja: %c[d_orange]TEMPO LETAL
+		\n %c[0,81,63,22] • %c[0,209,172,56] +6 % de mitigación de daño de clase BR
+		\n %c[0,81,63,22] • %c[0,209,172,56] Matar stalkers o mutantes te infunde un gran poder
+		\n %c[0,81,63,22] • %c[0,209,172,56] Estos potenciadores duran 5 segundos
+		\n %c[0,81,63,22] • %c[ui_red] Aumenta el daño recibido en un 25 %
+		\n %c[0,81,63,22] • %c[0,209,172,56] 1 COPIA: otorga un aumento repentino de la velocidad de movimiento
+		\n %c[0,81,63,22] • %c[0,209,172,56] 2 COPIAS: otorga una pequeña regeneración de salud general
+		\n %c[0,81,63,22] • %c[0,209,172,56] 3 COPIAS: cura ligeramente una parte aleatoria del cuerpo
+		\n %c[0,81,63,22] • %c[0,209,172,56] 4 COPIAS: cura ligeramente otra parte aleatoria del cuerpo
+		\n %c[0,81,63,22] • %c[0,209,172,56] 5 COPIAS: elimina el perjuicio de 25 % de daño recibido
+		\n %c[0,81,63,22] • %c[0,209,172,56] ¿Varios artefactos se acumulan?: %c[ui_green]SÍ
+		\n %c[0,81,63,22] • %c[0,209,172,56] ¿Rendimiento decreciente?: %c[ui_red]SÍ
+		\n</text>
+	</string>
+
+	<string id="st_pba_af_elektron_perk">
+		<text>%c[0,209,172,56]Ventaja: %c[d_orange]ALTO VOLTAJE
+		\n %c[0,81,63,22] • %c[0,209,172,56] Pisar una anomalía electro recargará las pilas y los dispositivos activos
+		\n %c[0,81,63,22] • %c[0,209,172,56] Pisar una anomalía electro dará un esprint infinito durante un breve periodo de tiempo
+		\n %c[0,81,63,22] • %c[0,209,172,56] Tener 5 copias te permite recargar las baterías de los exoesqueletos
+		\n %c[0,81,63,22] • %c[0,209,172,56] ¿Varios artefactos se acumulan?: %c[ui_green]SÍ %c[ui_red](pero también no)
+		\n</text>
+	</string>
+
+	<string id="st_pba_af_repei_perk">
+		<text>%c[0,209,172,56]Ventaja: %c[d_orange]LACERACIONES LEVES
+		\n %c[0,81,63,22] • %c[0,209,172,56] Haces un 50 % menos de daño, pero consigues la habilidad de infligir daño por %c[ui_red]hemorragia%c[0,209,172,56]
+		\n %c[0,81,63,22] • %c[0,209,172,56] Baja probabilidad de que las cosas sangren al impactar
+		\n %c[0,81,63,22] • %c[0,209,172,56] El daño por hemorragia es proporcional al daño del arma
+		\n %c[0,81,63,22] • %c[0,209,172,56] ¿Varios artefactos se acumulan?: %c[ui_green]SÍ
+		\n %c[0,81,63,22] • %c[0,209,172,56] ¿Rendimiento decreciente?: %c[ui_red]SÍ
+		\n</text>
+	</string>
+
+</string_table>

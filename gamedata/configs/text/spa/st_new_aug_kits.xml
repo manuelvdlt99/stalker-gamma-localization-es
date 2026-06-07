@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+
+
+<string_table>
+
+	<string id="st_addon_scope_infiltrator_tactical_kit">
+		<text>Kit táctico Infiltrator para AUG 9 mm</text>
+	</string>
+	<string id="st_addon_scope_infiltrator_tactical_kit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] AUG A3 9 mm
+		
+		\n \n%c[ui_gray_1]Kit táctico Infiltrator para el Steyr AUG en calibre 9 mm. El kit incluye un cañón pesado largo (508 mm), una culata VLTOR de perfli bajo con un riel táctico Corvus Defensio, mira térmica VooDoo-S con ACOG (retícula TA47C) y mira láser MAWL-C1+. 
+		
+		\n \nINCLUYE:
+		\n %c[d_green] • %c[ui_gray_2] Precisión considerablemente mejorada
+		\n %c[d_green] • %c[ui_gray_2] Aumento considerable de la velocidad de salida y del alcance efectivo del arma
+		\n %c[d_green] • %c[ui_gray_2] Daño aumentado
+		\n</text>
+	</string>
+
+	<string id="st_addon_scope_spectre_tactical_kit">
+		<text>Kit táctico Spectre para AUG 9 mm</text>
+	</string>
+	<string id="st_addon_scope_spectre_tactical_kit_descr">
+		<text>COMPATIBILIDAD:
+		\n %c[d_cyan] • %c[ui_gray_2] AUG A3 9 mm
+		
+		\n \n%c[ui_gray_1]Kit táctico Infiltrator para el Steyr AUG en calibre 9 mm. El kit incluye un cañón alargado (417 mm), una culata negra Spectre personalizada, una mira Etherium Holo con un magnificador de 3x y una mira láser MAWL-C1+.
+		
+		\n \nINCLUYE:
+		\n %c[d_green] • %c[ui_gray_2] Precisión ligeramente mejorada
+		\n %c[d_green] • %c[ui_gray_2] Ligero aumento de la velocidad de salida y del alcance efectivo del arma
+		\n %c[d_green] • %c[ui_gray_2] Daño ligeramente aumentado
+		\n</text>			
+	</string>		
+
+</string_table>

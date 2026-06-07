@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+   <string id="st_placeable_wall02">
+		<text>Pared de madera</text>
+	</string>
+	<string id="st_placeable_wall02_descr">
+		<text>Una pequeña pared hecha de tablones de madera que mide aproximadamente 2 metros por 3 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cimentación estructural
+		\n</text>
+	</string>
+
+   <string id="st_placeable_wall">
+		<text>Pared de madera</text>
+	</string>
+	<string id="st_placeable_wall_descr">
+		<text>Una gran pared hecha de tablones de madera que mide aproximadamente 5 metros por 3 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cimentación estructural
+		\n</text>
+	</string>
+
+   <string id="st_placeable_wall_doorway">
+		<text>Pared de madera con portal</text>
+	</string>
+	<string id="st_placeable_wall_doorway_descr">
+		<text>Una pared de madera y portal que mide aproximadamente 5 metros por 3 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Puerta compatible: %c[ui_gray_1]100 x 190 cm
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cimentación estructural
+		\n</text>
+	</string>
+
+   <string id="st_placeable_wall02_metal">
+		<text>Pared de chapas de metal</text>
+	</string>
+	<string id="st_placeable_wall02_metal_descr">
+		<text>Una robusta pared de chapas de metal que mide aproximadamente 2 metros por 3 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cimentación estructural
+		\n</text>
+	</string>
+
+   <string id="st_placeable_wall_metal">
+		<text>Pared de chapas de metal</text>
+	</string>
+	<string id="st_placeable_wall_metal_descr">
+		<text>Una gran pared hecha de techumbre de hojalata que mide aproximadamente 5 metros por 3 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cimentación estructural
+		\n</text>
+	</string>
+
+   <string id="st_placeable_wall_doorway_metal">
+		<text>Pared de chapas de metal con portal</text>
+	</string>
+	<string id="st_placeable_wall_doorway_metal_descr">
+		<text>Una gran pared hecha de techumbre de hojalata con una abertura para una puerta que mide aproximadamente 5 metros por 3 metros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Colocable
+		\n %c[d_orange] • %c[ui_gray_2] Puerta compatible: %c[ui_gray_1]100 x 190 cm
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]cimentación estructural
+		\n</text>
+	</string>
+
+</string_table>

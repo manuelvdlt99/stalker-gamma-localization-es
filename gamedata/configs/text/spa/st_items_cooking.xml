@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_matches">
+		<text>Kit del encendedor</text>
+	</string>
+	<string id="st_matches_descr">
+		<text>Un simple conjunto de palos de madera de pino impregnados de resina. El kit del encendedor permite crear una hoguera pequeña pero constante. Fácil de encender, ¡incluso en mojado!
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]encender fuegos
+		\n</text>
+	</string>
+	
+	<string id="st_wood_stove">
+		<text>Estufa de leña hexagonal</text>
+	</string>
+	<string id="st_wood_stove_descr">
+		<text>Este hornillo plegable está pensado para cocinar menús de un solo plato con leña seca. La estufa puede producir temperaturas suficientes para asar carne mutante menos envenenada, pero, para preparar carne más tóxica, hace falta equipo más avanzado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]carbón
+		\n %c[d_orange] • %c[ui_gray_2] Cocina: %c[ui_gray_1]solo carne de mutantes de baja categoría
+		\n</text>
+	</string>
+	
+	<string id="st_cooking">
+		<text>Kit de cocina de campaña</text>
+	</string>
+	<string id="st_cooking_descr">
+		<text>Un kit que contiene accesorios y utensilios de cocina para utilizar en acampadas y viajes. Es poco práctico debido a su peso, pero sigue siendo muy popular entre los grupos de stalkers. El kit de cocina puede producir temperaturas suficientes para asar la carne de mutantes de baja categoría envenenadas, pero para preparar carne tóxica de mutantes superiores es necesario equipo más avanzado.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]carbón
+		\n %c[d_orange] • %c[ui_gray_2] Cocina: %c[ui_gray_1]solo carne de mutantes de baja categoría
+		\n</text>
+	</string>
+	
+	<string id="st_army_bowler">
+		<text>Hervidor militar</text>
+	</string>
+	<string id="st_army_bowler_descr">
+		<text>Un hervidor de metal duradero diseñado para el uso militar, ideal para hervir agua y preparar comidas sencillas sobre una fuente de calor portátil. Su robusta construcción garantiza la fiabilidad. Incluye una cuchara insertada en un agujero especial en el mango.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]carbón
+		\n %c[d_orange] • %c[ui_gray_2] Cocina: %c[ui_gray_1]solo carne de mutantes de baja categoría
+		\n</text>
+	</string>
+	
+	<string id="st_fieldcooker">
+		<text>Hornillo de gas</text>
+	</string>
+	<string id="st_fieldcooker_descr">
+		<text>Este hornillo, que se utiliza exclusivamente con combustibles comunes en la Zona, puede cocinar cualquier cosa que se le eche. Por desgracia, estos combustibles suelen transportarse en pesados recipientes metálicos, por lo que este hornillo es más adecuado para su uso en las bases que sobre el terreno.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible: %c[ui_gray_1]gasolina, queroseno
+		\n %c[d_orange] • %c[ui_gray_2] Cocina: %c[ui_gray_1]toda la carne mutante
+		\n</text>
+	</string>
+	
+	<string id="st_box_matches">
+		<text>Caja de cerillas</text>
+	</string>
+	<string id="st_box_matches_descr">
+		<text>Un pequeño recipiente que contiene una colección de cerillas, indispensables para encender fuegos en ausencia de mecheros modernos. En la Zona, una caja de cerillas fiable es un salvavidas para el calor y la cocina.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_orange] • %c[ui_gray_2] Uso: %c[ui_gray_1]encender fuegos, encender cigarrillos
+		\n</text>
+	</string>
+	
+	<string id="st_kerosene">
+		<text>Queroseno</text>
+	</string>
+	<string id="st_kerosene_descr">
+		<text>Un líquido inflamable que se usa comúnmente como combustible para estufas y lámparas portátiles, proporcionando una fuente de calor fiable para cocinar y calentarse. En la Zona, los stalkers utilizan el queroseno con estufas multicombustible para preparar comidas con seguridad, ya que arde de forma más limpia que los materiales locales contaminados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible para cocinar
+		\n</text>
+	</string>
+	
+	<string id="st_charcoal">
+		<text>Carbón</text>
+	</string>
+	<string id="st_charcoal_descr">
+		<text>Material de carbón comprimido usado comúnmente como combustible para cocinar y calentarse. En la Zona, se prefiere el carbón vegetal a la madera natural contaminada, ya que proporciona una fuente de calor más segura y constante para los stalkers.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Combustible para cocinar
+		\n</text>
+	</string>
+
+	<string id="st_fuel_tier_1">
+		<text>Todos los materiales inflamables</text>
+	</string>
+	<string id="st_fuel_tier_1_desc">
+		<text>%c[d_blue] • %c[ui_gray_2] Hoguera
+		\n%c[d_blue] • %c[ui_gray_2] Carbón
+		\n%c[d_blue] • %c[ui_gray_2] Bombona de gas
+		\n%c[d_blue] • %c[ui_gray_2] Bidón de gasolina
+		\n%c[d_blue] • %c[ui_gray_2] Queroseno
+		\n</text>
+	</string>
+	
+	<string id="st_fuel_tier_2">
+		<text>Solo combustible líquido</text>
+	</string>
+	<string id="st_fuel_tier_2_desc">
+		<text>%c[d_blue] • %c[ui_gray_2] Queroseno
+		\n%c[d_blue] • %c[ui_gray_2] Bidón de gasolina
+		\n%c[d_blue] • %c[ui_gray_2] Bombona de gas
+		\n</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+
+
+	<string id="mutant_boar_chop">
+		<text>Chuleta de jabalí</text>
+	</string>
+	<string id="mutant_boar_chop_description">
+		<text>Un trozo de carne extraído de un jabalí mutante, duro y con sabor fuerte, pero comestible si se cocina adecuadamente. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de baja categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_krovosos_meat">
+		<text>Carne de chupasangre</text>
+	</string>
+	<string id="mutant_krovosos_meat_description">
+		<text>Carne cortada de un chupasangre muerto; su textura gomosa y fibrosa la hace poco apetecible y, por lo tanto, no apta para el consumo. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de alta categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_chimera_meat">
+		<text>Carne de quimera</text>
+	</string>
+	<string id="mutant_chimera_meat_description">
+		<text>Una pieza inusual y muy peligrosa extraída de la feroz quimera, conocida por sus duras fibras musculares y su peculiar sabor. Puesto que es considerada una de las criaturas más peligrosas, los stalkers veteranos valoran mucho su carne.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de alta categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_dog_meat">
+		<text>Carne de perro</text>
+	</string>
+	<string id="mutant_dog_meat_description">
+		<text>Carne extraída de perros salvajes de la Zona, fibrosa y desagradable, pero se suele comer como alternativa más barata a la carne de jabalí más popular. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de baja categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_flesh_meat">
+		<text>Carne de carne</text>
+	</string>
+	<string id="mutant_flesh_meat_description">
+		<text>Una fuente común de proteína mutante procedente de las lentas criaturas carne, sorprendentemente apetecible cuando se cocina adecuadamente. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de baja categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_lurker_meat">
+		<text>Carne de merodeador</text>
+	</string>
+	<string id="mutant_lurker_meat_description">
+		<text>Carne dura y correosa extraída de un merodeador, más adecuada para guisos debido a su consistencia gomosa. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de alta categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_psevdodog_meat">
+		<text>Carne de pseudoperro</text>
+	</string>
+	<string id="mutant_psevdodog_meat_description">
+		<text>Carne muy nutritiva de un pseudoperro mutante. Se sabe que es más comestible que la carne de sus homólogos caninos ordinarios. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de baja categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+	
+	<string id="mutant_psysucker_meat">
+		<text>Carne de psicovampiro</text>
+	</string>
+	<string id="mutant_psysucker_meat_description">
+		<text>La carne de psicovampiro, similar a la de chupasangre, tiene una textura gomosa y fibrosa y no es apta para el consumo. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de alta categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_tushkano_meat">
+		<text>Carne de tushkano</text>
+	</string>
+	<string id="mutant_tushkano_meat_description">
+		<text>Una pequeña porción de carne del pseudoroedor tushkano, apenas da para una comida. Aunque es relativamente segura en comparación con los mutantes más grandes, suele considerarse carroña. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de baja categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	<string id="mutant_snork_hand">
+		<text>Mano de snork</text>
+	</string>
+	<string id="mutant_snork_hand_description">
+		<text>Una mano cercenada y con garras de un snork, que normalmente se conserva como trofeo o prueba de una caza, en lugar de para el consumo. Aunque es técnicamente comestible, la mayoría de los stalkers la evitan, ya que se considera un acto caníbal e inmoral. Nótese que el consumo de carne mutante cruda siempre conlleva el riesgo de contaminación o exposición a la radiación.
+		
+		\n \n%c[ui_red]ADVERTENCIA: carne cruda
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Carne mutante de baja categoría
+		\n %c[d_cyan] • %c[ui_gray_2] Cocinable
+		\n</text>
+	</string>
+
+	
+
+	<string id="st_meat_bloodsucker">
+		<text>Goulash de chupasangre</text>
+	</string>
+	<string id="st_meat_bloodsucker_descr">
+		<text>Un pequeño estofado denso y rico en hierro, elaborado con la carne fibrosa de un chupasangre y condimentado con diversas hierbas y setas.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada de alta categoría
+		\n</text>
+	</string>
+	
+	<string id="st_meat_boar">
+		<text>Chuletas de jabalí</text>
+	</string>
+	<string id="st_meat_boar_descr">
+		<text>Gruesos trozos de carne de jabalí, sazonados con sal y diversas hierbas. Sin duda, la comida caliente más popular entre los stalkers.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada
+		\n</text>
+	</string>
+
+	<string id="st_meat_dog">
+		<text>Chuletas de perro</text>
+	</string>
+	<string id="st_meat_dog_descr">
+		<text>Cortes magros y fibrosos de la carne de los perros salvajes de la Zona. Su sabor intenso y a caza se complementa con diversas hierbas. Una alternativa barata a la carne de jabalí más popular.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada
+		\n</text>
+	</string>
+
+	<string id="st_meat_flesh">
+		<text>Bacon de carne</text>
+	</string>
+	<string id="st_meat_flesh_descr">
+		<text>Tiras de carne grasa de carne, valga la redundancia, cocinadas hasta quedar crujientes y sorprendentemente sabrosas. Es uno de los platos mutantes más apetitosos.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada
+		\n</text>
+	</string>
+
+	<string id="st_meat_snork">
+		<text>Mano de snork cocinada</text>
+	</string>
+	<string id="st_meat_snork_descr">
+		<text>Un manjar grotesco, cocinado hasta que la piel se agrieta y la carne se desprende del hueso. La mayoría de los stalkers lo comen como un reto o lo incluyen en sus comidas para demostrar su superioridad sobre los demás.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada
+		\n</text>
+	</string>
+	
+	<string id="st_meat_lurker">
+		<text>Chuletas de merodeador</text>
+	</string>
+	<string id="st_meat_lurker_descr">
+		<text>Trozos duros de carne de merodeador mutante, cocinados a fuego lento para ablandar su densa textura y sazonados con sal y diversas hierbas. Con el adobo adecuado, tiene un sabor sorprendentemente rico, aunque la mayoría de los stalkers lo consideran, en el mejor de los casos, un gusto adquirido.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada de alta categoría
+		\n</text>
+	</string>
+
+	<string id="st_meat_chimera">
+		<text>Goulash de quimera</text>
+	</string>
+	<string id="st_meat_chimera_descr">
+		<text>Un plato inusual y exótico hecho de carne de quimera, cocinada a conciencia para ablandar sus densas fibras musculares y servido con setas y diversas especias. Una comida cara que normalmente consumen los stalkers veteranos para celebrar la realización de misiones complicadas.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada de alta categoría
+		\n</text>
+	</string>
+
+	<string id="st_meat_pseudodog">
+		<text>Chuletas de pseudoperro</text>
+	</string>
+	<string id="st_meat_pseudodog_descr">
+		<text>Rodajas gruesas de carne de pseudoperro, asadas hasta quedar bien hechas para garantizar su seguridad. La carne es sabrosa y de sabor fuerte y ofrece un buen valor nutricional gracias a la musculatura robusta del animal.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada
+		\n</text>
+	</string>
+
+	<string id="st_meat_psysucker">
+		<text>Goulash de psicovampiro</text>
+	</string>
+	<string id="st_meat_psysucker_descr">
+		<text>Un estofado muy hervido de carne de psicovampiro, cargado de hierbas para contrarrestar su perturbador origen. A pesar de considerarse seguro para el consumo, algunos stalkers informan de sueños lúcidos e intrusivos tras consumirlo, pero son solo especulaciones.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada de alta categoría
+		\n</text>
+	</string>
+
+	<string id="st_meat_tushkano">
+		<text>Pinchos de rata</text>
+	</string>
+	<string id="st_meat_tushkano_descr">
+		<text>Pinchos de carne de tushkano asada, a menudo muy sazonados para camuflar el sabor. Baratos, comunes y lo bastante saciantes como para mantener en movimiento a un stalker hambriento.
+		
+		\n \n%c[ui_gray_2]NOTA: %c[ui_gray_1]la calidad y salubridad de una comida dependen de cómo se prepare.
+		\n %c[d_orange] • %c[ui_gray_2] Las comidas producidas en la Zona%c[ui_gray_2], aunque están menos contaminadas, siguen siendo insalubres.
+		\n %c[pda_yellow] • %c[ui_gray_2] Las comidas guisadas %c[ui_gray_2]precisan agua limpia y están considerablemente menos contaminadas.
+		\n %c[d_green] • %c[ui_gray_2] Las comidas purificadas %c[ui_gray_2]precisan vodka y no solo están libres de radiación, sino que aportan efectos revitalizantes.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_cyan] • %c[ui_gray_2] Comida cocinada
+		\n</text>
+	</string>
+
+
+
+	<string id="mutant_boar_leg">
+		<text>Pata de jabalí</text>
+	</string>
+	<string id="mutant_boar_leg_description">
+		<text>Una extremidad conservada de un jabalí mutante, cuyas pezuñas contienen queratina y otros compuestos biológicos que pueden descomponerse y refinarse para obtener componentes para diversos fármacos y medicamentos. En la Zona, estos materiales son especialmente valiosos para la elaboración de analgésicos, coagulantes y estimulantes improvisados.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_heart_bloodsucker">
+		<text>Corazón de chupasangre</text>
+	</string>
+	<string id="mutant_heart_bloodsucker_description">
+		<text>El corazón del chupasangre secreta una enzima poco común que impide la coagulación de la sangre, lo que permite a la criatura alimentarse de sus presas de forma más eficiente. Los científicos que estudian esta enzima creen que podría adaptarse para elaborar potentes medicamentos anticoagulantes o, posiblemente, utilizarse para detener el proceso de coagulación causado por tipos de sangre incompatibles, solucionando así el problema de los donantes de sangre para pacientes con tipos de sangre raros.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_krovosos_jaw">
+		<text>Mandíbula de chupasangre</text>
+	</string>
+	<string id="mutant_krovosos_jaw_description">
+		<text>Similar al corazón del chupasangre, sus tentáculos secretan una enzima poco común que impide la coagulación de la sangre, lo que permite a la criatura alimentarse de sus presas de forma más eficiente. Los científicos que estudian esta enzima creen que podría adaptarse para elaborar potentes medicamentos anticoagulantes o, posiblemente, utilizarse para detener el proceso de coagulación causado por tipos de sangre incompatibles, solucionando así el problema de los donantes de sangre para pacientes con tipos de sangre raros. Algunos stalkers también usan sus dientes para hacer collares y amuletos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_tusk_boar">
+		<text>Colmillo de jabalí</text>
+	</string>
+	<string id="mutant_tusk_boar_description">
+		<text>El colmillo de un jabalí de la Zona, que mide unos 30 centímetros de media. No despiertan un interés particular entre los científicos debido a su composición y resistencia mediocres, aunque fuera de la Zona, suelen utilizarse como trofeo entre los stalkers o como objeto de colección.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_brain_burer">
+		<text>Cerebro de sepulturero</text>
+	</string>
+	<string id="mutant_brain_burer_description">
+		<text>Los sepultureros tienen habilidades telepáticas que la comunidad científica aún está por entender. La masa media de su cerebro es entre 1,5 y 2,5 veces mayor que la del cerebro humano. Su estructura también muestra mutaciones considerables, lo que apunta a la influencia de la Zona en la cognición. Por tanto, son muy codiciados por los científicos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_burer_hand">
+		<text>Mano de sepulturero</text>
+	</string>
+	<string id="mutant_burer_hand_description">
+		<text>Una mano arrugada y con forma de garra perteneciente a un sepulturero, considerada clave para sus habilidades telequinéticas. Los científicos estudian su singular musculatura y sus grupos nerviosos, mientras que algunos stalkers la coleccionan con fines ocultistas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_cat_claw">
+		<text>Garra de gato</text>
+	</string>
+	<string id="mutant_cat_claw_description">
+		<text>Una garra afilada y curvada de un gato mutante, cuya estructura molecular se desconoce. Sus bordes aserrados muestran adaptaciones para la caza en el terreno inhóspito de la Zona. Científicos y militares creen que un estudio exhaustivo contribuirá a la creación de nuevos materiales y blindajes duraderos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_cat_tail">
+		<text>Cola de gato</text>
+	</string>
+	<string id="mutant_cat_tail_description">
+		<text>Los gatos de la Zona son mayores que sus primos domésticos y son depredadores muy peligrosos capaces de moverse con rapidez y sin hacer ruido. En la comunidad stalker, la cola de un gato es un símbolo de conciencia y competencia.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_cat_thyroid">
+		<text>Tiroides de gato</text>
+	</string>
+	<string id="mutant_cat_thyroid_description">
+		<text>Una glándula poco común de un gato mutante, que se cree que regula su metabolismo en un entorno altamente irradiado. Los científicos sospechan que influye en los reflejos aguzados y la agresividad del gato. Estos rasgos les han permitido sustituir rápidamente a sus parientes sanos y ocupar una posición más elevada en la cadena trófica.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_chimera_claw">
+		<text>Garra de quimera</text>
+	</string>
+	<string id="mutant_chimera_claw_description">
+		<text>La garra de una quimera. Se desconoce su composición molecular exacta, pero es tan duradera y afilada como el diamante. Valorada para tanto estudios científicos como colecciones de trofeos, su estructura ósea es inusualmente densa, adaptada para desgarrar blindajes y carne por igual.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_heart_chimera">
+		<text>Corazón de quimera</text>
+	</string>
+	<string id="mutant_heart_chimera_description">
+		<text>El corazón de la quimera ha mutado, convirtiéndose en un órgano de dos cámaras que, en esencia, funciona como dos corazones fusionados para bombear sangre a una velocidad increíble. Esta adaptación le permite al mutante mantener sus ráfagas extremas de velocidad y poder, asegurando un flujo constante de oxígeno a sus enormes músculos durante sus implacables ataques. Actualmente se buscan para ayudar en el estudio de las tasas de mortalidad de los gemelos siameses.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+	
+	<string id="mutant_chimera_cogot">
+		<text>Cuerno de quimera</text>
+	</string>
+	<string id="mutant_chimera_cogot_description">
+		<text>El cuerno de una quimera. Se desconoce su composición molecular exacta, pero la punta es tan duradera y afilada como el diamante. Algunos stalkers creen que tiene propiedades místicas, mientras que los científicos lo ven como un producto de una adaptación medioambiental extrema. Estos artículos tienen una gran demanda y son muy valiosos, ya que son muy buscados por coleccionistas fuera de la Zona.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_part_controller_brain_tissue">
+		<text>Tejido cerebral de controlador</text>
+	</string>
+	<string id="mutant_part_controller_brain_tissue_description">
+		<text>Muestras de tejido cerebral altamente mutado de un controlador. Los investigadores lo estudian para comprender el origen de las habilidades de control mental de la criatura, mientras que estudios científicos han descubierto que todos los mutantes con habilidades relacionadas con ondas psíquicas tienen un cerebro de estructura similar. Los científicos pagarán generosamente este tejido.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_controller_hand">
+		<text>Mano de controlador</text>
+	</string>
+	<string id="mutant_controller_hand_description">
+		<text>Una mano grotesca y esquelética de un controlador, con las yemas de los dedos extrañamente alargadas y sensibles. Algunos creen que estas manos influyen en la canalización de ondas psíquicas, aunque los datos siguen siendo inconclusos. Las examinarán con gusto con la esperanza de encontrar el origen de la mutación.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_dog_heart">
+		<text>Corazón de perro</text>
+	</string>
+	<string id="mutant_dog_heart_description">
+		<text>En carrera, el corazón de un perro mutado puede alcanzar hasta las 250 pulsaciones por minuto, cosa que es impensable para individuos sanos y no aterogénicos de la misma categoría de peso. Este rápido ritmo cardiaco permite a la criatura reaccionar más rápido, mantener persecuciones prolongadas y recuperarse rápidamente del esfuerzo, lo que convierte a su corazón en un tema interesante para el estudio.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_dog_liver">
+		<text>Hígado de perro</text>
+	</string>
+	<string id="mutant_dog_liver_description">
+		<text>El hígado de un perro tras haber experimentado importantes cambios debido a una dieta tóxica y la falta de agua potable en la Zona. Los investigadores lo usan para investigar cómo sobreviven los perros mutantes en el ecosistema tóxico de la Zona y por su potencial para ayudar en la investigación médica sobre enfermedades hepáticas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_dog_tail">
+		<text>Cola de perro</text>
+	</string>
+	<string id="mutant_dog_tail_description">
+		<text>La resistencia de la piel de perros mutantes a la electricidad y a los agentes químicos ha sido objeto de interés científico durante mucho tiempo. Debido a la ausencia de tejido adiposo, la cola resulta especialmente adecuada para pruebas de laboratorio. Cuando no se estudian, a veces se conservan como trofeo, como prueba de la presa cazada por un stalker.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_flesh_eye">
+		<text>Ojo de carne</text>
+	</string>
+	<string id="mutant_flesh_eye_description">
+		<text>Un ojo grande, inquietantemente parecido al humano, del carne, a menudo conservado para su estudio por sus milagrosas capacidades regenerativas. El descubrimiento de este mecanismo sin duda revolucionaría la medicina moderna.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_fracture_hand">
+		<text>Mano de fractura</text>
+	</string>
+	<string id="mutant_fracture_hand_description">
+		<text>Una mano retorcida de una fractura, con dedos alargados adaptados para agarrar a su presa. Su estructura muscular y ósea mutada resulta de interés para los biólogos que estudian los rápidos cambios evolutivos en la Zona. Es casi seguro que estas criaturas solían ser seres humanos y que son la consecuencia directa del segundo incidente de Chernóbil.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_lurker_eye">
+		<text>Ojo de merodeador</text>
+	</string>
+	<string id="mutant_lurker_eye_description">
+		<text>Un pequeño ojo depredador de gran sensibilidad, extraído de un merodeador, que le da ventaja en las emboscadas. Útil para estudiar la visión mutante, el brillo que rodea la pupila despierta el interés de cazadores y científicos locales.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+	
+	<string id="mutant_lurker_tail">
+		<text>Cola de merodeador</text>
+	</string>
+	<string id="mutant_lurker_tail_description">
+		<text>Una cola similar a un látigo, con músculos flexibles y crestas óseas afiladas, utilizada para el equilibrio y el combate. Los estudios científicos apuntan a que las características de la cola del merodeador son prueba de que se trata de una especie mutante de tushkano.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="st_mutant_part_crow_beak">
+		<text>Pico de cuervo mutado</text>
+	</string>
+	<string id="st_mutant_part_crow_beak_description">
+		<text>Si bien muchos stalkers no consideran los cuervos como más que una plaga, los individuos más perspicaces pulverizan los picos para crear brebajes especiales. Los científicos los estudian para entender cómo la Zona afecta hasta a las criaturas aéreas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_fang_psevdodog">
+		<text>Colmillo de pseudoperro</text>
+	</string>
+	<string id="mutant_fang_psevdodog_description">
+		<text>Los colmillos de pseudoperro no son especialmente fuertes y se reemplazan con frecuencia a lo largo de su vida. A los científicos no les interesan especialmente, aunque algunos stalkers los convierten en collares o joyas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_psevdodog_tail">
+		<text>Cola de pseudoperro</text>
+	</string>
+	<string id="mutant_psevdodog_tail_description">
+		<text>La cola de un pseudoperro, cuyo pelaje es increíblemente suave a pesar de la brutal naturaleza de la criatura. Esta adaptación parece ofrecer aislamiento contra las duras condiciones climáticas y la exposición a la radiación de la Zona. Los científicos estudian sus propiedades únicas con la esperanza de descubrir cómo el pelaje resiste la contaminación y si podría inspirar nuevos materiales protectores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_pseudogigant_eye">
+		<text>Ojo de pseudogigante</text>
+	</string>
+	<string id="mutant_pseudogigant_eye_description">
+		<text>Un enorme ojo inyectado de sangre del descomunal pseudogigante. Tiene aspecto de un ojo humano, con un iris multicolor y glándulas lacrimales excepcionalmente bien desarrolladas. Su resiliencia y adaptación a la oscuridad subterránea fascinan a los investigadores.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_pseudogigant_hand">
+		<text>Mano de pseudogigante</text>
+	</string>
+	<string id="mutant_pseudogigant_hand_description">
+		<text>Una enorme mano deforme de un pseudogigante con los nudillos cubiertos de gruesos callos. Se estudian su enorme fuerza de agarre y su densidad ósea para obtener información sobre mutaciones musculares extremas.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_psysucker_hand">
+		<text>Mano de psicovampiro</text>
+	</string>
+	<string id="mutant_psysucker_hand_description">
+		<text>Un apéndice retorcido y con garras de un psicovampiro que aún irradia débilmente energía psíquica. Los científicos esperan que su estudio revele cómo interactúan las emisiones psíquicas con el tejido biológico.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_snork_leg">
+		<text>Tendones de snork</text>
+	</string>
+	<string id="mutant_snork_leg_description">
+		<text>Estos tendones, extraídos de snorks mutados, presentan una elasticidad y resiliencia anormales, probablemente como resultado de una exposición prolongada a energía anómala. El estudio de sus propiedades especiales podría aportar información valiosa sobre mutaciones genéticas y bioingeniería, impulsando potencialmente la ciencia médica en ámbitos como la regeneración de tendones y el desarrollo de músculo sintético.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_snork_mask">
+		<text>Máscara de snork</text>
+	</string>
+	<string id="mutant_snork_mask_description">
+		<text>Una máscara antigás GP-5 dañada fusionada con el cráneo de un snork, un perturbador recordatorio de los orígenes humanos de la criatura. También las solían utilizar los soldados, así como los equipos de investigación y de servicios públicos que operaban en la Zona cuando ocurrió el segundo desastre de Chernóbil. Los científicos las recogen para estudiar cómo altera la Zona tanto el equipo como la biología.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_tushkano_head">
+		<text>Cabeza de tushkano</text>
+	</string>
+	<string id="mutant_tushkano_head_description">
+		<text>La cabeza cercenada del pseudoroedor tushkano ha desarrollado vías neuronales especializadas que funcionan como una mente colmena rudimentaria. Esta conciencia colectiva permite a las manadas reaccionar ante amenazas y oportunidades casi al instante, lo que las hace sorprendentemente coordinadas a pesar de su pequeño tamaño y escasa inteligencia. Los científicos están deseosos de comprender mejor este fenómeno.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+	<string id="mutant_zombi_hand">
+		<text>Mano de zombi</text>
+	</string>
+	<string id="mutant_zombi_hand_description">
+		<text>Una mano putrefacta, parcialmente humana, extraída de un stalker zombificado, inquietantemente reconocible. Los científicos la estudian en busca de pistas sobre el proceso de zombificación de la Zona y sus efectos neurológicos.
+		
+		\n \nPROPIEDADES:
+		\n %c[d_purple] • %c[ui_gray_2] Espécimen científico
+		\n</text>
+	</string>
+
+
+	
+</string_table>

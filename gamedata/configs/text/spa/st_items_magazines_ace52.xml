@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+
+<string_table>
+
+	<string id="st_mag_galil_7.62x54_7h1">
+		<text>Cargador modificado de 7,62 x 54 mm de Galil</text>
+	</string>
+	<string id="st_mag_galil_7.62x54_7h1_descr">
+		<text>%c[pda_white]PROPIEDADES:</text>
+	</string>
+	
+</string_table>

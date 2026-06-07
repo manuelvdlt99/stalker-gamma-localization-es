@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_1">
+		<text>Habla, ¿qué quieres?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_2">
+		<text>Bien, te escucho.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_3">
+		<text>¿Qué miras, qué quieres?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_4">
+		<text>Bien, ¿de qué querías hablar?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_5">
+		<text>¿Tienes la lengua metida en el culo?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_6">
+		<text>¿Qué eres, imbécil, defectuoso?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_7">
+		<text>Eh, ¿a lo mejor eres gilipollas?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_8">
+		<text>¡Joder, no aguanto a los tontos!</text>// capitalized &apos;damn&apos;, added apostrophe in &apos;can&apos;t&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_breath_breath_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_breath_breath_2">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_1">
+		<text>Joder, se me está retorciendo el estómago de hambre.</text>// capitalized &apos;damn&apos;, shortened whole &apos;will soon get into a knot from hunger.&apos; to &apos;guts&apos;re gonna knot from hunger&apos; to reinforce rough bandit tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_2">
+		<text>Su puta madre, no puedes seguir así sin pisar algo.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_3">
+		<text>Joder, ¿qué cocino? ¡Tengo unas ganas de comer!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_4">
+		<text>Mierda, tengo los bolsillos completamente vacíos; ojalá pudiera encontrar a algún pringado con algo de botín o, mejor aún, con dinero.</text>// changed &apos;pocket is really empty,&apos; &apos;pockets are really empty&apos; to reinforce down-on-luck tone, removed &apos;the&apos; before &apos;loot&apos; to better flow, replaced &apos;,&apos; after &apos;yet&apos; with &apos;â€”&apos; for more emphasis</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_5">
+		<text>Joder, me apetece tomarme una ampolla para dos o ir a ver a una prostituta.</text>// corrected &apos;ampule&apos; to &apos;ampoule&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_6">
+		<text>Ahora me apetece un vodka con algo de picar.</text>// removed &apos;and&apos; for proper emphasis, added &apos;a&apos; before &apos;soulful&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_7">
+		<text>Me gustaría disparar a algunas caras graciosas, esto es un coñazo.</text>// changed &apos;faced&apos; to &apos;faces&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_8">
+		<text>Estoy harto de estar aquí, no hay calefacción que valga, nada de nada.</text>// replaced &apos;,&apos; with &apos;â€”&apos; before &apos;nothing&apos; for emphasis</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_9">
+		<text>¡Joder, estoy harto de ir de un lado para otro muerto de hambre! ¡Tengo hambre!</text>// replaced &apos;,&apos; after &apos;starving&apos; with &apos;â€”&apos; for emphasis</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_10">
+		<text>¿Cómo están los jefes? ¡No les pasa nada, están bien! ¡Sentados con sus móviles, dirigiendo el cotarro!</text>// changed &apos;what with&apos; to &apos;how&apos;re the&apos;, &apos;There is&apos; removed and &apos;nothing&apos; changed to &apos;Nothing&apos;s&apos;, &apos;â€”&apos; replacing &apos;,&apos; before they&apos;re to better tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_11">
+		<text>¡Ya estoy harto de todo esto y de estos fanfarrones! Son como stalkers, todo guay.</text>// thinking this statement is talking about his comrades, removed &apos;,&apos; after &apos;this&apos;, removed &apos;like&apos; after &apos;these&apos;, replacing &apos;!&apos; after &apos;showoffs&apos;, replaced &apos;we&apos;re&apos; to &apos;They&apos;re&apos;, and second &apos;we&apos;re&apos; with &apos;all for emphasis.</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_12">
+		<text>¿Por qué vine aquí? Me dedicaba a dar vueltas por el barrio y todo eso.</text>// changed &apos;am I came here?&apos; to &apos;did I come here?&apos; for better past-tone.</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_13">
+		<text>¡Puta naturaleza! A mi ropa no le da tiempo de secarse, tengo los pies siempre mojados.</text>// insulting nature i guess, so &apos;Nature, fuck,&apos; changed to &apos;Fuck nature!&apos;.</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_14">
+		<text>Puta Zona, quiero ir a la ciudad.</text>// capitalized &apos;Zone&apos; and &apos;City&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_15">
+		<text>Ya no hay puta vida en ninguna parte. En la ciudad, redadas policiales constantes, aquí, peleles por todas partes.</text>changed &apos;,&apos; after &apos;city&apos; to &apos;;&apos;, replaced &apos;there are&apos; to &apos;nonstop&apos;, added &apos;,&apos; after &apos;here&apos; to better reinforce tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_16">
+		<text>Bueno, mi arma es genial, pero me la dio el jefe, así que también me la puede quitar.</text>// added &apos;my&apos; after &apos;well&apos;, removed &apos;how&apos;, capitalized &apos;Boss&apos;, removed &apos;away&apos;, to better reinforce tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_17">
+		<text>¡Eh, una mujer! Amaría a cualquiera, siempre y cuando tenga todo en su sitio.</text>added &apos;a&apos; before &apos;woman&apos;, &apos;loved&apos; to &apos;love&apos;, &apos;have&apos; to &apos;has&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_18">
+		<text>¡Vata-ta-ra-tadam! Mientras hacía mis operaciones bancarias, mi vida ha dado un giro.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_19">
+		<text>Wha-pa-pa-pa-pa-na-taram-na-taram-na-taram No pediste un deseo, como de costumbre.</text>// added &apos;.&apos; to end sentence</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_20">
+		<text>Gop-stop, doblamos la esquina. Gop-stop, te echaste mucho encima. Ahora ya es demasiado tarde para poner excusas, mira estas estrellas; na na na na na na na na na na na na fana turb turb turb...</text>// added &apos;;&apos; after &apos;stars,&apos;added &apos;...&apos; to end sentence</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_21">
+		<text>¡Uhh!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_22">
+		<text>Cof, cof, cof.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_23">
+		<text>¡Aghhhhhhhhhhhhhhhhhh!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_24">
+		<text>Cof, cof, cof.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_25">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_26">
+		<text>Ajem.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_27">
+		<text>Bueno, ¿por qué vinimos aquí? El jefe lo sabe. ¡Más le valdría haber preguntado a la pandilla o haberme preguntado a mí!</text>// replaced &apos;why&apos; with &apos;why&apos;d&apos;, removed &apos;like&apos; to reinforce tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_28">
+		<text>Hay que presionar más a ese mariconazo para que no suelte ninguna tontería. No puede esconderse con tanta gente alrededor.</text>// replaced &apos;will need to&apos; with &apos;gotta&apos; &apos;pus&apos; with &apos;pussy&apos;, removed &apos;,&apos; after &apos;faggot&apos;, &apos;unnecessary&apos; to &apos;stupid.&apos;, replaced &apos;because there so many people, you can&apos;t really hide, if you need too.&apos; to &apos;Can&apos;t hide with so many people around&apos;, to reinforce colloquial bandit tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_idle_idle_29">
+		<text>Voy a pasar un rato más. Algún día me compraré un arma de verdad; formaré mi propia brigada y seré el jefe al mando.</text>// replaced &apos;Nothing, nothing,&apos; to &apos;gonna&apos;, &apos;,&apos; after &apos;time&apos; with &apos;.&apos;, &apos;I will&apos; to &apos;One day I&apos;ll,&apos; to better reinforce tone. Removed &apos;and there I will&apos; to reinforce tone. Replaced &apos;,&apos; after &apos;gun&apos; with &apos;;&apos; for listing. Replaced &apos;I will become a boss and will be in charge.&apos; with &apos; and I&apos;ll be the Boss in charge.&apos; to better tone.</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_bad_1">
+		<text>Joder, bueno, está sin blanca.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_bad_2">
+		<text>¡No, este tipo era realmente tonto en vida! Ni reservas... ¡ni una mierda!</text>// replaced &apos;you&apos; with this&apos;, &apos;were&apos; with &apos;was&apos;, replaced &apos;,&apos; with &apos;!&apos;, capitalized &apos;goner&apos; &apos;,&apos; after &apos;reserve&apos; with &apos;â€”&apos; for emphasis.</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_bad_3">
+		<text>Joder, solo mendigos, verdaderos mendigos. ¡Ugh!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_begin_1">
+		<text>¡Opa, opa! ¿Qué tenemos aquí?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_begin_2">
+		<text>Vamos a echar un vistazo. Los cadáveres no necesitan todo esto.</text>// replaced &apos;,&apos; with &apos;.&apos; to make seperate clause, replaced &apos;for goner all of this is no longer needed&apos; to &apos;Corpses don&apos;t need all of this.&apos; for more succinct, rough bandit tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_begin_3">
+		<text>Este tipo es un buen hombre, ¿verdad? ¿Me va a dejar un poco?</text>// decapitalized &apos;yeah&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_good_1">
+		<text>¡Opanki! ¡No es una mala situación!</text>// removed &apos;this is&apos; and added &apos;a&apos; before &apos;bad&apos; for succinct, rough bandit tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_good_2">
+		<text>¡Genial, genial! ¡Bien hecho, mis respetos!</text>// replaced &apos;,&apos; with &apos;!&apos;, capitalized &apos;well&apos;, &apos;goner&apos;, removed &apos;,&apos; before &apos;goner&apos;, to better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_loot_loot_good_3">
+		<text>¡Oh, no está mal, tu padre debía ser un acaparador!</text>// replaced &apos;thrifty&apos; with hoarder to better convey good loot (i dont think thrifty makes sense in this context unless hoarding), replaced &apos;thrifty was father!&apos; with &apos;your father must&apos;ve been a hoarder!&apos; to better tone</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hello_1">
+		<text>Habla, ¿qué quieres?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hello_2">
+		<text>Bien, te escucho.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hello_3">
+		<text>¡Vaya, hola!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hello_4">
+		<text>¿Qué hay de nuevo, eh?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hello_5">
+		<text>¿Qué miras, qué quieres?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hello_6">
+		<text>¿Qué? ¿Qué haces yendo de un lado para otro?</text>// replaced &apos;flicking&apos; with &apos;spazzing&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hello_7">
+		<text>Bien, ¿de qué querías hablar?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hide_weapon_1">
+		<text>¡No camines con el arma, no hay necesidad!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hide_weapon_2">
+		<text>Guarda el arma, rápido.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hide_weapon_3">
+		<text>Te crees guay, ¿eh? ¡Guarda el arma!</text>// capitalized &apos;think&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hide_weapon_4">
+		<text>Eh, tú, roedor, me estás cansando moviendo esa arma.</text>// corrected &apos;vaving&apos; to &apos;waving&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_hide_weapon_5">
+		<text>¿Qué eres, imbécil? Guarda la puta arma.</text>// added &apos;a&apos; before moron, capitalized &apos;put&apos;</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_stop_1">
+		<text>¡Eres un desconocido!</text>// replaced &apos;mytserious&apos; with &apos;a stranger!&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_stop_2">
+		<text>Escúchame, eres un error de la naturaleza. No hables, aparta de mi vista. ¿Entiendes o no?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_stop_3">
+		<text>Cuando llegue el fiscal, haré que te calles delante de él.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_stop_4">
+		<text>¡ERES UN CAPULLO!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_stop_5">
+		<text>Nah, la primera vez que veo a uno de estos jodidos.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_stop_6">
+		<text>Ojalá las chicas me hicieran el mismo caso que yo a ti aquí, idiota.</text>// removed &apos;you&apos; after &apos;give&apos;, replaced &apos;your&apos; with &apos;you&apos; to better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_default_1">
+		<text>¡Eh, ve a hablar con los demás, yo paso!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_default_2">
+		<text>Hermano, no tengo tiempo para hablar.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_default_3">
+		<text>¡Déjame en paz!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_fight_1">
+		<text>¿Te has vuelto loco?</text>// replaced &apos;Are&apos; with &apos;Have&apos; to better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_fight_2">
+		<text>¡Pírate, luego hablamos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_fight_3">
+		<text>¿Por qué abres la boca? ¡Luego hablamos!</text>// replaced &apos;why&apos; with &apos;why&apos;d&apos; for emphasis, &apos;opened&apos; with &apos;open&apos;</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_talk_leader_1">
+		<text>Ve al jefe con todas estas preguntas.</text>// rearranged statement for better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_talk_leader_2">
+		<text>¡Cómele la oreja al jefe, a mí no!</text>// grammatical corrections, added emdash for emphasis</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_talk_leader_3">
+		<text>Si tienes que hablar de algo, el jefe está ahí.</text>// grammatical corrections</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_weapon_1">
+		<text>¿Crees que puedes hablar con un arma en tus pezuñas? Guárdala.</text>// redone initial sentence for better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_weapon_2">
+		<text>Guarda el arma y entonces hablamos.</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_use_no_weapon_3">
+		<text>O guardas el arma o te vas.</text>// removed latter most bit to better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_1">
+		<text>Habla, ¿qué quieres?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_2">
+		<text>Bien, te escucho.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_3">
+		<text>¿Qué miras, qué quieres?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_4">
+		<text>Bien, ¿de qué querías hablar?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_5">
+		<text>¿Tienes la lengua metida en el culo?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_6">
+		<text>¿Qué eres, imbécil, defectuoso?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_7">
+		<text>Eh, ¿a lo mejor eres gilipollas?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_8">
+		<text>¡Joder, no aguanto a los tontos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_9">
+		<text>¿Estás poniendo a prueba mi paciencia?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_10">
+		<text>¡Eres un impresentable! ¡Habla de una vez!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_11">
+		<text>Escucha, estás empezando a ponerme de los nervios.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_12">
+		<text>Escucha, estoy nervioso. ¿Por qué pones caras raras?</text>// added contraction to better flow</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_meet_meet_wait_13">
+		<text>Y ¿quieres algo? ¿O no? ¡Pues vete a tomar por culo!</text>// slight grammatical correction</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_1">
+		<text>¡No dispares, tío!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_2">
+		<text>¡No! ¡No dispares!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_3">
+		<text>¡Ya está, ya está! ¡No tengo un arma, ya está!</text>// edits for better emphasis</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_4">
+		<text>¡No dispares! ¡No tengo un arma!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_5">
+		<text>¡Ah, ah, ah, no me toques, no me toques!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_6">
+		<text>¡Yo no tengo nada que ver, de verdad, no lo hagas, tío!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_7">
+		<text>¡No mates, tío! ¡No mates!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_human_panic_human_8">
+		<text>¡Hermano, no me dispares!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_monster_panic_monster_1">
+		<text>¡Déjame en paz, bestia!</text>// capitalization</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_monster_panic_monster_2">
+		<text>¡CABRÓN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_monster_panic_monster_3">
+		<text>¡Quítamelo de encima! ¡Aparta a ese bicho de mí!</text>// slight grammatical correction</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_panic_monster_panic_monster_4">
+		<text>¡AAAH!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_1">
+		<text>Missing_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_2">
+		<text>Missing_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_3">
+		<text>Missing_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_4">
+		<text>¿Qué hace una belleza como tú solita?..... da igual, no puedo...</text>// assumed meaning that he&apos;s dreaming of a woman, rearranged/contracted line to better flow</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_5">
+		<text>Missing_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_6">
+		<text>Missing_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_7">
+		<text>¿Me estás tomando el pelo? ¿Me vas a tomar el pelo? Te voy a matar, ¿lo entiendes? ¡Te voy a matar, te voy a matar!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_1_states_sleep_sleep_8">
+		<text>¡Yo no lo cogí, Tatar! ¡No lo cogí! ¡Yo no lo cogí, Tatar!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_trade_buy_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_1_states_trade_sell_1">
+		<text>Silent_Subtitle</text>
+	</string>
+</string_table>

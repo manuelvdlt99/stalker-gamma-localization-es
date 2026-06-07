@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="as_sub_characters_voice_scenario_red_forest_red_forester_greet_1">
+		<text>Hola, ¿qué haces aquí?</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_red_forest_red_forester_hello_bye_0">
+		<text>¡Bon voyage, hijo!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_red_forest_red_forester_hello_bye_1">
+		<text>¡No te olvides, viejo!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_red_forest_red_forester_hello_bye_2">
+		<text>¡Justo delante, compadre!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_red_forest_red_forester_meet_hello_0">
+		<text>¡Genial, un alma viviente!</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_red_forest_red_forester_meet_hello_1">
+		<text>¿Qué haces aquí, joven?</text>
+	</string>
+	<string id="as_sub_characters_voice_scenario_red_forest_red_forester_meet_hello_2">
+		<text>¿Te has pasado por aquí por casualidad o qué?</text>
+	</string>
+</string_table>

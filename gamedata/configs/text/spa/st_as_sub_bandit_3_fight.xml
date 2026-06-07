@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<string_table>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_1">
+		<text>¡Putos tipos!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_10">
+		<text>Ahora te vas a morir, cabrón, ¿lo pillas?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_11">
+		<text>¡Te voy a dar una paliza por simbología fascista!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_2">
+		<text>¡VOLLIPIT USHAR!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_3">
+		<text>¡Acabad con él!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_4">
+		<text>¡KRANTI TO YOU SEN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_5">
+		<text>¡URUE FUCK!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_6">
+		<text>¡Te vamos a explicar la movida!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_7">
+		<text>¡QUÉ GANAS!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_8">
+		<text>¡Hola, Valijánov!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_9">
+		<text>¡OMBES PARA VOSOTROS, CABRONES!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_many_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_attack_one_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_1">
+		<text>¡Putos tipos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_10">
+		<text>¡Ta-lu-di-zu-ka!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_11">
+		<text>¡EN TI, EN TI!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_12">
+		<text>¡NAHAVA, MAMÓN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_13">
+		<text>¡LAVI, HIJO DE PUTA!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_14">
+		<text>¡POR ENCIMA DE LA MULTITUD!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_15">
+		<text>¡Zorra!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_2">
+		<text>¡A por el chupapollas!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_3">
+		<text>¡Acabad con él!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_4">
+		<text>¡ESTÁS MUERTO, ZEN!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_5">
+		<text>¡Vámonos cagando hostias de aquí!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_6">
+		<text>¡Te vamos a enterrar con tierra seca!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_7">
+		<text>¡QUÉ GANAS!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_8">
+		<text>¡ALLEVALLIGANO!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_attack_script_attack_9">
+		<text>¡QUE OS FOLLEN, CABRONES!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_backup_backup_1">
+		<text>¡Ta-lu-di-zu-ka!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_backup_backup_2">
+		<text>¡EN TI, EN TI!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_backup_backup_3">
+		<text>¡NAHAVA, MAMÓN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_backup_backup_4">
+		<text>¡LAVI, HIJO DE PUTA!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_backup_backup_5">
+		<text>¡NO ES UN KAZLIDA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_backup_backup_6">
+		<text>¡Zorra!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_cover_fire_cover_fire_1">
+		<text>¡Ta-lu-di-zu-ka!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_cover_fire_cover_fire_2">
+		<text>¡EN TI, EN TI!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_cover_fire_cover_fire_3">
+		<text>¡NAHAVA, MAMÓN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_cover_fire_cover_fire_4">
+		<text>¡LAVI, HIJO DE PUTA!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_cover_fire_cover_fire_5">
+		<text>¡NO ES UN KAZLIDA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_cover_fire_cover_fire_6">
+		<text>¡Zorra!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_anomaly_0">
+		<text>Silent_Subtitle</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_death_1">
+		<text>¡¡¡¡AAAAAAMLE AAAAAAAAAAAA!!!!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_death_2">
+		<text>¡Ah, ese es mi paaaaaaaaaaah, ji, ji, ji!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_death_3">
+		<text>POTENCIALES</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_death_4">
+		<text>¡MLANEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_death_5">
+		<text>Joder...</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_death_6">
+		<text>Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_death_death_7">
+		<text>¡Au, au, au, au!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_1">
+		<text>¡Entradles, entradles por el lado!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_10">
+		<text>¡KANDEH EM HUNG!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_2">
+		<text>¡Venga, venga!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_3">
+		<text>¡DILIRAMA WO TUABLINGAVA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_4">
+		<text>¡No seáis monstruosos, chicos! ¡Id por detrás!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_5">
+		<text>¡Shamyr!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_6">
+		<text>¡Vamos, vamos, vamos!</text>
+	
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_7">
+		<text>¡Vamos, cheeki breeki, a por las señoritas!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_8">
+		<text>¡Comandante, da vueltas, da vueltas alrededor de esa cáscara!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_detour_detour_9">
+		<text>¡La habéis cagado, chicos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_1">
+		<text>¡Genduras!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_10">
+		<text>¡Al pobre Fry el Rapa le estaban dando una paliza!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_11">
+		<text>¡Mirad quién nos está echando una mano!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_12">
+		<text>¡Los dos! ¡El hígado está fuera!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_13">
+		<text>¡SHABRA TOA!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_14">
+		<text>¡Rhara in the US!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_15">
+		<text>¡SOUCHER!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_16">
+		<text>¡OTTA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_2">
+		<text>¡Chicos, otra vez!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_3">
+		<text>¡SWEETYVALES!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_4">
+		<text>¡Chicos, sacad las armas!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_5">
+		<text>¡ATHANDA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_6">
+		<text>¡Largo!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_7">
+		<text>¡NOS HAN TIMADO!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_8">
+		<text>¡CHUSHPAINS!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_enemy_9">
+		<text>¡SHAKIBESH WALK!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_down_enemy_down_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_hit_enemy_hit_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_cover_fire_cover_fire_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_fire_friendly_fire_1">
+		<text>¿Qué eres, un cormorán?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_fire_friendly_fire_2">
+		<text>¡Te arrancaré la cabeza de cuajo, zorra!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_fire_friendly_fire_3">
+		<text>¡Hannah para ti, capullo!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_fire_friendly_fire_4">
+		<text>¡Te voy a follar! ¡Puellus!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_fire_friendly_fire_5">
+		<text>Estás como una puta cabra, ¿eh?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_grenade_friendly_grenade_1">
+		<text>¡Zorra, te voy a poner árboles en la ropa!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_grenade_friendly_grenade_2">
+		<text>¡ELDEVA&apos;S NAHTIK!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_grenade_friendly_grenade_3">
+		<text>¡No tengo canto!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_grenade_friendly_grenade_4">
+		<text>¿Qué haces? ¿Vas a, en plan, matarme o qué?</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friend_hitted_hit_friend_1">
+		<text>¡Han mordido a Bratona!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friend_hitted_hit_friend_2">
+		<text>¡Chicos, nos han dado!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_grenade_friendly_grenade_1">
+		<text>¡Qué sorpresa, chicos!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_grenade_friendly_grenade_2">
+		<text>¡Remanentes!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_friendly_grenade_friendly_grenade_3">
+		<text>¡GRMNADA, PASAVA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_1">
+		<text>¡Cómete una piña, cabrón!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_2">
+		<text>¡Y ahí te va una granada!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_3">
+		<text>¡Cómete una manzana, zorra!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_4">
+		<text>¡GRANADA, CABRÓN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_5">
+		<text>¡UNA PUTA PIÑA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_6">
+		<text>¡Te voy a tirar una granada, cabrón!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_7">
+		<text>¡Lemonchike pintosina!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_1">
+		<text>¡TALUCHIZUKA!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_grenade_grenade_ready_2">
+		<text>¡LAVI, HIJO DE PUTA!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_enemy_hit_enemy_hit_1">
+		<text>¡Ooh-ooh-ooh!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_hit_hit_2">
+		<text>¡Hostia puta!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_hit_hit_3">
+		<text>¡Au, cabrón!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_hit_hit_4">
+		<text>¡Aye-aye-aye!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_hit_hit_5">
+		<text>¡Au!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_hit_hit_6">
+		<text>¡Au!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_hit_hit_7">
+		<text>¡AAAAAAAH!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_relax_1">
+		<text>Bueno, sacad el vodka, vamos a conmemorar a los caídos.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_relax_2">
+		<text>¿Qué hacemos? ¡Hemos dejado de hablar!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_relax_3">
+		<text>¡Horev pokes, el tipo está muerto!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_wait_1">
+		<text>¡Eh, es Valynych, chicos!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_wait_2">
+		<text>¿Esperamos más, pringados?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_wait_3">
+		<text>¡No os arrepintáis, no os arrepintáis, chicos!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_wait_4">
+		<text>¡No lo toques, que vienen por detrás!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_post_combat_wait_wait_5">
+		<text>¡Abrid bien los ojos!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_enemy_lost_1">
+		<text>Bueno, ¿dónde te habías escondido?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_enemy_lost_2">
+		<text>¡Silencio, muchachos! ¡A por las chicas!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_enemy_lost_3">
+		<text>¡No te agaches, no te agaches, te encontraremos igualmente!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_enemy_lost_4">
+		<text>Eres un cadáver, ¿entiendes?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_enemy_lost_5">
+		<text>¡Estás jodido! ¡Sal, cabrón!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_enemy_lost_6">
+		<text>¡No dejéis que se escape!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_enemy_lost_7">
+		<text>¡No durarás mucho! ¡Sal, cabrito!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_1">
+		<text>Bueno, ¿dónde te habías escondido?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_10">
+		<text>Eres un cadáver, ¿entiendes?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_11">
+		<text>¡No te agaches, no te agaches, te encontraremos!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_12">
+		<text>¡No tengas miedo! ¡No te vamos a rajar!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_13">
+		<text>Eh, amigo, no te hagas ilusiones, te vamos a pillar y nos vamos a desahogar contigo.</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_14">
+		<text>¡Silencio, muchachos! ¡A por las chicas!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_15">
+		<text>Venga, ¿quién hay aquí?</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_16">
+		<text>¡Eh, te vas a plegar!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_17">
+		<text>Oh, te vamos a hacer sangrar!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_18">
+		<text>¡Alegría, alegría!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_2">
+		<text>¡Sal de ahí, que te encontraremos de todas formas!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_3">
+		<text>¡Sal por tu propio pie!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_4">
+		<text>¡Eh, Boglam, necesitas una limpieza! ¡Sal!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_5">
+		<text>¡Lo cortaremos para Micha!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_6">
+		<text>¡Sal, Freyr, no te preocupes, no te haremos daño!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_7">
+		<text>¡Escucha, no te vamos a hacer daño! ¡En serio, yo me hago responsable!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_8">
+		<text>No, ¿eres un hombre o no? ¡Sal!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_searching_enemy_search_9">
+		<text>¡DÉJATE VER, MARICÓN!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_threat_threat_close_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_threat_threat_distant_1">
+		<text>Silent_Subtitle</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_tolls_tolls_1">
+		<text>¡MADRE JEBNAS!</text>
+	</string>
+	
+	<string id="as_sub_characters_voice_human_bandit_3_fight_tolls_tolls_2">
+		<text>¡SCHUHER!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_tolls_tolls_3">
+		<text>¡Atas, chicos!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_tolls_tolls_4">
+		<text>¡Al chico le están dando una paliza!</text>
+	</string>
+	<string id="as_sub_characters_voice_human_bandit_3_fight_tolls_tolls_5">
+		<text>¡Mierda, nos están matando de verdad!</text>
+	</string>
+</string_table>
